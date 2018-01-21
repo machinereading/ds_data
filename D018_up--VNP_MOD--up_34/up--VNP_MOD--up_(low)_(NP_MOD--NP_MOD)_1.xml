@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP_MOD--up--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1569" total_morp="33" total_word="16">
+		<sent>헨리퀴스 니콜라스 "릭" 판 덴 휘르크는 네덜란드의 야구 선수로 현재 일본_프로_야구의 팀인 후쿠오카_소프트뱅크_호크스의 투수로 활약하고 있다.</sent>
+		<sbj type="OGG_SPORTS" weight="0.30" label="NP_MOD" josa="의">일본_프로_야구</sbj>
+		<obj type="PS_NAME" weight="-0.33" label="NP_MOD" josa="의">후쿠오카_소프트뱅크_호크스</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.693">team</mln_predict>
+		<cnn_predict conf="0.843">team</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>팀인</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>24</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

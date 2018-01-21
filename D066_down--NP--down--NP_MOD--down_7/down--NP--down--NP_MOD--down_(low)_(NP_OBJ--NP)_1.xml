@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--down--NP--down--NP_MOD--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3995" total_morp="29" total_word="13">
+		<sent>한때 스피크 공항이라는 이름이였지만, 리버풀 출신의 아티스트 존_레논을 기리고, 2002년 현재의 이름으로 바뀌었다.</sent>
+		<sbj type="" weight="0.00" label="NP_OBJ" josa="을">존_레논</sbj>
+		<obj type="LCP_CITY" weight="0.39" label="NP" josa="">리버풀</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.291">birthPlace</mln_predict>
+		<cnn_predict conf="0.304">birthPlace</cnn_predict>
+		<gsdp>(NP_OBJ)--down--NP--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma>아티스트--출신의</gsdp_lemma>
+		<head>바뀌었다.</head>
+		<cluster>38</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

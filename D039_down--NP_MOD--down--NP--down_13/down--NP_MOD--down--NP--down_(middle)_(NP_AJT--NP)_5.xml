@@ -1,0 +1,69 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--NP_MOD--down--NP--down--(NP)</dependency>
+	<total>5</total>
+	<sent_item id="M_T218" total_morp="14" total_word="7">
+		<sent>마르티네스는 1979년 스페인 카스티야이레온 지방의 팔렌시아에서 태어났다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_AJT" josa="에서">팔렌시아</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">스페인</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.819">country</mln_predict>
+		<cnn_predict conf="0.551">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_MOD--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>지방의--카스티야이레온</gsdp_lemma>
+		<head>태어났다.</head>
+		<cluster>40</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1979" total_morp="23" total_word="11">
+		<sent>리치먼드 올림픽 오벌은 캐나다 브리티시컬럼비아_주 밴쿠버 부근의 리치먼드_(브리티시컬럼비아_주)에 있는 아이스 링크이다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에">리치먼드_(브리티시컬럼비아_주)</sbj>
+		<obj type="LCP_PROVINCE" weight="1.73" label="NP" josa="">브리티시컬럼비아_주</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.966">region</mln_predict>
+		<cnn_predict conf="0.765">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_MOD--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>부근의--밴쿠버</gsdp_lemma>
+		<head>링크이다.</head>
+		<cluster>7</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T890" total_morp="19" total_word="8">
+		<sent>비에드마 호는 아르헨티나 파타고니아 지방의 산타크루스_주_(아르헨티나)에 위치한 호수이다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에">산타크루스_주_(아르헨티나)</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">아르헨티나</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.425">country</mln_predict>
+		<cnn_predict conf="0.664">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_MOD--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>지방의--파타고니아</gsdp_lemma>
+		<head>호수이다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1575" total_morp="45" total_word="20">
+		<sent>제88회 아카데미상은 영화 예술 과학 아카데미가 주최하는 상이며, 2015년 영화를 대상으로 2016년 2월 28일에 캘리포니아_주 로스앤젤레스 할리우드의 돌비_극장에서 시상식이 열렸다.</sent>
+		<sbj type="OGG_ART" weight="1.63" label="NP_AJT" josa="에서">돌비_극장</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="">캘리포니아_주</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.632">location</mln_predict>
+		<cnn_predict conf="0.293">birthPlace</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_MOD--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>할리우드의--로스앤젤레스</gsdp_lemma>
+		<head>열렸다.</head>
+		<cluster>32</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1963" total_morp="49" total_word="23">
+		<sent>8월 28일 오전 10시 20분경 전라북도 임실군 성수면의 국도_제30호선에서 한 운전자가 태풍으로 인해 도로에 쓰러진 나무를 치우던 도중 다른 나무가 쓰러지면서 깔려 숨졌다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에서">국도_제30호선</sbj>
+		<obj type="LCP_PROVINCE" weight="0.76" label="NP" josa="">전라북도</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.654">routeEnd</mln_predict>
+		<cnn_predict conf="0.369">locatedInArea</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_MOD--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>성수면의--임실군</gsdp_lemma>
+		<head>숨졌다.</head>
+		<cluster>1</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

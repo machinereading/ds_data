@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--NP_AJT--down--NP--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T462" total_morp="36" total_word="17">
+		<sent>2015 시즌이 끝나고 자유계약이 된 김진규는 2016년 타이_프리미어리그의 명문 무앙통 유나이티드 FC에 입단 후 임대형식으로 파타야_유나이티드_FC로 입단하였다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_AJT" josa="로">파타야_유나이티드_FC</sbj>
+		<obj type="" weight="0.00" label="NP_MOD" josa="의">타이_프리미어리그</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.814">league</mln_predict>
+		<cnn_predict conf="0.375">league</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>입단하였다.--FC에--명문</gsdp_lemma>
+		<head>입단하였다.</head>
+		<cluster>25</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

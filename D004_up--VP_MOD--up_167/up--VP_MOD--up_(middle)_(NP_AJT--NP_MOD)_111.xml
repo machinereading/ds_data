@@ -1,0 +1,1447 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</dependency>
+	<total>111</total>
+	<sent_item id="M_T1292" total_morp="14" total_word="5">
+		<sent>흰귀주머니생쥐는 주머니생쥐류에 속하는 설치류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">주머니생쥐류</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.896">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2192" total_morp="17" total_word="7">
+		<sent>토끼쥐 또는 털발바닥토끼쥐는 비단털쥐과에 속하는 설치류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">비단털쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="0.998">class</mln_predict>
+		<cnn_predict conf="0.940">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3448" total_morp="14" total_word="5">
+		<sent>흰배루손나무쥐는 쥐과에 속하는 설치류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.825">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2431" total_morp="16" total_word="5">
+		<sent>탈라만칸작은귀땃쥐는 땃쥐류에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">땃쥐류</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.879">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3077" total_morp="15" total_word="5">
+		<sent>켈라트긴발톱땃쥐는 땃쥐류에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">땃쥐류</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.920">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1379" total_morp="17" total_word="6">
+		<sent>갈색털난쟁이호저는 아메리카호저류에 속하는 남아메리카 설치류의 일종이다.</sent>
+		<sbj type="LCG_CONTINENT" weight="0.72" label="NP_AJT" josa="에">아메리카호저류</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.978">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1832" total_morp="16" total_word="6">
+		<sent>맥코넬쌀쥐는 비단털쥐과에 속하는 남아메리카 설치류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">비단털쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.972">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3455" total_morp="14" total_word="5">
+		<sent>네그로스땃쥐는 땃쥐류에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">땃쥐류</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.948">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1329" total_morp="20" total_word="7">
+		<sent>퀴비에비스카차 또는 남부비스카차는 친칠라과에 속하는 설치류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">친칠라과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.760">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1317" total_morp="14" total_word="5">
+		<sent>노랑스텝레밍은 비단털쥐과에 속하는 설치류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">비단털쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.954">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3075" total_morp="17" total_word="6">
+		<sent>페리아나 레우코메토폰는 농어목에 속하는 조기어류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">농어목</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">조기어류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.897">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>45</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2479" total_morp="15" total_word="5">
+		<sent>애버데어산맥두더지쥐는 소경쥐과에 속하는 설치류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">소경쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.897">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1126" total_morp="15" total_word="5">
+		<sent>오리엔탈땃쥐는 땃쥐류에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">땃쥐류</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.913">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3668" total_morp="17" total_word="5">
+		<sent>카슈미르사향노루는 사향노루속에 속하는 소목_(동물)의 일종이다.</sent>
+		<sbj type="AM_MAMMALIA" weight="2.27" label="NP_AJT" josa="에">사향노루속</sbj>
+		<obj type="" weight="0.00" label="NP_MOD" josa="의">소목_(동물)</obj>
+		<gold>order</gold>
+		<mln_predict conf="0.961">class</mln_predict>
+		<cnn_predict conf="0.587">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3382" total_morp="17" total_word="6">
+		<sent>파라과이털난쟁이호저는 아메리카호저류에 속하는 남아메리카 설치류의 일종이다.</sent>
+		<sbj type="LCG_CONTINENT" weight="0.72" label="NP_AJT" josa="에">아메리카호저류</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="0.939">order</mln_predict>
+		<cnn_predict conf="0.971">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1815" total_morp="16" total_word="6">
+		<sent>붉은캥거루는 캥거루과에 속하는 캥거루속 유대류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">캥거루과</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">유대류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.655">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2216" total_morp="16" total_word="6">
+		<sent>우카얄리물쥐는 비단털쥐과 목화쥐아과에 속하는 설치류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">목화쥐아과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.804">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3691" total_morp="15" total_word="5">
+		<sent>스클레이터뒤쥐는 땃쥐류에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">땃쥐류</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.930">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T4069" total_morp="14" total_word="5">
+		<sent>소말리드워프땃쥐는 땃쥐류에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">땃쥐류</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.941">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3279" total_morp="14" total_word="5">
+		<sent>순다땃쥐는 땃쥐류에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">땃쥐류</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.941">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2622" total_morp="17" total_word="6">
+		<sent>덴타테리나 메르케리는 색줄멸목에 속하는 조기어류의 일종이다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에">색줄멸목</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">조기어류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.904">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2837" total_morp="14" total_word="5">
+		<sent>아프리카검은땃쥐는 땃쥐류에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">땃쥐류</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.948">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3170" total_morp="22" total_word="7">
+		<sent>아이다호흙파는쥐 또는 아이다호주머니고퍼는 흙파는쥐류에 속하는 설치류의 일종이다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에">흙파는쥐류</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.931">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2044" total_morp="14" total_word="5">
+		<sent>늪사향땃쥐는 땃쥐류에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">땃쥐류</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.948">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2294" total_morp="15" total_word="5">
+		<sent>나터러투코투코는 투코투코류에 속하는 설치류의 일종이다.</sent>
+		<sbj type="TR_SCIENCE" weight="1.43" label="NP_AJT" josa="에">투코투코류</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.909">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1487" total_morp="15" total_word="5">
+		<sent>프레블뒤쥐는 땃쥐류에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">땃쥐류</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.929">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3815" total_morp="16" total_word="6">
+		<sent>에스크메이에르 넥수스는 농어목에 속하는 조기어류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">농어목</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">조기어류</obj>
+		<gold>class</gold>
+		<mln_predict conf="0.867">class</mln_predict>
+		<cnn_predict conf="0.881">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2628" total_morp="18" total_word="7">
+		<sent>라노흙파는쥐 또는 라노주머니고퍼는 흙파는쥐류에 속하는 설치류의 일종이다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에">흙파는쥐류</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="0.995">class</mln_predict>
+		<cnn_predict conf="0.846">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2303" total_morp="15" total_word="5">
+		<sent>피어슨투코투코는 투코투코류에 속하는 설치류의 일종이다.</sent>
+		<sbj type="TR_SCIENCE" weight="1.43" label="NP_AJT" josa="에">투코투코류</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.919">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2586" total_morp="18" total_word="5">
+		<sent>호프호저는 아메리카호저류에 속하는 설치류의 일종이다.</sent>
+		<sbj type="LCG_CONTINENT" weight="0.72" label="NP_AJT" josa="에">아메리카호저류</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.892">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T690" total_morp="19" total_word="7">
+		<sent>코즐로프피그미뛰는쥐 또는 코즐로프피그미저보아는 뛰는쥐류에 속하는 설치류의 일종이다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에">뛰는쥐류</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.918">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1749" total_morp="16" total_word="5">
+		<sent>라고브란초투코투코는 투코투코류에 속하는 설치류의 일종이다.</sent>
+		<sbj type="TR_SCIENCE" weight="1.43" label="NP_AJT" josa="에">투코투코류</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.904">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3707" total_morp="14" total_word="5">
+		<sent>은색두더지쥐는 뻐드렁니쥐류에 속하는 설치류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">뻐드렁니쥐류</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.942">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T4025" total_morp="14" total_word="5">
+		<sent>파마티나친칠라쥐는 친칠라쥐류에 속하는 설치류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">친칠라쥐류</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.912">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3841" total_morp="15" total_word="5">
+		<sent>에콰도르가시주머니생쥐는 주머니생쥐류에 속하는 설치류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">주머니생쥐류</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.923">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1095" total_morp="16" total_word="6">
+		<sent>갈렙쥐는 비단털쥐과 목화쥐아과에 속하는 설치류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">목화쥐아과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.896">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2706" total_morp="24" total_word="7">
+		<sent>비악유대하늘다람쥐 또는 비악주머니하늘다람쥐는 주머니하늘다람쥐과에 속하는 유대류의 일종이다.</sent>
+		<sbj type="OGG_EDUCATION" weight="-0.71" label="NP_AJT" josa="에">주머니하늘다람쥐과</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">유대류</obj>
+		<gold>class</gold>
+		<mln_predict conf="0.933">class</mln_predict>
+		<cnn_predict conf="0.658">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2790" total_morp="15" total_word="5">
+		<sent>짧은귀주머니쥐는 쿠스쿠스과에 속하는 유대류의 일종이다.</sent>
+		<sbj type="AM_MAMMALIA" weight="0.17" label="NP_AJT" josa="에">쿠스쿠스과</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">유대류</obj>
+		<gold>class</gold>
+		<mln_predict conf="0.976">class</mln_predict>
+		<cnn_predict conf="0.531">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1215" total_morp="15" total_word="6">
+		<sent>체베즈쥐는 비단털쥐과에 속하는 남아메리카 설치류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">비단털쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.969">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T194" total_morp="15" total_word="5">
+		<sent>콜롬비아작은귀땃쥐는 땃쥐류에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">땃쥐류</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.903">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2762" total_morp="15" total_word="5">
+		<sent>남부메뚜기쥐는 비단털쥐과에 속하는 설치류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">비단털쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.936">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1332" total_morp="15" total_word="5">
+		<sent>카프카스두더지는 두더지과에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">두더지과</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.928">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1676" total_morp="15" total_word="5">
+		<sent>멕시코작은귀땃쥐는 땃쥐류에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">땃쥐류</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.905">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3960" total_morp="15" total_word="5">
+		<sent>캘리포니아생쥐는 비단털쥐과에 속하는 설치류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">비단털쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.936">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T864" total_morp="14" total_word="5">
+		<sent>우스파야타친칠라쥐는 친칠라쥐류에 속하는 설치류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">친칠라쥐류</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.907">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3080" total_morp="14" total_word="5">
+		<sent>사카테카스뒤쥐는 땃쥐류에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">땃쥐류</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.929">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2309" total_morp="15" total_word="5">
+		<sent>라드뒤쥐는 땃쥐류에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">땃쥐류</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.928">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T411" total_morp="15" total_word="5">
+		<sent>가짜조코는 소경쥐과에 속하는 설치류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">소경쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.813">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3425" total_morp="14" total_word="5">
+		<sent>시베리아땃쥐는 땃쥐류에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">땃쥐류</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.922">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2353" total_morp="15" total_word="5">
+		<sent>황토색두더지쥐는 뻐드렁니쥐류에 속하는 설치류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">뻐드렁니쥐류</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.927">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3436" total_morp="14" total_word="5">
+		<sent>팔라완땃쥐는 땃쥐류에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">땃쥐류</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.947">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3196" total_morp="17" total_word="6">
+		<sent>브라질땃쥐생쥐는 비단털쥐과 목화쥐아과에 속하는 설치류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">목화쥐아과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.909">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2716" total_morp="16" total_word="5">
+		<sent>브라운덤불왈라비는 캥거루과에 속하는 유대류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">캥거루과</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">유대류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.574">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3905" total_morp="18" total_word="5">
+		<sent>미초아칸흙파는쥐는 흙파는쥐류에 속하는 설치류의 일종이다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에">흙파는쥐류</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.897">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1461" total_morp="15" total_word="5">
+		<sent>긴코두더지는 두더지과에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">두더지과</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.918">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1313" total_morp="14" total_word="5">
+		<sent>베이트땃쥐는 땃쥐류에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">땃쥐류</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.947">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2965" total_morp="15" total_word="5">
+		<sent>넬슨가시주머니생쥐는 주머니생쥐류에 속하는 설치류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">주머니생쥐류</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.910">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1345" total_morp="14" total_word="5">
+		<sent>리히텐슈타인뛰는쥐는 뛰는쥐류에 속하는 설치류의 일종이다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에">뛰는쥐류</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.899">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2292" total_morp="14" total_word="5">
+		<sent>자바땃쥐는 땃쥐류에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">땃쥐류</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.947">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>31</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2416" total_morp="14" total_word="5">
+		<sent>카타바두더지쥐는 뻐드렁니쥐류에 속하는 설치류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">뻐드렁니쥐류</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.887">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2504" total_morp="19" total_word="7">
+		<sent>일본족제비는 족제비과 족제비속에 속하는 식육목 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">족제비속</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="0.828">order</mln_predict>
+		<cnn_predict conf="0.601">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>27</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T568" total_morp="14" total_word="5">
+		<sent>베일땃쥐는 땃쥐류에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">땃쥐류</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.949">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2003" total_morp="18" total_word="7">
+		<sent>열대흙파는쥐 또는 열대주머니고퍼는 흙파는쥐류에 속하는 설치류의 일종이다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에">흙파는쥐류</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="0.892">class</mln_predict>
+		<cnn_predict conf="0.941">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2384" total_morp="20" total_word="7">
+		<sent>클라크가젤 또는 디바타그영양은 소목_(동물)에 속하는 포유류의 일종이다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에">소목_(동물)</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.894">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3724" total_morp="15" total_word="5">
+		<sent>토마스작은귀땃쥐는 땃쥐류에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">땃쥐류</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.892">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1722" total_morp="14" total_word="5">
+		<sent>사바나드워프땃쥐는 땃쥐류에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">땃쥐류</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.948">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2683" total_morp="14" total_word="5">
+		<sent>멕시코화산쥐는 비단털쥐과에 속하는 설치류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">비단털쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.947">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2955" total_morp="15" total_word="6">
+		<sent>산아노아는 소과 물소속에 속하는 포유류의 일종이다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에">물소속</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.901">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1803" total_morp="14" total_word="5">
+		<sent>큰머리두더지쥐는 소경쥐과에 속하는 설치류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">소경쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.926">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1440" total_morp="15" total_word="5">
+		<sent>타운센드두더지는 두더지과에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">두더지과</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.921">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T4053" total_morp="17" total_word="7">
+		<sent>고지대줄무늬텐렉 또는 하이랜드줄무늬텐렉은 텐렉과에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">텐렉과</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.921">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3172" total_morp="16" total_word="5">
+		<sent>은상어는 은상어과에 속하는 연골어류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">은상어과</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">연골어류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.526">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3644" total_morp="17" total_word="5">
+		<sent>황갈색투코투코는 투코투코류에 속하는 설치류의 일종이다.</sent>
+		<sbj type="TR_SCIENCE" weight="1.43" label="NP_AJT" josa="에">투코투코류</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.949">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3311" total_morp="14" total_word="5">
+		<sent>짧은꼬리땃쥐텐렉은 텐렉과에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">텐렉과</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.870">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3119" total_morp="14" total_word="5">
+		<sent>타이바땃쥐텐렉은 텐렉과에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">텐렉과</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.901">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3087" total_morp="16" total_word="5">
+		<sent>납작두개골뒤쥐는 땃쥐류에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">땃쥐류</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.875">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2402" total_morp="17" total_word="6">
+		<sent>프로서파인바위왈라비는 캥거루과에 속하는 바위왈라비속 유대류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">캥거루과</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">유대류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.533">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3114" total_morp="14" total_word="5">
+		<sent>수마트라자이언트땃쥐는 땃쥐류에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">땃쥐류</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.864">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>31</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1499" total_morp="19" total_word="8">
+		<sent>마다가스카르고슴도치붙이 또는 민꼬리텐렉, 커먼텐렉은 텐렉과에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">텐렉과</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.915">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T438" total_morp="16" total_word="7">
+		<sent>해트저녁쥐 또는 유카탄저녁쥐는 비단털쥐과에 속하는 설치류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">비단털쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.923">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T666" total_morp="19" total_word="7">
+		<sent>이라수흙파는쥐 또는 이라수주머니고퍼는 흙파는쥐류에 속하는 설치류의 일종이다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에">흙파는쥐류</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.881">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1301" total_morp="14" total_word="5">
+		<sent>키르치네르비스카차쥐는 데구과에 속하는 설치류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">데구과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.836">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3246" total_morp="17" total_word="6">
+		<sent>퀸즐랜드바위왈라비는 캥거루과에 속하는 바위왈라비속 유대류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">캥거루과</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">유대류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.644">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3053" total_morp="14" total_word="5">
+		<sent>부하라밭쥐는 비단털쥐과에 속하는 설치류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">비단털쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.930">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3231" total_morp="14" total_word="5">
+		<sent>잭애스땃쥐는 땃쥐류에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">땃쥐류</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.946">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2329" total_morp="15" total_word="5">
+		<sent>나이지리아두더지쥐는 뻐드렁니쥐류에 속하는 설치류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">뻐드렁니쥐류</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.928">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1697" total_morp="20" total_word="7">
+		<sent>실비늘치는 농어목 둑중개아목 큰가시고기하목에 속하는 조기어류의 일종이다.</sent>
+		<sbj type="AFW_DOCUMENT" weight="-0.81" label="NP_AJT" josa="에">큰가시고기하목</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">조기어류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.809">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2901" total_morp="14" total_word="5">
+		<sent>사바나땃쥐는 땃쥐류에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">땃쥐류</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.946">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2619" total_morp="17" total_word="6">
+		<sent>허버트바위왈라비는 캥거루과에 속하는 바위왈라비속 유대류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">캥거루과</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">유대류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.619">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1219" total_morp="14" total_word="5">
+		<sent>쓰촨밭쥐는 비단털쥐과에 속하는 설치류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">비단털쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.929">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2567" total_morp="15" total_word="5">
+		<sent>문주르두더지쥐는 소경쥐과에 속하는 설치류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">소경쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.906">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1452" total_morp="14" total_word="5">
+		<sent>오야포크고기잡이쥐는 비단털쥐과에 속하는 설치류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">비단털쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.931">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3235" total_morp="14" total_word="5">
+		<sent>큰귀텐렉은 텐렉과에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">텐렉과</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.911">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2180" total_morp="15" total_word="5">
+		<sent>채프먼쌀쥐는 비단털쥐과에 속하는 설치류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">비단털쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.921">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T808" total_morp="15" total_word="5">
+		<sent>라물라떼땃쥐는 땃쥐류에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">땃쥐류</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.830">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T4032" total_morp="16" total_word="5">
+		<sent>오악사카자이언트사슴쥐는 비단털쥐과에 속하는 설치류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">비단털쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.954">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2990" total_morp="14" total_word="5">
+		<sent>알파로쌀쥐는 비단털쥐과에 속하는 설치류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">비단털쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.930">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3664" total_morp="16" total_word="6">
+		<sent>홀쭉이쥐땃쥐는 땃쥐목의 땃쥐류에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">땃쥐류</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.881">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2365" total_morp="15" total_word="5">
+		<sent>푼틸라투코투코는 투코투코류에 속하는 설치류의 일종이다.</sent>
+		<sbj type="TR_SCIENCE" weight="1.43" label="NP_AJT" josa="에">투코투코류</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.822">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1056" total_morp="14" total_word="5">
+		<sent>플로리다쥐는 비단털쥐과에 속하는 설치류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">비단털쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.943">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3517" total_morp="15" total_word="5">
+		<sent>로이그투코투코는 투코투코류에 속하는 설치류의 일종이다.</sent>
+		<sbj type="TR_SCIENCE" weight="1.43" label="NP_AJT" josa="에">투코투코류</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.911">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T939" total_morp="16" total_word="5">
+		<sent>웨들새들백타마린은 비단원숭이과에 속하는 영장류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">비단원숭이과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">영장류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.600">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3147" total_morp="14" total_word="5">
+		<sent>흰귀마모셋은 비단원숭이과에 속하는 영장류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">비단원숭이과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">영장류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.733">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3645" total_morp="15" total_word="5">
+		<sent>부딘투코투코는 투코투코류에 속하는 설치류의 일종이다.</sent>
+		<sbj type="TR_SCIENCE" weight="1.43" label="NP_AJT" josa="에">투코투코류</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.901">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3958" total_morp="15" total_word="5">
+		<sent>동아프리카고지땃쥐는 땃쥐류에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">땃쥐류</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.947">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3683" total_morp="14" total_word="5">
+		<sent>보카쥬두더지쥐는 뻐드렁니쥐류에 속하는 설치류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">뻐드렁니쥐류</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.893">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3864" total_morp="14" total_word="5">
+		<sent>산데구는 데구과에 속하는 설치류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">데구과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.814">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2307" total_morp="16" total_word="5">
+		<sent>노랑반점바위너구리는 바위너구리과에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">바위너구리과</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.846">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1008" total_morp="15" total_word="6">
+		<sent>루시쥐는 비단털쥐과에 속하는 남아메리카 설치류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">비단털쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.979">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3445" total_morp="14" total_word="5">
+		<sent>정글땃쥐는 땃쥐류에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">땃쥐류</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.923">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1335" total_morp="20" total_word="7">
+		<sent>흰줄무늬도르콥시스 또는 큰숲왈라비는 캥거루과에 속하는 유대류의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">캥거루과</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">유대류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.563">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

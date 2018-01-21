@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--down--(NP_CNJ)</dependency>
+	<total>3</total>
+	<sent_item id="M_T2419" total_morp="18" total_word="4">
+		<sent>《왕과_나_(드라마)》 (SBS, 2007년~2008년 배우:오수민)</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.87" label="NP" josa="">왕과_나_(드라마)</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP_CNJ" josa="">SBS</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.978">channel</cnn_predict>
+		<gsdp>(NP)--up--NP--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma>배우:오수민)</gsdp_lemma>
+		<head>배우:오수민)</head>
+		<cluster>39</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1493" total_morp="19" total_word="4">
+		<sent>《인현왕후_(드라마)》 (MBC, 1988년~1988년, 배우:이묵원)</sent>
+		<sbj type="FD_ART" weight="1.48" label="NP" josa="">인현왕후_(드라마)</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP_CNJ" josa="">MBC</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.987">channel</cnn_predict>
+		<gsdp>(NP)--up--NP--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma>배우:이묵원)</gsdp_lemma>
+		<head>배우:이묵원)</head>
+		<cluster>39</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3509" total_morp="31" total_word="13">
+		<sent>목관악기: 피콜로2, 플루트2, 오보에2, 잉글리시 호른, E플랫 클라리넷, 클라리넷2, 베이스 클라리넷, 바순3, 콘트라바순</sent>
+		<sbj type="AF_MUSICAL_INSTRUMENT" weight="1.76" label="NP" josa="">바순</sbj>
+		<obj type="AF_MUSICAL_INSTRUMENT" weight="1.54" label="NP_CNJ" josa="에">오보에</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.930">related</mln_predict>
+		<cnn_predict conf="0.992">related</cnn_predict>
+		<gsdp>(NP)--up--NP--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma>콘트라바순</gsdp_lemma>
+		<head>콘트라바순</head>
+		<cluster>18</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

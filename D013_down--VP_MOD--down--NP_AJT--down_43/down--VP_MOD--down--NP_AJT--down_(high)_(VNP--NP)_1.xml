@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(VNP)--down--VP_MOD--down--NP_AJT--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1161" total_morp="39" total_word="16">
+		<sent>사부아 주는 프랑스 론알프 지방에 위치한 프랑스의 주로, 주도는 샹베리이며 인구는 405,535명, 면적은 6,028㎢, 인구밀도는 67.3명/㎢이다.</sent>
+		<sbj type="LCP_CITY" weight="2.07" label="VNP" josa="">샹베리</sbj>
+		<obj type="LCP_PROVINCE" weight="1.73" label="NP" josa="">론알프</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.988">region</mln_predict>
+		<cnn_predict conf="0.616">region</cnn_predict>
+		<gsdp>(VNP)--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>위치한--지방에</gsdp_lemma>
+		<head>67.3명/㎢이다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

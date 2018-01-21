@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2638" total_morp="24" total_word="11">
+		<sent>미카와토고 역은 일본 아이치_현 신시로 시에 위치한 도카이_여객철도 이다 선의 철도역이다.</sent>
+		<sbj type="OGG_HOTEL" weight="2.01" label="NP_SBJ" josa="도">도카이_여객철도</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="">아이치_현</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.712">operator</cnn_predict>
+		<gsdp>(NP_SBJ)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>위치한--시에--신시로</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>14</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

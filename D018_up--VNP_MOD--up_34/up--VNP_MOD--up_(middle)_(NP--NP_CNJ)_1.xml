@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP)--up--VNP_MOD--up--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3186" total_morp="14" total_word="7">
+		<sent>같은 아라시 멤버인 오노_사토시와 절친 사이 이다.</sent>
+		<sbj type="PS_NAME" weight="0.68" label="NP" josa="">아라시</sbj>
+		<obj type="PS_NAME" weight="1.22" label="NP_CNJ" josa="와">오노_사토시</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.851">currentMember</mln_predict>
+		<cnn_predict conf="0.927">currentMember</cnn_predict>
+		<gsdp>(NP)--up--VNP_MOD--up--(NP_CNJ)</gsdp>
+		<gsdp_lemma>멤버인</gsdp_lemma>
+		<head>이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

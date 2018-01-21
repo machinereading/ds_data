@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3348" total_morp="23" total_word="10">
+		<sent>베이징 올림픽에서 경기하는 모습이 문화방송 예능프로그램 무한도전을 통해 방송되기도 하였다.</sent>
+		<sbj type="AFW_VIDEO" weight="1.69" label="NP_OBJ" josa="을">무한도전</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP" josa="">문화방송</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.931">channel</cnn_predict>
+		<gsdp>(NP_OBJ)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>예능프로그램</gsdp_lemma>
+		<head>하였다.</head>
+		<cluster>32</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

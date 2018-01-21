@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--up--(NP_MOD)</dependency>
+	<total>2</total>
+	<sent_item id="M_T3967" total_morp="24" total_word="13">
+		<sent>오와리 번의 초대 번주이자 오와리 도쿠가와 가의 시조, 에도_막부 초대 쇼군 도쿠가와_이에야스의 9남이다.</sent>
+		<sbj type="" weight="0.00" label="NP" josa="">에도_막부</sbj>
+		<obj type="PS_NAME" weight="1.09" label="NP_MOD" josa="의">도쿠가와_이에야스</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.879">leaderName</mln_predict>
+		<cnn_predict conf="0.351">leaderName</cnn_predict>
+		<gsdp>(NP)--up--NP--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>쇼군</gsdp_lemma>
+		<head>9남이다.</head>
+		<cluster>49</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1338" total_morp="60" total_word="29">
+		<sent>주로 아이스하키와 축구 경기를 하고 있으며 과거 내셔널 하키 리그 뉴욕 아일런더스와 아메리칸_농구_협회/전미 농구 협회 브루클린_네츠의 홈경기장으로 사용되었고, 리모델링 후 2017~2018시즌부터 NBA 게토레이 리그 롱아일랜드 네츠의 홈경기장으로 사용할 예정이다.</sent>
+		<sbj type="OGG_SPORTS" weight="0.30" label="NP" josa="">아메리칸_농구_협회</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_MOD" josa="의">브루클린_네츠</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.790">club</mln_predict>
+		<cnn_predict conf="0.392">team</cnn_predict>
+		<gsdp>(NP)--up--NP--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>협회</gsdp_lemma>
+		<head>예정이다.</head>
+		<cluster>34</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

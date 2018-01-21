@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_OBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2725" total_morp="47" total_word="21">
+		<sent>혼다 다다카쓰는 전국시대의 다이묘 중 한 명인, 다케다_신겐을 상대로 미카타가하라_전투에서 눈부신 활약을 했으며 궁지에 몰린 자신의 주군 도쿠가와 이에야스를 구하기도 했다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에서">미카타가하라_전투</sbj>
+		<obj type="OGG_ECONOMY" weight="-0.12" label="NP_OBJ" josa="을">다케다_신겐</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.231">operator</mln_predict>
+		<cnn_predict conf="0.692">commander</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma>했으며--상대로</gsdp_lemma>
+		<head>했다.</head>
+		<cluster>22</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

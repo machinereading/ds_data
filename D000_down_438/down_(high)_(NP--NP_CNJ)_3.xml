@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP)--down--(NP_CNJ)</dependency>
+	<total>3</total>
+	<sent_item id="M_T1307" total_morp="16" total_word="6">
+		<sent>금관악기: 호른4, 트럼펫3, 코넷2, 트롬본3, 튜바</sent>
+		<sbj type="AF_MUSICAL_INSTRUMENT" weight="1.76" label="NP" josa="">트롬본</sbj>
+		<obj type="AF_MUSICAL_INSTRUMENT" weight="1.54" label="NP_CNJ" josa="">트럼펫</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.996">related</mln_predict>
+		<cnn_predict conf="0.944">related</cnn_predict>
+		<gsdp>(NP)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>튜바</head>
+		<cluster>18</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1853" total_morp="17" total_word="9">
+		<sent>또한 몬족, 와족, 라오족, 크메르족 등이 이 지방에 산다.</sent>
+		<sbj type="CV_TRIBE" weight="2.30" label="NP" josa="">크메르족</sbj>
+		<obj type="CV_TRIBE" weight="2.21" label="NP_CNJ" josa="">와족</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.482">related</mln_predict>
+		<cnn_predict conf="0.179">related</cnn_predict>
+		<gsdp>(NP)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>산다.</head>
+		<cluster>29</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1231" total_morp="30" total_word="12">
+		<sent>주요 민족은 줄루족, 코사족, 바소토족, 바페디족, 벤다족, 츠와나족, 샹간족, 스와지족, 은데벨레족 등이다.</sent>
+		<sbj type="CV_TRIBE" weight="2.30" label="NP" josa="">은데벨레족</sbj>
+		<obj type="CV_TRIBE" weight="2.21" label="NP_CNJ" josa="">코사족</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.858">related</mln_predict>
+		<cnn_predict conf="0.182">region</cnn_predict>
+		<gsdp>(NP)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>등이다.</head>
+		<cluster>23</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP--up--NP_AJT--up--VP--down--(NP_SBJ)</dependency>
+	<total>2</total>
+	<sent_item id="M_T294" total_morp="67" total_word="30">
+		<sent>'발트슈타디온'에서 대한민국_축구_국가대표팀은 이천수의 프리킥과 안정환의 중거리 슛 등에 힘입어 토고 축구 국가대표팀을 2:1로 격파하여, 프랑크푸르트는 대한민국 축구 국가대표팀이 FIFA 월드컵 도전 역사상 최초로 해외에서 첫 승리를 이룩한 도시로 남게 되었다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_MOD" josa="의">안정환</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_SBJ" josa="은">대한민국_축구_국가대표팀</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.276">team</mln_predict>
+		<cnn_predict conf="0.344">team</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--NP_AJT--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma>슛--등에--힘입어</gsdp_lemma>
+		<head>되었다.</head>
+		<cluster>23</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1951" total_morp="19" total_word="9">
+		<sent>한편, 인도는 마하트마_간디의 비폭력 저항 운동 끝에 영국으로부터 독립하였다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_MOD" josa="의">마하트마_간디</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_SBJ" josa="는">인도</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.697">country</mln_predict>
+		<cnn_predict conf="0.453">country</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--NP_AJT--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma>운동--끝에--독립하였다.</gsdp_lemma>
+		<head>독립하였다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

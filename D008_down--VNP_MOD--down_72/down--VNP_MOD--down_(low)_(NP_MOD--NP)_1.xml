@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--VNP_MOD--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3721" total_morp="25" total_word="10">
+		<sent>Autobahn은 독일의 전자_음악 밴드인 크라프트베르크의 4번째 정규음반으로 1974년 11월 발매되었다.</sent>
+		<sbj type="PS_NAME" weight="-0.03" label="NP_MOD" josa="의">크라프트베르크</sbj>
+		<obj type="" weight="0.00" label="NP" josa="">전자_음악</obj>
+		<gold>genre</gold>
+		<mln_predict conf="1.000">genre</mln_predict>
+		<cnn_predict conf="0.334">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma>밴드인</gsdp_lemma>
+		<head>발매되었다.</head>
+		<cluster>47</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

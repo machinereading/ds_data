@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--NP--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T932" total_morp="29" total_word="13">
+		<sent>애플_(기업)의 공동 창립자 스티브_잡스는 NeXT 컴퓨터사를 차렸고 유닉스 계열 넥스트스텝 운영 체제를 개발하였다.</sent>
+		<sbj type="PS_NAME" weight="0.48" label="NP_SBJ" josa="는">스티브_잡스</sbj>
+		<obj type="OGG_ECONOMY" weight="-0.25" label="NP_MOD" josa="의">애플_(기업)</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.717">occupation</mln_predict>
+		<cnn_predict conf="0.157">country</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>창립자</gsdp_lemma>
+		<head>개발하였다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

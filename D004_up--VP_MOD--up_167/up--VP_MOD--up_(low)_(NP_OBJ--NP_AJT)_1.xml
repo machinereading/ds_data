@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP_MOD--up--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2548" total_morp="18" total_word="7">
+		<sent>로마를 포함한 라치오_주에서는 피첼레를 ferratelle로 부르기도 한다.</sent>
+		<sbj type="LCP_COUNTRY" weight="-0.04" label="NP_OBJ" josa="를">로마</sbj>
+		<obj type="" weight="0.00" label="NP_AJT" josa="는">라치오_주</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.145">leaderName</mln_predict>
+		<cnn_predict conf="0.703">region</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP_MOD--up--(NP_AJT)</gsdp>
+		<gsdp_lemma>포함한</gsdp_lemma>
+		<head>한다.</head>
+		<cluster>11</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

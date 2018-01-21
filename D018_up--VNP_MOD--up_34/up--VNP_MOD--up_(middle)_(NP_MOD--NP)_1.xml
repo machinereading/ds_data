@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP_MOD--up--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3140" total_morp="49" total_word="18">
+		<sent>국도_제7호선의 기점인 부산광역시 중구_(부산광역시) 옛시청교차로에서 출발하며, 한반도 동해안 지역으로 연결된 국도 제7호선을 따라 경상남도, 울산광역시, 경상북도, 강원도로 이어진다.</sent>
+		<sbj type="" weight="0.00" label="NP_MOD" josa="의">국도_제7호선</sbj>
+		<obj type="LCP_COUNTY" weight="0.81" label="NP" josa="">중구_(부산광역시)</obj>
+		<gold>routeStart</gold>
+		<mln_predict conf="0.511">city</mln_predict>
+		<cnn_predict conf="0.471">city</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP_MOD--up--(NP)</gsdp>
+		<gsdp_lemma>기점인</gsdp_lemma>
+		<head>이어진다.</head>
+		<cluster>1</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP)--up--VNP_MOD--up--(NP_AJT)</dependency>
+	<total>2</total>
+	<sent_item id="M_T1474" total_morp="16" total_word="6">
+		<sent>동갑이자 칸쟈니∞ 멤버인 무라카미_싱고와도 사이가 좋다.</sent>
+		<sbj type="PS_NAME" weight="0.68" label="NP" josa="">칸쟈니∞</sbj>
+		<obj type="PS_NAME" weight="1.22" label="NP_AJT" josa="도">무라카미_싱고</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.976">currentMember</mln_predict>
+		<cnn_predict conf="0.832">currentMember</cnn_predict>
+		<gsdp>(NP)--up--VNP_MOD--up--(NP_AJT)</gsdp>
+		<gsdp_lemma>멤버인</gsdp_lemma>
+		<head>좋다.</head>
+		<cluster>17</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3840" total_morp="42" total_word="18">
+		<sent>기원전 57년 율리우스 카이사르의 갈리아_전쟁때 카이사르의 유능한 부하 장군인 푸블리우스_크라수스에 의해 정복되어 로마 공화정에 복속되었고 인질을 로마에 바쳤다.</sent>
+		<sbj type="DT_OTHERS" weight="1.78" label="NP" josa="">갈리아_전쟁</sbj>
+		<obj type="PS_NAME" weight="0.88" label="NP_AJT" josa="에">푸블리우스_크라수스</obj>
+		<gold>commander</gold>
+		<mln_predict conf="1.000">commander</mln_predict>
+		<cnn_predict conf="0.708">commander</cnn_predict>
+		<gsdp>(NP)--up--VNP_MOD--up--(NP_AJT)</gsdp>
+		<gsdp_lemma>장군인</gsdp_lemma>
+		<head>바쳤다.</head>
+		<cluster>22</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_SBJ--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--NP--down--(NP)</dependency>
+	<total>3</total>
+	<sent_item id="M_T1437" total_morp="18" total_word="10">
+		<sent>신안 흑산도 상라산성은 전라남도 신안군 흑산면 흑산도에 있는 통일신라의 산성이다.</sent>
+		<sbj type="LCG_ISLAND" weight="1.38" label="NP" josa="">흑산도</sbj>
+		<obj type="LCP_PROVINCE" weight="1.73" label="NP" josa="">전라남도</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.613">locatedInArea</mln_predict>
+		<cnn_predict conf="0.892">locatedInArea</cnn_predict>
+		<gsdp>(NP)--up--NP_SBJ--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>상라산성은--산성이다.--있는--흑산도에--흑산면--신안군</gsdp_lemma>
+		<head>산성이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T734" total_morp="16" total_word="8">
+		<sent>파사우 대학교는 독일 바이에른 주 파사우에 있는 대학교이다.</sent>
+		<sbj type="OGG_EDUCATION" weight="2.51" label="NP" josa="">파사우</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">독일</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.957">country</mln_predict>
+		<cnn_predict conf="0.423">country</cnn_predict>
+		<gsdp>(NP)--up--NP_SBJ--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>대학교는--대학교이다.--있는--파사우에--주--바이에른</gsdp_lemma>
+		<head>대학교이다.</head>
+		<cluster>7</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T880" total_morp="18" total_word="10">
+		<sent>게오르크 아우구스트 괴팅겐 대학교는 독일 니더작센 주 괴팅겐에 있는 대학교이다.</sent>
+		<sbj type="OGG_EDUCATION" weight="2.51" label="NP" josa="">괴팅겐</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">독일</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.970">country</mln_predict>
+		<cnn_predict conf="0.683">country</cnn_predict>
+		<gsdp>(NP)--up--NP_SBJ--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>대학교는--대학교이다.--있는--괴팅겐에--주--니더작센</gsdp_lemma>
+		<head>대학교이다.</head>
+		<cluster>11</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

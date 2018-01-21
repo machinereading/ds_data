@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--VP_MOD--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1649" total_morp="29" total_word="11">
+		<sent>리버티_섬에 위치한 자유의_여신상은 유명한 관광지이자 미국에서 가장 유명한 상 중 하나이다.</sent>
+		<sbj type="AF_CULTURAL_ASSET" weight="-0.57" label="NP_SBJ" josa="은">자유의_여신상</sbj>
+		<obj type="LCG_ISLAND" weight="0.68" label="NP_AJT" josa="에">리버티_섬</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.789">owner</mln_predict>
+		<cnn_predict conf="0.213">region</cnn_predict>
+		<gsdp>(NP_SBJ)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>위치한</gsdp_lemma>
+		<head>하나이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

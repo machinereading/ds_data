@@ -1,0 +1,95 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--NP--down--(NP)</dependency>
+	<total>7</total>
+	<sent_item id="M_T502" total_morp="17" total_word="8">
+		<sent>청평역은 경기도 가평군 청평면 청평리에 있는 경춘선의 전철역이다.</sent>
+		<sbj type="AF_ROAD" weight="-0.38" label="NP_MOD" josa="의">경춘선</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="">경기도</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.975">routeStart</mln_predict>
+		<cnn_predict conf="0.499">routeEnd</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>있는--청평리에--청평면--가평군</gsdp_lemma>
+		<head>전철역이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3684" total_morp="37" total_word="18">
+		<sent>서부간선도로는 서울특별시 금천구 금천 나들목에서 마포구 사천교 교차로를 잇는 국도_제1호선의 일부 구간이자 서울특별시의 주요 간선 도로 중 하나이다.</sent>
+		<sbj type="" weight="0.00" label="NP_MOD" josa="의">국도_제1호선</sbj>
+		<obj type="LCP_CAPITALCITY" weight="1.03" label="NP" josa="">서울특별시</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.540">city</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>잇는--나들목에서--금천--금천구</gsdp_lemma>
+		<head>하나이다.</head>
+		<cluster>1</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3479" total_morp="19" total_word="8">
+		<sent>불정역은 경상북도 문경시 불정동 418번지에 있던 문경선의 역이다.</sent>
+		<sbj type="AF_ROAD" weight="0.25" label="NP_MOD" josa="의">문경선</sbj>
+		<obj type="LCP_PROVINCE" weight="0.53" label="NP" josa="">경상북도</obj>
+		<gold>routeStart</gold>
+		<mln_predict conf="0.940">routeEnd</mln_predict>
+		<cnn_predict conf="0.361">locatedInArea</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>있던--418번지에--불정동--문경시</gsdp_lemma>
+		<head>역이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2091" total_morp="22" total_word="11">
+		<sent>핫사무미나미 역은 일본 홋카이도 삿포로 시 니시 구에 위치한 삿포로_시영_지하철의 역이다.</sent>
+		<sbj type="OGG_ECONOMY" weight="1.40" label="NP_MOD" josa="의">삿포로_시영_지하철</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="">홋카이도</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.451">region</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>위치한--구에--시--삿포로</gsdp_lemma>
+		<head>역이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T905" total_morp="22" total_word="9">
+		<sent>경화역은 경상남도 창원시 진해구 경화동에 위치하는 한국철도공사 진해선의 역이다.</sent>
+		<sbj type="AF_ROAD" weight="0.25" label="NP_MOD" josa="의">진해선</sbj>
+		<obj type="LCP_PROVINCE" weight="0.53" label="NP" josa="">경상남도</obj>
+		<gold>routeStart</gold>
+		<mln_predict conf="1.000">routeStart</mln_predict>
+		<cnn_predict conf="0.401">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>위치하는--경화동에--진해구--창원시</gsdp_lemma>
+		<head>역이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2243" total_morp="18" total_word="8">
+		<sent>화본역은 경상북도 군위군 산성면 화본리에 위치한 중앙선의 역이다.</sent>
+		<sbj type="AF_ROAD" weight="-0.38" label="NP_MOD" josa="의">중앙선</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="">경상북도</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.999">city</mln_predict>
+		<cnn_predict conf="0.683">routeEnd</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>위치한--화본리에--산성면--군위군</gsdp_lemma>
+		<head>역이다.</head>
+		<cluster>38</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2018" total_morp="26" total_word="13">
+		<sent>히가시쇼로 신호장은 일본 홋카이도 시라누카 군 시라누카 정에 있는 홋카이도 여객철도 네무로_본선의 신호장이다.</sent>
+		<sbj type="QT_OTHERS" weight="1.37" label="NP_MOD" josa="의">네무로_본선</sbj>
+		<obj type="LCP_PROVINCE" weight="0.53" label="NP" josa="">홋카이도</obj>
+		<gold>routeStart</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.764">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>있는--정에--군--시라누카</gsdp_lemma>
+		<head>신호장이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

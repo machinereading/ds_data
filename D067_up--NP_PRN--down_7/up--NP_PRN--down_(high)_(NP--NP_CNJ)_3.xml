@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_PRN--down--(NP_CNJ)</dependency>
+	<total>3</total>
+	<sent_item id="M_T1881" total_morp="17" total_word="5">
+		<sent>《인수대비_(드라마)》 (JTBC, 2011년, 배우: 전현)</sent>
+		<sbj type="AFW_VIDEO" weight="1.69" label="NP" josa="">인수대비_(드라마)</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP_CNJ" josa="">JTBC</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.969">channel</cnn_predict>
+		<gsdp>(NP)--up--NP_PRN--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma>전현)</gsdp_lemma>
+		<head>전현)</head>
+		<cluster>39</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3934" total_morp="20" total_word="5">
+		<sent>《동이_(드라마)》 (MBC_TV, 2010년, 배우:윤찬 (1996년))</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.87" label="NP" josa="">동이_(드라마)</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP_CNJ" josa="">MBC_TV</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">deathPlace</mln_predict>
+		<cnn_predict conf="0.964">channel</cnn_predict>
+		<gsdp>(NP)--up--NP_PRN--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma>(1996년))</gsdp_lemma>
+		<head>(1996년))</head>
+		<cluster>39</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1811" total_morp="22" total_word="10">
+		<sent>《인수대비_(드라마)》 (JTBC, 2011년 ~ 2012년, 배우 : 진지희 → 전혜빈)</sent>
+		<sbj type="AFW_VIDEO" weight="1.69" label="NP" josa="">인수대비_(드라마)</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP_CNJ" josa="">JTBC</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.969">channel</cnn_predict>
+		<gsdp>(NP)--up--NP_PRN--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma>전혜빈)</gsdp_lemma>
+		<head>전혜빈)</head>
+		<cluster>39</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

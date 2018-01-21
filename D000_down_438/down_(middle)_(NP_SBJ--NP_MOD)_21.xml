@@ -1,0 +1,277 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--(NP_MOD)</dependency>
+	<total>21</total>
+	<sent_item id="M_T2145" total_morp="36" total_word="16">
+		<sent>스마트는 스위스의 스와치 그룹과 독일의 다임러_AG가 합작으로 1994년 독일 바덴뷔르템베르크 주지방의 뵈블링엔에 설립한 고급 자동차 브랜드이다.</sent>
+		<sbj type="OGG_ECONOMY" weight="1.40" label="NP_SBJ" josa="가">다임러_AG</sbj>
+		<obj type="LCP_COUNTRY" weight="-0.30" label="NP_MOD" josa="의">독일</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.961">country</mln_predict>
+		<cnn_predict conf="0.577">country</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>브랜드이다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2499" total_morp="29" total_word="12">
+		<sent>알포르스-팔렌 행렬은 오스트리아의 카를 테오도어 팔렌이 1902년에 도입하였고, 이후 핀란드의 라르스_알포르스가 재발견하였다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_SBJ" josa="가">라르스_알포르스</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_MOD" josa="의">핀란드</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.373">country</mln_predict>
+		<cnn_predict conf="0.397">country</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>재발견하였다.</head>
+		<cluster>19</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1884" total_morp="25" total_word="14">
+		<sent>한편 시즌 중반 인천 유나이티드 FC에서 이적한 전남_드래곤즈의 김치우는 생애 처음으로 대회 MVP에 선정되었다.</sent>
+		<sbj type="PS_NAME" weight="0.73" label="NP_SBJ" josa="는">김치우</sbj>
+		<obj type="OGG_SPORTS" weight="1.71" label="NP_MOD" josa="의">전남_드래곤즈</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.510">club</mln_predict>
+		<cnn_predict conf="0.443">club</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>선정되었다.</head>
+		<cluster>30</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2883" total_morp="56" total_word="26">
+		<sent>이 경기에 출전한 모든 프랑스의 스트라이커들이 득점자 명단에 이름을 올렸다: 루이 사아, 티에리 앙리, 니콜라 아넬카, 그리고 유벤투스_FC의 다비드_트레제게가 골을 기록하였고, 후자의 선수는 2번 골을 넣었다.</sent>
+		<sbj type="PS_NAME" weight="0.73" label="NP_SBJ" josa="가">다비드_트레제게</sbj>
+		<obj type="OGG_SPORTS" weight="1.71" label="NP_MOD" josa="의">유벤투스_FC</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.749">club</mln_predict>
+		<cnn_predict conf="0.329">team</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>넣었다.</head>
+		<cluster>25</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T891" total_morp="15" total_word="7">
+		<sent>(그 해 리버풀_FC의 스티븐_제라드가 그 상을 탔다.</sent>
+		<sbj type="" weight="0.00" label="NP_SBJ" josa="가">스티븐_제라드</sbj>
+		<obj type="OGG_SPORTS" weight="1.71" label="NP_MOD" josa="의">리버풀_FC</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.169">team</mln_predict>
+		<cnn_predict conf="0.456">league</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>탔다.</head>
+		<cluster>29</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1403" total_morp="62" total_word="24">
+		<sent>2. 휴스턴의 데뷔앨범 "Whitney Houston"은 전 세계적으로 2,500만장 이상이 팔렸고, 브리트니_스피어스의 "...Baby_One_More_Time_(음반)"이 그 기록을 깨기 전까지 여자 가수의 데뷔앨범으로는 역사상 가장 많이 팔린 앨범이었다.</sent>
+		<sbj type="" weight="0.00" label="NP_SBJ" josa="이">...Baby_One_More_Time_(음반)</sbj>
+		<obj type="OGG_ECONOMY" weight="0.67" label="NP_MOD" josa="의">브리트니_스피어스</obj>
+		<gold>artist</gold>
+		<mln_predict conf="0.206">country</mln_predict>
+		<cnn_predict conf="0.628">currentMember</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>앨범이었다.</head>
+		<cluster>48</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3579" total_morp="25" total_word="10">
+		<sent>가마쿠라 막부를 타도하고, 고다이고_천황의 겐무_신정이 시작되자, 기타바타케 지카후사는 정계에 복귀한다.</sent>
+		<sbj type="" weight="0.00" label="NP_SBJ" josa="이">겐무_신정</sbj>
+		<obj type="PS_NAME" weight="1.09" label="NP_MOD" josa="의">고다이고_천황</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.273">leaderName</mln_predict>
+		<cnn_predict conf="0.612">commander</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>복귀한다.</head>
+		<cluster>17</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2928" total_morp="23" total_word="11">
+		<sent>이마티닙 또는 상품명 글리벡은 스위스의 노바티스사가 개발한 만성 골수성 백혈병 치료제이다.</sent>
+		<sbj type="OGG_ECONOMY" weight="1.40" label="NP_SBJ" josa="가">노바티스</sbj>
+		<obj type="LCP_COUNTRY" weight="-0.30" label="NP_MOD" josa="의">스위스</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.217">country</mln_predict>
+		<cnn_predict conf="0.467">country</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>치료제이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2767" total_morp="20" total_word="9">
+		<sent>1973년 6·23 선언에서 대한민국의 박정희는 유엔 동시 가입을 주장했다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_SBJ" josa="는">박정희</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_MOD" josa="의">대한민국</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.603">deathPlace</mln_predict>
+		<cnn_predict conf="0.373">country</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>주장했다.</head>
+		<cluster>45</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T198" total_morp="26" total_word="12">
+		<sent>아디다스 축구화의 대표적인 선수로는 바르셀로나 FC 의 리오넬 메시와 아스널_FC의 메수트_외질이 있다.</sent>
+		<sbj type="CV_POSITION" weight="-0.60" label="NP_SBJ" josa="이">메수트_외질</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_MOD" josa="의">아스널_FC</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.458">operator</mln_predict>
+		<cnn_predict conf="0.478">league</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>있다.</head>
+		<cluster>34</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1522" total_morp="46" total_word="21">
+		<sent>10000m 결승전에서 4600m 지점에 핀란드의 라세_비렌이 넘어졌을 때 9명의 선수들이 세계 기록 아래로 달리고 있었으며 가무디를 그의 정상에 넘어뜨리는 원인이 되었다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_SBJ" josa="이">라세_비렌</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_MOD" josa="의">핀란드</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.347">birthPlace</mln_predict>
+		<cnn_predict conf="0.364">country</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>되었다.</head>
+		<cluster>30</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1807" total_morp="38" total_word="17">
+		<sent>디에고 베날리오가 현재 국가대표팀의 주전 골키퍼를 맡고 있으며, 그와 FC_바젤의 얀_조머가 백업 골키퍼 자리를 두고 경합하고 있다.</sent>
+		<sbj type="PS_NAME" weight="0.73" label="NP_SBJ" josa="가">얀_조머</sbj>
+		<obj type="OGG_ECONOMY" weight="0.48" label="NP_MOD" josa="의">FC_바젤</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.296">team</mln_predict>
+		<cnn_predict conf="0.346">league</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>있다.</head>
+		<cluster>34</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3066" total_morp="37" total_word="17">
+		<sent>《아스테릭스》는 프랑스의 르네_고시니가 쓰고 알베르 우데르조가 그린 만화로, 1959년 10월 29일 프랑스의 만화 잡지 삘로뜨에 처음 발표되었다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_SBJ" josa="가">르네_고시니</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_MOD" josa="의">프랑스</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.436">birthPlace</mln_predict>
+		<cnn_predict conf="0.429">birthPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>발표되었다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3370" total_morp="22" total_word="8">
+		<sent>세상무난사는 중화인민공화국의 마오쩌둥이 쓴 시 《重上井岡山》의 마지막 구절이다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_SBJ" josa="이">마오쩌둥</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_MOD" josa="의">중화인민공화국</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.547">birthPlace</mln_predict>
+		<cnn_predict conf="0.552">country</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>구절이다.</head>
+		<cluster>7</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3971" total_morp="76" total_word="33">
+		<sent>비슷한 시기에 미국의 헨리_키신저가 비밀리에 베이징을 방문해서 저우언라이와 회담을 가졌고, 1972년 2월 21일 미국 대통령 리처드 닉슨과 중화인민공화국의 최고 지도자 마오쩌둥 간의 정상 회담이 이뤄진 이후부터 중화민국은 국제사회에서 비주류로 물러나고 중화인민공화국에게 밀리게 되었다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_SBJ" josa="가">헨리_키신저</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_MOD" josa="의">미국</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.352">nationality</mln_predict>
+		<cnn_predict conf="0.338">country</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>되었다.</head>
+		<cluster>27</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T420" total_morp="46" total_word="20">
+		<sent>1차 투표에서 미국의 시카고가 탈락하고 2차 투표에서 일본의 도쿄 도가 탈락했으며, 최종 투표에서 브라질의 리우데자네이루가 스페인의 마드리드를 제치고 개최지로 선정되었다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_SBJ" josa="가">리우데자네이루</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">브라질</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.727">country</mln_predict>
+		<cnn_predict conf="0.672">country</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>선정되었다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3045" total_morp="41" total_word="16">
+		<sent>그는 그 클럽에서 5년을 뛰었고, 2003-04 시즌의 중반부에 프리메라리가의 비야레알_CF가 2천 8백만 유로를 지불하여 그를 영입하였다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_SBJ" josa="가">비야레알_CF</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_MOD" josa="의">프리메라리가</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.696">league</mln_predict>
+		<cnn_predict conf="0.838">league</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>영입하였다.</head>
+		<cluster>41</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1955" total_morp="23" total_word="11">
+		<sent>국제 공항은 타이베이 시 근교의 타이완 타오위안 국제공항과 가오슝_시의 가오슝_국제공항이 있다.</sent>
+		<sbj type="LC_OTHERS" weight="1.96" label="NP_SBJ" josa="이">가오슝_국제공항</sbj>
+		<obj type="LC_OTHERS" weight="-0.13" label="NP_MOD" josa="의">가오슝_시</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.578">region</mln_predict>
+		<cnn_predict conf="0.379">region</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>있다.</head>
+		<cluster>5</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1520" total_morp="39" total_word="15">
+		<sent>이 기록은 2014년 10월 31일 넥센_히어로즈의 김민성_(1988년_12월)이 7타점으로 기록을 갈아치우기 전까지 30년 넘게 깨지지 않았다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_SBJ" josa="이">김민성_(1988년_12월)</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_MOD" josa="의">넥센_히어로즈</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.270">club</mln_predict>
+		<cnn_predict conf="0.955">team</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>않았다.</head>
+		<cluster>40</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2035" total_morp="33" total_word="16">
+		<sent>2013 한국프로야구에서 두산_베어스의 홍상삼이 프로야구 역사상 처음으로 두 경기 연속 끝내기 홈런 허용투수가 되는 불명예를 안았다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_SBJ" josa="이">홍상삼</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_MOD" josa="의">두산_베어스</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.699">team</mln_predict>
+		<cnn_predict conf="0.979">team</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>안았다.</head>
+		<cluster>12</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T365" total_morp="23" total_word="10">
+		<sent>MVP는 전남 드래곤즈의 김효일이, 득점상은 3골을 넣은 대구_FC의 장남석이 받았다.</sent>
+		<sbj type="PS_NAME" weight="0.73" label="NP_SBJ" josa="이">장남석</sbj>
+		<obj type="OGG_SPORTS" weight="1.71" label="NP_MOD" josa="의">대구_FC</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.505">club</mln_predict>
+		<cnn_predict conf="0.405">club</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>받았다.</head>
+		<cluster>25</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

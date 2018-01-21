@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP_MOD--up--(NP_OBJ)</dependency>
+	<total>2</total>
+	<sent_item id="M_T926" total_morp="44" total_word="20">
+		<sent>3월 9일, 관동군은 만주의 관동군 점령 지역을 떼어 괴뢰 국가인 만주국을 수립하고 청나라의 마지막 황제였던 푸이를 명목 상의 군주로 옹립했다.</sent>
+		<sbj type="LCP_COUNTRY" weight="2.15" label="NP_MOD" josa="의">청나라</sbj>
+		<obj type="PS_NAME" weight="1.09" label="NP_OBJ" josa="를">푸이</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.987">leaderName</mln_predict>
+		<cnn_predict conf="0.477">commander</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP_MOD--up--(NP_OBJ)</gsdp>
+		<gsdp_lemma>황제였던</gsdp_lemma>
+		<head>옹립했다.</head>
+		<cluster>48</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3744" total_morp="28" total_word="11">
+		<sent>이듬해, 일본 제국은 청나라의 마지막 황제였던 푸이를 수반으로 만주국이라는 괴뢰정부를 세웠다.</sent>
+		<sbj type="LCP_COUNTRY" weight="2.15" label="NP_MOD" josa="의">청나라</sbj>
+		<obj type="PS_NAME" weight="1.09" label="NP_OBJ" josa="를">푸이</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.945">leaderName</mln_predict>
+		<cnn_predict conf="0.262">birthPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP_MOD--up--(NP_OBJ)</gsdp>
+		<gsdp_lemma>황제였던</gsdp_lemma>
+		<head>세웠다.</head>
+		<cluster>49</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

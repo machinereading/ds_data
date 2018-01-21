@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP_MOD--up--(NP_MOD)</dependency>
+	<total>3</total>
+	<sent_item id="M_T1515" total_morp="26" total_word="10">
+		<sent>박인정은 대한민국의 음악 그룹 티아라_(음악_그룹)의 멤버인 소연_(가수)의 개명 전 이름이다.</sent>
+		<sbj type="PS_NAME" weight="0.68" label="NP_MOD" josa="의">티아라_(음악_그룹)</sbj>
+		<obj type="PS_NAME" weight="1.22" label="NP_MOD" josa="의">소연_(가수)</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.943">currentMember</mln_predict>
+		<cnn_predict conf="0.927">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>멤버인</gsdp_lemma>
+		<head>이름이다.</head>
+		<cluster>47</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T745" total_morp="22" total_word="8">
+		<sent>건중정국는 북송의 휘종인 북송_휘종의 치세에 쓰였던 첫번째 연호이다.</sent>
+		<sbj type="LCP_COUNTRY" weight="2.15" label="NP_MOD" josa="의">북송</sbj>
+		<obj type="DT_DYNASTY" weight="0.05" label="NP_MOD" josa="의">북송_휘종</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.841">leaderName</mln_predict>
+		<cnn_predict conf="0.562">leaderName</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>휘종인</gsdp_lemma>
+		<head>연호이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3189" total_morp="19" total_word="8">
+		<sent>세조는 당나라의 초대 황제인 당_고조의 부친 이병의 묘호이다.</sent>
+		<sbj type="LCP_COUNTRY" weight="2.15" label="NP_MOD" josa="의">당나라</sbj>
+		<obj type="" weight="0.00" label="NP_MOD" josa="의">당_고조</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.997">leaderName</mln_predict>
+		<cnn_predict conf="0.370">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>황제인</gsdp_lemma>
+		<head>묘호이다.</head>
+		<cluster>49</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

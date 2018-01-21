@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--NP_AJT--down--(NP)</dependency>
+	<total>3</total>
+	<sent_item id="M_T4090" total_morp="22" total_word="8">
+		<sent>남동쪽으로는 크리크_전쟁에서 인디언들의 저항이 앤드루_잭슨 장군에 의해 분쇄되었다.</sent>
+		<sbj type="EV_WAR_REVOLUTION" weight="2.59" label="NP_AJT" josa="에서">크리크_전쟁</sbj>
+		<obj type="PS_NAME" weight="0.88" label="NP" josa="">앤드루_잭슨</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.854">commander</mln_predict>
+		<cnn_predict conf="0.417">commander</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>의해--장군에</gsdp_lemma>
+		<head>분쇄되었다.</head>
+		<cluster>22</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2994" total_morp="47" total_word="24">
+		<sent>그 해 개봉한 스티븐 스필버그 감독의 영화 《캐치_미_이프_유_캔》에서는 1960년대 실제로 일어 난 희대의 사기극을 경쾌하게 그린 작품으로 톰 행크스, 마틴 신, 크리스토퍼_워컨 등과 공연하였다.</sent>
+		<sbj type="AFW_VIDEO" weight="1.84" label="NP_AJT" josa="는">캐치_미_이프_유_캔</sbj>
+		<obj type="PS_NAME" weight="1.43" label="NP" josa="">크리스토퍼_워컨</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.853">starring</mln_predict>
+		<cnn_predict conf="0.425">starring</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>공연하였다.--등과</gsdp_lemma>
+		<head>공연하였다.</head>
+		<cluster>13</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1169" total_morp="52" total_word="20">
+		<sent>이듬해인 2004년 문근영은 영화 《어린_신부》에서 할아버지끼리의 약속때문에 16살의 나이에 24살의 대학생 박상민(김래원 분)과 결혼하게 되는 여고 1학년 학생 서보은을 연기했다.</sent>
+		<sbj type="AFW_VIDEO" weight="1.84" label="NP_AJT" josa="에서">어린_신부</sbj>
+		<obj type="PS_NAME" weight="1.43" label="NP" josa="">김래원</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.810">starring</mln_predict>
+		<cnn_predict conf="0.814">starring</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>결혼하게--분)과</gsdp_lemma>
+		<head>연기했다.</head>
+		<cluster>6</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

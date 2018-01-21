@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_AJT--up--VP_MOD--up--NP_MOD--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T376" total_morp="21" total_word="7">
+		<sent>유령개구리과는 개구리목 신와아목에 속하는 양서류 과의 하나이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP" josa="">개구리목</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP" josa="">양서류</obj>
+		<gold>class</gold>
+		<mln_predict conf="0.621">order</mln_predict>
+		<cnn_predict conf="0.889">class</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma>신와아목에--속하는--과의</gsdp_lemma>
+		<head>하나이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

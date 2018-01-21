@@ -1,0 +1,199 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--(NP_SBJ)</dependency>
+	<total>15</total>
+	<sent_item id="M_T2275" total_morp="35" total_word="17">
+		<sent>특히 서울 공연에는 김희철, 성민, 동해, 샤이니의 Key, 민호, 태민, 그리고 트랙스의 김정모가 게스트로 참여해 화제가 되었다.</sent>
+		<sbj type="PS_NAME" weight="0.68" label="NP_MOD" josa="의">트랙스</sbj>
+		<obj type="PS_NAME" weight="1.22" label="NP_SBJ" josa="가">김정모</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.694">currentMember</mln_predict>
+		<cnn_predict conf="0.856">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>되었다.</head>
+		<cluster>47</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2230" total_morp="45" total_word="20">
+		<sent>당초 이 영화의 출연배역중 '바실라 수녀'의 역할은 자우림의 김윤아가 맡는 것으로 예정됐으나, 김윤아의 콘서트 일정 외의 사정으로 인해서 신애가 낙점되었다.</sent>
+		<sbj type="PS_NAME" weight="0.68" label="NP_MOD" josa="의">자우림</sbj>
+		<obj type="PS_NAME" weight="1.22" label="NP_SBJ" josa="가">김윤아</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.906">currentMember</mln_predict>
+		<cnn_predict conf="0.420">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>낙점되었다.</head>
+		<cluster>30</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1457" total_morp="30" total_word="13">
+		<sent>뮤직 비디오는 컴퓨터 그래픽를 적극 활용하여 제작되었으며, 슈퍼주니어의 모든 멤버과 소녀시대의 윤아가 출연하였다.</sent>
+		<sbj type="PS_NAME" weight="0.68" label="NP_MOD" josa="의">소녀시대</sbj>
+		<obj type="PS_NAME" weight="1.22" label="NP_SBJ" josa="가">윤아</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="1.000">currentMember</mln_predict>
+		<cnn_predict conf="0.941">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>출연하였다.</head>
+		<cluster>6</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2025" total_morp="34" total_word="15">
+		<sent>3월 7일 방송분에서 마르코가 천하무적 야구단 촬영 관계로 마르코의 자리는 2PM의 닉쿤이 그의 자리를 대신했다.</sent>
+		<sbj type="PS_NAME" weight="0.68" label="NP_MOD" josa="의">2PM</sbj>
+		<obj type="PS_NAME" weight="1.22" label="NP_SBJ" josa="이">닉쿤</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.367">currentMember</mln_predict>
+		<cnn_predict conf="0.830">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>대신했다.</head>
+		<cluster>19</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3752" total_morp="57" total_word="24">
+		<sent>사회가 다시 2인제로 되어, 프로그램 개시 당시부터, 누계 햇수 10년 이상 프로그램에 출연하고 있는 A.B.C-Z의 카와이 후미토와, 2014년 4월에 데뷔한 자니스WEST의 키리야마_아키토가 맡고 있다.</sent>
+		<sbj type="PS_NAME" weight="0.68" label="NP_MOD" josa="의">자니스WEST</sbj>
+		<obj type="PS_NAME" weight="1.22" label="NP_SBJ" josa="가">키리야마_아키토</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.259">currentMember</mln_predict>
+		<cnn_predict conf="0.264">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>있다.</head>
+		<cluster>6</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3237" total_morp="54" total_word="25">
+		<sent>2013년 2월 19일, 다이나믹_듀오의 개코가 〈될 대로 되라고 해〉를 발매하면서 첫 주자로 나섰고, 그 이후로 얀키, 자이언티, 슈프림팀, 다이나믹 듀오의 최자 등이 이어서 곡을 발표하였다.</sent>
+		<sbj type="PS_NAME" weight="0.68" label="NP_MOD" josa="의">다이나믹_듀오</sbj>
+		<obj type="PS_NAME" weight="1.22" label="NP_SBJ" josa="가">개코</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.533">currentMember</mln_predict>
+		<cnn_predict conf="0.847">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>발표하였다.</head>
+		<cluster>47</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3914" total_morp="34" total_word="14">
+		<sent>2010-11 시즌에 여러 경기에서 후보 명단에 든 그는 11월 12일에 보루시아_도르트문트와의 푸스발-분데스리가 경기에서 데뷔하였다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_MOD" josa="의">보루시아_도르트문트</sbj>
+		<obj type="PS_NAME" weight="-0.83" label="NP_SBJ" josa="가">푸스발-분데스리가</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.894">league</mln_predict>
+		<cnn_predict conf="0.679">league</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>데뷔하였다.</head>
+		<cluster>5</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2440" total_morp="46" total_word="24">
+		<sent>프로그램의 진행은 샤이니의 멤버 민호가 맡았으며, 레드벨벳은 수록곡 라이브 무대, 컴백 소감, 첫 음반 소개를 비롯한 다양한 토크, 각 멤버의 개인 방송 등을 선보였다.</sent>
+		<sbj type="PS_NAME" weight="0.68" label="NP_MOD" josa="의">샤이니</sbj>
+		<obj type="PS_NAME" weight="1.22" label="NP_SBJ" josa="가">민호</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.835">currentMember</mln_predict>
+		<cnn_predict conf="0.864">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>선보였다.</head>
+		<cluster>13</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1273" total_morp="23" total_word="6">
+		<sent>신화_(음악_그룹)의 앤디_(가수)가 프로듀서로 활약해서 화제가 되었다.</sent>
+		<sbj type="" weight="0.00" label="NP_MOD" josa="의">신화_(음악_그룹)</sbj>
+		<obj type="PS_NAME" weight="1.22" label="NP_SBJ" josa="가">앤디_(가수)</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.191">currentMember</mln_predict>
+		<cnn_predict conf="0.736">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>되었다.</head>
+		<cluster>32</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2892" total_morp="46" total_word="20">
+		<sent>2016년 7월 31일, 시스토는 스페인의 구단인 셀타 비고와 계약을 맺었으며, 같은 해 8월 22일 CD_레가네스와의 라리가 경기에서 첫 데뷔전을 치뤘다.</sent>
+		<sbj type="OGG_MEDIA" weight="0.03" label="NP_MOD" josa="의">CD_레가네스</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_SBJ" josa="가">라리가</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.862">club</mln_predict>
+		<cnn_predict conf="0.449">league</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>치뤘다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1167" total_morp="27" total_word="11">
+		<sent>12월 28일에는 제아와 엠블랙의 지오가 듀엣 곡 〈니가 따끔 거려서〉를 발표했다.</sent>
+		<sbj type="PS_NAME" weight="0.68" label="NP_MOD" josa="의">엠블랙</sbj>
+		<obj type="PS_NAME" weight="1.22" label="NP_SBJ" josa="가">지오</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.532">currentMember</mln_predict>
+		<cnn_predict conf="0.791">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>발표했다.</head>
+		<cluster>47</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1048" total_morp="41" total_word="14">
+		<sent>1년 후인 2002년 10월 7일, 호날두는 모레이렌스_FC와의 프리메이라리가 데뷔전에서 2골을 넣어 3-0 승리를 견인했다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_MOD" josa="의">모레이렌스_FC</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_SBJ" josa="가">프리메이라리가</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.540">club</mln_predict>
+		<cnn_predict conf="0.473">league</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>견인했다.</head>
+		<cluster>41</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3711" total_morp="44" total_word="17">
+		<sent>한국전쟁으로 마오쩌둥의 중화인민공화국은 내몽골과 만주에 대한 지배권을 확보했고 위구르와 티베트를 직접 지배하는 발판을 만들었다는 등의 반론이 있다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_MOD" josa="의">마오쩌둥</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_SBJ" josa="은">중화인민공화국</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.572">birthPlace</mln_predict>
+		<cnn_predict conf="0.451">country</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>있다.</head>
+		<cluster>36</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1531" total_morp="18" total_word="7">
+		<sent>듀란_듀란의 닉_로즈는 캐나다 전투기 조종사의 목소리를 맡았다.</sent>
+		<sbj type="PS_NAME" weight="0.68" label="NP_MOD" josa="의">듀란_듀란</sbj>
+		<obj type="" weight="0.00" label="NP_SBJ" josa="는">닉_로즈</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.091">country</mln_predict>
+		<cnn_predict conf="0.214">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>맡았다.</head>
+		<cluster>11</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2910" total_morp="40" total_word="16">
+		<sent>TBNY라는 이름은 “TopBob N Yankie”라는 이름부터 출발하였으며 뒤에 에픽하이의 타블로가 “The Basement Noise Yellas”라는 뜻을 붙여주었다.</sent>
+		<sbj type="PS_NAME" weight="0.68" label="NP_MOD" josa="의">에픽하이</sbj>
+		<obj type="PS_NAME" weight="1.22" label="NP_SBJ" josa="가">타블로</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.493">currentMember</mln_predict>
+		<cnn_predict conf="0.896">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>붙여주었다.</head>
+		<cluster>3</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

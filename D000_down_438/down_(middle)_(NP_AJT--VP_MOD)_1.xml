@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--(VP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3867" total_morp="17" total_word="6">
+		<sent>2016년 구단 테스트를 거쳐K리그_챌린지의 서울_이랜드_FC에 입단하였다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_AJT" josa="에">서울_이랜드_FC</sbj>
+		<obj type="" weight="0.00" label="VP_MOD" josa="의">K리그_챌린지</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.984">league</mln_predict>
+		<cnn_predict conf="0.824">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(VP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>입단하였다.</head>
+		<cluster>34</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

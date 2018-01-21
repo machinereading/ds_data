@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--VNP_MOD--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2204" total_morp="36" total_word="14">
+		<sent>페데리코의 아들 구이도발도 다 몬테펠트로는 만토바의 군주인 페데리코_1세_곤차가의 뛰어나고 학식있는 딸인 엘리사베타 곤차가와 결혼하였다.</sent>
+		<sbj type="OGG_SCIENCE" weight="-0.09" label="NP_MOD" josa="의">페데리코_1세_곤차가</sbj>
+		<obj type="LCP_CITY" weight="0.39" label="NP_MOD" josa="의">만토바</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.172">region</mln_predict>
+		<cnn_predict conf="0.215">birthPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>군주인</gsdp_lemma>
+		<head>결혼하였다.</head>
+		<cluster>49</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

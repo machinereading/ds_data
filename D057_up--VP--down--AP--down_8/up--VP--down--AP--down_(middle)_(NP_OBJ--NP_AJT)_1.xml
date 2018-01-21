@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP--down--AP--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3714" total_morp="30" total_word="11">
+		<sent>1996년에는 임재욱과 함께 2인조 음악 그룹 포지션_(음악_그룹)을 결성했지만 1999년 탈퇴하고 만다.</sent>
+		<sbj type="PS_NAME" weight="0.68" label="NP_OBJ" josa="을">포지션_(음악_그룹)</sbj>
+		<obj type="PS_NAME" weight="1.22" label="NP_AJT" josa="과">임재욱</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.526">currentMember</mln_predict>
+		<cnn_predict conf="0.675">currentMember</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--AP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>결성했지만--함께</gsdp_lemma>
+		<head>만다.</head>
+		<cluster>40</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

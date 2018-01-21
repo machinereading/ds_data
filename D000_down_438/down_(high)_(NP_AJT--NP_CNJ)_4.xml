@@ -1,0 +1,56 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--(NP_CNJ)</dependency>
+	<total>4</total>
+	<sent_item id="M_T670" total_morp="27" total_word="10">
+		<sent>아이유는 안데스 산맥의 케추아족과 아이마라족에서 나타나는 전통적인 양식의 혈연중심적 공동체다.</sent>
+		<sbj type="CV_TRIBE" weight="2.30" label="NP_AJT" josa="에서">아이마라족</sbj>
+		<obj type="CV_TRIBE" weight="2.21" label="NP_CNJ" josa="과">케추아족</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.287">related</mln_predict>
+		<cnn_predict conf="0.235">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>공동체다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2627" total_morp="18" total_word="9">
+		<sent>다우니는 미국 뉴욕_주, 맨해튼에서 1남 1녀 중 둘째로 태어났다.</sent>
+		<sbj type="LCP_COUNTY" weight="1.45" label="NP_AJT" josa="에서">맨해튼</sbj>
+		<obj type="LCP_PROVINCE" weight="1.73" label="NP_CNJ" josa="">뉴욕_주</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.928">region</mln_predict>
+		<cnn_predict conf="0.553">largestCity</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>태어났다.</head>
+		<cluster>11</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3030" total_morp="22" total_word="7">
+		<sent>발트족은 인도유럽어족의 발트족에 속하는 라트비아인과 리투아니아인으로 나뉜다.</sent>
+		<sbj type="CV_TRIBE" weight="2.30" label="NP_AJT" josa="으로">리투아니아인</sbj>
+		<obj type="CV_TRIBE" weight="2.21" label="NP_CNJ" josa="과">라트비아인</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.502">related</mln_predict>
+		<cnn_predict conf="0.622">related</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>나뉜다.</head>
+		<cluster>11</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3965" total_morp="15" total_word="6">
+		<sent>우크라이나인은 러시아인과 벨라루스인과 함께 동슬라브인에 속한다.</sent>
+		<sbj type="CV_TRIBE" weight="2.30" label="NP_AJT" josa="과">벨라루스인</sbj>
+		<obj type="CV_TRIBE" weight="2.21" label="NP_CNJ" josa="과">러시아인</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.544">related</mln_predict>
+		<cnn_predict conf="0.992">related</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>속한다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

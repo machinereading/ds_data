@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--VP--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_T4105" total_morp="35" total_word="12">
+		<sent>5월 20일 장도영이 내각수반이 되면서 박정희는 군사혁명위원회 의장에 취임하여 혁명위원회를 국가재건최고회의로 개편한다.</sent>
+		<sbj type="OGG_POLITICS" weight="1.85" label="NP_AJT" josa="로">국가재건최고회의</sbj>
+		<obj type="PS_NAME" weight="1.09" label="NP_SBJ" josa="는">박정희</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="1.000">leaderName</mln_predict>
+		<cnn_predict conf="0.244">deathPlace</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma>개편한다.--취임하여</gsdp_lemma>
+		<head>개편한다.</head>
+		<cluster>49</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(VNP_MOD)--up--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T840" total_morp="38" total_word="14">
+		<sent>(현재윤, 김효남 (야구 선수), 손주인 (삼성 라이온즈→LG_트윈스) ↔ 김태완 (1981년), 정병곤, 노진용 (LG→삼성 라이온즈)다.</sent>
+		<sbj type="CV_RELATION" weight="-0.21" label="VNP_MOD" josa="">손주인</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP" josa="">LG_트윈스</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.517">country</mln_predict>
+		<cnn_predict conf="0.981">team</cnn_predict>
+		<gsdp>(VNP_MOD)--up--(NP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>라이온즈)다.</head>
+		<cluster>11</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

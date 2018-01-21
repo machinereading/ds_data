@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP--down--VP_MOD--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1565" total_morp="34" total_word="13">
+		<sent>TJB 뉴스는 대전광역시·충청남도·세종특별자치시에서 평일 오전 10시 40분에 방송되는 대전방송의 오전 시간대 뉴스 프로그램이다.</sent>
+		<sbj type="OGG_MEDIA" weight="-0.43" label="NP_MOD" josa="의">대전방송</sbj>
+		<obj type="LCP_CITY" weight="0.92" label="NP_AJT" josa="에서">대전광역시</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.176">channel</mln_predict>
+		<cnn_predict conf="0.227">country</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>프로그램이다.--방송되는</gsdp_lemma>
+		<head>프로그램이다.</head>
+		<cluster>45</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

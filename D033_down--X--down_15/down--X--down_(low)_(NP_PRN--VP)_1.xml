@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_PRN)--down--X--down--(VP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3817" total_morp="18" total_word="6">
+		<sent>2014년 SBS TV 《일요일이_좋다 - 룸메이트_(텔레비전_프로그램)》</sent>
+		<sbj type="" weight="0.00" label="NP_PRN" josa="">룸메이트_(텔레비전_프로그램)</sbj>
+		<obj type="AFW_DOCUMENT" weight="-0.37" label="VP" josa="">일요일이_좋다</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.528">artist</mln_predict>
+		<cnn_predict conf="0.923">channel</cnn_predict>
+		<gsdp>(NP_PRN)--down--X--down--(VP)</gsdp>
+		<gsdp_lemma>-</gsdp_lemma>
+		<head>룸메이트_(텔레비전_프로그램)》</head>
+		<cluster>32</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

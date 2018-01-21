@@ -1,0 +1,69 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--VP--down--VP--down--(NP_AJT)</dependency>
+	<total>5</total>
+	<sent_item id="M_T2938" total_morp="56" total_word="24">
+		<sent>결국 2010년 3월부터 노원 험멜은 창단 이후 처음으로 비수도권 지역인 충청북도 충주시로 연고를 이전하여 충주 험멜 축구단으로 개명하였고, 홈구장을 충주시 교현동에 있는 충주종합운동장으로 정했다.</sent>
+		<sbj type="AF_BUILDING" weight="1.17" label="NP_AJT" josa="으로">충주종합운동장</sbj>
+		<obj type="LCP_CITY" weight="0.92" label="NP_AJT" josa="로">충주시</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.918">location</mln_predict>
+		<cnn_predict conf="0.471">location</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>정했다.--개명하였고,--이전하여</gsdp_lemma>
+		<head>정했다.</head>
+		<cluster>3</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T581" total_morp="32" total_word="14">
+		<sent>제1차 세계 대전으로 가족을 따라 뉴질랜드로 이민하였는데, 가족들은 초기에 크라이스트처치에 살다가 뉴플리머스에서 오래 머물렀다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_AJT" josa="에서">뉴플리머스</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_AJT" josa="로">뉴질랜드</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.660">country</mln_predict>
+		<cnn_predict conf="0.358">country</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>머물렀다.--살다가--이민하였는데,</gsdp_lemma>
+		<head>머물렀다.</head>
+		<cluster>30</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3385" total_morp="36" total_word="10">
+		<sent>이후 2008년에는 내셔널리그_(대한민국)로 옮겨 강릉시청 축구단에서 활약하였으며, 2014년에는 대전_코레일_축구단로 이적하였다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_AJT" josa="로">대전_코레일_축구단</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_AJT" josa="로">내셔널리그_(대한민국)</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.997">league</mln_predict>
+		<cnn_predict conf="0.837">league</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>이적하였다.--활약하였으며,--옮겨</gsdp_lemma>
+		<head>이적하였다.</head>
+		<cluster>32</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T77" total_morp="39" total_word="15">
+		<sent>아리스는 수페르리가_엘라다에서 4위라는 준수한 성적을 내고 그리스 컵 결승전에 올라갔으나, 리그 우승팀 올림피아코스_FC에 0-2로 졌다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_AJT" josa="에">올림피아코스_FC</sbj>
+		<obj type="LCP_COUNTRY" weight="-0.74" label="NP_AJT" josa="에서">수페르리가_엘라다</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">league</mln_predict>
+		<cnn_predict conf="0.454">league</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>졌다.--올라갔으나,--내고</gsdp_lemma>
+		<head>졌다.</head>
+		<cluster>25</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T892" total_morp="54" total_word="20">
+		<sent>이후 박헌영을 주축으로 월북한 남로당파는 처음에 조선민주주의인민공화국에서 상당한 세력으로 자리잡았으나, 1955년에 즈음하여 김일성에 의해 한국 전쟁의 책임을 뒤집어 쓰고 숙청되었다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_AJT" josa="에">김일성</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_AJT" josa="에서">조선민주주의인민공화국</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.574">deathPlace</mln_predict>
+		<cnn_predict conf="0.296">birthPlace</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>의해--즈음하여--자리잡았으나,</gsdp_lemma>
+		<head>숙청되었다.</head>
+		<cluster>11</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

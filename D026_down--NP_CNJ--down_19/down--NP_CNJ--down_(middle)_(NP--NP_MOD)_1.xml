@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP)--down--NP_CNJ--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T509" total_morp="18" total_word="10">
+		<sent>주식회사 금강방송은 대한민국의 전라북도 익산시, 군산시 지역 케이블 텔레비전 사업자이다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP" josa="">군산시</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">대한민국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.995">country</mln_predict>
+		<cnn_predict conf="0.872">country</cnn_predict>
+		<gsdp>(NP)--down--NP_CNJ--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>익산시,</gsdp_lemma>
+		<head>사업자이다.</head>
+		<cluster>36</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

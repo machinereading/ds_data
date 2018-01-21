@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_CNJ--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1233" total_morp="35" total_word="18">
+		<sent>대한민국 축구 국가대표팀 감독에 거스 히딩크, 요하네스 본프레러, 딕_아드보카트 (네덜란드 헤이그 출신), 핌 베어벡 4명의 네덜란드인이 차례로 임명되었다.</sent>
+		<sbj type="PS_NAME" weight="0.40" label="NP" josa="">딕_아드보카트</sbj>
+		<obj type="LCP_CITY" weight="0.39" label="NP" josa="">헤이그</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.911">birthPlace</mln_predict>
+		<cnn_predict conf="0.314">birthPlace</cnn_predict>
+		<gsdp>(NP)--up--NP_CNJ--down--(NP)</gsdp>
+		<gsdp_lemma>출신),</gsdp_lemma>
+		<head>임명되었다.</head>
+		<cluster>30</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

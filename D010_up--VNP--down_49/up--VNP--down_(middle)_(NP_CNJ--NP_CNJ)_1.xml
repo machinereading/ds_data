@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--VNP--down--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1207" total_morp="30" total_word="12">
+		<sent>(UEFA_챔피언스리그_2015-16: 레알 마드리드 CF, FC 바르셀로나, 발렌시아 CF, 세비야_FC, 그리고 아틀레티코 마드리드)다.</sent>
+		<sbj type="EV_SPORTS" weight="0.82" label="NP_CNJ" josa="">UEFA_챔피언스리그_2015-16</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_CNJ" josa="">세비야_FC</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.292">club</mln_predict>
+		<cnn_predict conf="0.638">club</cnn_predict>
+		<gsdp>(NP_CNJ)--up--VNP--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma>마드리드)다.</gsdp_lemma>
+		<head>마드리드)다.</head>
+		<cluster>25</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

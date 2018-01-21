@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP_AJT--up--VP_MOD--up--VNP--down--(NP_SBJ)</dependency>
+	<total>3</total>
+	<sent_item id="M_T2437" total_morp="15" total_word="5">
+		<sent>부하라윗수염박쥐는 애기박쥐과 윗수염박쥐속에 속하는 박쥐이다.</sent>
+		<sbj type="AM_MAMMALIA" weight="2.27" label="NP_CNJ" josa="과">애기박쥐과</sbj>
+		<obj type="AM_MAMMALIA" weight="1.62" label="NP_SBJ" josa="는">박쥐</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.966">order</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--up--VP_MOD--up--VNP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma>윗수염박쥐속에--속하는--박쥐이다.</gsdp_lemma>
+		<head>박쥐이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3870" total_morp="15" total_word="5">
+		<sent>아타카마윗수염박쥐는 애기박쥐과 윗수염박쥐속에 속하는 박쥐이다.</sent>
+		<sbj type="AM_MAMMALIA" weight="2.27" label="NP_CNJ" josa="과">애기박쥐과</sbj>
+		<obj type="AM_MAMMALIA" weight="1.62" label="NP_SBJ" josa="는">박쥐</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.964">order</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--up--VP_MOD--up--VNP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma>윗수염박쥐속에--속하는--박쥐이다.</gsdp_lemma>
+		<head>박쥐이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3115" total_morp="15" total_word="5">
+		<sent>유마윗수염박쥐는 애기박쥐과 윗수염박쥐속에 속하는 박쥐이다.</sent>
+		<sbj type="AM_MAMMALIA" weight="2.27" label="NP_CNJ" josa="과">애기박쥐과</sbj>
+		<obj type="AM_MAMMALIA" weight="1.62" label="NP_SBJ" josa="는">박쥐</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.963">order</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--up--VP_MOD--up--VNP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma>윗수염박쥐속에--속하는--박쥐이다.</gsdp_lemma>
+		<head>박쥐이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

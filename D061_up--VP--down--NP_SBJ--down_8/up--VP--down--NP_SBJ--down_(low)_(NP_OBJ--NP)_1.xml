@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP--down--NP_SBJ--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3305" total_morp="56" total_word="25">
+		<sent>추자도는 예로부터 영산포에서 제주도를 오가던 배들의 피항지로, 고려 공민왕 23년에 최영 장군이 목호의_난을 평정하러 영산포에서 제주도를 오가는 과정에서 풍랑을 피하고 함선을 정비하기 위해 추자도에 머물렀다.</sent>
+		<sbj type="LCP_CITY" weight="-0.46" label="NP_OBJ" josa="을">목호의_난</sbj>
+		<obj type="PS_NAME" weight="0.88" label="NP" josa="">최영</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.270">commander</mln_predict>
+		<cnn_predict conf="0.361">commander</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--NP_SBJ--down--(NP)</gsdp>
+		<gsdp_lemma>평정하러--장군이</gsdp_lemma>
+		<head>머물렀다.</head>
+		<cluster>22</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

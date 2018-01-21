@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP_OBJ--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T830" total_morp="22" total_word="10">
+		<sent>구글 툴바는 인터넷_익스플로러와 모질라 파이어폭스를 지원하는 인터넷 웹_브라우저 도구 모음이다.</sent>
+		<sbj type="TMI_SW" weight="1.85" label="NP_CNJ" josa="와">인터넷_익스플로러</sbj>
+		<obj type="" weight="0.00" label="NP" josa="">웹_브라우저</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.638">genre</mln_predict>
+		<cnn_predict conf="0.260">genre</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_OBJ--down--(NP)</gsdp>
+		<gsdp_lemma>도구</gsdp_lemma>
+		<head>모음이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

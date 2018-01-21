@@ -1,0 +1,56 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP_MOD--up--NP_AJT--down--(NP)</dependency>
+	<total>4</total>
+	<sent_item id="M_T437" total_morp="28" total_word="12">
+		<sent>로차 주는 우루과이 동부에 위치한 주로 주도는 로차이며 면적은 10,551㎢, 인구는 68,088명이다.</sent>
+		<sbj type="DT_OTHERS" weight="-0.02" label="NP_OBJ" josa="">로차</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">우루과이</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.474">country</mln_predict>
+		<cnn_predict conf="0.898">country</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP_MOD--up--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>주는--동부에</gsdp_lemma>
+		<head>68,088명이다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T197" total_morp="22" total_word="10">
+		<sent>퐁뇌프는 센_강을 가로지르는 프랑스 파리 시에 서있는 가장 오래된 다리이다.</sent>
+		<sbj type="LCG_RIVER" weight="1.66" label="NP_OBJ" josa="을">센_강</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">프랑스</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.322">country</mln_predict>
+		<cnn_predict conf="0.420">country</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP_MOD--up--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>가로지르는--시에</gsdp_lemma>
+		<head>다리이다.</head>
+		<cluster>14</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T922" total_morp="28" total_word="12">
+		<sent>나자프 주는 이라크 남부에 위치한 주로 주도는 나자프이며 면적은 28,824㎢, 인구는 1.477.134명이다.</sent>
+		<sbj type="DT_OTHERS" weight="-0.02" label="NP_OBJ" josa="">나자프</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">이라크</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.461">country</mln_predict>
+		<cnn_predict conf="0.640">country</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP_MOD--up--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>주는--남부에</gsdp_lemma>
+		<head>1.477.134명이다.</head>
+		<cluster>31</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1023" total_morp="39" total_word="15">
+		<sent>푸에블라 주는 멕시코 중동부에 위치한 주로 주도는 푸에블라이며 면적은 34,306㎢, 인구는 5,914,085명, 인구 밀도는 170명/㎢이다.</sent>
+		<sbj type="LCP_PROVINCE" weight="0.19" label="NP_OBJ" josa="에">푸에블라</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">멕시코</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.572">country</mln_predict>
+		<cnn_predict conf="0.557">country</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP_MOD--up--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>주는--중동부에</gsdp_lemma>
+		<head>170명/㎢이다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

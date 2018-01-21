@@ -1,0 +1,56 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP_AJT--down--VP_MOD--down--(NP_AJT)</dependency>
+	<total>4</total>
+	<sent_item id="M_T3549" total_morp="43" total_word="21">
+		<sent>그녀는 두 차례의 올림픽 출전 경험이 있고, 런던에서 열린 2012년_하계_올림픽의 2012년 하계 올림픽 펜싱 여자 에페 개인전에 출전했던 사라 베스베스의 동생이다.</sent>
+		<sbj type="DT_YEAR" weight="2.51" label="NP_MOD" josa="의">2012년_하계_올림픽</sbj>
+		<obj type="LCP_CAPITALCITY" weight="1.03" label="NP_AJT" josa="에서">런던</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.751">city</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>2012년--열린</gsdp_lemma>
+		<head>동생이다.</head>
+		<cluster>24</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T4068" total_morp="27" total_word="12">
+		<sent>아우는 런던에서 열린 2012년_하계_올림픽의 2012년 하계 올림픽 펜싱 여자 사브르 개인전에 출전하였다.</sent>
+		<sbj type="DT_YEAR" weight="2.51" label="NP_MOD" josa="의">2012년_하계_올림픽</sbj>
+		<obj type="LCP_CAPITALCITY" weight="1.03" label="NP_AJT" josa="에서">런던</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.986">city</mln_predict>
+		<cnn_predict conf="0.899">city</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>2012년--열린</gsdp_lemma>
+		<head>출전하였다.</head>
+		<cluster>40</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3444" total_morp="31" total_word="14">
+		<sent>마란은 런던에서 열린 2012년_하계_올림픽의 2012년 하계 올림픽 펜싱 여자 사브르 개인전에서 이집트를 대표로 출전하였다.</sent>
+		<sbj type="DT_YEAR" weight="2.51" label="NP_MOD" josa="의">2012년_하계_올림픽</sbj>
+		<obj type="LCP_CAPITALCITY" weight="1.03" label="NP_AJT" josa="에서">런던</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.927">city</mln_predict>
+		<cnn_predict conf="0.855">city</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>2012년--열린</gsdp_lemma>
+		<head>출전하였다.</head>
+		<cluster>40</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2934" total_morp="56" total_word="22">
+		<sent>"고대 그리스는 내가 배우는 학문에 어울려서 나는 올림픽에도 갈 수 있겠네요, 그렇죠?" 로버트슨은 아테네에서 열리는 1896년_하계_올림픽의 개막식에 참석하기 위해 11파운드 스털링를 냈다.</sent>
+		<sbj type="DT_YEAR" weight="2.51" label="NP_MOD" josa="의">1896년_하계_올림픽</sbj>
+		<obj type="LCP_CAPITALCITY" weight="1.03" label="NP_AJT" josa="에서">아테네</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.992">city</mln_predict>
+		<cnn_predict conf="0.510">city</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>개막식에--열리는</gsdp_lemma>
+		<head>냈다.</head>
+		<cluster>40</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

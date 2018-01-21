@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VNP--down--NP_MOD--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1287" total_morp="29" total_word="8">
+		<sent>〈내_사랑_내_곁에_(노래)〉는 대한민국의 가수 김현식의 6집 음반 《추억만들기》의 수록곡이다.</sent>
+		<sbj type="AFW_MUSIC" weight="1.73" label="NP_SBJ" josa="는">내_사랑_내_곁에_(노래)</sbj>
+		<obj type="PS_NAME" weight="0.89" label="NP_MOD" josa="의">김현식</obj>
+		<gold>artist</gold>
+		<mln_predict conf="1.000">artist</mln_predict>
+		<cnn_predict conf="0.435">artist</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VNP--down--NP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>수록곡이다.--《추억만들기》의</gsdp_lemma>
+		<head>수록곡이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

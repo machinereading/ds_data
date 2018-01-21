@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T266" total_morp="24" total_word="11">
+		<sent>히라쓰토 역은 일본 이와테_현 미야코 시에 위치한 동일본 여객철도 야마다_선의 철도역이다.</sent>
+		<sbj type="QT_OTHERS" weight="-1.43" label="NP_MOD" josa="의">야마다_선</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="">이와테_현</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.786">location</mln_predict>
+		<cnn_predict conf="0.680">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>위치한--시에</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>14</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--down--NP--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2369" total_morp="39" total_word="16">
+		<sent>2012년 1월 17일, 클럽에서의 성공적인 트라이얼 후, 오스트리아_분데스리가의 거함 FK_아우스트리아_빈과 1년 반 계약이 체결된 것이 발표되었다.</sent>
+		<sbj type="OGG_ECONOMY" weight="0.36" label="NP_CNJ" josa="과">FK_아우스트리아_빈</sbj>
+		<obj type="OGG_ECONOMY" weight="-0.14" label="NP_MOD" josa="의">오스트리아_분데스리가</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.370">country</mln_predict>
+		<cnn_predict conf="0.662">league</cnn_predict>
+		<gsdp>(NP_CNJ)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>거함</gsdp_lemma>
+		<head>발표되었다.</head>
+		<cluster>34</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

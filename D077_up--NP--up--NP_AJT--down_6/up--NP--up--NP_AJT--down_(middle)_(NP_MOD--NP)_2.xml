@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP--up--NP_AJT--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_T2220" total_morp="41" total_word="19">
+		<sent>홀리데이 쾌속 오쿠타마 호는 동일본 여객철도 주오_본선의 신주쿠 역(상행선은 도쿄_역까지 운행함)에서 오메 선의 오쿠타마 역까지 운행하는 홀리데이 쾌속 열차이다.</sent>
+		<sbj type="AF_ROAD" weight="0.25" label="NP_MOD" josa="의">주오_본선</sbj>
+		<obj type="LCP_CAPITALCITY" weight="0.97" label="NP" josa="까지">도쿄_역</obj>
+		<gold>routeStart</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.652">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>역(상행선은--운행함)에서</gsdp_lemma>
+		<head>열차이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T504" total_morp="47" total_word="20">
+		<sent>홀리데이 쾌속 오쿠타마 호는 동일본 여객철도 주오 본선(주오_쾌속선)의 신주쿠 역(상행선은 도쿄_역까지 운행함)에서 오메 선의 오쿠타마 역까지 운행하는 홀리데이 쾌속 열차이다.</sent>
+		<sbj type="AF_ROAD" weight="0.25" label="NP_MOD" josa="의">주오_쾌속선</sbj>
+		<obj type="LCP_CAPITALCITY" weight="0.97" label="NP" josa="까지">도쿄_역</obj>
+		<gold>routeStart</gold>
+		<mln_predict conf="0.995">location</mln_predict>
+		<cnn_predict conf="0.598">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>역(상행선은--운행함)에서</gsdp_lemma>
+		<head>열차이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

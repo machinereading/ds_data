@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2201" total_morp="30" total_word="15">
+		<sent>Live Scenes From New York은 프로그레시브_메탈밴드 드림_시어터가 세 번째로 발매한 라이브 앨범으로, 3CD로 구성되어 있다.</sent>
+		<sbj type="TMI_HW" weight="-0.26" label="NP_SBJ" josa="가">드림_시어터</sbj>
+		<obj type="" weight="0.00" label="NP" josa="">프로그레시브_메탈</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.708">currentMember</mln_predict>
+		<cnn_predict conf="0.543">currentMember</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>있다.</head>
+		<cluster>47</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

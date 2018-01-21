@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP_MOD--up--(NP_AJT)</dependency>
+	<total>2</total>
+	<sent_item id="M_T1593" total_morp="44" total_word="16">
+		<sent>1635년 시마바라의_난에 가담한 천주교신자들과 반란지도자 아마쿠사_시로는 반란이 진압될 것을 생각하여 아마쿠사 하도나 상도에 보물을 숨겼다고 한다.</sent>
+		<sbj type="LCP_CITY" weight="-0.46" label="NP_AJT" josa="에">시마바라의_난</sbj>
+		<obj type="PS_NAME" weight="0.88" label="NP_AJT" josa="는">아마쿠사_시로</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.651">commander</mln_predict>
+		<cnn_predict conf="0.515">commander</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_AJT)</gsdp>
+		<gsdp_lemma>가담한</gsdp_lemma>
+		<head>한다.</head>
+		<cluster>22</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1860" total_morp="27" total_word="11">
+		<sent>카니발 콥스는 크리에이터,슬레이어와 같은 스래시_메탈과 다른 데스 메탈 밴드인 모비드 엔젤,오톱시,데스에게서</sent>
+		<sbj type="PS_NAME" weight="-0.03" label="NP_AJT" josa="와">슬레이어</sbj>
+		<obj type="" weight="0.00" label="NP_AJT" josa="과">스래시_메탈</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.662">genre</mln_predict>
+		<cnn_predict conf="0.779">currentMember</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_AJT)</gsdp>
+		<gsdp_lemma>같은</gsdp_lemma>
+		<head>엔젤,오톱시,데스에게서</head>
+		<cluster>47</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

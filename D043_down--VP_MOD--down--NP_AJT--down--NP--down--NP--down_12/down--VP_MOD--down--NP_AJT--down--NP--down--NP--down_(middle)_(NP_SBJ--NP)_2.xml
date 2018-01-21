@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--VP_MOD--down--NP_AJT--down--NP--down--NP--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_T1436" total_morp="24" total_word="13">
+		<sent>오나카야마 역은 일본 홋카이도 가메다 군 나나에 정에 있는 홋카이도_여객철도 하코다테 본선의 철도역이다.</sent>
+		<sbj type="OGG_ECONOMY" weight="1.40" label="NP_SBJ" josa="도">홋카이도_여객철도</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="">홋카이도</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.834">location</mln_predict>
+		<cnn_predict conf="0.723">location</cnn_predict>
+		<gsdp>(NP_SBJ)--down--VP_MOD--down--NP_AJT--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>있는--나나에--군--가메다</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>14</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1631" total_morp="24" total_word="13">
+		<sent>와시노스 신호장은 일본 홋카이도 후타미 군 야쿠모 정에 있는 홋카이도_여객철도 하코다테 본선의 신호장이다.</sent>
+		<sbj type="OGG_ECONOMY" weight="1.40" label="NP_SBJ" josa="도">홋카이도_여객철도</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="">홋카이도</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.871">location</mln_predict>
+		<cnn_predict conf="0.646">location</cnn_predict>
+		<gsdp>(NP_SBJ)--down--VP_MOD--down--NP_AJT--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>있는--정에--군--후타미</gsdp_lemma>
+		<head>신호장이다.</head>
+		<cluster>14</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

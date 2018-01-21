@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP)--up--X--up--NP--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3276" total_morp="15" total_word="5">
+		<sent>《로맨스_(1998년_드라마)》 - 서울방송의 1998년 드라마</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.87" label="NP" josa="">로맨스_(1998년_드라마)</sbj>
+		<obj type="DT_YEAR" weight="-0.62" label="NP_MOD" josa="의">서울방송</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.652">channel</mln_predict>
+		<cnn_predict conf="0.970">channel</cnn_predict>
+		<gsdp>(NP)--up--X--up--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>---드라마</gsdp_lemma>
+		<head>드라마</head>
+		<cluster>6</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

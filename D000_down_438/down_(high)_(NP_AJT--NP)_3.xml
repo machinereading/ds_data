@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--(NP)</dependency>
+	<total>3</total>
+	<sent_item id="M_T1067" total_morp="50" total_word="21">
+		<sent>그의 곡 "Qui a tué grand maman" 은 대한민국에서 광주민주화운동을 기리는 민중가요 "오월의 노래"로 번안되었고, 피아니스트 이루마가 편곡하여 드라마 《겨울연가》에 삽입되었다.</sent>
+		<sbj type="AFW_VIDEO" weight="0.63" label="NP_AJT" josa="에">겨울연가</sbj>
+		<obj type="FD_ART" weight="3.14" label="NP" josa="">드라마</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.765">genre</mln_predict>
+		<cnn_predict conf="0.249">birthPlace</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>삽입되었다.</head>
+		<cluster>10</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3240" total_morp="17" total_word="7">
+		<sent>4월, 닛폰_TV_방송망 계열 《사립_바카레아_고교》로 드라마 첫 출연.</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.87" label="NP_AJT" josa="로">사립_바카레아_고교</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP" josa="">닛폰_TV_방송망</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.948">channel</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>출연.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3678" total_morp="47" total_word="21">
+		<sent>그녀는 1993년 서울방송 《주병진쇼》로 처음 얼굴을 알렸으며, 대한민국과 일본에서 공동 개최된 2002년 FIFA 월드컵 기간 중 축구선수 '호나우지뉴'와의 닮은꼴로 인기를 모았다.</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.87" label="NP_AJT" josa="로">주병진쇼</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP" josa="">서울방송</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.897">channel</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>모았다.</head>
+		<cluster>6</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP_MOD--up--(NP_AJT)</dependency>
+	<total>2</total>
+	<sent_item id="M_T909" total_morp="29" total_word="11">
+		<sent>또한 1996년부터 2001년까지 오사마 빈라덴과 아이만_알자와히리가 이끌던 알카에다 네트워크도 아프가니스탄에서 가동되었다.</sent>
+		<sbj type="" weight="0.00" label="NP_SBJ" josa="가">아이만_알자와히리</sbj>
+		<obj type="OGG_MILITARY" weight="-0.18" label="NP_AJT" josa="에다">알카에다</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.151">country</mln_predict>
+		<cnn_predict conf="0.566">commander</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP_MOD--up--(NP_AJT)</gsdp>
+		<gsdp_lemma>이끌던</gsdp_lemma>
+		<head>가동되었다.</head>
+		<cluster>3</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3164" total_morp="47" total_word="22">
+		<sent>2014년 1월 31일에 아메바컬쳐와의 계약 만료로 인해 아메바 컬쳐를 떠난 이후, 같은 해 3월에는 박재범이 이끄는 레이블 AOMG로 이적하여 공동 대표를 맡았다.</sent>
+		<sbj type="PS_NAME" weight="-0.15" label="NP_SBJ" josa="이">박재범</sbj>
+		<obj type="OGG_SPORTS" weight="-0.70" label="NP_AJT" josa="로">AOMG</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.722">club</mln_predict>
+		<cnn_predict conf="0.373">club</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP_MOD--up--(NP_AJT)</gsdp>
+		<gsdp_lemma>이끄는</gsdp_lemma>
+		<head>맡았다.</head>
+		<cluster>11</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

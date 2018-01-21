@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP--down--(NP_CNJ)</dependency>
+	<total>3</total>
+	<sent_item id="M_T2471" total_morp="34" total_word="14">
+		<sent>이전에는 주로 포유류(개, 고양이, 애완용 족제비, 햄스터, 다람쥐 등), 새, 어류 등을 애완용으로 사육해왔다.</sent>
+		<sbj type="AM_MAMMALIA" weight="0.17" label="NP_CNJ" josa="">고양이</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_CNJ" josa="">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="0.904">order</mln_predict>
+		<cnn_predict conf="0.763">class</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma>다람쥐</gsdp_lemma>
+		<head>사육해왔다.</head>
+		<cluster>23</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2614" total_morp="32" total_word="16">
+		<sent>그리하여 미국에 정착한 비토는 18세에 결혼하여 슬하에 산티노 코를레오네, 프레도_코를레오네, 마이클_코를레오네, 코니 코를레오네 등의 자녀를 둔다.</sent>
+		<sbj type="PS_NAME" weight="0.60" label="NP_CNJ" josa="">마이클_코를레오네</sbj>
+		<obj type="PS_NAME" weight="1.08" label="NP_CNJ" josa="">프레도_코를레오네</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.600">relative</mln_predict>
+		<cnn_predict conf="0.303">relative</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma>코를레오네</gsdp_lemma>
+		<head>둔다.</head>
+		<cluster>36</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T552" total_morp="22" total_word="7">
+		<sent>《자명고_(드라마)》, SBS, 2009년, 배우 : 정경호_(1983년), 여진구</sent>
+		<sbj type="FD_ART" weight="0.26" label="NP_CNJ" josa="">자명고_(드라마)</sbj>
+		<obj type="PS_NAME" weight="1.43" label="NP_CNJ" josa="">정경호_(1983년)</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.459">channel</mln_predict>
+		<cnn_predict conf="0.922">starring</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma>여진구</gsdp_lemma>
+		<head>여진구</head>
+		<cluster>39</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

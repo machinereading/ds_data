@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(VNP_MOD)--up--NP_AJT--down--NP_CNJ--down--(VNP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3938" total_morp="25" total_word="10">
+		<sent>최고 랍비는 아슈케나지_유대인 랍비와 세파르디_유대인 랍리로 나뉘며 임기는 최장 10년이다.</sent>
+		<sbj type="CV_TRIBE" weight="2.30" label="VNP_MOD" josa="">세파르디_유대인</sbj>
+		<obj type="" weight="0.00" label="VNP_MOD" josa="">아슈케나지_유대인</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.280">related</mln_predict>
+		<cnn_predict conf="0.134">birthPlace</cnn_predict>
+		<gsdp>(VNP_MOD)--up--NP_AJT--down--NP_CNJ--down--(VNP_MOD)</gsdp>
+		<gsdp_lemma>랍리로--랍비와</gsdp_lemma>
+		<head>10년이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

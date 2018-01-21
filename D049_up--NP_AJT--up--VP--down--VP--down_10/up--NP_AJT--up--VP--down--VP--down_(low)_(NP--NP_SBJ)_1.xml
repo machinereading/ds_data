@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_AJT--up--VP--down--VP--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3764" total_morp="43" total_word="19">
+		<sent>그는 2004년 2월 1일에 1군 및 라리가 데뷔전을 치렀는데, 0-1로 진 데포르티보_라코루냐 원정에서 프란시스코 가야르도와 64분에 후보 선수로 들어갔다.</sent>
+		<sbj type="LCP_COUNTRY" weight="-0.53" label="NP" josa="">데포르티보_라코루냐</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_SBJ" josa="가">라리가</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.711">club</mln_predict>
+		<cnn_predict conf="0.420">league</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP--down--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma>원정에서--들어갔다.--치렀는데,</gsdp_lemma>
+		<head>들어갔다.</head>
+		<cluster>34</cluster>
+		<comment>Entity2에서 가를 조사로 인식해서 NP_SBJ로 잘못 인식함.
+			CNN이 장점을 가지는 형태로 보임
+		    문장이 복잡합지만, 개체타입이 잘 나오면 개체타입만 가지고 유추할 수 있는 형태.</comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,147 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--VNP_MOD--down--(NP_MOD)</dependency>
+	<total>11</total>
+	<sent_item id="M_T3483" total_morp="18" total_word="7">
+		<sent>프랑스의 전 대통령인 샤를_드_골의 이름을 따서 붙여졌다.</sent>
+		<sbj type="PS_NAME" weight="0.40" label="NP_MOD" josa="의">샤를_드_골</sbj>
+		<obj type="LCP_COUNTRY" weight="0.58" label="NP_MOD" josa="의">프랑스</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.565">birthPlace</mln_predict>
+		<cnn_predict conf="0.420">birthPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>대통령인</gsdp_lemma>
+		<head>붙여졌다.</head>
+		<cluster>31</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2505" total_morp="24" total_word="6">
+		<sent>전 독일_축구_국가대표팀의 공격수였던 카를하인츠_리들레의 아들이기도 하다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_MOD" josa="의">카를하인츠_리들레</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_MOD" josa="의">독일_축구_국가대표팀</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.400">club</mln_predict>
+		<cnn_predict conf="0.357">team</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>공격수였던</gsdp_lemma>
+		<head>하다.</head>
+		<cluster>30</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3954" total_morp="27" total_word="10">
+		<sent>〈부서진 입가에 머물다〉는 문화방송 MBC_TV의 시트콤 프로그램인 논스톱_5의 OST로 사용되었다.</sent>
+		<sbj type="TMI_SW" weight="-0.50" label="NP_MOD" josa="의">논스톱_5</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP_MOD" josa="의">MBC_TV</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.937">channel</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>프로그램인</gsdp_lemma>
+		<head>사용되었다.</head>
+		<cluster>48</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T302" total_morp="22" total_word="7">
+		<sent>아래는 KBS_1TV의 토론 프로그램인 《생방송_심야토론》의 방영 목록이다.</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.87" label="NP_MOD" josa="의">생방송_심야토론</sbj>
+		<obj type="" weight="0.00" label="NP_MOD" josa="의">KBS_1TV</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.980">channel</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>프로그램인</gsdp_lemma>
+		<head>목록이다.</head>
+		<cluster>48</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1236" total_morp="24" total_word="8">
+		<sent>아래는 KBS_1TV의 다큐멘터리 텔레비전 프로그램인 《동행_(텔레비전_프로그램)》의 방영 목록이다.</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.87" label="NP_MOD" josa="의">동행_(텔레비전_프로그램)</sbj>
+		<obj type="" weight="0.00" label="NP_MOD" josa="의">KBS_1TV</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.986">channel</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>프로그램인</gsdp_lemma>
+		<head>목록이다.</head>
+		<cluster>48</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T234" total_morp="28" total_word="15">
+		<sent>헤프렌 이삭 수아레스 베르무데스는 베네수엘라 시우다드볼리바르 출생의 스페인 축구 선수로, 프리메라리가의 축구 클럽인 레알_바야돌리드의 윙어이다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_MOD" josa="의">레알_바야돌리드</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_MOD" josa="의">프리메라리가</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.974">league</mln_predict>
+		<cnn_predict conf="0.546">league</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>클럽인</gsdp_lemma>
+		<head>윙어이다.</head>
+		<cluster>34</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2536" total_morp="21" total_word="7">
+		<sent>이 부제는 청나라의 공무원이었던 임칙서의 대구의 전반부분이다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_MOD" josa="의">임칙서</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_MOD" josa="의">청나라</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.435">birthPlace</mln_predict>
+		<cnn_predict conf="0.492">birthPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>공무원이었던</gsdp_lemma>
+		<head>전반부분이다.</head>
+		<cluster>29</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2577" total_morp="22" total_word="9">
+		<sent>이 경기장은 독일 푸스발-분데스리가의 축구 클럽인 보루시아_도르트문트의 홈구장으로 사용된다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_MOD" josa="의">보루시아_도르트문트</sbj>
+		<obj type="LCP_CITY" weight="-0.89" label="NP_MOD" josa="의">푸스발-분데스리가</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">league</mln_predict>
+		<cnn_predict conf="0.874">league</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>클럽인</gsdp_lemma>
+		<head>사용된다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3699" total_morp="22" total_word="8">
+		<sent>바버라 피어스 부시는 미국의 미국의 대통령인 조지_H._W._부시의 부인이다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_MOD" josa="의">조지_H._W._부시</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_MOD" josa="의">미국</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.632">birthPlace</mln_predict>
+		<cnn_predict conf="0.530">birthPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>대통령인</gsdp_lemma>
+		<head>부인이다.</head>
+		<cluster>49</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3814" total_morp="20" total_word="8">
+		<sent>바버라 피어스 부시는 미국의 미국의 대통령인 조지_W._부시의 딸이다.</sent>
+		<sbj type="PS_NAME" weight="0.40" label="NP_MOD" josa="의">조지_W._부시</sbj>
+		<obj type="LCP_COUNTRY" weight="0.58" label="NP_MOD" josa="의">미국</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.487">deathPlace</mln_predict>
+		<cnn_predict conf="0.569">birthPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>대통령인</gsdp_lemma>
+		<head>딸이다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T390" total_morp="18" total_word="8">
+		<sent>현재 우즈베키스탄_리그의 소속 클럽인 FK_로코모티프_타슈켄트의 선수로 활동하고 있다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_MOD" josa="의">FK_로코모티프_타슈켄트</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_MOD" josa="의">우즈베키스탄_리그</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.943">league</mln_predict>
+		<cnn_predict conf="0.398">league</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>클럽인</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>12</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

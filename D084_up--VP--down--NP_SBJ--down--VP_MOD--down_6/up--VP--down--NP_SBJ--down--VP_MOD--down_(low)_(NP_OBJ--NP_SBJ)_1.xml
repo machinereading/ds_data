@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP--down--NP_SBJ--down--VP_MOD--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1218" total_morp="49" total_word="18">
+		<sent>이 정부는 뒷날 장제스가 이끄는 국민혁명군이 북벌_(국민당)을 단행하면서 1927년 장제스를 중심으로 난징에 국민정부가 수립되자, 군벌들은 해체하거나 국민정부에 흡수되었다.</sent>
+		<sbj type="LC_OTHERS" weight="-0.44" label="NP_OBJ" josa="을">북벌_(국민당)</sbj>
+		<obj type="PS_NAME" weight="0.88" label="NP_SBJ" josa="가">장제스</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.480">country</mln_predict>
+		<cnn_predict conf="0.611">commander</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--NP_SBJ--down--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma>단행하면서--국민혁명군이--이끄는</gsdp_lemma>
+		<head>흡수되었다.</head>
+		<cluster>29</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

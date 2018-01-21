@@ -1,0 +1,82 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP_MOD--up--(NP_SBJ)</dependency>
+	<total>6</total>
+	<sent_item id="M_T822" total_morp="52" total_word="21">
+		<sent>록그룹 백두산_(밴드)의 리더인 유현상은 일본에서 나카모리 아키나가 공연한 라이브 콘서트를 보고 영감을 받아 연예사무소를 설립, 처음으로 양성한 가수가 바로 이지연이었다고 술회하였다.</sent>
+		<sbj type="PS_NAME" weight="0.68" label="NP_MOD" josa="의">백두산_(밴드)</sbj>
+		<obj type="PS_NAME" weight="1.22" label="NP_SBJ" josa="은">유현상</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.929">currentMember</mln_predict>
+		<cnn_predict conf="0.686">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP_MOD--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma>리더인</gsdp_lemma>
+		<head>술회하였다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2333" total_morp="17" total_word="6">
+		<sent>〈Dream〉은 에이핑크의 멤버인 정은지가 부른 노래이다.</sent>
+		<sbj type="PS_NAME" weight="0.68" label="NP_MOD" josa="의">에이핑크</sbj>
+		<obj type="PS_NAME" weight="1.22" label="NP_SBJ" josa="가">정은지</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.974">currentMember</mln_predict>
+		<cnn_predict conf="0.934">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP_MOD--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma>멤버인</gsdp_lemma>
+		<head>노래이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2138" total_morp="45" total_word="19">
+		<sent>907년, 당나라가 멸망한 후, 그 뒤를 이은 후량_(오대)의 개국 황제인 후량 태조 주전충은 당시 그의 신하였던 왕용을 조왕에 책봉하였다.</sent>
+		<sbj type="PS_NAME" weight="-0.15" label="NP_MOD" josa="의">후량_(오대)</sbj>
+		<obj type="PS_NAME" weight="1.09" label="NP_SBJ" josa="은">주전충</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.747">leaderName</mln_predict>
+		<cnn_predict conf="0.578">leaderName</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP_MOD--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma>황제인</gsdp_lemma>
+		<head>책봉하였다.</head>
+		<cluster>22</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3557" total_morp="61" total_word="16">
+		<sent>25일에는 플래닛_쉬버의 멤버인 필터_(음악가) 또한 자신의 <a href="http%3A//mapthesoul.com/blog/philtre">블로그</a> 를 통해서 플래닛 쉬버가 "[e]" 음반에 참여함을 밝혔다.</sent>
+		<sbj type="PS_NAME" weight="0.68" label="NP_MOD" josa="의">플래닛_쉬버</sbj>
+		<obj type="" weight="0.00" label="NP_SBJ" josa="">필터_(음악가)</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="1.000">currentMember</mln_predict>
+		<cnn_predict conf="0.666">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP_MOD--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma>멤버인</gsdp_lemma>
+		<head>밝혔다.</head>
+		<cluster>10</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T231" total_morp="28" total_word="10">
+		<sent>인기그룹 SMAP의 맴버인 구사나기_쓰요시가 진행하며, 방송명은 그의 한자표기의 한국어식 발음이다.</sent>
+		<sbj type="PS_NAME" weight="0.68" label="NP_MOD" josa="의">SMAP</sbj>
+		<obj type="PS_NAME" weight="1.22" label="NP_SBJ" josa="가">구사나기_쓰요시</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.481">currentMember</mln_predict>
+		<cnn_predict conf="0.798">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP_MOD--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma>맴버인</gsdp_lemma>
+		<head>발음이다.</head>
+		<cluster>35</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T130" total_morp="59" total_word="24">
+		<sent>삼국 시대 오_(삼국)나라의 초대 황제인 손권이 이 곳에 도읍을 하였으며, 많은 주민들이 이 곳에 이사와서 거주했기 때문에 삼국시대 위나라의 수도인 허창 다음으로 번창한 도시였다.</sent>
+		<sbj type="" weight="0.00" label="NP_MOD" josa="의">오_(삼국)</sbj>
+		<obj type="PS_NAME" weight="1.09" label="NP_SBJ" josa="이">손권</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.983">leaderName</mln_predict>
+		<cnn_predict conf="0.748">leaderName</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP_MOD--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma>황제인</gsdp_lemma>
+		<head>도시였다.</head>
+		<cluster>23</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

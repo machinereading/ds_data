@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--VP_MOD--down--NP_AJT--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2469" total_morp="52" total_word="19">
+		<sent>1982년 FIFA 월드컵 시절 독일 축구 국가대표팀과 오스트리아_축구_국가대표팀와의 경기에서 나온 서독_대_오스트리아_(1982년_FIFA_월드컵)으로 인해 억울하게 1라운드에서 탈락했던 쓰라린 과거도 갖고 있다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_AJT" josa="으로">서독_대_오스트리아_(1982년_FIFA_월드컵)</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_MOD" josa="의">오스트리아_축구_국가대표팀</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.985">club</mln_predict>
+		<cnn_predict conf="0.448">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>나온--경기에서</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>5</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

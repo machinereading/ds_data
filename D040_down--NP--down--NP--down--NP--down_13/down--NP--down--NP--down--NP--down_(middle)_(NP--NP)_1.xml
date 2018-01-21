@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP)--down--NP--down--NP--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2659" total_morp="16" total_word="8">
+		<sent>사무실은 서울특별시 성북구 하월곡동 39-1 한국과학기술연구원 1층에 있다.</sent>
+		<sbj type="OGG_EDUCATION" weight="-0.23" label="NP" josa="">한국과학기술연구원</sbj>
+		<obj type="LCP_CAPITALCITY" weight="1.03" label="NP" josa="">서울특별시</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.938">country</mln_predict>
+		<cnn_predict conf="0.566">location</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>39-1--하월곡동--성북구</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--down--VNP_MOD--down--(NP_MOD)</dependency>
+	<total>2</total>
+	<sent_item id="M_T2571" total_morp="36" total_word="15">
+		<sent>리마르도는 결승전에서 노르웨이국적의 폴란드인 바르토시_피아세츠키를 15대 10으로 제압하여, 베네수엘라의 올림픽 펜싱 역사상 첫 금메달을 차지하였다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_OBJ" josa="를">바르토시_피아세츠키</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_MOD" josa="의">노르웨이</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.380">birthPlace</mln_predict>
+		<cnn_predict conf="0.312">country</cnn_predict>
+		<gsdp>(NP_OBJ)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>폴란드인</gsdp_lemma>
+		<head>차지하였다.</head>
+		<cluster>23</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2560" total_morp="35" total_word="13">
+		<sent>5월 15일 볼턴_원더러스_FC의 감독이었던 샘_앨러다이스를 선임하였는데, 이것은 프레디 셰퍼드가 단장으로서 한 마지막 행보였다.</sent>
+		<sbj type="PS_NAME" weight="0.73" label="NP_OBJ" josa="를">샘_앨러다이스</sbj>
+		<obj type="OGG_SPORTS" weight="1.71" label="NP_MOD" josa="의">볼턴_원더러스_FC</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.996">team</mln_predict>
+		<cnn_predict conf="0.433">club</cnn_predict>
+		<gsdp>(NP_OBJ)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>감독이었던</gsdp_lemma>
+		<head>행보였다.</head>
+		<cluster>9</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

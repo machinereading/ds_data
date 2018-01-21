@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP)--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3623" total_morp="7" total_word="4">
+		<sent>도쿄_도 아라카와 구 출신. 오빠와 언니(카메이_에리, 전 모닝구무스메)가 있다.</sent>
+		<sbj type="" weight="0.00" label="NP" josa="">카메이_에리</sbj>
+		<obj type="" weight="0.00" label="NP_SBJ" josa="도">도쿄_도</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.117">owner</mln_predict>
+		<cnn_predict conf="0.524">currentMember</cnn_predict>
+		<gsdp>(NP)--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>출신.</head>
+		<cluster>2</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

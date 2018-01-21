@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_AJT--up--VP--down--VP--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1812" total_morp="33" total_word="12">
+		<sent>일본이 한국을 협박하여 이지용과 하야시_곤스케 명의로 공수동맹을 전제로 6개의 조항으로 한일의정서가 만들어졌다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP" josa="">하야시_곤스케</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_SBJ" josa="이">일본</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.176">country</mln_predict>
+		<cnn_predict conf="0.261">birthPlace</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP--down--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma>명의로--만들어졌다.--협박하여</gsdp_lemma>
+		<head>만들어졌다.</head>
+		<cluster>27</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

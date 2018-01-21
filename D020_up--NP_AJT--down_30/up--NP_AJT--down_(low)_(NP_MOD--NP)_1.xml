@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP_AJT--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2061" total_morp="32" total_word="12">
+		<sent>2013년 9월 22일, 마르키뉴스는 1-1로 비긴 AS_모나코_FC와의 리그_1 경기에서 처음으로 선발 출전하였다.</sent>
+		<sbj type="OGG_SPORTS" weight="-0.61" label="NP_MOD" josa="의">AS_모나코_FC</sbj>
+		<obj type="" weight="0.00" label="NP" josa="">리그_1</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.549">league</mln_predict>
+		<cnn_predict conf="0.640">league</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>경기에서</gsdp_lemma>
+		<head>출전하였다.</head>
+		<cluster>25</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

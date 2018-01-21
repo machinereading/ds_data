@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_PRN)--down--VP_MOD--down--NP_AJT--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1894" total_morp="61" total_word="24">
+		<sent>BIG SHOW 2011는 빅뱅_(음악_그룹)의 아홉 번째 콘서트 투어로 2008년 발표된 정규앨범 2집 "Remember_(빅뱅의_음반)" 이후 2년여만에 발표된 미니앨범 4집 "BIGBANG MINI 4"의 발표에 맞춰 개최되었다.</sent>
+		<sbj type="" weight="0.00" label="NP_PRN" josa="">Remember_(빅뱅의_음반)</sbj>
+		<obj type="PS_NAME" weight="0.89" label="NP_MOD" josa="의">빅뱅_(음악_그룹)</obj>
+		<gold>artist</gold>
+		<mln_predict conf="0.782">artist</mln_predict>
+		<cnn_predict conf="0.661">currentMember</cnn_predict>
+		<gsdp>(NP_PRN)--down--VP_MOD--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>발표된--투어로</gsdp_lemma>
+		<head>개최되었다.</head>
+		<cluster>47</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_AJT--up--VP--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1389" total_morp="55" total_word="26">
+		<sent>안테노르의 집안은 트로이아_전쟁 당시 헬레네를 메넬라오스에게 돌려보내고 그리스군과의 평화를 주장했는데 이 때문에 나중에 트로이아가 함락되었을 때 그리스 측에 뇌물을 주고 자신의 집은 약탈을 면했다는 설이 있다.</sent>
+		<sbj type="EV_WAR_REVOLUTION" weight="2.59" label="NP" josa="">트로이아_전쟁</sbj>
+		<obj type="PS_NAME" weight="0.88" label="NP_AJT" josa="에게">메넬라오스</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.960">commander</mln_predict>
+		<cnn_predict conf="0.866">commander</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>당시--돌려보내고</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>17</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

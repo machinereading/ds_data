@@ -1,0 +1,212 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--down--(NP_MOD)</dependency>
+	<total>16</total>
+	<sent_item id="M_T3526" total_morp="60" total_word="21">
+		<sent>평의선은 분단 이전의 경의선에서 평양역~신의주역 구간을 따로 분리해서 부르는 명칭으로, 경부선과 연결되어 한반도를 종단하는 간선철도이며, 신의주역에서는 중화인민공화국의 단둥과 조중우의교를 통해 연결된다.</sent>
+		<sbj type="AF_BUILDING" weight="1.77" label="NP_OBJ" josa="를">조중우의교</sbj>
+		<obj type="LCP_COUNTRY" weight="-0.62" label="NP_MOD" josa="의">중화인민공화국</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.772">owner</mln_predict>
+		<cnn_predict conf="0.198">country</cnn_predict>
+		<gsdp>(NP_OBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>연결된다.</head>
+		<cluster>36</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3378" total_morp="57" total_word="20">
+		<sent>그는 아르헨티나_축구_국가대표팀와의 2014년_FIFA_월드컵_결승전을 앞두고 몸을 풀던 도중 부상을 당해 크리스토프 크라머가 그를 대신했지만, 독일은 연장전 끝에 1-0으로 이기고 우승을 차지했다.</sent>
+		<sbj type="DT_YEAR" weight="-0.65" label="NP_OBJ" josa="을">2014년_FIFA_월드컵_결승전</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_MOD" josa="의">아르헨티나_축구_국가대표팀</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.811">club</mln_predict>
+		<cnn_predict conf="0.553">team</cnn_predict>
+		<gsdp>(NP_OBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>차지했다.</head>
+		<cluster>30</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2482" total_morp="58" total_word="26">
+		<sent>서건창은 2014년 10월 17일, SK_와이번스의 채병용을 상대로 한국프로야구 최초의 단일 시즌 200안타를 돌파했으며 같은 날 SK 와이번스의 이재영을 상대로 안타 하나를 추가하여 최종적으로 시즌 201안타를 기록하였다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_OBJ" josa="을">채병용</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_MOD" josa="의">SK_와이번스</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.632">team</mln_predict>
+		<cnn_predict conf="0.975">team</cnn_predict>
+		<gsdp>(NP_OBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>기록하였다.</head>
+		<cluster>41</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1643" total_morp="29" total_word="13">
+		<sent>대전 구단이 계약이 만료된 김동찬의 대체 선수로 경남_FC의 크리스티안_더널라케을 노리고 있다는 기사가 보도되었다.</sent>
+		<sbj type="PS_NAME" weight="0.73" label="NP_OBJ" josa="을">크리스티안_더널라케</sbj>
+		<obj type="OGG_SPORTS" weight="1.71" label="NP_MOD" josa="의">경남_FC</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.346">club</mln_predict>
+		<cnn_predict conf="0.441">team</cnn_predict>
+		<gsdp>(NP_OBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>보도되었다.</head>
+		<cluster>25</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1243" total_morp="32" total_word="16">
+		<sent>그해 쿠알라룸푸르에서 열린 영연방 경기 대회에서 9.88초를 세워 나미비아의 프랭키 프레더릭스와 바베이도스의 오바델레_톰슨을 꺾고 우승을 거두었다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_OBJ" josa="을">오바델레_톰슨</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_MOD" josa="의">바베이도스</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.335">team</mln_predict>
+		<cnn_predict conf="0.372">birthPlace</cnn_predict>
+		<gsdp>(NP_OBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>거두었다.</head>
+		<cluster>34</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2080" total_morp="24" total_word="11">
+		<sent>만약 오성이라는 한자를 우조라고 읽으면, 오카야마 현 오카야마_시의 오카야마_성을 의미하게 된다.</sent>
+		<sbj type="" weight="0.00" label="NP_OBJ" josa="을">오카야마_성</sbj>
+		<obj type="LCP_CITY" weight="0.92" label="NP_MOD" josa="의">오카야마_시</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.264">operator</mln_predict>
+		<cnn_predict conf="0.412">region</cnn_predict>
+		<gsdp>(NP_OBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>된다.</head>
+		<cluster>19</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1597" total_morp="48" total_word="22">
+		<sent>서울에서 열린 K-1 2006 아시아 GP 토너먼트에 데뷔를 하여 이란의 메하디_미르다부디를 판정으로 꺾었지만 준결승에서 입식 경험이 거의 전무한 김민수에게 연장에서 판정으로 패배했다.</sent>
+		<sbj type="CV_TAX" weight="-0.04" label="NP_OBJ" josa="를">메하디_미르다부디</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_MOD" josa="의">이란</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.504">birthPlace</mln_predict>
+		<cnn_predict conf="0.462">birthPlace</cnn_predict>
+		<gsdp>(NP_OBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>패배했다.</head>
+		<cluster>12</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T630" total_morp="18" total_word="8">
+		<sent>아일랜드의 섀넌 공항을 출발점으로 러시아의 상트페테르부르크를 종착점으로 한다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_OBJ" josa="를">상트페테르부르크</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">러시아</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.451">birthPlace</mln_predict>
+		<cnn_predict conf="0.374">country</cnn_predict>
+		<gsdp>(NP_OBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>한다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3015" total_morp="39" total_word="18">
+		<sent>이명주는 12월 3일 K리그 대상 시상식에서 광주 FC의 이한샘, 전남_드래곤즈의 박선용을 압도적인 표 차이로 제치고 K리그 영플레이어상을 받았다.</sent>
+		<sbj type="PS_NAME" weight="0.73" label="NP_OBJ" josa="을">박선용</sbj>
+		<obj type="OGG_SPORTS" weight="1.71" label="NP_MOD" josa="의">전남_드래곤즈</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.560">club</mln_predict>
+		<cnn_predict conf="0.414">club</cnn_predict>
+		<gsdp>(NP_OBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>받았다.</head>
+		<cluster>48</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2441" total_morp="39" total_word="18">
+		<sent>CBS 시절에도 이를 추진한 적이 있으나 수리 기간 동안 사용할 임시 구장으로 뉴욕_메츠의 셰이_스타디움을 사용하는 방안이 거절당하면서 무산되었다.</sent>
+		<sbj type="AF_BUILDING" weight="1.68" label="NP_OBJ" josa="을">셰이_스타디움</sbj>
+		<obj type="OGG_SPORTS" weight="0.17" label="NP_MOD" josa="의">뉴욕_메츠</obj>
+		<gold>operator</gold>
+		<mln_predict conf="0.988">operator</mln_predict>
+		<cnn_predict conf="0.523">team</cnn_predict>
+		<gsdp>(NP_OBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>무산되었다.</head>
+		<cluster>2</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3824" total_morp="12" total_word="5">
+		<sent>롯데_자이언츠의 전준우를 사위로 맞게 되었다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_OBJ" josa="를">전준우</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_MOD" josa="의">롯데_자이언츠</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.236">team</mln_predict>
+		<cnn_predict conf="0.862">team</cnn_predict>
+		<gsdp>(NP_OBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>되었다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T306" total_morp="26" total_word="11">
+		<sent>스웨덴의 카레수안도를 출발점으로 덴마크와 독일, 오스트리아를 거쳐 이탈리아의 젤라를 종착점으로 한다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_OBJ" josa="를">젤라</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">이탈리아</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.289">country</mln_predict>
+		<cnn_predict conf="0.388">country</cnn_predict>
+		<gsdp>(NP_OBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>한다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3278" total_morp="48" total_word="23">
+		<sent>가장 먼저 중원을 보강하기 위해 애스턴_빌라_FC의 개러스_배리를 영입하기 위해 많은 공을 들였으나 실패로 돌아가게 되고 토트넘 홋스퍼 FC의 공격수인 로비 킨을 데려오게 된다.</sent>
+		<sbj type="" weight="0.00" label="NP_OBJ" josa="를">개러스_배리</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_MOD" josa="의">애스턴_빌라_FC</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.398">club</mln_predict>
+		<cnn_predict conf="0.552">club</cnn_predict>
+		<gsdp>(NP_OBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>된다.</head>
+		<cluster>25</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1050" total_morp="35" total_word="15">
+		<sent>1937년 7월에 일본의 아키타_현을 방문했을 때 그녀는 1935년에 죽은 유명한 개 충견 하치에 대해 물어보았다.</sent>
+		<sbj type="LCP_PROVINCE" weight="0.19" label="NP_OBJ" josa="을">아키타_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">일본</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.425">birthPlace</mln_predict>
+		<cnn_predict conf="0.405">region</cnn_predict>
+		<gsdp>(NP_OBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>물어보았다.</head>
+		<cluster>27</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T338" total_morp="26" total_word="12">
+		<sent>트라파니 칼초는 이탈리아의 트라파니_현를 연고로 한 프로 축구팀으로, 현재 세리에 B에 속해있다.</sent>
+		<sbj type="PS_NAME" weight="0.06" label="NP_OBJ" josa="를">트라파니_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">이탈리아</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.391">country</mln_predict>
+		<cnn_predict conf="0.431">region</cnn_predict>
+		<gsdp>(NP_OBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>속해있다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3690" total_morp="38" total_word="15">
+		<sent>2012년 서울이 경남_FC의 김주영_(축구_선수)을 영입하는 과정에서 이재안과 현금을 경남에 내주게 되어 경남으로 적을 옮기게 되었다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_OBJ" josa="을">김주영_(축구_선수)</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_MOD" josa="의">경남_FC</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.431">club</mln_predict>
+		<cnn_predict conf="0.462">club</cnn_predict>
+		<gsdp>(NP_OBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>되었다.</head>
+		<cluster>9</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

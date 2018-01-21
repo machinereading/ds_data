@@ -1,0 +1,537 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--(NP_MOD)</dependency>
+	<total>41</total>
+	<sent_item id="M_T1432" total_morp="29" total_word="13">
+		<sent>그는 현재 잉글랜드 프리미어리그의 리버풀 FC에서 9년간의 생활을 마치고 친정팀인 덴마크_수페르리가의 브뢴뷔_IF에서 뛰었다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에서">브뢴뷔_IF</sbj>
+		<obj type="LCP_COUNTRY" weight="-0.93" label="NP_MOD" josa="의">덴마크_수페르리가</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.285">league</mln_predict>
+		<cnn_predict conf="0.750">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>뛰었다.</head>
+		<cluster>30</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1929" total_morp="16" total_word="6">
+		<sent>2010년 여름, 그는 프리미어리그의 뉴캐슬_유나이티드_FC로 이적한다.</sent>
+		<sbj type="OGG_SPORTS" weight="-0.61" label="NP_AJT" josa="로">뉴캐슬_유나이티드_FC</sbj>
+		<obj type="OGG_SPORTS" weight="-1.05" label="NP_MOD" josa="의">프리미어리그</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.981">league</mln_predict>
+		<cnn_predict conf="0.918">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>이적한다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2900" total_morp="16" total_word="6">
+		<sent>레이캬네스 화산은 아이슬란드의 레이캬네스_반도에 위치한 활화산이다.</sent>
+		<sbj type="PS_NAME" weight="-0.89" label="NP_AJT" josa="에">레이캬네스_반도</sbj>
+		<obj type="LCP_COUNTRY" weight="-0.62" label="NP_MOD" josa="의">아이슬란드</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.684">country</mln_predict>
+		<cnn_predict conf="0.661">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>활화산이다.</head>
+		<cluster>11</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1852" total_morp="35" total_word="14">
+		<sent>2008년 잉글랜드 챔피언십리그의 플리머스 아가일에 입단하였지만, 주전 자리를 차지하지 못하고 2009년 스위스_슈퍼리그의 FC_시옹으로 이적하였다.</sent>
+		<sbj type="OGG_SPORTS" weight="-0.61" label="NP_AJT" josa="으로">FC_시옹</sbj>
+		<obj type="EV_SPORTS" weight="-0.63" label="NP_MOD" josa="의">스위스_슈퍼리그</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.992">league</mln_predict>
+		<cnn_predict conf="0.759">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>이적하였다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1823" total_morp="27" total_word="12">
+		<sent>조스머 볼미 "조지" 알티도어는 미국의 축구 선수로, 현재 메이저_리그_사커의 토론토_FC에서 활약하고 있다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에서">토론토_FC</sbj>
+		<obj type="TMI_HW" weight="-0.33" label="NP_MOD" josa="의">메이저_리그_사커</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.483">league</mln_predict>
+		<cnn_predict conf="0.522">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>있다.</head>
+		<cluster>25</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T960" total_morp="34" total_word="15">
+		<sent>줄리우 세자르 클리멘치 바프티스타 는 브라질의 프로 축구 선수로, 최근에 메이저_리그_사커의 올랜도_시티_SC에서 활약했던 미드필더이자 공격수이다.</sent>
+		<sbj type="OGG_SCIENCE" weight="0.08" label="NP_AJT" josa="에서">올랜도_시티_SC</sbj>
+		<obj type="" weight="0.00" label="NP_MOD" josa="의">메이저_리그_사커</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.935">league</mln_predict>
+		<cnn_predict conf="0.506">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>공격수이다.</head>
+		<cluster>24</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2421" total_morp="23" total_word="11">
+		<sent>안톨린 알카라스 비베로스는 파라과이의 축구 선수로, 현재 파라과이_프리메라_디비시온의 클루브_리베르타드에서 뛰고 있다.</sent>
+		<sbj type="AF_BUILDING" weight="-0.22" label="NP_AJT" josa="에서">클루브_리베르타드</sbj>
+		<obj type="TMI_HW" weight="-0.33" label="NP_MOD" josa="의">파라과이_프리메라_디비시온</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.603">league</mln_predict>
+		<cnn_predict conf="0.629">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>있다.</head>
+		<cluster>11</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T4017" total_morp="45" total_word="22">
+		<sent>그 후, 레알 마드리드 카스티야는 레알 마드리드의 유소년을 키우는 팀으로 발돋움하게 되고, 그 이후에 라 파브리카는 FC_바르셀로나의 라_마시아와 같은 유소년 시스템으로 성장한다.</sent>
+		<sbj type="PS_NAME" weight="-0.46" label="NP_AJT" josa="와">라_마시아</sbj>
+		<obj type="OGG_SPORTS" weight="-0.01" label="NP_MOD" josa="의">FC_바르셀로나</obj>
+		<gold>owner</gold>
+		<mln_predict conf="0.385">club</mln_predict>
+		<cnn_predict conf="0.476">club</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>성장한다.</head>
+		<cluster>34</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2029" total_morp="23" total_word="10">
+		<sent>원래는 콘스탄티노플 경마장 건물에 있던 것으로, 현재는 베네치아의 산마르코_대성당에 있다.</sent>
+		<sbj type="AF_CULTURAL_ASSET" weight="-0.57" label="NP_AJT" josa="에">산마르코_대성당</sbj>
+		<obj type="LCP_CITY" weight="0.92" label="NP_MOD" josa="의">베네치아</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.366">region</mln_predict>
+		<cnn_predict conf="0.258">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>있다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2535" total_morp="29" total_word="14">
+		<sent>바스티안 슈바인슈타이거는 독일의 축구 선수로, 현재 미국 메이저_리그_사커의 시카고_파이어에서 뛰고 있으며, 포지션은 중앙 미드필더이다.</sent>
+		<sbj type="LCP_CITY" weight="0.30" label="NP_AJT" josa="에서">시카고_파이어</sbj>
+		<obj type="LCP_PROVINCE" weight="-0.75" label="NP_MOD" josa="의">메이저_리그_사커</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.842">region</mln_predict>
+		<cnn_predict conf="0.564">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>미드필더이다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3167" total_morp="15" total_word="6">
+		<sent>현재 리그_1의 올랭피크_드_마르세유에서 미드필더로 뛰고 있다.</sent>
+		<sbj type="AF_BUILDING" weight="-0.22" label="NP_AJT" josa="에서">올랭피크_드_마르세유</sbj>
+		<obj type="" weight="0.00" label="NP_MOD" josa="의">리그_1</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.556">league</mln_predict>
+		<cnn_predict conf="0.964">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>있다.</head>
+		<cluster>34</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3171" total_morp="30" total_word="12">
+		<sent>2006 시즌 12골을 기록하였고 이 활약을 바탕으로 2007년 여름 캄페오나투_브라질레이루_세리이_A의 크루제이루_EC로 이적하였다.</sent>
+		<sbj type="TMI_SW" weight="-0.17" label="NP_AJT" josa="로">크루제이루_EC</sbj>
+		<obj type="TMI_SW" weight="0.57" label="NP_MOD" josa="의">캄페오나투_브라질레이루_세리이_A</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.820">genre</mln_predict>
+		<cnn_predict conf="0.682">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>이적하였다.</head>
+		<cluster>29</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3039" total_morp="13" total_word="6">
+		<sent>현재 프랑스 리그_1의 SM_캉에서 뛰고 있다.</sent>
+		<sbj type="OGG_ART" weight="-0.30" label="NP_AJT" josa="에서">SM_캉</sbj>
+		<obj type="" weight="0.00" label="NP_MOD" josa="의">리그_1</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.532">league</mln_predict>
+		<cnn_predict conf="0.955">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>있다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1713" total_morp="17" total_word="6">
+		<sent>프랑코는 아르헨티나_프리메라_디비시온의 CA_산로렌소에서 프로 경력을 시작하였다.</sent>
+		<sbj type="AF_BUILDING" weight="-0.22" label="NP_AJT" josa="에서">CA_산로렌소</sbj>
+		<obj type="OGG_ECONOMY" weight="-0.14" label="NP_MOD" josa="의">아르헨티나_프리메라_디비시온</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.671">operator</mln_predict>
+		<cnn_predict conf="0.709">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>시작하였다.</head>
+		<cluster>11</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T176" total_morp="32" total_word="14">
+		<sent>2016 시즌 후 1루수 골든글러브 후보에 올랐으나, NC_다이노스의 에릭_테임즈에게 밀려 투표결과 2위로 골든글러브는 놓쳤다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_AJT" josa="에게">에릭_테임즈</sbj>
+		<obj type="PS_NAME" weight="-0.33" label="NP_MOD" josa="의">NC_다이노스</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.189">position</mln_predict>
+		<cnn_predict conf="0.962">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>놓쳤다.</head>
+		<cluster>12</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1356" total_morp="14" total_word="6">
+		<sent>하와이 주는 태평양의 하와이_제도에 위치하고 있다.</sent>
+		<sbj type="LCG_ISLAND" weight="-0.07" label="NP_AJT" josa="에">하와이_제도</sbj>
+		<obj type="LCG_OCEAN" weight="-0.19" label="NP_MOD" josa="의">태평양</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.213">region</mln_predict>
+		<cnn_predict conf="0.505">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>있다.</head>
+		<cluster>23</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1477" total_morp="27" total_word="12">
+		<sent>에어프랑스 358편 추락 사고는 2005년 8월 2일 캐나다의 토론토_피어슨_국제공항에서 일어난 항공기 사고이다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에서">토론토_피어슨_국제공항</sbj>
+		<obj type="LCP_COUNTRY" weight="-0.30" label="NP_MOD" josa="의">캐나다</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.431">country</mln_predict>
+		<cnn_predict conf="0.504">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>사고이다.</head>
+		<cluster>7</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2587" total_morp="24" total_word="12">
+		<sent>피델 마르티네스 테노리오 는 에콰도르의 축구 선수로, 리가_MX의 클루브_아틀라스에서 미드필더로 활약하고 있다.</sent>
+		<sbj type="OGG_ECONOMY" weight="0.36" label="NP_AJT" josa="에서">클루브_아틀라스</sbj>
+		<obj type="" weight="0.00" label="NP_MOD" josa="의">리가_MX</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.902">league</mln_predict>
+		<cnn_predict conf="0.293">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>있다.</head>
+		<cluster>11</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T257" total_morp="15" total_word="6">
+		<sent>버커빗서 빙하는 남극의 리빙스턴_섬에 있는 빙하이다.</sent>
+		<sbj type="LCG_ISLAND" weight="-0.07" label="NP_AJT" josa="에">리빙스턴_섬</sbj>
+		<obj type="LCG_CONTINENT" weight="-0.17" label="NP_MOD" josa="의">남극</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.641">region</mln_predict>
+		<cnn_predict conf="0.560">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>빙하이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2476" total_morp="23" total_word="9">
+		<sent>2015-16 A리그의 시드니_FC와 계약이 만료된 후 포항 스틸러스으로 이적했다.</sent>
+		<sbj type="OGG_SPORTS" weight="-0.61" label="NP_AJT" josa="와">시드니_FC</sbj>
+		<obj type="OGG_SPORTS" weight="-1.05" label="NP_MOD" josa="의">A리그</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.873">team</mln_predict>
+		<cnn_predict conf="0.731">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>이적했다.</head>
+		<cluster>25</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3400" total_morp="26" total_word="10">
+		<sent>BEC 테로에서 9경기에 출전한 후 이듬 해 K리그_챌린지의 수원_FC로 이적하였다.</sent>
+		<sbj type="LCP_CITY" weight="-0.88" label="NP_AJT" josa="로">수원_FC</sbj>
+		<obj type="OGG_SPORTS" weight="-1.05" label="NP_MOD" josa="의">K리그_챌린지</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.560">team</mln_predict>
+		<cnn_predict conf="0.857">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>이적하였다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1638" total_morp="25" total_word="9">
+		<sent>포지션은 공격형 미드필더와 윙어이며, 현재 J리그_디비전_1의 주빌로_이와타에서 뛰고 있다.</sent>
+		<sbj type="FD_ART" weight="-0.23" label="NP_AJT" josa="에서">주빌로_이와타</sbj>
+		<obj type="OGG_MEDIA" weight="-0.41" label="NP_MOD" josa="의">J리그_디비전_1</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.813">league</mln_predict>
+		<cnn_predict conf="0.359">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>있다.</head>
+		<cluster>24</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1465" total_morp="23" total_word="9">
+		<sent>현재 카자흐스탄_프리미어리그의 FC_오르다바시에서 활약하고 있으며 우즈베키스탄 축구 국가대표팀의 공격수이다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에서">FC_오르다바시</sbj>
+		<obj type="OGG_SPORTS" weight="-1.05" label="NP_MOD" josa="의">카자흐스탄_프리미어리그</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.629">league</mln_predict>
+		<cnn_predict conf="0.658">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>공격수이다.</head>
+		<cluster>24</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2015" total_morp="36" total_word="13">
+		<sent>니콜체 노베스키는 마케도니아 공화국의 축구 선수로, 푸스볼-분데스리가의 1._FSV_마인츠_05에서 수비수로 활약하다가 2015년 고별식을 가졌다.</sent>
+		<sbj type="QT_ORDER" weight="-0.35" label="NP_AJT" josa="에서">1._FSV_마인츠_05</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_MOD" josa="의">푸스볼-분데스리가</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.624">league</mln_predict>
+		<cnn_predict conf="0.588">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>가졌다.</head>
+		<cluster>24</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1893" total_morp="36" total_word="17">
+		<sent>카를로스 마리오 카르보네로 만시야 는 콜롬비아의 축구 선수로, 현재 우루과이_프리메라_디비시온의 CA_페닉스에서 UC 삼프도리아로 임대되어 미드필더로 활약하고 있다.</sent>
+		<sbj type="AF_BUILDING" weight="-0.22" label="NP_AJT" josa="에서">CA_페닉스</sbj>
+		<obj type="OGG_ECONOMY" weight="-0.14" label="NP_MOD" josa="의">우루과이_프리메라_디비시온</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.385">league</mln_predict>
+		<cnn_predict conf="0.436">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>있다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3542" total_morp="19" total_word="7">
+		<sent>이전에는 이 2개 속을 말피기목의 라플레시아과로 분류했다.</sent>
+		<sbj type="OGG_POLITICS" weight="0.05" label="NP_AJT" josa="로">라플레시아과</sbj>
+		<obj type="" weight="0.00" label="NP_MOD" josa="의">말피기목</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.361">class</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>분류했다.</head>
+		<cluster>29</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T495" total_morp="16" total_word="4">
+		<sent>의회는 워싱턴_D.C.의 미국_의회의사당에서 열린다.</sent>
+		<sbj type="LCP_COUNTRY" weight="0.02" label="NP_AJT" josa="에서">미국_의회의사당</sbj>
+		<obj type="" weight="0.00" label="NP_MOD" josa="의">워싱턴_D.C.</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.127">region</mln_predict>
+		<cnn_predict conf="0.232">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>열린다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3495" total_morp="54" total_word="27">
+		<sent>공사비 약 70여억, 가로 63.398m, 세로 17.962m, 총 면적 1,138.75㎡ 규모로 현재 전세계 야구장 가운데 최대 규모를 자랑하는 시애틀_매리너스의 세이프코_필드보다 총면적에서 77.41㎡가 더 큰 세계 최대 규모이다.</sent>
+		<sbj type="TM_SPORTS" weight="-0.03" label="NP_AJT" josa="보다">세이프코_필드</sbj>
+		<obj type="OGG_SPORTS" weight="0.17" label="NP_MOD" josa="의">시애틀_매리너스</obj>
+		<gold>operator</gold>
+		<mln_predict conf="0.193">country</mln_predict>
+		<cnn_predict conf="0.281">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>규모이다.</head>
+		<cluster>24</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3149" total_morp="16" total_word="6">
+		<sent>현재 리그_1의 디종_FCO에서 수비수로 뛰고 있다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에서">디종_FCO</sbj>
+		<obj type="" weight="0.00" label="NP_MOD" josa="의">리그_1</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.620">league</mln_predict>
+		<cnn_predict conf="0.917">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>있다.</head>
+		<cluster>48</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1983" total_morp="13" total_word="5">
+		<sent>현재 K리그_챌린지의 서울_이랜드_FC에서 뛰고 있다.</sent>
+		<sbj type="OGG_SPORTS" weight="-0.61" label="NP_AJT" josa="에서">서울_이랜드_FC</sbj>
+		<obj type="OGG_SPORTS" weight="-1.05" label="NP_MOD" josa="의">K리그_챌린지</obj>
+		<gold>position</gold>
+		<mln_predict conf="1.000">league</mln_predict>
+		<cnn_predict conf="0.920">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>있다.</head>
+		<cluster>25</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T132" total_morp="30" total_word="11">
+		<sent>한민족공동체통일방안은 1989년 9월 11일 대한민국의 대한민국_국회에서 노태우 대통령 특별선언을 통해 발표되었다.</sent>
+		<sbj type="OGG_POLITICS" weight="0.72" label="NP_AJT" josa="에서">대한민국_국회</sbj>
+		<obj type="LCP_COUNTRY" weight="-0.30" label="NP_MOD" josa="의">대한민국</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.562">deathPlace</mln_predict>
+		<cnn_predict conf="0.363">birthPlace</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>발표되었다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T606" total_morp="49" total_word="20">
+		<sent>이런 러시아의 월경 행위는 친러시아군이 장악한 모든 지역에서 발생한 것으로 확인되었고, 도네츠크_주의 노보아조우스크와 같이 정부군이 통제하는 지역에서 넘어든 것으로 알려졌다.</sent>
+		<sbj type="OGG_ART" weight="-0.57" label="NP_AJT" josa="와">노보아조우스크</sbj>
+		<obj type="PS_NAME" weight="-0.02" label="NP_MOD" josa="의">도네츠크_주</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.188">country</mln_predict>
+		<cnn_predict conf="0.503">commander</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>알려졌다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T282" total_morp="47" total_word="20">
+		<sent>이과인 위에는 니콜라스와 페데리코 이과인 두 형이 있는데, 이 중 작은형은 메이저_리그_사커의 콜럼버스_크루_SC에서 후방 공격수로 활약하며, 아래로 동생 라우타로가 있다.</sent>
+		<sbj type="PS_NAME" weight="-0.86" label="NP_AJT" josa="에서">콜럼버스_크루_SC</sbj>
+		<obj type="" weight="0.00" label="NP_MOD" josa="의">메이저_리그_사커</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.136">relative</mln_predict>
+		<cnn_predict conf="0.249">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>있다.</head>
+		<cluster>30</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2234" total_morp="29" total_word="9">
+		<sent>2004년 J리그_디비전_2의 교토_상가_FC로 1년간 임대되었다가, 2005년 주빌로 이와타로 이적하였다.</sent>
+		<sbj type="AFW_VIDEO" weight="-0.07" label="NP_AJT" josa="로">교토_상가_FC</sbj>
+		<obj type="OGG_MEDIA" weight="-0.41" label="NP_MOD" josa="의">J리그_디비전_2</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.757">channel</mln_predict>
+		<cnn_predict conf="0.400">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>이적하였다.</head>
+		<cluster>25</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2463" total_morp="38" total_word="13">
+		<sent>2007년 3월에는 2006년 국제공항협의회에서 실시한 설문조사서 두바이의 두바이_국제공항과 함께 공동 1위를 수상하기도 했다.</sent>
+		<sbj type="LC_OTHERS" weight="-0.66" label="NP_AJT" josa="과">두바이_국제공항</sbj>
+		<obj type="LCP_CITY" weight="1.01" label="NP_MOD" josa="의">두바이</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.409">country</mln_predict>
+		<cnn_predict conf="0.547">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>했다.</head>
+		<cluster>6</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T549" total_morp="62" total_word="26">
+		<sent>요코하마 FC와 상대로 첫 경기를 가졌지만, 당시 요코하마의 두터운 선수진에 막혀 출전 기회를 여러번 놓쳤으며, 결국 당시 2부리그였던 J리그_디비전_2의 세레소_오사카로 임대되어, 카가와 신지와 좋은 호흡을 보여줬다.</sent>
+		<sbj type="PS_NAME" weight="-0.86" label="NP_AJT" josa="로">세레소_오사카</sbj>
+		<obj type="OGG_MEDIA" weight="-0.41" label="NP_MOD" josa="의">J리그_디비전_2</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.150">club</mln_predict>
+		<cnn_predict conf="0.318">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>보여줬다.</head>
+		<cluster>12</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1131" total_morp="22" total_word="9">
+		<sent>2013년 J리그_디비전_1의 주빌로_이와타로 임대 이적하며 1부 리그 무대를 밟았다.</sent>
+		<sbj type="CV_POSITION" weight="0.25" label="NP_AJT" josa="로">주빌로_이와타</sbj>
+		<obj type="OGG_MEDIA" weight="-0.41" label="NP_MOD" josa="의">J리그_디비전_1</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.837">league</mln_predict>
+		<cnn_predict conf="0.438">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>밟았다.</head>
+		<cluster>24</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2940" total_morp="41" total_word="15">
+		<sent>그는 데뷔 시즌에 10경기 출전하는데 성공하였으나, 꾸준한 모습을 보이지 못한 것으로 인해 2._푸스발-분데스리가의 포르투나_뒤셀도르프에 매각되었다.</sent>
+		<sbj type="LCP_COUNTRY" weight="-0.53" label="NP_AJT" josa="에">포르투나_뒤셀도르프</sbj>
+		<obj type="QT_ORDER" weight="0.13" label="NP_MOD" josa="의">2._푸스발-분데스리가</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.097">deathPlace</mln_predict>
+		<cnn_predict conf="0.534">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>매각되었다.</head>
+		<cluster>34</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3417" total_morp="12" total_word="5">
+		<sent>현재 캄페오나투_브라질레이루_세리이_A의 보타포구_FR에서 뛰고 있다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에서">보타포구_FR</sbj>
+		<obj type="LCP_COUNTRY" weight="-0.74" label="NP_MOD" josa="의">캄페오나투_브라질레이루_세리이_A</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.471">league</mln_predict>
+		<cnn_predict conf="0.848">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>있다.</head>
+		<cluster>24</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2164" total_morp="21" total_word="10">
+		<sent>보비 롭슨은 1933년 2월 18일 잉글랜드의 더럼_주에서 광부의 아들로 태어났다.</sent>
+		<sbj type="LCP_CITY" weight="0.01" label="NP_AJT" josa="에서">더럼_주</sbj>
+		<obj type="LCP_COUNTRY" weight="-0.30" label="NP_MOD" josa="의">잉글랜드</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.389">country</mln_predict>
+		<cnn_predict conf="0.484">birthPlace</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>태어났다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3882" total_morp="19" total_word="6">
+		<sent>그는 2004-05 시즌동안 리그_2의 LB_샤토루로 임대되었었다.</sent>
+		<sbj type="CV_SPORTS_INST" weight="-0.25" label="NP_AJT" josa="로">LB_샤토루</sbj>
+		<obj type="" weight="0.00" label="NP_MOD" josa="의">리그_2</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.186">position</mln_predict>
+		<cnn_predict conf="0.833">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>임대되었었다.</head>
+		<cluster>48</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

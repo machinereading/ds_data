@@ -1,0 +1,758 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--NP--down--(NP)</dependency>
+	<total>58</total>
+	<sent_item id="M_T421" total_morp="16" total_word="7">
+		<sent>청학동은 대한민국 인천광역시 연수구에 있는 행정동, 법정동이다.</sent>
+		<sbj type="LCP_COUNTY" weight="-0.10" label="NP_AJT" josa="에">연수구</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">대한민국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.300">country</mln_predict>
+		<cnn_predict conf="0.874">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>인천광역시</gsdp_lemma>
+		<head>법정동이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1950" total_morp="27" total_word="11">
+		<sent>이 부대는 경기도 부천군 용유면 무의도(현 인천광역시 중구_(인천광역시) 무의동) 실미도에 있었다.</sent>
+		<sbj type="LCG_ISLAND" weight="1.38" label="NP_AJT" josa="에">실미도</sbj>
+		<obj type="LCP_COUNTY" weight="-0.22" label="NP" josa="">중구_(인천광역시)</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.239">country</mln_predict>
+		<cnn_predict conf="0.307">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>무의동)</gsdp_lemma>
+		<head>있었다.</head>
+		<cluster>14</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T655" total_morp="16" total_word="6">
+		<sent>영오면은 대한민국 경상남도 고성군_(경상남도)에 있는 면이다.</sent>
+		<sbj type="LCP_COUNTY" weight="-0.10" label="NP_AJT" josa="에">고성군_(경상남도)</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">대한민국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.289">locatedInArea</mln_predict>
+		<cnn_predict conf="0.934">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>경상남도</gsdp_lemma>
+		<head>면이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T147" total_morp="49" total_word="25">
+		<sent>2017년 세계 종목별 스피드 스케이팅 선수권 대회는 국제빙상경기연맹에서 주관하는 세계 규모의 스피드 스케이팅 대회로 2017년 2월 9일 부터 2월 12일까지 대한민국 강원도 강릉시에서 개최될 예정이다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_AJT" josa="에서">강릉시</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">대한민국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.469">location</mln_predict>
+		<cnn_predict conf="0.609">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>강원도</gsdp_lemma>
+		<head>예정이다.</head>
+		<cluster>3</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T332" total_morp="21" total_word="8">
+		<sent>외국인전용 임대아파트는 대한민국 서울특별시 용산구 용산국제업무지구에 들어설 건물이었다.</sent>
+		<sbj type="OGG_POLITICS" weight="0.72" label="NP_AJT" josa="에">용산국제업무지구</sbj>
+		<obj type="LCP_CAPITALCITY" weight="1.60" label="NP" josa="">서울특별시</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.855">location</mln_predict>
+		<cnn_predict conf="0.769">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>용산구</gsdp_lemma>
+		<head>건물이었다.</head>
+		<cluster>7</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3616" total_morp="23" total_word="10">
+		<sent>감삼역은 대한민국 대구광역시 달서구 달구벌대로에 있는 대구 도시철도 2호선의 전철역이다.</sent>
+		<sbj type="AF_ROAD" weight="1.58" label="NP_AJT" josa="에">달구벌대로</sbj>
+		<obj type="LCP_CITY" weight="1.01" label="NP" josa="">대구광역시</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.303">routeStart</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>달서구</gsdp_lemma>
+		<head>전철역이다.</head>
+		<cluster>11</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2714" total_morp="31" total_word="15">
+		<sent>2013년 세계 스프린트 스피드 스케이팅 선수권 대회는 1월 26일에서 27일에 걸쳐 미국 솔트레이크시티 유타_올림픽_오벌에서 열렸다.</sent>
+		<sbj type="AF_BUILDING" weight="1.17" label="NP_AJT" josa="에서">유타_올림픽_오벌</sbj>
+		<obj type="LCP_COUNTRY" weight="-0.30" label="NP" josa="">미국</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.620">location</mln_predict>
+		<cnn_predict conf="0.490">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>솔트레이크시티</gsdp_lemma>
+		<head>열렸다.</head>
+		<cluster>34</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2336" total_morp="14" total_word="6">
+		<sent>낙가산은 인천광역시 강화군 석모도에 있는 산이다.</sent>
+		<sbj type="LCG_ISLAND" weight="1.38" label="NP_AJT" josa="에">석모도</sbj>
+		<obj type="LCP_CITY" weight="0.55" label="NP" josa="">인천광역시</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.246">locatedInArea</mln_predict>
+		<cnn_predict conf="0.539">locatedInArea</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>강화군</gsdp_lemma>
+		<head>산이다.</head>
+		<cluster>14</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2763" total_morp="25" total_word="13">
+		<sent>하마코시미즈 역은 일본 홋카이도 샤리 군 고시미즈_정에 위치한 홋카이도 여객철도 센모 본선의 철도역이다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에">고시미즈_정</sbj>
+		<obj type="LCP_PROVINCE" weight="1.73" label="NP" josa="">홋카이도</obj>
+		<gold>region</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.397">routeStart</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>군</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T920" total_morp="31" total_word="13">
+		<sent>비엔은 프랑스 론알프 이제르_주에 위치한 도시로 면적은 22.65㎢, 인구는 29,077명, 인구 밀도는 1,300명/㎢이다.</sent>
+		<sbj type="LCP_PROVINCE" weight="0.19" label="NP_AJT" josa="에">이제르_주</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">프랑스</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.579">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>론알프</gsdp_lemma>
+		<head>1,300명/㎢이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3775" total_morp="18" total_word="7">
+		<sent>운서동은 인천광역시 중구 영종도에 있는 법정동이자 행정동이다.</sent>
+		<sbj type="LCG_ISLAND" weight="1.38" label="NP_AJT" josa="에">영종도</sbj>
+		<obj type="LCP_CITY" weight="0.55" label="NP" josa="">인천광역시</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.802">routeEnd</mln_predict>
+		<cnn_predict conf="0.394">locatedInArea</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>중구</gsdp_lemma>
+		<head>행정동이다.</head>
+		<cluster>17</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T158" total_morp="15" total_word="9">
+		<sent>에니에르쉬르손 은 프랑스 동부 앵_주에 위치한 코뮌 중 하나이다.</sent>
+		<sbj type="LCP_PROVINCE" weight="0.19" label="NP_AJT" josa="에">앵_주</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">프랑스</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.335">routeEnd</mln_predict>
+		<cnn_predict conf="0.780">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>동부</gsdp_lemma>
+		<head>하나이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T228" total_morp="13" total_word="6">
+		<sent>한포역은 조선민주주의인민공화국 황해북도 평산군에 있는 철도역이다.</sent>
+		<sbj type="LCP_COUNTY" weight="-0.10" label="NP_AJT" josa="에">평산군</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">조선민주주의인민공화국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.256">routeEnd</mln_predict>
+		<cnn_predict conf="0.201">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>황해북도</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T691" total_morp="31" total_word="13">
+		<sent>에비앙레뱅은 프랑스 론알프 오트사부아_주에 위치한 도시로 면적은 4.3㎢, 인구는 8,527명, 인구 밀도는 2,000명/㎢이다.</sent>
+		<sbj type="LCP_PROVINCE" weight="0.19" label="NP_AJT" josa="에">오트사부아_주</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">프랑스</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.580">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>론알프</gsdp_lemma>
+		<head>2,000명/㎢이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2377" total_morp="20" total_word="10">
+		<sent>2016년 7월 22일 독일 뮌헨 올림피아_아인카우프스첸트룸에서 총기 난사 사건이 발생하였다.</sent>
+		<sbj type="AF_BUILDING" weight="1.17" label="NP_AJT" josa="에서">올림피아_아인카우프스첸트룸</sbj>
+		<obj type="LCP_COUNTRY" weight="-0.30" label="NP" josa="">독일</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.368">country</mln_predict>
+		<cnn_predict conf="0.329">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>뮌헨</gsdp_lemma>
+		<head>발생하였다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T675" total_morp="32" total_word="14">
+		<sent>칼리르에키르는 프랑스 동부 론알프 론_주에 위치한 도시로 면적은 10.45㎢, 인구는 42,038명, 인구 밀도는 4,000명/㎢이다.</sent>
+		<sbj type="LCP_PROVINCE" weight="0.19" label="NP_AJT" josa="에">론_주</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">프랑스</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.962">country</mln_predict>
+		<cnn_predict conf="0.703">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>동부</gsdp_lemma>
+		<head>4,000명/㎢이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T587" total_morp="31" total_word="13">
+		<sent>세랭은 벨기에 왈롱 리에주_주에 위치한 도시로 면적은 35.34㎢, 인구는 63,575명, 인구 밀도는 1,800명/㎢이다.</sent>
+		<sbj type="LCP_PROVINCE" weight="0.19" label="NP_AJT" josa="에">리에주_주</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">벨기에</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.974">country</mln_predict>
+		<cnn_predict conf="0.764">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>왈롱</gsdp_lemma>
+		<head>1,800명/㎢이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T59" total_morp="16" total_word="9">
+		<sent>GE 빌딩은 미국 뉴욕 맨해튼 록펠러_센터에 있는 초고층 건물이다.</sent>
+		<sbj type="AF_BUILDING" weight="1.17" label="NP_AJT" josa="에">록펠러_센터</sbj>
+		<obj type="LCP_CITY" weight="0.92" label="NP" josa="">뉴욕</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.774">location</mln_predict>
+		<cnn_predict conf="0.370">largestCity</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>맨해튼</gsdp_lemma>
+		<head>건물이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T518" total_morp="32" total_word="13">
+		<sent>자브제는 폴란드 남부 실롱스크_주에 위치한 도시로, 면적은 80.40㎢, 인구는 188,122명, 인구 밀도는 2,300명/㎢이다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_AJT" josa="에">실롱스크_주</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">폴란드</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.967">country</mln_predict>
+		<cnn_predict conf="0.677">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>남부</gsdp_lemma>
+		<head>2,300명/㎢이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T729" total_morp="32" total_word="13">
+		<sent>샤텔로는 프랑스 푸아투샤랑트 비엔_주에 위치한 도시로 면적은 51.96㎢, 인구는 31.537명, 인구 밀도는 0.61명/㎢이다.</sent>
+		<sbj type="LCP_PROVINCE" weight="0.19" label="NP_AJT" josa="에">비엔_주</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">프랑스</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.598">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>푸아투샤랑트</gsdp_lemma>
+		<head>0.61명/㎢이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T844" total_morp="18" total_word="7">
+		<sent>예성강역은 조선민주주의인민공화국 황해북도 개풍군에 있었던 토해선의 철도역이다.</sent>
+		<sbj type="LCP_COUNTY" weight="-0.10" label="NP_AJT" josa="에">개풍군</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">조선민주주의인민공화국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.278">country</mln_predict>
+		<cnn_predict conf="0.366">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>황해북도</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T749" total_morp="34" total_word="13">
+		<sent>레파비용수부아는 프랑스 일드프랑스 센생드니_주에 위치한 도시로 면적은 2.92㎢, 인구는 20,644명, 인구 밀도는 7,100명/㎢이다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_AJT" josa="에">센생드니_주</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">프랑스</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.654">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>일드프랑스</gsdp_lemma>
+		<head>7,100명/㎢이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T882" total_morp="13" total_word="6">
+		<sent>소태면은 대한민국 충청북도 충주시에 위치하는 면이다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_AJT" josa="에">충주시</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">대한민국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.629">country</mln_predict>
+		<cnn_predict conf="0.901">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>충청북도</gsdp_lemma>
+		<head>면이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1886" total_morp="24" total_word="8">
+		<sent>2014년 김소현은 OCN_(텔레비전_채널) 드라마 《리셋_(드라마)》으로 첫 주연을 맡았다.</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.87" label="NP_AJT" josa="으로">리셋_(드라마)</sbj>
+		<obj type="" weight="0.00" label="NP" josa="">OCN_(텔레비전_채널)</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.892">channel</mln_predict>
+		<cnn_predict conf="0.664">channel</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>드라마</gsdp_lemma>
+		<head>맡았다.</head>
+		<cluster>11</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T341" total_morp="25" total_word="9">
+		<sent>종로5가역은 서울특별시 종로구 종로_(서울)에 위치한 서울 지하철 1호선의 전철역이다.</sent>
+		<sbj type="LCP_COUNTY" weight="0.87" label="NP_AJT" josa="에">종로_(서울)</sbj>
+		<obj type="LCP_CAPITALCITY" weight="1.03" label="NP" josa="">서울특별시</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.389">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>종로구</gsdp_lemma>
+		<head>전철역이다.</head>
+		<cluster>48</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2949" total_morp="27" total_word="13">
+		<sent>아쓰가 역은 일본 홋카이도 사루 군 히다카_정_(홋카이도)에 위치한 홋카이도 여객철도 히다카 본선의 철도역이다.</sent>
+		<sbj type="AF_CULTURAL_ASSET" weight="-0.50" label="NP_AJT" josa="에">히다카_정_(홋카이도)</sbj>
+		<obj type="LCP_PROVINCE" weight="1.73" label="NP" josa="">홋카이도</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.716">location</mln_predict>
+		<cnn_predict conf="0.437">routeStart</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>군</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>38</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T944" total_morp="16" total_word="9">
+		<sent>주소 : 서울특별시 종로구 새문안로 92, 신문로1가 광화문오피시아빌딩 1612호</sent>
+		<sbj type="AF_ROAD" weight="1.58" label="NP_AJT" josa="로">새문안로</sbj>
+		<obj type="LCP_CAPITALCITY" weight="1.03" label="NP" josa="">서울특별시</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.830">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>종로구</gsdp_lemma>
+		<head>1612호</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T621" total_morp="33" total_word="14">
+		<sent>에시롤은 프랑스 남동부 론알프 이제르_주에 위치한 도시로 면적은 8㎢, 인구는 35,995명, 인구 밀도는 4,500명/㎢이다.</sent>
+		<sbj type="LCP_PROVINCE" weight="0.19" label="NP_AJT" josa="에">이제르_주</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">프랑스</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.627">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>남동부</gsdp_lemma>
+		<head>4,500명/㎢이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3785" total_morp="26" total_word="12">
+		<sent>1939년 경상남도 사천군 다솔사로 내려가 회갑을 맞으면서 몇몇 동지들과 함께 자축연을 가졌다.</sent>
+		<sbj type="AF_CULTURAL_ASSET" weight="0.78" label="NP_AJT" josa="로">다솔사</sbj>
+		<obj type="LCP_PROVINCE" weight="0.62" label="NP" josa="">경상남도</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.153">birthPlace</mln_predict>
+		<cnn_predict conf="0.411">locatedInArea</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>사천군</gsdp_lemma>
+		<head>가졌다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T118" total_morp="38" total_word="16">
+		<sent>보비니는 프랑스 일드프랑스 센생드니_주에 위치한 도시로 센생드니 주의 주도이며 면적은 6.77㎢, 인구는 48,528명, 인구 밀도는 7,200명/㎢이다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_AJT" josa="에">센생드니_주</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">프랑스</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.612">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>일드프랑스</gsdp_lemma>
+		<head>7,200명/㎢이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T959" total_morp="23" total_word="8">
+		<sent>긴발가락개구리과는 개구리목 신와아목 청개구리상과에 속하는 대형 양서류 과이다.</sent>
+		<sbj type="AM_AMPHIBIA" weight="-0.22" label="NP_AJT" josa="에">청개구리상과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP" josa="">개구리목</obj>
+		<gold>order</gold>
+		<mln_predict conf="0.567">order</mln_predict>
+		<cnn_predict conf="0.695">order</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>신와아목</gsdp_lemma>
+		<head>과이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1802" total_morp="19" total_word="7">
+		<sent>부산아쿠아리움은 부산광역시 해운대구 해운대해변로 266에 위치한 해양동물원이다.</sent>
+		<sbj type="LC_TOUR" weight="-0.24" label="NP_AJT" josa="로">해운대해변로</sbj>
+		<obj type="LCP_CITY" weight="1.01" label="NP" josa="">부산광역시</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.372">location</mln_predict>
+		<cnn_predict conf="0.296">locatedInArea</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>해운대구</gsdp_lemma>
+		<head>해양동물원이다.</head>
+		<cluster>7</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T643" total_morp="24" total_word="10">
+		<sent>대공원역은 대한민국 대구광역시 수성구 달구벌대로에 있는 대구 도시철도 2호선의 전철역이다.</sent>
+		<sbj type="AF_ROAD" weight="1.58" label="NP_AJT" josa="에">달구벌대로</sbj>
+		<obj type="LCP_CITY" weight="1.01" label="NP" josa="">대구광역시</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.310">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>수성구</gsdp_lemma>
+		<head>전철역이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1373" total_morp="10" total_word="5">
+		<sent>대구광역시 중구 달구벌대로 2085에 있다.</sent>
+		<sbj type="AF_ROAD" weight="1.58" label="NP_AJT" josa="대로">달구벌대로</sbj>
+		<obj type="LCP_CITY" weight="1.01" label="NP" josa="">대구광역시</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.997">routeEnd</mln_predict>
+		<cnn_predict conf="0.300">locatedInArea</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>중구</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>1</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T45" total_morp="13" total_word="6">
+		<sent>성동면은 대한민국 충청남도 논산시에 설치된 면이다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_AJT" josa="에">논산시</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">대한민국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.237">region</mln_predict>
+		<cnn_predict conf="0.943">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>충청남도</gsdp_lemma>
+		<head>면이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T184" total_morp="33" total_word="14">
+		<sent>자오저우 만은 중화인민공화국 산둥 성 칭다오_시에 위치한 만으로 길이는 32km, 넓이는 27km, 넓이는 362㎢이다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_AJT" josa="에">칭다오_시</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">중화인민공화국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.587">country</mln_predict>
+		<cnn_predict conf="0.821">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>성</gsdp_lemma>
+		<head>362㎢이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T791" total_morp="36" total_word="15">
+		<sent>템피오파우사니아는 이탈리아 사르데냐 올비아템피오_현에 위치한 코무네로 면적은 213.69㎢, 높이는 566m, 인구는 14,344명, 인구 밀도는 67명/㎢이다.</sent>
+		<sbj type="LCP_PROVINCE" weight="0.19" label="NP_AJT" josa="에">올비아템피오_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">이탈리아</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.621">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>사르데냐</gsdp_lemma>
+		<head>67명/㎢이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2543" total_morp="23" total_word="10">
+		<sent>경대병원역은 대한민국 대구광역시 중구 달구벌대로에 있는 대구 도시철도 2호선의 전철역이다.</sent>
+		<sbj type="AF_ROAD" weight="1.58" label="NP_AJT" josa="에">달구벌대로</sbj>
+		<obj type="LCP_CITY" weight="1.01" label="NP" josa="">대구광역시</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.306">routeStart</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>중구</gsdp_lemma>
+		<head>전철역이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T561" total_morp="14" total_word="6">
+		<sent>성산역은 조선민주주의인민공화국 강원도 세포군에 위치한 철도역이다.</sent>
+		<sbj type="LCP_COUNTY" weight="-0.10" label="NP_AJT" josa="에">세포군</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">조선민주주의인민공화국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.290">location</mln_predict>
+		<cnn_predict conf="0.192">routeStart</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>강원도</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>11</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1595" total_morp="14" total_word="7">
+		<sent>바르샤바 왕궁은 폴란드 바르샤바 잠코비_광장에 있는 궁전이다.</sent>
+		<sbj type="LC_OTHERS" weight="1.96" label="NP_AJT" josa="에">잠코비_광장</sbj>
+		<obj type="LCP_COUNTRY" weight="-0.30" label="NP" josa="">폴란드</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.403">location</mln_predict>
+		<cnn_predict conf="0.730">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>바르샤바</gsdp_lemma>
+		<head>궁전이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T35" total_morp="24" total_word="13">
+		<sent>유니 역은 일본 홋카이도 유바리 군 유니_정에 위치한 홋카이도 여객철도 무로란 본선의 철도역이다.</sent>
+		<sbj type="PS_NAME" weight="-0.72" label="NP_AJT" josa="에">유니_정</sbj>
+		<obj type="LCP_PROVINCE" weight="1.73" label="NP" josa="">홋카이도</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.792">routeEnd</mln_predict>
+		<cnn_predict conf="0.438">routeStart</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>군</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T343" total_morp="32" total_word="14">
+		<sent>토농레뱅은 프랑스 동부 론알프 오트사부아_주에 위치한 도시로 면적은 16.21㎢, 인구는 34,661명, 인구 밀도는 2,100명/㎢이다.</sent>
+		<sbj type="LCP_PROVINCE" weight="0.19" label="NP_AJT" josa="에">오트사부아_주</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">프랑스</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.718">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>동부</gsdp_lemma>
+		<head>2,100명/㎢이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2394" total_morp="28" total_word="10">
+		<sent>부여 무량사 오층석탑은 충청남도 부여군 무량사_(부여군)에 있는 고려 시대의 오층석탑이다.</sent>
+		<sbj type="AF_CULTURAL_ASSET" weight="0.78" label="NP_AJT" josa="에">무량사_(부여군)</sbj>
+		<obj type="LCP_PROVINCE" weight="0.62" label="NP" josa="">충청남도</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.837">country</mln_predict>
+		<cnn_predict conf="0.896">locatedInArea</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>부여군</gsdp_lemma>
+		<head>오층석탑이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T897" total_morp="23" total_word="13">
+		<sent>가와라다 역은 일본 미에 현 욧카이치_시에 있는 도카이 여객철도 · 이세 철도의 철도역이다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_AJT" josa="에">욧카이치_시</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">일본</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.436">routeStart</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>미에</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2490" total_morp="21" total_word="10">
+		<sent>방이역은 서울특별시 송파구 양재대로에 있는 서울 지하철 5호선 마천지선 전철역이다.</sent>
+		<sbj type="AF_ROAD" weight="1.58" label="NP_AJT" josa="에">양재대로</sbj>
+		<obj type="LCP_CAPITALCITY" weight="1.03" label="NP" josa="">서울특별시</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.721">location</mln_predict>
+		<cnn_predict conf="0.240">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>송파구</gsdp_lemma>
+		<head>전철역이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2600" total_morp="25" total_word="9">
+		<sent>제8전투비행단은 전라북도 군산시 군산공항에 주둔하고 있는 제7공군 예하 비행단이다.</sent>
+		<sbj type="LC_OTHERS" weight="1.96" label="NP_AJT" josa="에">군산공항</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="">전라북도</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.734">location</mln_predict>
+		<cnn_predict conf="0.496">locatedInArea</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>군산시</gsdp_lemma>
+		<head>비행단이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T841" total_morp="13" total_word="6">
+		<sent>유진은 미국 서북부 오리건_주에 있는 도시이다.</sent>
+		<sbj type="LC_OTHERS" weight="-0.03" label="NP_AJT" josa="에">오리건_주</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">미국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.915">country</mln_predict>
+		<cnn_predict conf="0.728">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>서북부</gsdp_lemma>
+		<head>도시이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T305" total_morp="13" total_word="6">
+		<sent>병영면은 대한민국 전라남도 강진군에 위치한 면이다.</sent>
+		<sbj type="LCP_COUNTY" weight="-0.10" label="NP_AJT" josa="에">강진군</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">대한민국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.210">country</mln_predict>
+		<cnn_predict conf="0.895">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>전라남도</gsdp_lemma>
+		<head>면이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T888" total_morp="33" total_word="13">
+		<sent>모숀머저로바르는 헝가리 북서부 죄르모숀쇼프론_주에 위치한 도시로 면적은 85.35㎢, 인구는 32,256명, 인구 밀도는 372.57명/㎢이다.</sent>
+		<sbj type="LCP_PROVINCE" weight="0.19" label="NP_AJT" josa="에">죄르모숀쇼프론_주</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">헝가리</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.632">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>북서부</gsdp_lemma>
+		<head>372.57명/㎢이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T805" total_morp="12" total_word="6">
+		<sent>헤이렌베인은 네덜란드 북부 프리슬란트_주에 있는 도시이다.</sent>
+		<sbj type="LCG_ISLAND" weight="1.18" label="NP_AJT" josa="에">프리슬란트_주</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">네덜란드</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.992">country</mln_predict>
+		<cnn_predict conf="0.800">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>북부</gsdp_lemma>
+		<head>도시이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T478" total_morp="18" total_word="7">
+		<sent>목동아이스링크는 서울특별시 양천구 안양천로 939에 위치한 아이스링크이다.</sent>
+		<sbj type="AF_ROAD" weight="1.58" label="NP_AJT" josa="로">안양천로</sbj>
+		<obj type="LCP_CAPITALCITY" weight="1.03" label="NP" josa="">서울특별시</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.977">city</mln_predict>
+		<cnn_predict conf="0.354">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>양천구</gsdp_lemma>
+		<head>아이스링크이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3313" total_morp="48" total_word="22">
+		<sent>이런 활약을 바탕으로 그는 2003년 7월 잉글랜드 프리미어리그 팀 맨체스터_유나이티드_FC로 이적한 그는 이적한 즉시 주전으로 기용되어, 알렉스 퍼거슨 감독에게 깊은 인상을 심어주었다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_AJT" josa="로">맨체스터_유나이티드_FC</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP" josa="">프리미어리그</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.664">league</mln_predict>
+		<cnn_predict conf="0.789">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>팀</gsdp_lemma>
+		<head>심어주었다.</head>
+		<cluster>35</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1206" total_morp="48" total_word="19">
+		<sent>이후 그는 나라일이 잘못되는 것을 보고 세상일에 뜻을 끊고, 스스로 청맹을 자처하여 벼슬하지 않고 경기도 적성 감악산_(경기)근처에 가서 은둔하였다.</sent>
+		<sbj type="AF_CULTURAL_ASSET" weight="0.78" label="NP_AJT" josa="에">감악산_(경기)</sbj>
+		<obj type="LCP_PROVINCE" weight="0.62" label="NP" josa="">경기도</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.147">birthPlace</mln_predict>
+		<cnn_predict conf="0.147">commander</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>적성</gsdp_lemma>
+		<head>은둔하였다.</head>
+		<cluster>36</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T274" total_morp="41" total_word="15">
+		<sent>남포동은 대한민국 부산광역시 중구_(부산광역시)에 위치한 부산의 구도심이고 시장, 백화점, 영화관 등이 밀집해 있는 상업 중심지역이다.</sent>
+		<sbj type="LCP_COUNTY" weight="-0.10" label="NP_AJT" josa="에">중구_(부산광역시)</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">대한민국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.751">city</mln_predict>
+		<cnn_predict conf="0.881">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>부산광역시</gsdp_lemma>
+		<head>중심지역이다.</head>
+		<cluster>1</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T779" total_morp="13" total_word="6">
+		<sent>덜루스는 미국 동남부 조지아_주에 있는 도시이다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에">조지아_주</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">미국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.323">country</mln_predict>
+		<cnn_predict conf="0.778">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>동남부</gsdp_lemma>
+		<head>도시이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T698" total_morp="28" total_word="11">
+		<sent>서울서부시외버스터미널은 서울특별시 은평구 통일로 757에서 신성교통 · 신성여객이 운영했던 버스 터미널이었다.</sent>
+		<sbj type="AF_ROAD" weight="1.58" label="NP_AJT" josa="로">통일로</sbj>
+		<obj type="LCP_CAPITALCITY" weight="1.03" label="NP" josa="">서울특별시</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.956">city</mln_predict>
+		<cnn_predict conf="0.729">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>은평구</gsdp_lemma>
+		<head>터미널이었다.</head>
+		<cluster>45</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T886" total_morp="33" total_word="13">
+		<sent>노르셰핑은 스웨덴 동부 외스테르예틀란드_주에 위치한 도시로, 면적은 35.68㎢, 인구는 87,247명, 인구 밀도는 2,446명/㎢이다.</sent>
+		<sbj type="LCP_PROVINCE" weight="0.19" label="NP_AJT" josa="에">외스테르예틀란드_주</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">스웨덴</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.786">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>동부</gsdp_lemma>
+		<head>2,446명/㎢이다.</head>
+		<cluster>14</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T137" total_morp="17" total_word="8">
+		<sent>에보라 현은 포르투갈 남부 알렌테주_지방에 위치한 포르투갈의 현이다.</sent>
+		<sbj type="LC_OTHERS" weight="-0.03" label="NP_AJT" josa="에">알렌테주_지방</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">포르투갈</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.718">location</mln_predict>
+		<cnn_predict conf="0.753">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>남부</gsdp_lemma>
+		<head>현이다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

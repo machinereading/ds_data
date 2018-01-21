@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--NP_AJT--down--VP_MOD--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3142" total_morp="37" total_word="16">
+		<sent>막부 말기에 일어난 보신_전쟁에서 후쿠시마 번은 오우에쓰 열번동맹에 가담해 사쓰마 번과 조슈_번이 중심이 된 신정부군과 싸웠다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에서">보신_전쟁</sbj>
+		<obj type="" weight="0.00" label="NP_SBJ" josa="이">조슈_번</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.857">commander</mln_predict>
+		<cnn_predict conf="0.919">commander</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma>싸웠다.--신정부군과--된</gsdp_lemma>
+		<head>싸웠다.</head>
+		<cluster>22</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

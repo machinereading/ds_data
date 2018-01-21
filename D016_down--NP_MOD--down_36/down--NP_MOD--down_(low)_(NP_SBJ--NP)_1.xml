@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--NP_MOD--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2235" total_morp="40" total_word="19">
+		<sent>널리 알려진 조선민주주의인민공화국 백두산의 천지가 있지만 지반이 안정된 대한민국에는 한라산의 백록담, 물장오리오름 외에는 극히 소규모의 화구호가 몇 있을 뿐이다.</sent>
+		<sbj type="LCG_RIVER" weight="-0.47" label="NP_SBJ" josa="가">천지</sbj>
+		<obj type="LCP_COUNTRY" weight="-0.30" label="NP" josa="">조선민주주의인민공화국</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.779">country</mln_predict>
+		<cnn_predict conf="0.381">country</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma>백두산의</gsdp_lemma>
+		<head>뿐이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

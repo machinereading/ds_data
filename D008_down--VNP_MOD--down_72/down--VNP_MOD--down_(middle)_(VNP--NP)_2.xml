@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(VNP)--down--VNP_MOD--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_T3395" total_morp="16" total_word="7">
+		<sent>그녀의 부군 또한 유명한 컨트리_음악 가수인 조니_라이트이다.</sent>
+		<sbj type="" weight="0.00" label="VNP" josa="">조니_라이트</sbj>
+		<obj type="FD_ART" weight="3.14" label="NP" josa="">컨트리_음악</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.997">genre</mln_predict>
+		<cnn_predict conf="0.656">occupation</cnn_predict>
+		<gsdp>(VNP)--down--VNP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma>가수인</gsdp_lemma>
+		<head>조니_라이트이다.</head>
+		<cluster>2</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2387" total_morp="18" total_word="7">
+		<sent>이전 기록자는 535경기의 전 볼턴_원더러스_FC 선수인 게리_스피드이다.</sent>
+		<sbj type="PS_NAME" weight="0.73" label="VNP" josa="">게리_스피드</sbj>
+		<obj type="OGG_SPORTS" weight="1.71" label="NP" josa="">볼턴_원더러스_FC</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.753">team</mln_predict>
+		<cnn_predict conf="0.351">team</cnn_predict>
+		<gsdp>(VNP)--down--VNP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma>선수인</gsdp_lemma>
+		<head>게리_스피드이다.</head>
+		<cluster>9</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

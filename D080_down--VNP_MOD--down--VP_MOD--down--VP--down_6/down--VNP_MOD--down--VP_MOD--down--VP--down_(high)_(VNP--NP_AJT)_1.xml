@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(VNP)--down--VNP_MOD--down--VP_MOD--down--VP--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_T4083" total_morp="25" total_word="9">
+		<sent>현재 감독하고 있는 팀은 풋볼_리그_챔피언십에 소속되어 있는 팀인 노팅엄_포리스트_FC이다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="VNP" josa="">노팅엄_포리스트_FC</sbj>
+		<obj type="EV_SPORTS" weight="1.60" label="NP_AJT" josa="에">풋볼_리그_챔피언십</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">league</mln_predict>
+		<cnn_predict conf="0.693">league</cnn_predict>
+		<gsdp>(VNP)--down--VNP_MOD--down--VP_MOD--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>팀인--있는--소속되어</gsdp_lemma>
+		<head>노팅엄_포리스트_FC이다.</head>
+		<cluster>34</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

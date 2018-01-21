@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2158" total_morp="12" total_word="8">
+		<sent>4. 벽라춘; 녹차; 장쑤_성 수저우 오현 타이_호 동정산</sent>
+		<sbj type="PS_NAME" weight="-0.77" label="NP" josa="">타이_호</sbj>
+		<obj type="" weight="0.00" label="NP" josa="">장쑤_성</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.123">birthPlace</mln_predict>
+		<cnn_predict conf="0.300">country</cnn_predict>
+		<gsdp>(NP)--up--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>동정산--수저우</gsdp_lemma>
+		<head>동정산</head>
+		<cluster>48</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

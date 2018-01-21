@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP--up--NP_AJT--up--VP--down--(NP_OBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1179" total_morp="27" total_word="10">
+		<sent>2008-09 시즌, 마르세유는 FC_지롱댕_드_보르도와의 격렬한 레이스 끝에 리그_1을 준우승으로 마무리하였다.</sent>
+		<sbj type="" weight="0.00" label="NP_MOD" josa="의">FC_지롱댕_드_보르도</sbj>
+		<obj type="" weight="0.00" label="NP_OBJ" josa="을">리그_1</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.305">league</mln_predict>
+		<cnn_predict conf="0.564">league</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--NP_AJT--up--VP--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma>레이스--끝에--마무리하였다.</gsdp_lemma>
+		<head>마무리하였다.</head>
+		<cluster>41</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

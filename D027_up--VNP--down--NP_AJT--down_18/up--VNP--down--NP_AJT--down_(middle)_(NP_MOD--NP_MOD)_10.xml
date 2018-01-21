@@ -1,0 +1,134 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP--down--NP_AJT--down--(NP_MOD)</dependency>
+	<total>10</total>
+	<sent_item id="M_T279" total_morp="18" total_word="7">
+		<sent>아나우는 투르크메니스탄의 도시로 아할_주의 주도이며 인구는 9,332명이다.</sent>
+		<sbj type="" weight="0.00" label="NP_MOD" josa="의">아할_주</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">투르크메니스탄</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.243">country</mln_predict>
+		<cnn_predict conf="0.825">country</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>주도이며--도시로</gsdp_lemma>
+		<head>9,332명이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3825" total_morp="24" total_word="11">
+		<sent>휘숙옹주는 조선의 옹주로 조선 제9대 임금 조선_성종의 서차녀이며, 어머니는 명빈 김씨이다.</sent>
+		<sbj type="PS_NAME" weight="0.40" label="NP_MOD" josa="의">조선_성종</sbj>
+		<obj type="LCP_COUNTRY" weight="0.58" label="NP_MOD" josa="의">조선</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.618">birthPlace</mln_predict>
+		<cnn_predict conf="0.503">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>서차녀이며,--옹주로</gsdp_lemma>
+		<head>김씨이다.</head>
+		<cluster>49</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T961" total_morp="18" total_word="9">
+		<sent>무산군 이종은 조선의 왕족으로, 조선 제9대 왕 조선_성종의 서자이다.</sent>
+		<sbj type="PS_NAME" weight="0.40" label="NP_MOD" josa="의">조선_성종</sbj>
+		<obj type="LCP_COUNTRY" weight="0.58" label="NP_MOD" josa="의">조선</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.716">birthPlace</mln_predict>
+		<cnn_predict conf="0.599">birthPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>서자이다.--왕족으로,</gsdp_lemma>
+		<head>서자이다.</head>
+		<cluster>49</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3951" total_morp="31" total_word="15">
+		<sent>〈다른 남자 말고 너〉는 대한민국의 걸 그룹 미쓰에이의 노래로, 세 번째 미니 앨범 《Colors》의 타이틀곡이다.</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.68" label="NP_MOD" josa="의">Colors</sbj>
+		<obj type="PS_NAME" weight="0.89" label="NP_MOD" josa="의">미쓰에이</obj>
+		<gold>artist</gold>
+		<mln_predict conf="0.984">artist</mln_predict>
+		<cnn_predict conf="0.509">artist</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>타이틀곡이다.--노래로,</gsdp_lemma>
+		<head>타이틀곡이다.</head>
+		<cluster>40</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1230" total_morp="18" total_word="8">
+		<sent>양원군 이희은 조선의 왕족으로, 조선 제9대 조선_성종의 서자이다.</sent>
+		<sbj type="PS_NAME" weight="0.40" label="NP_MOD" josa="의">조선_성종</sbj>
+		<obj type="LCP_COUNTRY" weight="0.58" label="NP_MOD" josa="의">조선</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.782">birthPlace</mln_predict>
+		<cnn_predict conf="0.532">birthPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>서자이다.--왕족으로,</gsdp_lemma>
+		<head>서자이다.</head>
+		<cluster>49</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2008" total_morp="34" total_word="14">
+		<sent>진해선은 경상남도 창원시 의창구 동정동의 창원역과 진해구 통해역을 연결하는 한국철도공사의 철도 노선으로, 경전선의 지선이다.</sent>
+		<sbj type="AF_ROAD" weight="0.47" label="NP_MOD" josa="의">경전선</sbj>
+		<obj type="OGG_ECONOMY" weight="0.75" label="NP_MOD" josa="의">한국철도공사</obj>
+		<gold>operator</gold>
+		<mln_predict conf="0.962">owner</mln_predict>
+		<cnn_predict conf="0.491">routeEnd</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>지선이다.--노선으로,</gsdp_lemma>
+		<head>지선이다.</head>
+		<cluster>1</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T232" total_morp="13" total_word="5">
+		<sent>안트베르펜는 벨기에의 도시로 안트베르펜_주의 주도이다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_MOD" josa="의">안트베르펜_주</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">벨기에</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.633">region</mln_predict>
+		<cnn_predict conf="0.715">country</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>주도이다.--도시로</gsdp_lemma>
+		<head>주도이다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2701" total_morp="15" total_word="5">
+		<sent>화유옹주는 조선의 왕족으로, 조선_영조의 10녀이다.</sent>
+		<sbj type="PS_NAME" weight="0.40" label="NP_MOD" josa="의">조선_영조</sbj>
+		<obj type="LCP_COUNTRY" weight="0.58" label="NP_MOD" josa="의">조선</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.326">birthPlace</mln_predict>
+		<cnn_predict conf="0.620">birthPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>10녀이다.--왕족으로,</gsdp_lemma>
+		<head>10녀이다.</head>
+		<cluster>23</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1756" total_morp="17" total_word="7">
+		<sent>사보나는 이탈리아 북부 리구리아_주의 도시로, 사보나_현의 현도이다.</sent>
+		<sbj type="LCP_PROVINCE" weight="-0.13" label="NP_MOD" josa="의">사보나_현</sbj>
+		<obj type="LCP_PROVINCE" weight="1.73" label="NP_MOD" josa="의">리구리아_주</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.557">region</mln_predict>
+		<cnn_predict conf="0.704">region</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>현도이다.--도시로,</gsdp_lemma>
+		<head>현도이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T813" total_morp="34" total_word="12">
+		<sent>〈일상으로의 초대〉는 1998년에 발표된 대한민국의 음악가 신해철의 솔로 3집 《Crom's_Techno_Works》의 타이틀 곡이다.</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.68" label="NP_MOD" josa="의">Crom's_Techno_Works</sbj>
+		<obj type="PS_NAME" weight="0.89" label="NP_MOD" josa="의">신해철</obj>
+		<gold>artist</gold>
+		<mln_predict conf="0.492">artist</mln_predict>
+		<cnn_predict conf="0.416">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>곡이다.--솔로</gsdp_lemma>
+		<head>곡이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

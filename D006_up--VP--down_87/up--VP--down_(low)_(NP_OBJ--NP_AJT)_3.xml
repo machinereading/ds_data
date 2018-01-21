@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP--down--(NP_AJT)</dependency>
+	<total>3</total>
+	<sent_item id="M_T1764" total_morp="24" total_word="9">
+		<sent>시즌 종료 후, 브레멘은 팀의 공격수 미로슬라프_클로제를 FC_바이에른_뮌헨에 빼앗겼다.</sent>
+		<sbj type="CV_POLICY" weight="-0.79" label="NP_OBJ" josa="를">미로슬라프_클로제</sbj>
+		<obj type="CV_POLICY" weight="-0.16" label="NP_AJT" josa="에">FC_바이에른_뮌헨</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.442">league</mln_predict>
+		<cnn_predict conf="0.432">club</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>빼앗겼다.</gsdp_lemma>
+		<head>빼앗겼다.</head>
+		<cluster>34</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1624" total_morp="35" total_word="14">
+		<sent>그는 미국에서 처음으로 증기기관차를 설계, 제조하였고, 뉴욕의 맨해튼에 과학 기술 발전을 위한 쿠퍼_유니언을 설립했다.</sent>
+		<sbj type="OGG_ECONOMY" weight="-0.73" label="NP_OBJ" josa="을">쿠퍼_유니언</sbj>
+		<obj type="LCP_CITY" weight="1.01" label="NP_AJT" josa="에">맨해튼</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.286">largestCity</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>설립했다.</gsdp_lemma>
+		<head>설립했다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2050" total_morp="18" total_word="6">
+		<sent>노면직, 오종균 등은 상하이에서 김립_(1880년)을 사살하였다.</sent>
+		<sbj type="PS_NAME" weight="0.27" label="NP_OBJ" josa="을">김립_(1880년)</sbj>
+		<obj type="LCP_CITY" weight="-0.02" label="NP_AJT" josa="에서">상하이</obj>
+		<gold>deathPlace</gold>
+		<mln_predict conf="0.103">birthPlace</mln_predict>
+		<cnn_predict conf="0.213">commander</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>사살하였다.</gsdp_lemma>
+		<head>사살하였다.</head>
+		<cluster>13</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

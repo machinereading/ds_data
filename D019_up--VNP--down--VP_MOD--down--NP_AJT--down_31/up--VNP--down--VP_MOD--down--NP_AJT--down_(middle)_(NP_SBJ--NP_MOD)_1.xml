@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VNP--down--VP_MOD--down--NP_AJT--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T988" total_morp="27" total_word="15">
+		<sent>에스타디오 올림피코 데 라 카르투하 또는 에스타디오 올림피코 데 세비야는 스페인의 세비야에 위치한 다목적 경기장이다.</sent>
+		<sbj type="EV_SPORTS" weight="0.30" label="NP_SBJ" josa="는">세비야</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">스페인</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.271">country</mln_predict>
+		<cnn_predict conf="0.583">country</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VNP--down--VP_MOD--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>경기장이다.--위치한--세비야에</gsdp_lemma>
+		<head>경기장이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

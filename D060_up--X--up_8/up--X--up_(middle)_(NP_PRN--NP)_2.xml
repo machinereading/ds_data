@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP_PRN)--up--X--up--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_T2224" total_morp="12" total_word="6">
+		<sent>1991년 KBS 드라마 《왕도_(드라마)》 - 정영숙</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.41" label="NP_PRN" josa="">왕도_(드라마)</sbj>
+		<obj type="PS_NAME" weight="1.43" label="NP" josa="">정영숙</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.809">starring</mln_predict>
+		<cnn_predict conf="0.928">starring</cnn_predict>
+		<gsdp>(NP_PRN)--up--X--up--(NP)</gsdp>
+		<gsdp_lemma>-</gsdp_lemma>
+		<head>정영숙</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T599" total_morp="16" total_word="7">
+		<sent>대하드라마 《조선왕조 오백년 - 임진왜란_(드라마)》 - 김무생</sent>
+		<sbj type="PS_NAME" weight="-0.77" label="NP_PRN" josa="">임진왜란_(드라마)</sbj>
+		<obj type="PS_NAME" weight="1.43" label="NP" josa="">김무생</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.393">currentMember</mln_predict>
+		<cnn_predict conf="0.569">channel</cnn_predict>
+		<gsdp>(NP_PRN)--up--X--up--(NP)</gsdp>
+		<gsdp_lemma>-</gsdp_lemma>
+		<head>김무생</head>
+		<cluster>40</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--(NP_AJT)</dependency>
+	<total>3</total>
+	<sent_item id="M_T3746" total_morp="61" total_word="29">
+		<sent>뉴캐슬 유나이티드는 1부 리그에서 입지를 다지기는 했지만, 클럽 내 간판 선수인 피터_비어슬리를 리버풀_FC에, 폴 개스코인을 토트넘 홋스퍼 FC에 팔면서 클럽 운영진과 감독의 불화설이 나돌았고, 팬들 또한 불안감에 휩싸이게 된다.</sent>
+		<sbj type="" weight="0.00" label="NP_OBJ" josa="를">피터_비어슬리</sbj>
+		<obj type="OGG_SPORTS" weight="1.71" label="NP_AJT" josa="에">리버풀_FC</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.803">club</mln_predict>
+		<cnn_predict conf="0.389">club</cnn_predict>
+		<gsdp>(NP_OBJ)--up--(NP_AJT)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>된다.</head>
+		<cluster>25</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2182" total_morp="41" total_word="18">
+		<sent>또한 팀의 든든한 오른쪽 풀백이었던 마이콩_도글라스_시제난두을 맨체스터_시티_FC로, 주전 골키퍼였던 줄리우 세자르 소아리스 이스핀돌라를 퀸즈 파크 레인저스 FC로 보내야했다.</sent>
+		<sbj type="" weight="0.00" label="NP_OBJ" josa="을">마이콩_도글라스_시제난두</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_AJT" josa="로">맨체스터_시티_FC</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.923">club</mln_predict>
+		<cnn_predict conf="0.449">club</cnn_predict>
+		<gsdp>(NP_OBJ)--up--(NP_AJT)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>보내야했다.</head>
+		<cluster>25</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3026" total_morp="51" total_word="22">
+		<sent>여름 이적시장에서, 클럽은 지브릴 시세를 올랭피크 드 마르세유에서 코스타스_카추라니스를 SL_벤피카에서, 세바스티안 레토를 리버풀 FC에서 영입하였고, 다수의 선수들을 포함해 총 €35M 이상을 지출했다.</sent>
+		<sbj type="OGG_SPORTS" weight="0.30" label="NP_OBJ" josa="를">코스타스_카추라니스</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_AJT" josa="에서">SL_벤피카</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.463">team</mln_predict>
+		<cnn_predict conf="0.458">club</cnn_predict>
+		<gsdp>(NP_OBJ)--up--(NP_AJT)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>지출했다.</head>
+		<cluster>34</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

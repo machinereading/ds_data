@@ -1,0 +1,95 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</dependency>
+	<total>7</total>
+	<sent_item id="M_T2267" total_morp="36" total_word="18">
+		<sent>이시하라_카오리와 함께 하는 아이돌 듀오 유이카오리의 멤버이며, 마츠나가 마호, 노토 아리사, 이시하라 카오리로 구성된 아이돌 유닛 StylipS의 구성원이다.</sent>
+		<sbj type="PS_NAME" weight="0.68" label="NP_MOD" josa="의">유이카오리</sbj>
+		<obj type="PS_NAME" weight="1.22" label="NP_AJT" josa="와">이시하라_카오리</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.684">currentMember</mln_predict>
+		<cnn_predict conf="0.871">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>하는</gsdp_lemma>
+		<head>구성원이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1772" total_morp="32" total_word="12">
+		<sent>다음 시즌에, 제만은 AS_로마와 급성장하는 재능의 프란체스코_토티의 감독이 되면서, 로마에 머무르게 됐다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_MOD" josa="의">프란체스코_토티</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_AJT" josa="와">AS_로마</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.541">team</mln_predict>
+		<cnn_predict conf="0.344">club</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>급성장하는</gsdp_lemma>
+		<head>됐다.</head>
+		<cluster>24</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T404" total_morp="29" total_word="13">
+		<sent>1990년이 되어서야 어릴 적 포항_스틸러스에서 인연을 맺었던 최순호의 도움으로 수술을 받을 수 있었다.</sent>
+		<sbj type="PS_NAME" weight="0.73" label="NP_MOD" josa="의">최순호</sbj>
+		<obj type="" weight="0.00" label="NP_AJT" josa="에서">포항_스틸러스</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.219">deathPlace</mln_predict>
+		<cnn_predict conf="0.503">club</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>맺었던</gsdp_lemma>
+		<head>있었다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2143" total_morp="31" total_word="15">
+		<sent>롯폰기 힐스 모리 타워는 도쿄 도 미나토_구_(도쿄_도)에 있는 복합 시설 롯폰기_힐스의 핵심을 담당하는 초고층 빌딩이다.</sent>
+		<sbj type="OGG_ECONOMY" weight="1.40" label="NP_MOD" josa="의">롯폰기_힐스</sbj>
+		<obj type="LCP_CITY" weight="0.92" label="NP_AJT" josa="에">미나토_구_(도쿄_도)</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.328">location</mln_predict>
+		<cnn_predict conf="0.287">location</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>있는</gsdp_lemma>
+		<head>빌딩이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1463" total_morp="26" total_word="10">
+		<sent>조선에 고구마를 도입했던 조엄_(조선)의 손자이자 조선 문조의 장인 조만영의 동생이다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_MOD" josa="의">조엄_(조선)</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_AJT" josa="에">조선</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.317">relative</mln_predict>
+		<cnn_predict conf="0.429">birthPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>도입했던</gsdp_lemma>
+		<head>동생이다.</head>
+		<cluster>49</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3375" total_morp="20" total_word="9">
+		<sent>훗날 대한민국에서 제13대 대통령을 지내는 노태우의 직계 조상이기도 하다.</sent>
+		<sbj type="PS_NAME" weight="0.40" label="NP_MOD" josa="의">노태우</sbj>
+		<obj type="LCP_COUNTRY" weight="0.58" label="NP_AJT" josa="에서">대한민국</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.804">birthPlace</mln_predict>
+		<cnn_predict conf="0.462">birthPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>지내는</gsdp_lemma>
+		<head>하다.</head>
+		<cluster>49</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3294" total_morp="20" total_word="8">
+		<sent>메리어트 경영대학은 유타 주 프로보에 위치한 브리검영_대학교의 경영대학이다.</sent>
+		<sbj type="OGG_EDUCATION" weight="-0.23" label="NP_MOD" josa="의">브리검영_대학교</sbj>
+		<obj type="LCP_CITY" weight="1.01" label="NP_AJT" josa="에">프로보</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.407">country</mln_predict>
+		<cnn_predict conf="0.276">region</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>위치한</gsdp_lemma>
+		<head>경영대학이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

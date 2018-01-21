@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--NP_SBJ--down--VP_MOD--down--(NP_SBJ)</dependency>
+	<total>2</total>
+	<sent_item id="M_T1327" total_morp="45" total_word="17">
+		<sent>1388년 최영과 우왕이 계획한 요동 정벌이 이성계가 주도한 위화도_회군으로 무산되고, 우왕이 폐위당하였으며, 그의 아들인 창왕이 왕위에 올랐다.</sent>
+		<sbj type="OGG_MILITARY" weight="2.49" label="NP_AJT" josa="으로">위화도_회군</sbj>
+		<obj type="PS_NAME" weight="0.88" label="NP_SBJ" josa="이">우왕</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.624">commander</mln_predict>
+		<cnn_predict conf="0.621">commander</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_SBJ--down--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma>무산되고,--정벌이--계획한</gsdp_lemma>
+		<head>올랐다.</head>
+		<cluster>49</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3451" total_morp="32" total_word="14">
+		<sent>아마 기원전 274년으로 추정하며 그 당시는 집정관 마니우스_쿠리우스_덴타투스가 이끄는 로마 군대가 피로스를 베네벤툼_전투에서 격파했을때다.</sent>
+		<sbj type="EV_WAR_REVOLUTION" weight="2.59" label="NP_AJT" josa="에서">베네벤툼_전투</sbj>
+		<obj type="PS_NAME" weight="0.88" label="NP_SBJ" josa="가">마니우스_쿠리우스_덴타투스</obj>
+		<gold>commander</gold>
+		<mln_predict conf="1.000">commander</mln_predict>
+		<cnn_predict conf="0.592">commander</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_SBJ--down--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma>격파했을때다.--군대가--이끄는</gsdp_lemma>
+		<head>격파했을때다.</head>
+		<cluster>19</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

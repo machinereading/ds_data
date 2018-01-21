@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--up--NP_AJT--down--(NP_MOD)</dependency>
+	<total>3</total>
+	<sent_item id="M_T95" total_morp="26" total_word="11">
+		<sent>포아로은 대한민국의 경상북도 김천시 아포읍에서 시작하여, 구미시 고아읍을 거쳐 연결하는 도로이다.</sent>
+		<sbj type="LCP_PROVINCE" weight="0.19" label="NP" josa="">경상북도</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">대한민국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.880">country</mln_predict>
+		<cnn_predict conf="0.790">country</cnn_predict>
+		<gsdp>(NP)--up--NP--up--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>김천시--아포읍에서</gsdp_lemma>
+		<head>도로이다.</head>
+		<cluster>3</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1000" total_morp="18" total_word="9">
+		<sent>원주어메리칸드림랜드는 대한민국의 강원도 원주시 소초면 구룡사로 47에 있는 테마파크이다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP" josa="">원주시</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">대한민국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.249">routeEnd</mln_predict>
+		<cnn_predict conf="0.792">country</cnn_predict>
+		<gsdp>(NP)--up--NP--up--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>소초면--구룡사로</gsdp_lemma>
+		<head>테마파크이다.</head>
+		<cluster>1</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T874" total_morp="22" total_word="12">
+		<sent>강삭선은 일본의 가나가와_현 하코네 정에 있는 고라역과 소운잔 역 사이의 강삭철도 노선이다.</sent>
+		<sbj type="" weight="0.00" label="NP" josa="">가나가와_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">일본</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.287">country</mln_predict>
+		<cnn_predict conf="0.233">country</cnn_predict>
+		<gsdp>(NP)--up--NP--up--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>하코네--정에</gsdp_lemma>
+		<head>노선이다.</head>
+		<cluster>27</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

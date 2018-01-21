@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP--down--VP_MOD--down--(NP_AJT)</dependency>
+	<total>3</total>
+	<sent_item id="M_T2073" total_morp="33" total_word="13">
+		<sent>UEFA 유로 1988 결승전은 1988년 6월 25일에 서독 뮌헨의 뮌헨_올림픽_스타디움에서 개최된 UEFA_유로_1988의 결승전이다.</sent>
+		<sbj type="" weight="0.00" label="NP_MOD" josa="의">UEFA_유로_1988</sbj>
+		<obj type="AF_BUILDING" weight="0.93" label="NP_AJT" josa="에서">뮌헨_올림픽_스타디움</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.513">location</mln_predict>
+		<cnn_predict conf="0.326">team</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>결승전이다.--개최된</gsdp_lemma>
+		<head>결승전이다.</head>
+		<cluster>40</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1698" total_morp="35" total_word="13">
+		<sent>UEFA 유로 2012 결승전은 2012년 7월 1일에 우크라이나 키예프의 올림피스키_경기장에서 개최된 UEFA_유로_2012의 결승전이다.</sent>
+		<sbj type="EV_SPORTS" weight="-0.40" label="NP_MOD" josa="의">UEFA_유로_2012</sbj>
+		<obj type="AF_BUILDING" weight="0.93" label="NP_AJT" josa="에서">올림피스키_경기장</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.326">location</mln_predict>
+		<cnn_predict conf="0.339">league</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>결승전이다.--개최된</gsdp_lemma>
+		<head>결승전이다.</head>
+		<cluster>41</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3241" total_morp="24" total_word="9">
+		<sent>《Punishment》는 2009년 3월 16일에 GMC_레코드에서 발매된 나인씬의 디지털 싱글이다.</sent>
+		<sbj type="PS_NAME" weight="-0.15" label="NP_MOD" josa="의">나인씬</sbj>
+		<obj type="OGG_ECONOMY" weight="1.66" label="NP_AJT" josa="에서">GMC_레코드</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.715">artist</mln_predict>
+		<cnn_predict conf="0.298">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>싱글이다.--발매된</gsdp_lemma>
+		<head>싱글이다.</head>
+		<cluster>47</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--down--NP--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1355" total_morp="46" total_word="22">
+		<sent>2013년 아시아 시리즈는 아시아의 프로 야구 대회로 2013년 11월 15일부터 11월 20일까지 중화민국 타이중 시 타이중_저우지_야구장 및 타오위안 현 타오위안 국제야구장에서 개최된다.</sent>
+		<sbj type="LCP_COUNTRY" weight="0.02" label="NP_CNJ" josa="">타이중_저우지_야구장</sbj>
+		<obj type="LCP_COUNTRY" weight="-0.30" label="NP" josa="">중화민국</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.466">country</mln_predict>
+		<cnn_predict conf="0.362">country</cnn_predict>
+		<gsdp>(NP_CNJ)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>시--타이중</gsdp_lemma>
+		<head>개최된다.</head>
+		<cluster>14</cluster>
+		<comment>
+			country가 location보다 specific한 경우. (예측이 더 정확한 경우)
+			entity1의 NP_CNJ품사가 영향을 미치지는 않음
+			 -> down일 경우에는 entity2(즉 문장 순서에서 앞에 있는 것)의 품사,조사가 영향을 미칠 것으로 보임.
+			이 것도 Relation들을 큰개념으로 묶고 hierarchy에 따라 점수를 줘야 하는 방향
+		</comment>
+	</sent_item>
+</sentence_list>

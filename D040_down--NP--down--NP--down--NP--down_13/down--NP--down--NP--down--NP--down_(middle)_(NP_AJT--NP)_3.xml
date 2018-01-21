@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--NP--down--NP--down--NP--down--(NP)</dependency>
+	<total>3</total>
+	<sent_item id="M_T610" total_morp="27" total_word="10">
+		<sent>고양체육관은 대한민국 경기도 고양시 일산서구 대화동 고양종합운동장에 위치한 다목적 실내경기장이다.</sent>
+		<sbj type="AF_BUILDING" weight="1.17" label="NP_AJT" josa="에">고양종합운동장</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="">경기도</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.891">routeEnd</mln_predict>
+		<cnn_predict conf="0.345">locatedInArea</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>대화동--일산서구--고양시</gsdp_lemma>
+		<head>실내경기장이다.</head>
+		<cluster>7</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T789" total_morp="21" total_word="11">
+		<sent>SATA 에어 아소르스는 포르투갈 아소르스 자치 지방 폰타델가다에 기반을 둔 항공사이다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_AJT" josa="에">폰타델가다</sbj>
+		<obj type="LCP_PROVINCE" weight="-0.23" label="NP" josa="">포르투갈</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.936">country</mln_predict>
+		<cnn_predict conf="0.727">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>지방--자치--아소르스</gsdp_lemma>
+		<head>항공사이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T823" total_morp="25" total_word="13">
+		<sent>이시야 역은 일본 홋카이도 가야베 군 모리_정_(홋카이도)에 있는 홋카이도 여객철도 하코다테 본선의 철도역이다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에">모리_정_(홋카이도)</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">일본</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.263">routeEnd</mln_predict>
+		<cnn_predict conf="0.362">routeStart</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>군--가야베--홋카이도</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>14</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

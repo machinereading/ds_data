@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_CNJ--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2737" total_morp="22" total_word="11">
+		<sent>2008년 7월 17일 방송 '오이토_선' 서일본_여객철도 구간 승차와 이토이가와역의 아카렌가소코 관람</sent>
+		<sbj type="PS_NAME" weight="-0.74" label="NP" josa="">오이토_선</sbj>
+		<obj type="OGG_SPORTS" weight="0.17" label="NP" josa="">서일본_여객철도</obj>
+		<gold>operator</gold>
+		<mln_predict conf="0.196">club</mln_predict>
+		<cnn_predict conf="0.867">operator</cnn_predict>
+		<gsdp>(NP)--up--NP_CNJ--down--(NP)</gsdp>
+		<gsdp_lemma>승차와</gsdp_lemma>
+		<head>관람</head>
+		<cluster>32</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

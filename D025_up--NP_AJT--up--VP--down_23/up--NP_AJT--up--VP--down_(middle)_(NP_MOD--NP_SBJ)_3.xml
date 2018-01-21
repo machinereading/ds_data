@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP_AJT--up--VP--down--(NP_SBJ)</dependency>
+	<total>3</total>
+	<sent_item id="M_T1717" total_morp="46" total_word="18">
+		<sent>그는 한명회나 권람 등에게는 이 사실을 고변하지 않았는데, 뒤에 김질_(1422년)이 자신의 장인 정창손의 설득으로 거사를 폭로하면서 알려지게 되었다.</sent>
+		<sbj type="PS_NAME" weight="0.60" label="NP_MOD" josa="의">정창손</sbj>
+		<obj type="PS_NAME" weight="1.08" label="NP_SBJ" josa="이">김질_(1422년)</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.705">relative</mln_predict>
+		<cnn_predict conf="0.830">relative</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma>설득으로--폭로하면서</gsdp_lemma>
+		<head>되었다.</head>
+		<cluster>49</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1060" total_morp="25" total_word="10">
+		<sent>2007년 5월 19일, 그는 VfB_슈투트가르트의 주축 선수로써 푸스볼-분데스리가 우승을 거두었다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_MOD" josa="의">VfB_슈투트가르트</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_SBJ" josa="가">푸스볼-분데스리가</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">league</mln_predict>
+		<cnn_predict conf="0.565">league</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma>선수로써--거두었다.</gsdp_lemma>
+		<head>거두었다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3787" total_morp="30" total_word="16">
+		<sent>서영에게 화살을 맞고 부상을 당한 조조는 동생 조홍의 도움으로 겨우 살아나지만 서영과 또 다시 맞닥드리고 만다.</sent>
+		<sbj type="PS_NAME" weight="0.60" label="NP_MOD" josa="의">조홍</sbj>
+		<obj type="PS_NAME" weight="1.08" label="NP_SBJ" josa="는">조조</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.387">commander</mln_predict>
+		<cnn_predict conf="0.565">commander</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma>도움으로--살아나지만</gsdp_lemma>
+		<head>만다.</head>
+		<cluster>22</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

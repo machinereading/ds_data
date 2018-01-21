@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP--down--VP--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3019" total_morp="40" total_word="18">
+		<sent>1997-98 시즌에 승격팀으로서 프리미어리그에 참가했으며, 2007-08 시즌 리버풀 FC, 첼시_FC를 꺾고 풋볼 리그 컵 4강에 오른 적이 있다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_OBJ" josa="를">첼시_FC</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_AJT" josa="에">프리미어리그</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">league</mln_predict>
+		<cnn_predict conf="0.638">league</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>꺾고--참가했으며,</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>24</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

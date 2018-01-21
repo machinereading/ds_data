@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_AJT--up--VP_MOD--up--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3319" total_morp="34" total_word="14">
+		<sent>미국_독립_전쟁 때 에던 앨런과 베네딕트_아놀드가 지휘하는 그린 마운틴 보이즈 등의 민병대가 급습하여 요새를 탈취했다.</sent>
+		<sbj type="LCP_COUNTRY" weight="-0.06" label="NP" josa="">미국_독립_전쟁</sbj>
+		<obj type="PS_NAME" weight="0.88" label="NP_SBJ" josa="가">베네딕트_아놀드</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.337">commander</mln_predict>
+		<cnn_predict conf="0.737">commander</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP_MOD--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma>때--에던</gsdp_lemma>
+		<head>탈취했다.</head>
+		<cluster>23</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP--up--NP--up--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1663" total_morp="31" total_word="13">
+		<sent>조선시대의 한백겸, 안정복, 한치윤, 정약용 등 대다수의 실학자들도 낙랑군의 위치를 한반도 북부로 인식하였다.</sent>
+		<sbj type="PS_NAME" weight="0.48" label="NP_CNJ" josa="">안정복</sbj>
+		<obj type="CV_OCCUPATION" weight="3.04" label="NP_SBJ" josa="도">실학</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.310">occupation</mln_predict>
+		<cnn_predict conf="0.229">birthPlace</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP--up--NP--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma>정약용--등</gsdp_lemma>
+		<head>인식하였다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

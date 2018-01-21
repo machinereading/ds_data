@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--down--NP--down--(NP_MOD)</dependency>
+	<total>2</total>
+	<sent_item id="M_T3757" total_morp="43" total_word="19">
+		<sent>스위스의 수학자 레온하르트 오일러의 이름을 따 오일러의 수로도 불리며, 로그 계산법을 도입한 스코틀랜드의 수학자 존_네이피어를 기려 네이피어 상수라고도 한다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_OBJ" josa="를">존_네이피어</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_MOD" josa="의">스코틀랜드</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.426">birthPlace</mln_predict>
+		<cnn_predict conf="0.432">birthPlace</cnn_predict>
+		<gsdp>(NP_OBJ)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>수학자</gsdp_lemma>
+		<head>한다.</head>
+		<cluster>11</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T678" total_morp="37" total_word="18">
+		<sent>그러나 2017년 2월 브라질 축구 국가대표팀과 보타포구_FR의 전설적인 축구 선수 니우통_산투스를 기리기 위해 니우통 산투스 올림픽 스타디움으로 개명되었다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_OBJ" josa="를">니우통_산투스</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_MOD" josa="의">보타포구_FR</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.329">birthPlace</mln_predict>
+		<cnn_predict conf="0.279">league</cnn_predict>
+		<gsdp>(NP_OBJ)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>선수</gsdp_lemma>
+		<head>개명되었다.</head>
+		<cluster>9</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

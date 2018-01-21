@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(VNP_MOD)--up--NP_AJT--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1805" total_morp="39" total_word="14">
+		<sent>2011년 11월 30일, PAOK는 잉글랜드 토트넘_홋스퍼_FC와의 화이트_하트_레인 원정에서 2-1로 이기며 역사적이고 값진 승리를 쟁취했다.</sent>
+		<sbj type="TM_COLOR" weight="-0.04" label="VNP_MOD" josa="">화이트_하트_레인</sbj>
+		<obj type="OGG_SPORTS" weight="0.17" label="NP_MOD" josa="의">토트넘_홋스퍼_FC</obj>
+		<gold>operator</gold>
+		<mln_predict conf="0.954">league</mln_predict>
+		<cnn_predict conf="0.416">league</cnn_predict>
+		<gsdp>(VNP_MOD)--up--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>원정에서</gsdp_lemma>
+		<head>쟁취했다.</head>
+		<cluster>41</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

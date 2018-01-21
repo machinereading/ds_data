@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP)--up--VP--down--VP--down--NP_AJT--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3128" total_morp="40" total_word="14">
+		<sent>그는 거의 바이어_04_레버쿠젠 소속으로 10년간 300여회의 공식 경기에 출장하였고, 팀의 UEFA_챔피언스리그_2001-02 결승행에 힘을 보탰다.</sent>
+		<sbj type="EV_SPORTS" weight="0.82" label="NP" josa="">UEFA_챔피언스리그_2001-02</sbj>
+		<obj type="" weight="0.00" label="NP" josa="">바이어_04_레버쿠젠</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.341">league</mln_predict>
+		<cnn_predict conf="0.490">team</cnn_predict>
+		<gsdp>(NP)--up--VP--down--VP--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>보탰다.--출장하였고,--소속으로</gsdp_lemma>
+		<head>보탰다.</head>
+		<cluster>35</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

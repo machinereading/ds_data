@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--up--VP--down--NP_AJT--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2590" total_morp="54" total_word="17">
+		<sent>1991년 8월, 보수파의 8월_쿠데타가 실패하면서 국가비상사태위원회의 구성원으로 쿠데타의 중심이었던 블라디미르_크류츠코프 대신 국가보안위원회의 마지막 의장이 되었으며, 국가보안위원회를 해체하였다.</sent>
+		<sbj type="DT_MONTH" weight="-0.05" label="NP_SBJ" josa="가">8월_쿠데타</sbj>
+		<obj type="PS_NAME" weight="0.88" label="NP" josa="">블라디미르_크류츠코프</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.589">leaderName</mln_predict>
+		<cnn_predict conf="0.461">commander</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--up--VP--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>실패하면서--되었으며,--대신</gsdp_lemma>
+		<head>해체하였다.</head>
+		<cluster>47</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

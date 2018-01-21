@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP)--down--NP_SBJ--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2672" total_morp="9" total_word="5">
+		<sent>이 앨범은 미스터 허드슨이 "미스터_허드슨_&_더_라이브러리"라는 이름으로 첫 앨범 《A_Tale_of_Two_Cities》에 이어서, 솔로 아티스트로 활동하게 되면서 발매한 앨범이다.</sent>
+		<sbj type="PS_NAME" weight="-1.07" label="NP" josa="">A_Tale_of_Two_Cities</sbj>
+		<obj type="PS_NAME" weight="0.89" label="NP" josa="">미스터_허드슨_&_더_라이브러리</obj>
+		<gold>artist</gold>
+		<mln_predict conf="0.642">currentMember</mln_predict>
+		<cnn_predict conf="0.513">artist</cnn_predict>
+		<gsdp>(NP)--down--NP_SBJ--down--(NP)</gsdp>
+		<gsdp_lemma>허드슨이</gsdp_lemma>
+		<head>"미스터_허드슨_</head>
+		<cluster>2</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

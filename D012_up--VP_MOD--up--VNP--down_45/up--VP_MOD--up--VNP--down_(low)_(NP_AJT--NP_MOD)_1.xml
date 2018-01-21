@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T614" total_morp="16" total_word="7">
+		<sent>몬테크리스토 섬은 이탈리아 토스카나_제도에 속하는 티레니아_해의 섬이다.</sent>
+		<sbj type="LCG_ISLAND" weight="-0.07" label="NP_AJT" josa="에">토스카나_제도</sbj>
+		<obj type="LCG_OCEAN" weight="-0.19" label="NP_MOD" josa="의">티레니아_해</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.612">region</mln_predict>
+		<cnn_predict conf="0.469">region</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는--섬이다.</gsdp_lemma>
+		<head>섬이다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

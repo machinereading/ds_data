@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_AJT--up--VP--down--NP_OBJ--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T970" total_morp="35" total_word="18">
+		<sent>만주군 총참모장으로 만주로 건너 간 이후 요동 전투, 사하 전투, 산데푸 전투, 봉천_전투 등에서 총사령 오야마_이와오 원수를 보좌하였다.</sent>
+		<sbj type="EV_WAR_REVOLUTION" weight="2.59" label="NP" josa="">봉천_전투</sbj>
+		<obj type="PS_NAME" weight="0.88" label="NP" josa="">오야마_이와오</obj>
+		<gold>commander</gold>
+		<mln_predict conf="1.000">commander</mln_predict>
+		<cnn_predict conf="0.923">commander</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP--down--NP_OBJ--down--(NP)</gsdp>
+		<gsdp_lemma>등에서--보좌하였다.--원수를</gsdp_lemma>
+		<head>보좌하였다.</head>
+		<cluster>22</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

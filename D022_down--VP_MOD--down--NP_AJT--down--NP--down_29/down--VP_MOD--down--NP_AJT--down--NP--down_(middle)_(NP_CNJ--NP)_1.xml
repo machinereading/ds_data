@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T636" total_morp="23" total_word="11">
+		<sent>니시오카자키 역은 일본 아이치_현 오카자키 시에 있는 도카이_여객철도 도카이도 본선의 철도역이다.</sent>
+		<sbj type="TMI_SERVICE" weight="-0.07" label="NP_CNJ" josa="도">도카이_여객철도</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="">아이치_현</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.560">operator</cnn_predict>
+		<gsdp>(NP_CNJ)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>있는--시에--오카자키</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>14</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

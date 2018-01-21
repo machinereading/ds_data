@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--up--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3155" total_morp="49" total_word="20">
+		<sent>당나라 제 1대 황제 당_고조시기에는 고구려와 당나라은 원만한 관계를 유지했으나 626년 당나라 태종이 즉위한 후 당나라과 고구려와의 관계는 악화되기 시작하였다.</sent>
+		<sbj type="LCP_COUNTRY" weight="2.15" label="NP" josa="">당나라</sbj>
+		<obj type="" weight="0.00" label="NP_AJT" josa="는">당_고조</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="1.000">leaderName</mln_predict>
+		<cnn_predict conf="0.557">leaderName</cnn_predict>
+		<gsdp>(NP)--up--NP--up--(NP_AJT)</gsdp>
+		<gsdp_lemma>황제</gsdp_lemma>
+		<head>시작하였다.</head>
+		<cluster>49</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

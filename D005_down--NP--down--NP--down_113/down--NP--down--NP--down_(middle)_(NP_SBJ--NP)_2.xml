@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--NP--down--NP--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_T801" total_morp="15" total_word="8">
+		<sent>이탈리아 사회공화국 은 베니토_무솔리니가 세운 이탈리아 망명 정부이다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_SBJ" josa="가">베니토_무솔리니</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP" josa="">이탈리아</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.471">birthPlace</mln_predict>
+		<cnn_predict conf="0.689">country</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>은--사회공화국</gsdp_lemma>
+		<head>정부이다.</head>
+		<cluster>49</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T465" total_morp="32" total_word="17">
+		<sent>니시테쓰신구 역은 일본 후쿠오카_현 가스야 군 신구 정 시모노후 5초메에 소재하는 서일본_철도 서일본 철도 가이즈카 선의 철도역이다.</sent>
+		<sbj type="TM_DIRECTION" weight="1.03" label="NP_SBJ" josa="도">서일본_철도</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="">후쿠오카_현</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.963">location</mln_predict>
+		<cnn_predict conf="0.457">routeStart</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>군--가스야</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>14</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP_PRN)--down--X--down--(NP)</dependency>
+	<total>3</total>
+	<sent_item id="M_T3323" total_morp="11" total_word="5">
+		<sent>여자배우 : 하지원 - 《코리아_(영화)》</sent>
+		<sbj type="AFW_MUSIC" weight="1.50" label="NP_PRN" josa="">코리아_(영화)</sbj>
+		<obj type="PS_NAME" weight="1.43" label="NP" josa="">하지원</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.639">starring</mln_predict>
+		<cnn_predict conf="0.922">starring</cnn_predict>
+		<gsdp>(NP_PRN)--down--X--down--(NP)</gsdp>
+		<gsdp_lemma>-</gsdp_lemma>
+		<head>《코리아_(영화)》</head>
+		<cluster>15</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1414" total_morp="11" total_word="5">
+		<sent>남자배우 : 원빈 - 《아저씨_(영화)》</sent>
+		<sbj type="AFW_MUSIC" weight="1.50" label="NP_PRN" josa="">아저씨_(영화)</sbj>
+		<obj type="PS_NAME" weight="1.43" label="NP" josa="">원빈</obj>
+		<gold>starring</gold>
+		<mln_predict conf="1.000">starring</mln_predict>
+		<cnn_predict conf="0.857">starring</cnn_predict>
+		<gsdp>(NP_PRN)--down--X--down--(NP)</gsdp>
+		<gsdp_lemma>-</gsdp_lemma>
+		<head>《아저씨_(영화)》</head>
+		<cluster>15</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2848" total_morp="12" total_word="6">
+		<sent>아역배우 여자 : 김환희 - 《곡성_(영화)》</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.41" label="NP_PRN" josa="">곡성_(영화)</sbj>
+		<obj type="PS_NAME" weight="1.43" label="NP" josa="">김환희</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.602">starring</mln_predict>
+		<cnn_predict conf="0.832">starring</cnn_predict>
+		<gsdp>(NP_PRN)--down--X--down--(NP)</gsdp>
+		<gsdp_lemma>-</gsdp_lemma>
+		<head>《곡성_(영화)》</head>
+		<cluster>15</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

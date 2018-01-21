@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--VNP_MOD--down--(NP_MOD)</dependency>
+	<total>2</total>
+	<sent_item id="M_T2257" total_morp="28" total_word="11">
+		<sent>인도네시아의 초화산인 토바_호보다 위에 위치하고 있는데 2010년 8월 30일 분화가 발생했다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="보다">토바_호</sbj>
+		<obj type="LCP_COUNTRY" weight="-0.30" label="NP_MOD" josa="의">인도네시아</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.259">country</mln_predict>
+		<cnn_predict conf="0.551">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>초화산인</gsdp_lemma>
+		<head>발생했다.</head>
+		<cluster>7</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3197" total_morp="34" total_word="16">
+		<sent>굿모닝FM은 문화방송의 FM 음악전문 라디오 방송인 MBC_FM4U에서 아침 7시부터 오전 9시까지 방송되는 아침 정보 라디오 프로그램이다.</sent>
+		<sbj type="OGG_ART" weight="1.19" label="NP_AJT" josa="에서">MBC_FM4U</sbj>
+		<obj type="OGG_MEDIA" weight="-1.04" label="NP_MOD" josa="의">문화방송</obj>
+		<gold>owner</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.991">channel</cnn_predict>
+		<gsdp>(NP_AJT)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>방송인</gsdp_lemma>
+		<head>프로그램이다.</head>
+		<cluster>32</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

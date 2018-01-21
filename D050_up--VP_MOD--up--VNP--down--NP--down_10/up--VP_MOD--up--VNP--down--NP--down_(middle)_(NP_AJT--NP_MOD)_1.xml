@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP_MOD--up--VNP--down--NP--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T4013" total_morp="22" total_word="10">
+		<sent>독립운동가 겸 정치인 서재필과 갑신정변 때 희생된 서재창의 생가 외할아버지이다.</sent>
+		<sbj type="PS_NAME" weight="0.60" label="NP_AJT" josa="과">서재필</sbj>
+		<obj type="PS_NAME" weight="1.08" label="NP_MOD" josa="의">서재창</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.912">relative</mln_predict>
+		<cnn_predict conf="0.453">relative</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>희생된--외할아버지이다.--생가</gsdp_lemma>
+		<head>외할아버지이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

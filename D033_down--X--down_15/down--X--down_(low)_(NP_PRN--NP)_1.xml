@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_PRN)--down--X--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1447" total_morp="12" total_word="6">
+		<sent>《일밤 - 애니멀즈_(텔레비전_프로그램)》 - 고정 출연</sent>
+		<sbj type="AFW_VIDEO" weight="-0.69" label="NP_PRN" josa="">애니멀즈_(텔레비전_프로그램)</sbj>
+		<obj type="AFW_VIDEO" weight="-0.16" label="NP" josa="">일밤</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.304">starring</mln_predict>
+		<cnn_predict conf="0.753">channel</cnn_predict>
+		<gsdp>(NP_PRN)--down--X--down--(NP)</gsdp>
+		<gsdp_lemma>-</gsdp_lemma>
+		<head>출연</head>
+		<cluster>32</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--down--VNP_MOD--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2572" total_morp="41" total_word="18">
+		<sent>그러나 최근 과테말라로부터 수집한 표본의 분자생물학적 연구 결과에 의해, 후에르테아목의 아프리카 분류군인 게라르디나속과 자매군 관계에 있는 것으로 밝혀졌다.</sent>
+		<sbj type="OGG_ECONOMY" weight="-0.09" label="NP_CNJ" josa="과">게라르디나속</sbj>
+		<obj type="PS_NAME" weight="-0.48" label="NP_MOD" josa="의">후에르테아목</obj>
+		<gold>order</gold>
+		<mln_predict conf="0.238">country</mln_predict>
+		<cnn_predict conf="0.405">class</cnn_predict>
+		<gsdp>(NP_CNJ)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>분류군인</gsdp_lemma>
+		<head>밝혀졌다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

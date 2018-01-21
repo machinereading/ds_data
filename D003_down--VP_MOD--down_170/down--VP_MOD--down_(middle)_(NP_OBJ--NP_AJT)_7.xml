@@ -1,0 +1,95 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--down--VP_MOD--down--(NP_AJT)</dependency>
+	<total>7</total>
+	<sent_item id="M_T1693" total_morp="26" total_word="11">
+		<sent>송파구 잠실동에 있는 서울종합운동장_야구장을 두산 베어스와 공동 홈 구장으로 사용하고 있다.</sent>
+		<sbj type="AF_BUILDING" weight="1.17" label="NP_OBJ" josa="을">서울종합운동장_야구장</sbj>
+		<obj type="LCP_COUNTY" weight="1.16" label="NP_AJT" josa="에">잠실동</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.809">location</mln_predict>
+		<cnn_predict conf="0.675">team</cnn_predict>
+		<gsdp>(NP_OBJ)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>있는</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>1</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2902" total_morp="46" total_word="20">
+		<sent>그는 레이카르트 감독의 계획에서 밀려나 이듬해에도 임대를 갔는데, 이번에는 레알_마드리드_CF로 떠난 줄리우_바프티스타를 대체하기 위해 같은 스페인 리그의 세비야 FC로 임대되었다.</sent>
+		<sbj type="CV_POSITION" weight="-0.60" label="NP_OBJ" josa="를">줄리우_바프티스타</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_AJT" josa="로">레알_마드리드_CF</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.799">club</mln_predict>
+		<cnn_predict conf="0.415">club</cnn_predict>
+		<gsdp>(NP_OBJ)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>떠난</gsdp_lemma>
+		<head>임대되었다.</head>
+		<cluster>2</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1952" total_morp="34" total_word="11">
+		<sent>2011년 7월 23일부터 회베데스는 FC_바이에른_뮌헨으로 이적한 마누엘_노이어를 대신하여 팀의 주장으로 선정되었다.</sent>
+		<sbj type="PS_NAME" weight="0.73" label="NP_OBJ" josa="를">마누엘_노이어</sbj>
+		<obj type="OGG_SPORTS" weight="1.71" label="NP_AJT" josa="으로">FC_바이에른_뮌헨</obj>
+		<gold>club</gold>
+		<mln_predict conf="1.000">club</mln_predict>
+		<cnn_predict conf="0.480">club</cnn_predict>
+		<gsdp>(NP_OBJ)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>이적한</gsdp_lemma>
+		<head>선정되었다.</head>
+		<cluster>9</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2871" total_morp="29" total_word="15">
+		<sent>디 마리아는 그 해 여름에 앞서 벤피카를 떠나 아틀레티코_마드리드 떠난 주장 시망_사브로자을 대체하기 위해 영입되었다.</sent>
+		<sbj type="CV_POSITION" weight="-0.60" label="NP_OBJ" josa="을">시망_사브로자</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_AJT" josa="">아틀레티코_마드리드</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.998">club</mln_predict>
+		<cnn_predict conf="0.487">club</cnn_predict>
+		<gsdp>(NP_OBJ)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>떠난</gsdp_lemma>
+		<head>영입되었다.</head>
+		<cluster>30</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T942" total_morp="28" total_word="12">
+		<sent>이후 아틀레티코_마드리드로 이적한 세르히_바르후안을 대체할 것으로 기대되었지만 부상으로 주전 자리 확보에 실패하였다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_OBJ" josa="을">세르히_바르후안</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_AJT" josa="로">아틀레티코_마드리드</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.450">team</mln_predict>
+		<cnn_predict conf="0.485">club</cnn_predict>
+		<gsdp>(NP_OBJ)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>이적한</gsdp_lemma>
+		<head>실패하였다.</head>
+		<cluster>19</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2486" total_morp="40" total_word="17">
+		<sent>그리고, 2017년 6월 11일에 SL_벤피카에서 활약하였던 스웨덴 출신 수비수 빅토르_린델뢰프를 4년 계약에 이적료 3500만 유로를 지불하여 영입하였다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_OBJ" josa="를">빅토르_린델뢰프</sbj>
+		<obj type="OGG_ECONOMY" weight="0.67" label="NP_AJT" josa="에서">SL_벤피카</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.718">club</mln_predict>
+		<cnn_predict conf="0.471">league</cnn_predict>
+		<gsdp>(NP_OBJ)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>활약하였던</gsdp_lemma>
+		<head>영입하였다.</head>
+		<cluster>9</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T271" total_morp="18" total_word="7">
+		<sent>알라에드은 사우디아라비아에 위치한 부라이다를 연고로 하는 축구팀이다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_OBJ" josa="를">부라이다</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_AJT" josa="에">사우디아라비아</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.787">region</mln_predict>
+		<cnn_predict conf="0.483">region</cnn_predict>
+		<gsdp>(NP_OBJ)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>위치한</gsdp_lemma>
+		<head>축구팀이다.</head>
+		<cluster>34</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

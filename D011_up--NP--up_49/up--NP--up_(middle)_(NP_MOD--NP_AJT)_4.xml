@@ -1,0 +1,56 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP--up--(NP_AJT)</dependency>
+	<total>4</total>
+	<sent_item id="M_T900" total_morp="20" total_word="6">
+		<sent>김현아, 펜타곤_(음악_그룹)의 멤버 후이, 이던으로 구성되어있다.</sent>
+		<sbj type="PS_NAME" weight="0.68" label="NP_MOD" josa="의">펜타곤_(음악_그룹)</sbj>
+		<obj type="PS_NAME" weight="1.22" label="NP_AJT" josa="">후이</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.931">currentMember</mln_predict>
+		<cnn_predict conf="0.638">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--(NP_AJT)</gsdp>
+		<gsdp_lemma>멤버</gsdp_lemma>
+		<head>구성되어있다.</head>
+		<cluster>23</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3131" total_morp="29" total_word="12">
+		<sent>2016년 1월 7일, 수지는 EXO의 멤버 백현_(가수)과 함께 콜라보레이션 싱글 〈Dream〉을 발매했다.</sent>
+		<sbj type="PS_NAME" weight="0.68" label="NP_MOD" josa="의">EXO</sbj>
+		<obj type="PS_NAME" weight="1.22" label="NP_AJT" josa="과">백현_(가수)</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.983">currentMember</mln_predict>
+		<cnn_predict conf="0.957">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--(NP_AJT)</gsdp>
+		<gsdp_lemma>멤버</gsdp_lemma>
+		<head>발매했다.</head>
+		<cluster>47</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T914" total_morp="47" total_word="22">
+		<sent>싱글 〈MOON〉은 4A 싱글로, 수록곡으로 드라마 주제가로 쓰인 발라드 곡 〈Moon Crying〉, 블랙_아이드_피스의 멤버 퍼기와 함께 부른 〈That Ain't Cool〉 등이 있다.</sent>
+		<sbj type="PS_NAME" weight="0.68" label="NP_MOD" josa="의">블랙_아이드_피스</sbj>
+		<obj type="PS_NAME" weight="1.22" label="NP_AJT" josa="와">퍼기</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.829">currentMember</mln_predict>
+		<cnn_predict conf="0.717">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--(NP_AJT)</gsdp>
+		<gsdp_lemma>멤버</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>47</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2075" total_morp="18" total_word="6">
+		<sent>2005년에 폴_아웃_보이의 베이시스트 피트_웬츠에 의해 설립되었다.</sent>
+		<sbj type="OGG_ECONOMY" weight="0.30" label="NP_MOD" josa="의">폴_아웃_보이</sbj>
+		<obj type="PS_NAME" weight="1.22" label="NP_AJT" josa="에">피트_웬츠</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.183">location</mln_predict>
+		<cnn_predict conf="0.398">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--(NP_AJT)</gsdp>
+		<gsdp_lemma>베이시스트</gsdp_lemma>
+		<head>설립되었다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--up--VP--down--(NP_AJT)</dependency>
+	<total>3</total>
+	<sent_item id="M_T3434" total_morp="47" total_word="22">
+		<sent>그는 그 해, 코미디 영화 《겟_스마트_(영화)》에서 멜 브룩스의 1960년대 TV 시리즈를 새롭게 리메이크한 작품에서 "에이전트 99" 역할을 맡아 스티브 카렐, 앨런_아킨과 연기하였다.</sent>
+		<sbj type="AFW_VIDEO" weight="1.84" label="NP_AJT" josa="에서">겟_스마트_(영화)</sbj>
+		<obj type="PS_NAME" weight="1.43" label="NP_AJT" josa="과">앨런_아킨</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.626">starring</mln_predict>
+		<cnn_predict conf="0.757">starring</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>맡아--연기하였다.</gsdp_lemma>
+		<head>연기하였다.</head>
+		<cluster>5</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T852" total_morp="33" total_word="15">
+		<sent>페예노르트 시절, 현재 첼시 FC에서 뛰고 있는 살로몽_칼루와 강력한 투톱을 형성해 팀의 주력 공격수로 성장하였다.</sent>
+		<sbj type="PS_NAME" weight="0.20" label="NP_AJT" josa="와">살로몽_칼루</sbj>
+		<obj type="CV_POSITION" weight="3.17" label="NP_AJT" josa="로">공격수</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.703">position</mln_predict>
+		<cnn_predict conf="0.472">position</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>형성해--성장하였다.</gsdp_lemma>
+		<head>성장하였다.</head>
+		<cluster>35</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3384" total_morp="46" total_word="18">
+		<sent>2017년 영화 《》에서 매기 역을 맡았으며, 2017년 영화 《미이라_(2017년_영화)》에서는 제니 홀시 역으로 출연해 톰 크루즈, 소피아_부텔라와 호흡을 맞췄다.</sent>
+		<sbj type="AFW_VIDEO" weight="1.84" label="NP_AJT" josa="는">미이라_(2017년_영화)</sbj>
+		<obj type="PS_NAME" weight="1.43" label="NP_AJT" josa="와">소피아_부텔라</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.977">starring</mln_predict>
+		<cnn_predict conf="0.927">starring</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>출연해--맞췄다.</gsdp_lemma>
+		<head>맞췄다.</head>
+		<cluster>6</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP)--down--NP--down--(NP)</dependency>
+	<total>3</total>
+	<sent_item id="M_T810" total_morp="6" total_word="3">
+		<sent>"Caryocar barbinerve" Miq. (브라질의 바이아_주)</sent>
+		<sbj type="" weight="0.00" label="NP" josa="">바이아_주</sbj>
+		<obj type="" weight="0.00" label="NP" josa="">브라질</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.101">genre</mln_predict>
+		<cnn_predict conf="0.650">country</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>barbinerve"</gsdp_lemma>
+		<head>Miq.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T174" total_morp="10" total_word="4">
+		<sent>우리들의 용기 미만도시 2017*아이바_마사키&마츠모토 준 from아라시, 도모토 츠요시 from킨키키즈</sent>
+		<sbj type="" weight="0.00" label="NP" josa="">아라시</sbj>
+		<obj type="" weight="0.00" label="NP" josa="">아이바_마사키</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.165">currentMember</mln_predict>
+		<cnn_predict conf="0.881">currentMember</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>미만도시</gsdp_lemma>
+		<head>2017*아이바_마사키</head>
+		<cluster>7</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T358" total_morp="3" total_word="3">
+		<sent>미국 여성 R&B 보컬 음악 그룹 더_로네츠와 캐나다 남성 싱어송라이터 겸 뮤지컬 배우 앤디 킴 등이 그녀의 영향을 받았다.</sent>
+		<sbj type="" weight="0.00" label="NP" josa="">더_로네츠</sbj>
+		<obj type="" weight="0.00" label="NP" josa="">R&B</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.389">occupation</mln_predict>
+		<cnn_predict conf="0.666">currentMember</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>여성</gsdp_lemma>
+		<head>R</head>
+		<cluster>13</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

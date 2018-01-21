@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(VNP)--down--VP_MOD--down--VP--down--(NP_AJT)</dependency>
+	<total>3</total>
+	<sent_item id="M_T993" total_morp="16" total_word="6">
+		<sent>현재 소속팀은 프리미어리그에 소속되어 있는 리버풀_FC이다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="VNP" josa="">리버풀_FC</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_AJT" josa="에">프리미어리그</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.937">league</mln_predict>
+		<cnn_predict conf="0.826">league</cnn_predict>
+		<gsdp>(VNP)--down--VP_MOD--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>있는--소속되어</gsdp_lemma>
+		<head>리버풀_FC이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3968" total_morp="18" total_word="6">
+		<sent>현재 소속팀은 풋볼_리그_1에 소속되어 있는 플리트우드_타운_FC이다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="VNP" josa="">플리트우드_타운_FC</sbj>
+		<obj type="" weight="0.00" label="NP_AJT" josa="에">풋볼_리그_1</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.732">league</mln_predict>
+		<cnn_predict conf="0.557">league</cnn_predict>
+		<gsdp>(VNP)--down--VP_MOD--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>있는--소속되어</gsdp_lemma>
+		<head>플리트우드_타운_FC이다.</head>
+		<cluster>48</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2062" total_morp="17" total_word="6">
+		<sent>현재 소속팀은 프리미어리그에 소속되어 있는 사우샘프턴_FC이다.</sent>
+		<sbj type="LCP_CITY" weight="0.30" label="VNP" josa="">사우샘프턴_FC</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_AJT" josa="에">프리미어리그</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.375">league</mln_predict>
+		<cnn_predict conf="0.785">league</cnn_predict>
+		<gsdp>(VNP)--down--VP_MOD--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>있는--소속되어</gsdp_lemma>
+		<head>사우샘프턴_FC이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--VNP_MOD--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_T491" total_morp="29" total_word="11">
+		<sent>가장 대표적인 것이 미국으로, 1860년대에 현직 대통령이었던 에이브러햄_링컨이 우표나 지폐에 등장했다.</sent>
+		<sbj type="PS_NAME" weight="0.40" label="NP_SBJ" josa="이">에이브러햄_링컨</sbj>
+		<obj type="LCP_COUNTRY" weight="0.58" label="NP_AJT" josa="으로">미국</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.481">birthPlace</mln_predict>
+		<cnn_predict conf="0.315">deathPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--down--VNP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>대통령이었던</gsdp_lemma>
+		<head>등장했다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,56 @@
+<sentence_list>
+	<dependency>(NP)--up--(NP_MOD)</dependency>
+	<total>4</total>
+	<sent_item id="M_T3656" total_morp="12" total_word="5">
+		<sent>고우석은 KBO_리그 전 KIA_타이거즈의 선수이다.</sent>
+		<sbj type="EV_SPORTS" weight="0.82" label="NP" josa="">KBO_리그</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_MOD" josa="의">KIA_타이거즈</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.885">team</mln_predict>
+		<cnn_predict conf="0.976">team</cnn_predict>
+		<gsdp>(NP)--up--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>선수이다.</head>
+		<cluster>34</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T952" total_morp="14" total_word="5">
+		<sent>융창은 중국 제_(남조)전폐제 소소업의 연호이다.</sent>
+		<sbj type="" weight="0.00" label="NP" josa="">제_(남조)</sbj>
+		<obj type="PS_NAME" weight="1.09" label="NP_MOD" josa="의">소소업</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.693">leaderName</mln_predict>
+		<cnn_predict conf="0.716">leaderName</cnn_predict>
+		<gsdp>(NP)--up--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>연호이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3503" total_morp="40" total_word="20">
+		<sent>루이장은 상파울루 FC, 산투스_FC, SE 파우메이라스와 SC 코린치앙스 파울리스타라는 캄페오나투_브라질레이루_세리이_A의 4대 클럽에서 모두 뛰어 본 몇 안되는 선수 중에 하나다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP" josa="">산투스_FC</sbj>
+		<obj type="" weight="0.00" label="NP_MOD" josa="의">캄페오나투_브라질레이루_세리이_A</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.716">league</mln_predict>
+		<cnn_predict conf="0.364">league</cnn_predict>
+		<gsdp>(NP)--up--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>하나다.</head>
+		<cluster>34</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3974" total_morp="13" total_word="6">
+		<sent>황수현 은 KBO_리그 전 KIA_타이거즈의 외야수이다.</sent>
+		<sbj type="EV_SPORTS" weight="0.82" label="NP" josa="">KBO_리그</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_MOD" josa="의">KIA_타이거즈</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.893">team</mln_predict>
+		<cnn_predict conf="0.978">team</cnn_predict>
+		<gsdp>(NP)--up--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>외야수이다.</head>
+		<cluster>34</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

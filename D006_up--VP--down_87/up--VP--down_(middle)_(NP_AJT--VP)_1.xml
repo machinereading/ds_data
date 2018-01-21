@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--(VP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T255" total_morp="37" total_word="15">
+		<sent>2015년 K리그_챌린지 신생팀 서울_이랜드_FC로 이적하여 등번호 9번을 부여 받으며 기대를 한 몸에 받았으나 못해서 방출되었다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_AJT" josa="로">서울_이랜드_FC</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="VP" josa="">K리그_챌린지</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">league</mln_predict>
+		<cnn_predict conf="0.669">league</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(VP)</gsdp>
+		<gsdp_lemma>이적하여</gsdp_lemma>
+		<head>방출되었다.</head>
+		<cluster>12</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

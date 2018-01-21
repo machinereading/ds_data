@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</dependency>
+	<total>2</total>
+	<sent_item id="M_T1264" total_morp="31" total_word="11">
+		<sent>〈너에게로의 거짓말〉는 2015년 2월 4일에 빙_(기업)에서 발매된 VALSHE의 아홉 번째 싱글이다.</sent>
+		<sbj type="MT_CHEMICAL" weight="-0.33" label="NP_MOD" josa="의">VALSHE</sbj>
+		<obj type="" weight="0.00" label="NP_AJT" josa="에서">빙_(기업)</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.377">routeEnd</mln_predict>
+		<cnn_predict conf="0.476">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>발매된</gsdp_lemma>
+		<head>싱글이다.</head>
+		<cluster>47</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T370" total_morp="34" total_word="14">
+		<sent>2016 시즌이 끝나고 FA 계약을 통해 두산_베어스에서 삼성 라이온즈로 이적한 이원석_(야구_선수)의 보상선수로 이적하게 되었다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_MOD" josa="의">이원석_(야구_선수)</sbj>
+		<obj type="LCP_CITY" weight="-0.42" label="NP_AJT" josa="에서">두산_베어스</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.490">team</mln_predict>
+		<cnn_predict conf="0.924">team</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>이적한</gsdp_lemma>
+		<head>되었다.</head>
+		<cluster>9</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

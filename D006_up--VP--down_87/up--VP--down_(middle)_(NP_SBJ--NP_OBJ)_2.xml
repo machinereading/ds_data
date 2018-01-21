@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--down--(NP_OBJ)</dependency>
+	<total>2</total>
+	<sent_item id="M_T3083" total_morp="42" total_word="17">
+		<sent>2차세계대전 종전 후, 마오쩌둥이 중화인민공화국을 창설하고 정식 군대인 인민해방군을 창설하자 중장 계급을 부여 받고 창군의 주역이 되었다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_SBJ" josa="이">마오쩌둥</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_OBJ" josa="을">중화인민공화국</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.993">birthPlace</mln_predict>
+		<cnn_predict conf="0.289">birthPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma>창설하고</gsdp_lemma>
+		<head>되었다.</head>
+		<cluster>17</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2809" total_morp="53" total_word="22">
+		<sent>본래 이 차량은 2006년 12월 15일 수도권_전철_1호선이 소요산역까지 연장 운행하고 수도권 전철 중앙선이 개통함에 따라 전동차의 추가 도입 필요성에 의하여 도입된 차량이다.</sent>
+		<sbj type="LC_OTHERS" weight="-0.18" label="NP_SBJ" josa="이">수도권_전철_1호선</sbj>
+		<obj type="LC_OTHERS" weight="1.39" label="NP_OBJ" josa="까지">소요산역</obj>
+		<gold>routeStart</gold>
+		<mln_predict conf="0.997">routeEnd</mln_predict>
+		<cnn_predict conf="0.423">routeStart</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma>운행하고</gsdp_lemma>
+		<head>차량이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

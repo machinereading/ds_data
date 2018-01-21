@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--(VNP_MOD)</dependency>
+	<total>3</total>
+	<sent_item id="M_T1143" total_morp="38" total_word="18">
+		<sent>미국의 프로그레시브_메탈밴드인 드림_시어터의 마이크 맨지니는 The Siamese Monster라고 하는 드럼을 사용하는데, 이 드럼킷은 베이스 드럼이 무려 3개나 된다.</sent>
+		<sbj type="OGG_ECONOMY" weight="-0.13" label="NP_MOD" josa="의">드림_시어터</sbj>
+		<obj type="" weight="0.00" label="VNP_MOD" josa="">프로그레시브_메탈</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.288">currentMember</mln_predict>
+		<cnn_predict conf="0.718">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--down--(VNP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>된다.</head>
+		<cluster>29</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3638" total_morp="37" total_word="15">
+		<sent>필 셀웨이은 영국 출신의 음악가이며 작곡가이고, 영국출신의 얼터너티브_록밴드인 라디오헤드의 드러머와 백킹 보컬리스트로 가장 잘 알려져있다.</sent>
+		<sbj type="PS_NAME" weight="-0.03" label="NP_MOD" josa="의">라디오헤드</sbj>
+		<obj type="" weight="0.00" label="VNP_MOD" josa="">얼터너티브_록</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.312">currentMember</mln_predict>
+		<cnn_predict conf="0.862">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--down--(VNP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>알려져있다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2181" total_morp="33" total_word="17">
+		<sent>브라이언 엘윈 헤너 주니어, 시니스터 게이츠로 잘 알려진 미국 음악가는 미국의 헤비_메탈밴드인 어벤지드_세븐폴드의 리드 기타리스트이자 배킹 보컬이다.</sent>
+		<sbj type="OGG_ECONOMY" weight="-0.13" label="NP_MOD" josa="의">어벤지드_세븐폴드</sbj>
+		<obj type="OGG_ECONOMY" weight="-0.76" label="VNP_MOD" josa="">헤비_메탈</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.625">currentMember</mln_predict>
+		<cnn_predict conf="0.847">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--down--(VNP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>보컬이다.</head>
+		<cluster>11</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

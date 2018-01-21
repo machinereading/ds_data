@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(VNP_MOD)--up--NP_AJT--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3506" total_morp="49" total_word="20">
+		<sent>2009년부터는 도호쿠 방송, STV 라디오, 스카이 에이 등 다시 야구 해설위원으로 활동했고 2011년에는 KBO_리그팀인 KIA_타이거즈의 수비 코치로 발탁되어 1년간 역임했다.</sent>
+		<sbj type="OGG_SPORTS" weight="0.30" label="VNP_MOD" josa="">KBO_리그</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_MOD" josa="의">KIA_타이거즈</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.905">team</mln_predict>
+		<cnn_predict conf="0.879">team</cnn_predict>
+		<gsdp>(VNP_MOD)--up--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>코치로</gsdp_lemma>
+		<head>역임했다.</head>
+		<cluster>23</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

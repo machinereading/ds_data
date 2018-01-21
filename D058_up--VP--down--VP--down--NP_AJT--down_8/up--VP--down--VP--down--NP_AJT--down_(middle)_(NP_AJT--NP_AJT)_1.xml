@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--VP--down--NP_AJT--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1416" total_morp="39" total_word="16">
+		<sent>2013년 4월 18일 사직 넥센_히어로즈전에서 2번째투수로 올라와서 7회 2사에 상대타자 서건창에게 위협구를 던지면서 문승훈구심에게 퇴장선언을 받는다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_AJT" josa="에게">서건창</sbj>
+		<obj type="EV_SPORTS" weight="0.00" label="NP_AJT" josa="에서">넥센_히어로즈</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.289">birthPlace</mln_predict>
+		<cnn_predict conf="0.851">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--VP--down--NP_AJT--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>던지면서--올라와서--2번째투수로</gsdp_lemma>
+		<head>받는다.</head>
+		<cluster>17</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

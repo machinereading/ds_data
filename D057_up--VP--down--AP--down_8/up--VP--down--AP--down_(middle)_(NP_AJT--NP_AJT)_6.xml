@@ -1,0 +1,82 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--AP--down--(NP_AJT)</dependency>
+	<total>6</total>
+	<sent_item id="M_T1969" total_morp="20" total_word="7">
+		<sent>2003년 《붙어야_산다》에서 그레그_키니어와 같이 결합 쌍둥이를 연기하였다.</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.41" label="NP_AJT" josa="에서">붙어야_산다</sbj>
+		<obj type="PS_NAME" weight="1.43" label="NP_AJT" josa="와">그레그_키니어</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.655">starring</mln_predict>
+		<cnn_predict conf="0.518">starring</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--AP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>연기하였다.--같이</gsdp_lemma>
+		<head>연기하였다.</head>
+		<cluster>5</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T4094" total_morp="27" total_word="11">
+		<sent>2009년 6월에, 친구 데미_로바토와 함께 디즈니 채널 영화 《프린세스_구출_대작전》에 주연으로 출연하였다.</sent>
+		<sbj type="AFW_ART_CRAFT" weight="0.88" label="NP_AJT" josa="에">프린세스_구출_대작전</sbj>
+		<obj type="PS_NAME" weight="1.43" label="NP_AJT" josa="와">데미_로바토</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.795">starring</mln_predict>
+		<cnn_predict conf="0.763">starring</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--AP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>출연하였다.--함께</gsdp_lemma>
+		<head>출연하였다.</head>
+		<cluster>6</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1298" total_morp="44" total_word="15">
+		<sent>2012년 12월 31일 열린 제62회 일본방송협회 《홍백가합전》에서는 《마루모의_규칙》에서 공연한 아시다_마나와 함께 만7세 최연소의 나이로 출연하였다.</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.41" label="NP_AJT" josa="에서">마루모의_규칙</sbj>
+		<obj type="PS_NAME" weight="1.43" label="NP_AJT" josa="와">아시다_마나</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.957">starring</mln_predict>
+		<cnn_predict conf="0.490">starring</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--AP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>출연하였다.--함께</gsdp_lemma>
+		<head>출연하였다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1991" total_morp="28" total_word="7">
+		<sent>2008년에는 황정민_(1970년)과 함께 《슈퍼맨이었던_사나이》에 송수정 역으로 출연했다.</sent>
+		<sbj type="AFW_PERFORMANCE" weight="0.22" label="NP_AJT" josa="에">슈퍼맨이었던_사나이</sbj>
+		<obj type="PS_NAME" weight="1.43" label="NP_AJT" josa="과">황정민_(1970년)</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.728">starring</mln_predict>
+		<cnn_predict conf="0.681">starring</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--AP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>출연했다.--함께</gsdp_lemma>
+		<head>출연했다.</head>
+		<cluster>38</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T875" total_morp="32" total_word="10">
+		<sent>2010년 가을에는 영화 《어쿠스틱_(영화)》에 강민혁_(가수)과 함께 출연하며 연기에 도전하기도 했다.</sent>
+		<sbj type="FD_ART" weight="0.26" label="NP_AJT" josa="에">어쿠스틱_(영화)</sbj>
+		<obj type="PS_NAME" weight="1.43" label="NP_AJT" josa="과">강민혁_(가수)</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.972">starring</mln_predict>
+		<cnn_predict conf="0.858">starring</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--AP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>출연하며--함께</gsdp_lemma>
+		<head>했다.</head>
+		<cluster>6</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T4001" total_morp="18" total_word="7">
+		<sent>현재는 마르케타_이르글로바와 함께 듀엣밴드인 스웰_시즌으로도 활동하고 있다.</sent>
+		<sbj type="DT_SEASON" weight="-0.00" label="NP_AJT" josa="도">스웰_시즌</sbj>
+		<obj type="PS_NAME" weight="1.22" label="NP_AJT" josa="와">마르케타_이르글로바</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.710">currentMember</mln_predict>
+		<cnn_predict conf="0.713">currentMember</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--AP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>활동하고--함께</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>24</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

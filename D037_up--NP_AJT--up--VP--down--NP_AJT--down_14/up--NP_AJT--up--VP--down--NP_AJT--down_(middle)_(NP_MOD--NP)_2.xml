@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP_AJT--up--VP--down--NP_AJT--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_T441" total_morp="24" total_word="9">
+		<sent>1812년_전쟁의 발발로 모로는 제임스_매디슨 대통령으로부터 미국 군대의 사령관직을 제의받았다.</sent>
+		<sbj type="DT_YEAR" weight="0.41" label="NP_MOD" josa="의">1812년_전쟁</sbj>
+		<obj type="PS_NAME" weight="0.88" label="NP" josa="">제임스_매디슨</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.719">commander</mln_predict>
+		<cnn_predict conf="0.807">commander</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>발발로--제의받았다.--대통령으로부터</gsdp_lemma>
+		<head>제의받았다.</head>
+		<cluster>11</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T416" total_morp="23" total_word="9">
+		<sent>석항역은 태백선의 보통역으로, 강원도_(남) 영월군 중동면 석항리에 위치하고 있다.</sent>
+		<sbj type="AF_ROAD" weight="-0.38" label="NP_MOD" josa="의">태백선</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="">강원도_(남)</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.720">routeEnd</mln_predict>
+		<cnn_predict conf="0.304">routeEnd</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>보통역으로,--위치하고--석항리에</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>1</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

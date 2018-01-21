@@ -1,0 +1,173 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VNP--down--(NP_MOD)</dependency>
+	<total>13</total>
+	<sent_item id="M_T3251" total_morp="24" total_word="9">
+		<sent>"Madonna_(시크릿의_음반)"는 대한민국 음악 그룹 시크릿_(음악_그룹)의 두 번째 EP 음반이다.</sent>
+		<sbj type="" weight="0.00" label="NP_SBJ" josa="는">Madonna_(시크릿의_음반)</sbj>
+		<obj type="PS_NAME" weight="0.89" label="NP_MOD" josa="의">시크릿_(음악_그룹)</obj>
+		<gold>artist</gold>
+		<mln_predict conf="0.877">artist</mln_predict>
+		<cnn_predict conf="0.457">currentMember</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>음반이다.</gsdp_lemma>
+		<head>음반이다.</head>
+		<cluster>47</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2382" total_morp="18" total_word="7">
+		<sent>《Popcorn_(음반)》은 일본의 남성 아이돌 그룹 아라시의 음반이다.</sent>
+		<sbj type="AFW_MUSIC" weight="1.73" label="NP_SBJ" josa="은">Popcorn_(음반)</sbj>
+		<obj type="PS_NAME" weight="0.89" label="NP_MOD" josa="의">아라시</obj>
+		<gold>artist</gold>
+		<mln_predict conf="0.918">artist</mln_predict>
+		<cnn_predict conf="0.497">currentMember</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>음반이다.</gsdp_lemma>
+		<head>음반이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2606" total_morp="22" total_word="9">
+		<sent>비버아목은 비버와 포켓고퍼, 캥거루쥐 등을 포함하고 있는 설치류의 아목이다.</sent>
+		<sbj type="" weight="0.00" label="NP_SBJ" josa="은">비버</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="0.492">class</mln_predict>
+		<cnn_predict conf="0.858">order</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>아목이다.</gsdp_lemma>
+		<head>아목이다.</head>
+		<cluster>5</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T774" total_morp="17" total_word="9">
+		<sent>FC 콩코르디아 바젤은 바젤을 연고로 하는 스위스의 축구 클럽이다.</sent>
+		<sbj type="EV_OTHERS" weight="0.63" label="NP_SBJ" josa="은">바젤</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">스위스</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.378">location</mln_predict>
+		<cnn_predict conf="0.353">country</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>클럽이다.</gsdp_lemma>
+		<head>클럽이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3338" total_morp="14" total_word="5">
+		<sent>스클레이터황금두더지는 황금두더지에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_MAMMALIA" weight="0.17" label="NP_SBJ" josa="는">황금두더지</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.924">class</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>일종이다.</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3875" total_morp="15" total_word="5">
+		<sent>흰꼬리잭토끼는 토끼에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_MAMMALIA" weight="0.17" label="NP_SBJ" josa="는">토끼</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.881">class</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>일종이다.</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3123" total_morp="14" total_word="5">
+		<sent>노랑황금두더지는 황금두더지에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_MAMMALIA" weight="0.17" label="NP_SBJ" josa="는">황금두더지</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.883">class</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>일종이다.</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3480" total_morp="14" total_word="5">
+		<sent>아비시니아멧토끼는 토끼에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_MAMMALIA" weight="0.17" label="NP_SBJ" josa="는">토끼</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.895">class</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>일종이다.</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3181" total_morp="16" total_word="6">
+		<sent>만주토끼는 토끼 산토끼속에 속하는 포유류의 일종이다.</sent>
+		<sbj type="LC_OTHERS" weight="-0.73" label="NP_SBJ" josa="는">토끼</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.876">class</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>일종이다.</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T940" total_morp="17" total_word="5">
+		<sent>론도갈라고는 갈라고에 속하는 영장류의 하나이다.</sent>
+		<sbj type="PT_GRASS" weight="1.29" label="NP_SBJ" josa="는">갈라고</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">영장류</obj>
+		<gold>order</gold>
+		<mln_predict conf="0.768">class</mln_predict>
+		<cnn_predict conf="0.798">class</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>하나이다.</gsdp_lemma>
+		<head>하나이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1478" total_morp="16" total_word="4">
+		<sent>"에브리바디_(텔레비전_프로그램)"는 JTBC의 시사교양 프로그램이다.</sent>
+		<sbj type="PS_NAME" weight="-0.91" label="NP_SBJ" josa="는">에브리바디_(텔레비전_프로그램)</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP_MOD" josa="의">JTBC</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.851">channel</mln_predict>
+		<cnn_predict conf="0.988">channel</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>프로그램이다.</gsdp_lemma>
+		<head>프로그램이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T51" total_morp="15" total_word="5">
+		<sent>디윈턴황금두더지는 황금두더지에 속하는 포유류의 일종이다.</sent>
+		<sbj type="PS_NAME" weight="-0.69" label="NP_SBJ" josa="는">황금두더지</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.922">class</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>일종이다.</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2104" total_morp="26" total_word="10">
+		<sent>그의 형 토비아스_슈바인슈타이거는 현재 레기오날리가에 속해 있는 FC_바이에른_뮌헨_II의 축구 선수이다.</sent>
+		<sbj type="OGG_ECONOMY" weight="0.14" label="NP_SBJ" josa="는">토비아스_슈바인슈타이거</sbj>
+		<obj type="TR_SCIENCE" weight="0.83" label="NP_MOD" josa="의">FC_바이에른_뮌헨_II</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.696">birthPlace</mln_predict>
+		<cnn_predict conf="0.546">league</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>선수이다.</gsdp_lemma>
+		<head>선수이다.</head>
+		<cluster>25</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_PRN)--down--X--down--(VNP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T256" total_morp="17" total_word="6">
+		<sent>남자배우 : 유아인 - 《베테랑》, 《사도_(영화)》</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.41" label="NP_PRN" josa="">사도_(영화)</sbj>
+		<obj type="" weight="0.00" label="VNP_MOD" josa="">유아인</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.943">starring</mln_predict>
+		<cnn_predict conf="0.863">starring</cnn_predict>
+		<gsdp>(NP_PRN)--down--X--down--(VNP_MOD)</gsdp>
+		<gsdp_lemma>-</gsdp_lemma>
+		<head>《사도_(영화)》</head>
+		<cluster>15</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,57 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP_AJT--up--VP--down--VP--down--(NP_AJT)</dependency>
+	<total>4</total>
+	<sent_item id="M_T1391" total_morp="23" total_word="10">
+		<sent>석방 후 히우그란지두술_주로 이주하여 포르투알레그리의 히우그란지두술 연방 대학교에서 경제학을 전공했다.</sent>
+		<sbj type="LCP_CITY" weight="2.07" label="NP_MOD" josa="의">포르투알레그리</sbj>
+		<obj type="LCP_CITY" weight="0.55" label="NP_AJT" josa="로">히우그란지두술_주</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.404">region</mln_predict>
+		<cnn_predict conf="0.510">country</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>대학교에서--전공했다.--이주하여</gsdp_lemma>
+		<head>전공했다.</head>
+		<cluster>11</cluster>
+		<comment>Entity2 NER이 잘못된 케이스. Top3, Top5 로 측정.
+			GSDP 상에 '이주하다' 가 keyword가 될 수 있음</comment>
+	</sent_item>
+	<sent_item id="M_T1404" total_morp="56" total_word="24">
+		<sent>두 번째 멕시코_축구_국가대표팀전에서도 수없이 많은 슈팅을 날리고도 기예르모_오초아의 신들린 선방으로 결국 0:0으로 비겨, 유럽과 아르헨티나, 우루과이를 제외한 팀에게 사상 처음으로 승점을 내주는 굴욕을 당했다.</sent>
+		<sbj type="" weight="0.00" label="NP_MOD" josa="의">기예르모_오초아</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_AJT" josa="도">멕시코_축구_국가대표팀</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.622">team</mln_predict>
+		<cnn_predict conf="0.465">team</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>선방으로--비겨,--날리고도</gsdp_lemma>
+		<head>당했다.</head>
+		<cluster>17</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2795" total_morp="43" total_word="16">
+		<sent>34세의 두데크는 라리가 2007-08을 앞두고 레알_마드리드_CF에 입단했지만, 이케르_카시야스의 존재로 4년 동안 2번의 라리가 경기에 출장하는데 그쳤다.</sent>
+		<sbj type="PS_NAME" weight="0.73" label="NP_MOD" josa="의">이케르_카시야스</sbj>
+		<obj type="OGG_SPORTS" weight="1.71" label="NP_AJT" josa="에">레알_마드리드_CF</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.940">club</mln_predict>
+		<cnn_predict conf="0.392">club</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>존재로--출장하는데--입단했지만,</gsdp_lemma>
+		<head>그쳤다.</head>
+		<cluster>30</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1938" total_morp="27" total_word="12">
+		<sent>2008년 전북_현대_모터스로 옮겼지만, 그 해 손승준과의 맞트레이드로 수원 삼성 블루윙즈로 다시 이적하였다.</sent>
+		<sbj type="PS_NAME" weight="0.73" label="NP_MOD" josa="의">손승준</sbj>
+		<obj type="OGG_SPORTS" weight="1.71" label="NP_AJT" josa="로">전북_현대_모터스</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.975">team</mln_predict>
+		<cnn_predict conf="0.537">team</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>맞트레이드로--이적하였다.--옮겼지만,</gsdp_lemma>
+		<head>이적하였다.</head>
+		<cluster>5</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

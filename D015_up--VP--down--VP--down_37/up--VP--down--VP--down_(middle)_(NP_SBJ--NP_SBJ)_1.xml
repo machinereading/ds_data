@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--down--VP--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2049" total_morp="37" total_word="13">
+		<sent>1948년 8월 15일 대한민국 정부가 수립되었고, 9월 9일 조선민주주의인민공화국이 수립되어 김일성이 총리로 임명되었다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_SBJ" josa="이">김일성</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_SBJ" josa="이">조선민주주의인민공화국</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.676">country</mln_predict>
+		<cnn_predict conf="0.352">deathPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma>임명되었다.--수립되어</gsdp_lemma>
+		<head>임명되었다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

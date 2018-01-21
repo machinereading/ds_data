@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP_AJT--down--NP_CNJ--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T860" total_morp="30" total_word="13">
+		<sent>카바르디어 혹은 아디게어는 러시아 남부, 북캅카스에 위치하는 카바르디노발카르_공화국과 카라차예보체르케스카야 공화국에서 카바르딘인이 사용하는 언어이다.</sent>
+		<sbj type="LCP_COUNTRY" weight="-0.36" label="NP_CNJ" josa="과">카바르디노발카르_공화국</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">러시아</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.438">location</mln_predict>
+		<cnn_predict conf="0.778">country</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--down--NP_CNJ--down--(NP)</gsdp>
+		<gsdp_lemma>공화국에서--남부,</gsdp_lemma>
+		<head>언어이다.</head>
+		<cluster>36</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_AJT--up--VP--down--(NP_AJT)</dependency>
+	<total>3</total>
+	<sent_item id="M_T3058" total_morp="54" total_word="24">
+		<sent>7년 동안 레알 마드리드 CF와 계약하여 1군 외에도, 2군, 3군 경기에 출전한 그는 비야레알_CF 소속으로 라리가에서 이름을 날렸는데, 5시즌 동안 230번의 공식 경기에 출전했다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP" josa="">비야레알_CF</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_AJT" josa="에서">라리가</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">league</mln_predict>
+		<cnn_predict conf="0.498">team</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>소속으로--날렸는데,</gsdp_lemma>
+		<head>출전했다.</head>
+		<cluster>41</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2221" total_morp="23" total_word="10">
+		<sent>2008년 기준으로 이용객 수가 1,300만명 이상으로 브라질에서 상파울루_구아룰류스_국제공항 다음으로 많다.</sent>
+		<sbj type="LC_OTHERS" weight="1.96" label="NP" josa="">상파울루_구아룰류스_국제공항</sbj>
+		<obj type="LCP_COUNTRY" weight="-0.30" label="NP_AJT" josa="에서">브라질</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.232">country</mln_predict>
+		<cnn_predict conf="0.761">country</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>다음으로--많다.</gsdp_lemma>
+		<head>많다.</head>
+		<cluster>7</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1751" total_morp="43" total_word="20">
+		<sent>양홍석 - 아이콘 후보 멤버로 Mnet 믹스앤매치 최종 탈락 후 연습생활을 이어오다 개인사정으로 퇴사함, 이후 큐브_엔터테인먼트에서 남성그룹 펜타곤_(음악_그룹) 멤버로 데뷔함</sent>
+		<sbj type="PS_NAME" weight="-0.15" label="NP" josa="">펜타곤_(음악_그룹)</sbj>
+		<obj type="OGG_ECONOMY" weight="1.66" label="NP_AJT" josa="에서">큐브_엔터테인먼트</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.865">owningOrganisation</mln_predict>
+		<cnn_predict conf="0.531">currentMember</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>멤버로--데뷔함</gsdp_lemma>
+		<head>데뷔함</head>
+		<cluster>35</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

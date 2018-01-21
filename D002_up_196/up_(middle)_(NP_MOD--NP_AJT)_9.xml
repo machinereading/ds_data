@@ -1,0 +1,121 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--(NP_AJT)</dependency>
+	<total>9</total>
+	<sent_item id="M_T1305" total_morp="17" total_word="5">
+		<sent>1218년 레온_왕국의 알폰소_9세에 의해 설립되었다.</sent>
+		<sbj type="PS_NAME" weight="-0.15" label="NP_MOD" josa="의">레온_왕국</sbj>
+		<obj type="QT_AGE" weight="1.26" label="NP_AJT" josa="에">알폰소_9세</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.115">operator</mln_predict>
+		<cnn_predict conf="0.185">leaderName</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_AJT)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>설립되었다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2574" total_morp="28" total_word="13">
+		<sent>성대모사 개그맨 간나즈키나 요미우리 팬인 SMAP의 나카이_마사히로는 예능 프로그램에서 이 흉내를 자주하고 있다.</sent>
+		<sbj type="PS_NAME" weight="0.68" label="NP_MOD" josa="의">SMAP</sbj>
+		<obj type="" weight="0.00" label="NP_AJT" josa="는">나카이_마사히로</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.722">currentMember</mln_predict>
+		<cnn_predict conf="0.623">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_AJT)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>있다.</head>
+		<cluster>32</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T455" total_morp="35" total_word="16">
+		<sent>전 모닝구무스메。의 멤버 중에서는 후지모토 미키나 이시카와 리카, 개인적으로는 코코넛무스메의 나가테 아야카나 컨트리무스메의 사토다_마이와 사이가 좋다.</sent>
+		<sbj type="PS_NAME" weight="0.68" label="NP_MOD" josa="의">컨트리무스메</sbj>
+		<obj type="" weight="0.00" label="NP_AJT" josa="와">사토다_마이</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.141">currentMember</mln_predict>
+		<cnn_predict conf="0.950">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_AJT)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>좋다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2581" total_morp="20" total_word="7">
+		<sent>동방신기의 시아준수, 진보라, 보아, 에픽하이의 타블로로 구성되었다.</sent>
+		<sbj type="PS_NAME" weight="0.68" label="NP_MOD" josa="의">에픽하이</sbj>
+		<obj type="PS_NAME" weight="1.22" label="NP_AJT" josa="로">타블로</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.612">currentMember</mln_predict>
+		<cnn_predict conf="0.888">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_AJT)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>구성되었다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1607" total_morp="15" total_word="6">
+		<sent>로드스터 1호차는 록밴드 에어로스미스의 스티븐_타일러에게 인도되었다.</sent>
+		<sbj type="PS_NAME" weight="0.68" label="NP_MOD" josa="의">에어로스미스</sbj>
+		<obj type="" weight="0.00" label="NP_AJT" josa="에게">스티븐_타일러</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.349">currentMember</mln_predict>
+		<cnn_predict conf="0.395">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_AJT)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>인도되었다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2872" total_morp="27" total_word="10">
+		<sent>2010년 10월 25일, 그는 SSC_나폴리와의 세리에_A 경기에서 득점 행진을 이어나갔다.</sent>
+		<sbj type="OGG_ECONOMY" weight="0.36" label="NP_MOD" josa="의">SSC_나폴리</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_AJT" josa="">세리에_A</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.826">club</mln_predict>
+		<cnn_predict conf="0.839">league</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_AJT)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>이어나갔다.</head>
+		<cluster>34</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3831" total_morp="49" total_word="23">
+		<sent>어렸을 때부터 일렉트로닉 음악에 관심이 많았던 심재원은 음악에 한참 빠져있었을 때, 평소 알고 지내던 에픽하이의 DJ_투컷에게 디제잉을 배우게 되면서 디제잉에 관심을 가지게 되었다.</sent>
+		<sbj type="PS_NAME" weight="0.68" label="NP_MOD" josa="의">에픽하이</sbj>
+		<obj type="PS_NAME" weight="1.22" label="NP_AJT" josa="에게">DJ_투컷</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.830">currentMember</mln_predict>
+		<cnn_predict conf="0.813">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_AJT)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>되었다.</head>
+		<cluster>47</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3190" total_morp="22" total_word="9">
+		<sent>이 해 KBS 연기대상에서 프로듀사의 김수현_(1988년)과 함께 대상을 수상했다.</sent>
+		<sbj type="CV_OCCUPATION" weight="1.55" label="NP_MOD" josa="의">프로듀사</sbj>
+		<obj type="PS_NAME" weight="1.43" label="NP_AJT" josa="과">김수현_(1988년)</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.865">starring</mln_predict>
+		<cnn_predict conf="0.874">starring</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_AJT)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>수상했다.</head>
+		<cluster>6</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1172" total_morp="46" total_word="14">
+		<sent>아카데미상 시상식에서 그녀는 여우주연상 수상이 기대되었으나, 상은 《드라이빙_미스_데이지》의 제시카_탠디에게 갔고, 이는 놀랄만큼 예상밖으로 여겨졌다.</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.41" label="NP_MOD" josa="의">드라이빙_미스_데이지</sbj>
+		<obj type="" weight="0.00" label="NP_AJT" josa="에게">제시카_탠디</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.406">starring</mln_predict>
+		<cnn_predict conf="0.950">starring</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_AJT)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>여겨졌다.</head>
+		<cluster>30</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,56 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_MOD--down--(NP_MOD)</dependency>
+	<total>4</total>
+	<sent_item id="M_T3340" total_morp="28" total_word="11">
+		<sent>이 작품은 후에 2006년 방송된 일본방송협회의 연속_TV_소설 《순정 반짝》의 원안이 됐다.</sent>
+		<sbj type="" weight="0.00" label="NP" josa="">연속_TV_소설</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP_MOD" josa="의">일본방송협회</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.704">channel</mln_predict>
+		<cnn_predict conf="0.815">channel</cnn_predict>
+		<gsdp>(NP)--up--NP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>반짝》의</gsdp_lemma>
+		<head>됐다.</head>
+		<cluster>40</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T716" total_morp="12" total_word="5">
+		<sent>흥남동은 대한민국의 전라북도 군산시의 동이다.</sent>
+		<sbj type="LCP_PROVINCE" weight="0.19" label="NP" josa="">전라북도</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">대한민국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.338">country</mln_predict>
+		<cnn_predict conf="0.911">country</cnn_predict>
+		<gsdp>(NP)--up--NP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>군산시의</gsdp_lemma>
+		<head>동이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T548" total_morp="12" total_word="5">
+		<sent>경암동은 대한민국의 전라북도 군산시의 동이다.</sent>
+		<sbj type="LCP_PROVINCE" weight="0.19" label="NP" josa="">전라북도</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">대한민국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.393">country</mln_predict>
+		<cnn_predict conf="0.910">country</cnn_predict>
+		<gsdp>(NP)--up--NP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>군산시의</gsdp_lemma>
+		<head>동이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T387" total_morp="10" total_word="5">
+		<sent>김태연은 대한민국의 서울특별시 출신의 배우다.</sent>
+		<sbj type="LCP_CAPITALCITY" weight="1.86" label="NP" josa="">서울특별시</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">대한민국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.822">country</mln_predict>
+		<cnn_predict conf="0.534">country</cnn_predict>
+		<gsdp>(NP)--up--NP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>출신의</gsdp_lemma>
+		<head>배우다.</head>
+		<cluster>30</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

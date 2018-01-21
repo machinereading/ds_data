@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--VP_MOD--down--VP--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2618" total_morp="33" total_word="12">
+		<sent>울버햄프턴이 프리미어리그에서 강등되자 해고된 매카시는 이후 풋볼_리그_챔피언십에 소속되어 있는 입스위치_타운_FC에서 감독직을 맡았다.</sent>
+		<sbj type="OGG_SPORTS" weight="-0.61" label="NP_AJT" josa="에서">입스위치_타운_FC</sbj>
+		<obj type="EV_SPORTS" weight="-0.63" label="NP_AJT" josa="에">풋볼_리그_챔피언십</obj>
+		<gold>position</gold>
+		<mln_predict conf="1.000">league</mln_predict>
+		<cnn_predict conf="0.624">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>있는--소속되어</gsdp_lemma>
+		<head>맡았다.</head>
+		<cluster>30</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--NP_AJT--down--NP--down--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_T385" total_morp="31" total_word="18">
+		<sent>메이저_리그_베이스볼팀 토론토 블루제이스, 신시내티 레즈, 디트로이트 타이거스, 뉴욕_양키스, 시카고 화이트삭스, 샌디에이고 파드리스, 보스턴 레드삭스, 로스앤젤레스 다저스 등지에서 뛰었다.</sent>
+		<sbj type="OGG_SPORTS" weight="0.30" label="NP_AJT" josa="">메이저_리그_베이스볼</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_CNJ" josa="">뉴욕_양키스</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.591">team</mln_predict>
+		<cnn_predict conf="0.872">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--NP--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma>뛰었다.--등지에서--다저스</gsdp_lemma>
+		<head>뛰었다.</head>
+		<cluster>23</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

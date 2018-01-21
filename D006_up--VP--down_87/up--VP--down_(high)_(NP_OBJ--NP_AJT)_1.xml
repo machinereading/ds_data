@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3073" total_morp="62" total_word="24">
+		<sent>2010년 KBS_1TV에서 김만덕의 일대기를 그린 《거상_김만덕》드라마를 제작하여 방영하였으며, 이미연, 고두심 등이 출연하였고 이 작품 외에도 MBC에서 정화란 드라마가 방송했는데 고두심이 주인공 김만덕 역을 맡았다.</sent>
+		<sbj type="AFW_VIDEO" weight="1.69" label="NP_OBJ" josa="를">거상_김만덕</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP_AJT" josa="에서">KBS_1TV</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.938">channel</mln_predict>
+		<cnn_predict conf="0.870">channel</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>제작하여</gsdp_lemma>
+		<head>맡았다.</head>
+		<cluster>32</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

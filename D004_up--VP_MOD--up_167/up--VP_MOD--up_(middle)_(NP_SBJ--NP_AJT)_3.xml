@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP_MOD--up--(NP_AJT)</dependency>
+	<total>3</total>
+	<sent_item id="M_T1611" total_morp="50" total_word="23">
+		<sent>그는 2006년 8월 31일 터키 쉬페르리그의 갈라타사라이 SK로 이적하였고, 2007년 5월 29일 일본 축구 국가대표팀 동료인 다카하라_나오히로가 있는 독일 분데스리가의 아인트라흐트_프랑크푸르트로 다시 이적하였다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_SBJ" josa="가">다카하라_나오히로</sbj>
+		<obj type="EV_SPORTS" weight="0.00" label="NP_AJT" josa="로">아인트라흐트_프랑크푸르트</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.890">club</mln_predict>
+		<cnn_predict conf="0.605">league</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP_MOD--up--(NP_AJT)</gsdp>
+		<gsdp_lemma>있는</gsdp_lemma>
+		<head>이적하였다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T4109" total_morp="30" total_word="11">
+		<sent>1964년, 후에 스타 플레이어로 활약하는 프란츠 베켄바워, 제프_마이어가 있는 FC_바이에른_뮌헨에 입단하였다.</sent>
+		<sbj type="" weight="0.00" label="NP_SBJ" josa="가">제프_마이어</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_AJT" josa="에">FC_바이에른_뮌헨</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.338">club</mln_predict>
+		<cnn_predict conf="0.478">club</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP_MOD--up--(NP_AJT)</gsdp>
+		<gsdp_lemma>있는</gsdp_lemma>
+		<head>입단하였다.</head>
+		<cluster>25</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3871" total_morp="51" total_word="22">
+		<sent>《잃어버린 편지》는 이온_루카_카라지알레가 1884년에 발표한 4막 희극으로 1884년 11월 13일 국립극장에서 초연된 이후 현재까지 매년 빠지지 않고 공연되는 루마니아 최고의 희극 작품이다.</sent>
+		<sbj type="PS_NAME" weight="-0.03" label="NP_SBJ" josa="가">이온_루카_카라지알레</sbj>
+		<obj type="FD_ART" weight="3.14" label="NP_AJT" josa="으로">희극</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.263">genre</mln_predict>
+		<cnn_predict conf="0.166">birthPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP_MOD--up--(NP_AJT)</gsdp>
+		<gsdp_lemma>발표한</gsdp_lemma>
+		<head>작품이다.</head>
+		<cluster>2</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

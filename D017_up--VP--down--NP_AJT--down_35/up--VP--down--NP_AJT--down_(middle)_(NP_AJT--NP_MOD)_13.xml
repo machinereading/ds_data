@@ -1,0 +1,173 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_MOD)</dependency>
+	<total>13</total>
+	<sent_item id="M_T3047" total_morp="32" total_word="10">
+		<sent>6월 25일 독일_축구_국가대표팀과의 준결승전에서 미하엘_발라크에게 결승골을 허용하며 결승 진출에는 실패했다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_AJT" josa="에게">미하엘_발라크</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_MOD" josa="의">독일_축구_국가대표팀</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.594">club</mln_predict>
+		<cnn_predict conf="0.604">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>허용하며--준결승전에서</gsdp_lemma>
+		<head>실패했다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3060" total_morp="28" total_word="14">
+		<sent>호베르트 케네지는 브라질의 축구 선수로, 현재 잉글랜드 프리미어리그의 첼시 FC에서 왓퍼드_FC로 임대되어 활동하고 있다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_AJT" josa="로">왓퍼드_FC</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_MOD" josa="의">프리미어리그</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.440">club</mln_predict>
+		<cnn_predict conf="0.930">league</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>임대되어--FC에서</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>24</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T978" total_morp="42" total_word="13">
+		<sent>더반은 남아프리카_공화국의 항구도시로, 인구가 요하네스버그,프리토리아에 이어 세번째로 많은 도시이며 도시권으로는 요하네스버그,케이프타운에 이은 세번째이다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_AJT" josa="에">프리토리아</sbj>
+		<obj type="OGG_MEDIA" weight="-0.55" label="NP_MOD" josa="의">남아프리카_공화국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.835">country</mln_predict>
+		<cnn_predict conf="0.612">country</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>이어--항구도시로,</gsdp_lemma>
+		<head>세번째이다.</head>
+		<cluster>3</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1471" total_morp="51" total_word="23">
+		<sent>포스트 시즌에서는 탬파베이 레이스와의 디비전 시리즈 2차전에서 첫 등판을 했지만 에번 롱고리아로부터 3점 홈런을 허용했고 디트로이트_타이거스와의 리그 챔피언십 시리즈 3차전에서도 미겔_카브레라에 홈런을 허용했다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_AJT" josa="에">미겔_카브레라</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_MOD" josa="의">디트로이트_타이거스</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.997">team</mln_predict>
+		<cnn_predict conf="0.923">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>허용했다.--3차전에서도</gsdp_lemma>
+		<head>허용했다.</head>
+		<cluster>5</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3380" total_morp="20" total_word="6">
+		<sent>《예스_맨_(영화)》에서는 짐_캐리의 열연으로 큰 인기를 끌었다.</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.41" label="NP_AJT" josa="는">예스_맨_(영화)</sbj>
+		<obj type="" weight="0.00" label="NP_MOD" josa="의">짐_캐리</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.259">artist</mln_predict>
+		<cnn_predict conf="0.740">starring</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>끌었다.--열연으로</gsdp_lemma>
+		<head>끌었다.</head>
+		<cluster>6</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2658" total_morp="25" total_word="9">
+		<sent>"When You're Gone"은 에이브릴_라빈의 노래로, 음반 "The_Best_Damn_Thing"에 수록되어 있다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에">The_Best_Damn_Thing</sbj>
+		<obj type="OGG_ECONOMY" weight="0.67" label="NP_MOD" josa="의">에이브릴_라빈</obj>
+		<gold>artist</gold>
+		<mln_predict conf="0.867">artist</mln_predict>
+		<cnn_predict conf="0.715">artist</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>수록되어--노래로,</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3161" total_morp="39" total_word="15">
+		<sent>2002년 월드컵 때 파누치는 대한민국_축구_국가대표팀과의 16강전에서 설기현에게 동점골의 빌미를 제공하면서 이탈리아 팬들의 비난을 받기도 했다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_AJT" josa="에게">설기현</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_MOD" josa="의">대한민국_축구_국가대표팀</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.539">birthPlace</mln_predict>
+		<cnn_predict conf="0.443">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>제공하면서--16강전에서</gsdp_lemma>
+		<head>했다.</head>
+		<cluster>30</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1053" total_morp="27" total_word="12">
+		<sent>마이카고 항공는 터키의 화물 항공사로 본사는 터키 이스탄불에 위치해 있으며 2004년에 설립했다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_AJT" josa="에">이스탄불</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">터키</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.853">location</mln_predict>
+		<cnn_predict conf="0.478">location</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>위치해--항공사로</gsdp_lemma>
+		<head>설립했다.</head>
+		<cluster>40</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2684" total_morp="23" total_word="9">
+		<sent>"What the Hell"은 에이브릴_라빈의 노래로, 음반 "Goodbye_Lullaby"에 수록되어 있다.</sent>
+		<sbj type="AFW_MUSIC" weight="1.73" label="NP_AJT" josa="에">Goodbye_Lullaby</sbj>
+		<obj type="PS_NAME" weight="0.89" label="NP_MOD" josa="의">에이브릴_라빈</obj>
+		<gold>artist</gold>
+		<mln_predict conf="1.000">artist</mln_predict>
+		<cnn_predict conf="0.754">artist</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>수록되어--노래로,</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>47</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3826" total_morp="27" total_word="8">
+		<sent>"Complicated"는 에이브릴_라빈의 데뷔 싱글로, 음반 "Let_Go_(에이브릴_라빈의_음반)"에 수록되어 있다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에">Let_Go_(에이브릴_라빈의_음반)</sbj>
+		<obj type="OGG_ECONOMY" weight="0.67" label="NP_MOD" josa="의">에이브릴_라빈</obj>
+		<gold>artist</gold>
+		<mln_predict conf="0.679">artist</mln_predict>
+		<cnn_predict conf="0.772">artist</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>수록되어--싱글로,</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>47</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1348" total_morp="27" total_word="12">
+		<sent>마티아스 베시노 팔레로는 세리에_A의 ACF 피오렌티나에서 엠폴리_FC로 임대되어 뛰는 우루과이의 축구 선수이다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_AJT" josa="로">엠폴리_FC</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_MOD" josa="의">세리에_A</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.510">league</mln_predict>
+		<cnn_predict conf="0.815">league</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>임대되어--피오렌티나에서</gsdp_lemma>
+		<head>선수이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2559" total_morp="28" total_word="10">
+		<sent>1996년에는 김의성의 추천으로 영화 《돼지가_우물에_빠진_날》에서 극중 김의성의 동창 역으로 출연했다.</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.41" label="NP_AJT" josa="에서">돼지가_우물에_빠진_날</sbj>
+		<obj type="PS_NAME" weight="1.43" label="NP_MOD" josa="의">김의성</obj>
+		<gold>starring</gold>
+		<mln_predict conf="1.000">starring</mln_predict>
+		<cnn_predict conf="0.804">starring</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>출연했다.--추천으로</gsdp_lemma>
+		<head>출연했다.</head>
+		<cluster>6</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T707" total_morp="19" total_word="6">
+		<sent>마데이라 포도주는 포르투갈의 포도주로, 마데이라_제도에서 생산된다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에서">마데이라_제도</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">포르투갈</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.226">country</mln_predict>
+		<cnn_predict conf="0.674">country</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>생산된다.--포도주로,</gsdp_lemma>
+		<head>생산된다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

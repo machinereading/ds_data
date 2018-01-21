@@ -1,0 +1,147 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--NP--down--(NP_MOD)</dependency>
+	<total>11</total>
+	<sent_item id="M_T3580" total_morp="38" total_word="19">
+		<sent>게릭의 2,130 경기 연속 출장 기록은 볼티모어_오리올스의 내야수 칼_립켄_주니어가 1995년 9월 6일 그 기록을 경신하기 전까지 꽤나 오랫동안 유지되었다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_SBJ" josa="가">칼_립켄_주니어</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_MOD" josa="의">볼티모어_오리올스</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.960">team</mln_predict>
+		<cnn_predict conf="0.797">team</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>내야수</gsdp_lemma>
+		<head>유지되었다.</head>
+		<cluster>29</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T869" total_morp="24" total_word="11">
+		<sent>《맞아 죽을 각오로 쓴 친일 선언》은 대한민국의 가수 조영남이 쓴 에세이이다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_SBJ" josa="이">조영남</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_MOD" josa="의">대한민국</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.560">birthPlace</mln_predict>
+		<cnn_predict conf="0.757">birthPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>가수</gsdp_lemma>
+		<head>에세이이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2578" total_morp="39" total_word="18">
+		<sent>1983년 10월 8일에 대한민국의 대통령 전두환은 공식 수행원 22명, 비공식 수행원 등을 데리고 동남아 5개국의 공식 순방길을 출발했다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_SBJ" josa="은">전두환</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_MOD" josa="의">대한민국</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.820">country</mln_predict>
+		<cnn_predict conf="0.376">birthPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>대통령</gsdp_lemma>
+		<head>출발했다.</head>
+		<cluster>23</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T517" total_morp="42" total_word="18">
+		<sent>"소녀시대"는 대한민국의 가수 이승철이 1989년에 발표한 팝 록 장르의 노래로서, 그의 정규 앨범《이승철 1집 Part 2》에 수록된 곡이다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_SBJ" josa="이">이승철</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_MOD" josa="의">대한민국</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.619">birthPlace</mln_predict>
+		<cnn_predict conf="0.818">birthPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>가수</gsdp_lemma>
+		<head>곡이다.</head>
+		<cluster>11</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T787" total_morp="56" total_word="22">
+		<sent>《파인만의 물리학 강의》는 미국의 물리학자 리처드_파인만이 1961년 9월부터 1963년 5월 사이의 2년간 캘리포니아 공과대학의 학부생을 대상으로 강의한 내용을 편집하여 책으로 엮은 것이다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_SBJ" josa="이">리처드_파인만</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_MOD" josa="의">미국</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.495">nationality</mln_predict>
+		<cnn_predict conf="0.453">birthPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>물리학자</gsdp_lemma>
+		<head>것이다.</head>
+		<cluster>3</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2093" total_morp="37" total_word="19">
+		<sent>그 다음 시즌, 메네즈는 국가 프로축구 선수 연맹 UNFP 수상 후보로 선정되었으나, 최종적으로 이 상은 FC_낭트의 미드필더 제레미_툴랄랑이 가져갔다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_SBJ" josa="이">제레미_툴랄랑</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_MOD" josa="의">FC_낭트</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.155">team</mln_predict>
+		<cnn_predict conf="0.382">league</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>미드필더</gsdp_lemma>
+		<head>가져갔다.</head>
+		<cluster>25</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1809" total_morp="25" total_word="11">
+		<sent>여름 이적시장의 첫번째 영입 신호탄으로 일본 J2리그 도쿄_베르디의 수비수 고경준이 결정되었다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_SBJ" josa="이">고경준</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_MOD" josa="의">도쿄_베르디</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.970">club</mln_predict>
+		<cnn_predict conf="0.330">league</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>수비수</gsdp_lemma>
+		<head>결정되었다.</head>
+		<cluster>34</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1070" total_morp="58" total_word="21">
+		<sent>또한 파라마르타가 번역한 번역한 《대승기신론》의 내용을 풀이하여 신라의 고승 원효가 유명한 《대승기신론소》를 지었으며, 후대 중국이나 한국, 일본의 불교계에 큰 영향을 주었다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_SBJ" josa="가">원효</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_MOD" josa="의">신라</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.262">deathPlace</mln_predict>
+		<cnn_predict conf="0.404">birthPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>고승</gsdp_lemma>
+		<head>주었다.</head>
+		<cluster>31</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3518" total_morp="47" total_word="20">
+		<sent>중원의 파나요티스 코네가 초반에 부상 당하면서, 올림피아코스_FC의 신예 미드필더 안드레아스_사마리스가 투입되었고, 그는 코트디부아르의 백패스 실수를 이용해 첫 국제경기 득점에 성공했다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_SBJ" josa="가">안드레아스_사마리스</sbj>
+		<obj type="OGG_ECONOMY" weight="0.67" label="NP_MOD" josa="의">올림피아코스_FC</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.383">team</mln_predict>
+		<cnn_predict conf="0.409">club</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>미드필더</gsdp_lemma>
+		<head>성공했다.</head>
+		<cluster>24</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2857" total_morp="27" total_word="12">
+		<sent>013~046호기는 대한민국의 열차 제작 회사 현대로템이 프랑스 알스톰으로부터 면허를 받아 생산한 차량이다.</sent>
+		<sbj type="OGG_ECONOMY" weight="1.40" label="NP_SBJ" josa="이">현대로템</sbj>
+		<obj type="LCP_COUNTRY" weight="-0.30" label="NP_MOD" josa="의">대한민국</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.683">country</mln_predict>
+		<cnn_predict conf="0.421">country</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>회사</gsdp_lemma>
+		<head>차량이다.</head>
+		<cluster>27</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2538" total_morp="55" total_word="20">
+		<sent>《삼국유사》에는 백제의 승려 혜현이 수덕사에서 아침저녁으로 법화경을 독송했다는 기록을 남기고 있고, 신라의 승려 원효는 법화경의 교리를 해설한 《법화경종요》를 짓기도 했다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_SBJ" josa="는">원효</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_MOD" josa="의">신라</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.413">nationality</mln_predict>
+		<cnn_predict conf="0.358">birthPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>승려</gsdp_lemma>
+		<head>했다.</head>
+		<cluster>49</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

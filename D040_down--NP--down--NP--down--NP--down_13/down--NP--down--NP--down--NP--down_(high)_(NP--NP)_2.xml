@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP)--down--NP--down--NP--down--NP--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_T776" total_morp="17" total_word="10">
+		<sent>갑사는 충청남도 공주시 계룡면 중장리 계룡산 서쪽 기슭에 있는 절이다.</sent>
+		<sbj type="LCG_MOUNTAIN" weight="3.18" label="NP" josa="">계룡산</sbj>
+		<obj type="LCP_PROVINCE" weight="0.62" label="NP" josa="">충청남도</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.691">locatedInArea</mln_predict>
+		<cnn_predict conf="0.796">locatedInArea</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>중장리--계룡면--공주시</gsdp_lemma>
+		<head>절이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1159" total_morp="18" total_word="10">
+		<sent>귀신사는 전라북도 김제시 금산면 청도리 모악산 북쪽 자락에 있는 사찰이다.</sent>
+		<sbj type="LCG_MOUNTAIN" weight="3.18" label="NP" josa="">모악산</sbj>
+		<obj type="LCP_PROVINCE" weight="0.62" label="NP" josa="">전라북도</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.886">locatedInArea</mln_predict>
+		<cnn_predict conf="0.846">locatedInArea</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>청도리--금산면--김제시</gsdp_lemma>
+		<head>사찰이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

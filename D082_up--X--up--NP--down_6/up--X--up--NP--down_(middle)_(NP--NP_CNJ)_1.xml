@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP)--up--X--up--NP--down--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_T652" total_morp="11" total_word="6">
+		<sent>2012년: 오스트레일리아, 시드니 - 주제: ""</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP" josa="">시드니</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_CNJ" josa="">오스트레일리아</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.592">country</mln_predict>
+		<cnn_predict conf="0.482">country</cnn_predict>
+		<gsdp>(NP)--up--X--up--NP--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma>---주제:</gsdp_lemma>
+		<head>""</head>
+		<cluster>15</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP_AJT--up--VP--down--NP_OBJ--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1331" total_morp="26" total_word="12">
+		<sent>그는 박싱 데이 첫 경기인 애스턴_빌라_FC와의 원정 경기에서 첫 프리미어리그 해트트릭을 달성했다.</sent>
+		<sbj type="OGG_SPORTS" weight="-0.61" label="NP_MOD" josa="의">애스턴_빌라_FC</sbj>
+		<obj type="OGG_SPORTS" weight="-1.05" label="NP" josa="">프리미어리그</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.851">team</mln_predict>
+		<cnn_predict conf="0.522">league</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP--down--NP_OBJ--down--(NP)</gsdp>
+		<gsdp_lemma>경기에서--달성했다.--해트트릭을</gsdp_lemma>
+		<head>달성했다.</head>
+		<cluster>25</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--down--VP_MOD--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3980" total_morp="63" total_word="23">
+		<sent>중학교 졸업을 앞둔 2007년에 창춘_시에서 열린 2007년_동계_아시안_게임을 통해 국가대표로 데뷔하였으며, 이후 대한민국 여자 국가대표팀의 일원으로 활약했으며, 2013년에 여자 선수로는 최초로 광운대학교 남자팀에 합류했다.</sent>
+		<sbj type="DT_YEAR" weight="2.51" label="NP_OBJ" josa="을">2007년_동계_아시안_게임</sbj>
+		<obj type="LCP_CITY" weight="1.01" label="NP_AJT" josa="에서">창춘_시</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.555">location</mln_predict>
+		<cnn_predict conf="0.205">birthPlace</cnn_predict>
+		<gsdp>(NP_OBJ)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>열린</gsdp_lemma>
+		<head>합류했다.</head>
+		<cluster>30</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

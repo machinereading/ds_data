@@ -1,0 +1,69 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_SBJ--up--VNP--down--VP_MOD--down--NP_AJT--down--NP_CNJ--down--(NP)</dependency>
+	<total>5</total>
+	<sent_item id="M_T934" total_morp="17" total_word="7">
+		<sent>범어사 명부전은 부산광역시 금정구, 범어사에 있던 건축물이다.</sent>
+		<sbj type="AF_CULTURAL_ASSET" weight="0.78" label="NP" josa="">범어사</sbj>
+		<obj type="LCP_CITY" weight="0.01" label="NP" josa="">부산광역시</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.955">country</mln_predict>
+		<cnn_predict conf="0.737">locatedInArea</cnn_predict>
+		<gsdp>(NP)--up--NP_SBJ--up--VNP--down--VP_MOD--down--NP_AJT--down--NP_CNJ--down--(NP)</gsdp>
+		<gsdp_lemma>명부전은--건축물이다.--있던--범어사에--금정구,</gsdp_lemma>
+		<head>건축물이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3275" total_morp="21" total_word="8">
+		<sent>범어사 불설대보부모은중경은 부산광역시 금정구, 범어사에 있는 조선시대의 불경이다.</sent>
+		<sbj type="AF_CULTURAL_ASSET" weight="0.78" label="NP" josa="">범어사</sbj>
+		<obj type="LCP_CITY" weight="0.01" label="NP" josa="">부산광역시</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.894">country</mln_predict>
+		<cnn_predict conf="0.760">locatedInArea</cnn_predict>
+		<gsdp>(NP)--up--NP_SBJ--up--VNP--down--VP_MOD--down--NP_AJT--down--NP_CNJ--down--(NP)</gsdp>
+		<gsdp_lemma>불설대보부모은중경은--불경이다.--있는--범어사에--금정구,</gsdp_lemma>
+		<head>불경이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3156" total_morp="20" total_word="9">
+		<sent>부산 범어사 조계문은 부산광역시 금정구, 범어사에 있는 조선시대의 건축물이다.</sent>
+		<sbj type="AF_CULTURAL_ASSET" weight="0.78" label="NP" josa="">범어사</sbj>
+		<obj type="LCP_CITY" weight="0.01" label="NP" josa="">부산광역시</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.868">country</mln_predict>
+		<cnn_predict conf="0.769">locatedInArea</cnn_predict>
+		<gsdp>(NP)--up--NP_SBJ--up--VNP--down--VP_MOD--down--NP_AJT--down--NP_CNJ--down--(NP)</gsdp>
+		<gsdp_lemma>조계문은--건축물이다.--있는--범어사에--금정구,</gsdp_lemma>
+		<head>건축물이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3704" total_morp="21" total_word="10">
+		<sent>가평 현등사 동종은 경기도 가평군, 현등사 사찰에 있는 조선시대의 종이다.</sent>
+		<sbj type="AF_CULTURAL_ASSET" weight="0.78" label="NP" josa="">현등사</sbj>
+		<obj type="LCP_PROVINCE" weight="0.62" label="NP" josa="">경기도</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.661">country</mln_predict>
+		<cnn_predict conf="0.754">locatedInArea</cnn_predict>
+		<gsdp>(NP)--up--NP_SBJ--up--VNP--down--VP_MOD--down--NP_AJT--down--NP_CNJ--down--(NP)</gsdp>
+		<gsdp_lemma>동종은--종이다.--있는--사찰에--가평군,</gsdp_lemma>
+		<head>종이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T4012" total_morp="21" total_word="9">
+		<sent>대구 동화사 지장삼존도는 대구광역시 동구, 동화사에 있는 조선시대의 불화이다.</sent>
+		<sbj type="AF_CULTURAL_ASSET" weight="0.78" label="NP" josa="">동화사</sbj>
+		<obj type="LCP_CITY" weight="0.01" label="NP" josa="">대구광역시</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.735">locatedInArea</cnn_predict>
+		<gsdp>(NP)--up--NP_SBJ--up--VNP--down--VP_MOD--down--NP_AJT--down--NP_CNJ--down--(NP)</gsdp>
+		<gsdp_lemma>지장삼존도는--불화이다.--있는--동화사에--동구,</gsdp_lemma>
+		<head>불화이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

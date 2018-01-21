@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--(NP_CNJ)</dependency>
+	<total>3</total>
+	<sent_item id="M_T84" total_morp="16" total_word="6">
+		<sent>또한 윤근수와 윤두수의 문하에도 출입하여 수학하였다.</sent>
+		<sbj type="PS_NAME" weight="0.60" label="NP_MOD" josa="의">윤두수</sbj>
+		<obj type="PS_NAME" weight="1.08" label="NP_CNJ" josa="와">윤근수</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.542">birthPlace</mln_predict>
+		<cnn_predict conf="0.984">relative</cnn_predict>
+		<gsdp>(NP_MOD)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>수학하였다.</head>
+		<cluster>19</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T527" total_morp="13" total_word="9">
+		<sent>부인 : 나주 정씨 - 정약전, 정약전, 정약용의 누이</sent>
+		<sbj type="PS_NAME" weight="0.60" label="NP_MOD" josa="의">정약용</sbj>
+		<obj type="PS_NAME" weight="1.08" label="NP_CNJ" josa="">정약전</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.355">currentMember</mln_predict>
+		<cnn_predict conf="0.675">relative</cnn_predict>
+		<gsdp>(NP_MOD)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>누이</head>
+		<cluster>15</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1200" total_morp="23" total_word="11">
+		<sent>라우리 페트리 포라는, 핀란드의 파워_메탈, 멜로딕 스피드 메탈 밴드, 스트라토바리우스의 베이시스트이다.</sent>
+		<sbj type="PS_NAME" weight="-0.03" label="NP_MOD" josa="의">스트라토바리우스</sbj>
+		<obj type="FD_ART" weight="3.14" label="NP_CNJ" josa="">파워_메탈</obj>
+		<gold>genre</gold>
+		<mln_predict conf="1.000">genre</mln_predict>
+		<cnn_predict conf="0.775">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>베이시스트이다.</head>
+		<cluster>47</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

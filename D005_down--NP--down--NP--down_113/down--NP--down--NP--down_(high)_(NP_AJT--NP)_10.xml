@@ -1,0 +1,134 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--NP--down--NP--down--(NP)</dependency>
+	<total>10</total>
+	<sent_item id="M_T3961" total_morp="24" total_word="13">
+		<sent>나카고야 역은 일본 홋카이도 이시카리 군 도베쓰_정에 위치한 홋카이도 여객철도 삿쇼 선의 철도역이다.</sent>
+		<sbj type="LCP_CITY" weight="2.07" label="NP_AJT" josa="에">도베쓰_정</sbj>
+		<obj type="LCP_PROVINCE" weight="1.73" label="NP" josa="">홋카이도</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.481">location</mln_predict>
+		<cnn_predict conf="0.475">routeStart</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>군--이시카리</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2951" total_morp="15" total_word="7">
+		<sent>원효사는 광주광역시 북구 금곡동 무등산에 있는 사찰이다.</sent>
+		<sbj type="LCG_MOUNTAIN" weight="3.18" label="NP_AJT" josa="에">무등산</sbj>
+		<obj type="LCP_CITY" weight="0.01" label="NP" josa="">광주광역시</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.712">locatedInArea</mln_predict>
+		<cnn_predict conf="0.819">locatedInArea</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>금곡동--북구</gsdp_lemma>
+		<head>사찰이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1781" total_morp="34" total_word="15">
+		<sent>트리플 원(은 대한민국 서울특별시 용산구 이촌동 용산국제업무지구에 건립에 계획되었던 빌딩으로, 2016년 완공을 목표로 하고 있었다.</sent>
+		<sbj type="LC_OTHERS" weight="1.96" label="NP_AJT" josa="에">용산국제업무지구</sbj>
+		<obj type="LCP_CAPITALCITY" weight="1.60" label="NP" josa="">서울특별시</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.882">location</mln_predict>
+		<cnn_predict conf="0.465">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>이촌동--용산구</gsdp_lemma>
+		<head>있었다.</head>
+		<cluster>1</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2851" total_morp="33" total_word="17">
+		<sent>현재 시누이인 배우 겸 가수 엄정화 와 지인의 소개로 만난 배우 엄태웅과 2013년 1월 9일 결혼식을 올렸다.</sent>
+		<sbj type="PS_NAME" weight="0.48" label="NP_AJT" josa="">엄정화</sbj>
+		<obj type="CV_OCCUPATION" weight="3.04" label="NP" josa="">배우</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="1.000">occupation</mln_predict>
+		<cnn_predict conf="0.969">occupation</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>가수--겸</gsdp_lemma>
+		<head>올렸다.</head>
+		<cluster>35</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2097" total_morp="21" total_word="10">
+		<sent>2014년 9월, 패틴슨은 런던 출신의 싱어송라이터 겸 댄서 FKA_트위그스와 데이트했다.</sent>
+		<sbj type="PS_NAME" weight="0.48" label="NP_AJT" josa="와">FKA_트위그스</sbj>
+		<obj type="CV_OCCUPATION" weight="3.04" label="NP" josa="">싱어송라이터</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.997">occupation</mln_predict>
+		<cnn_predict conf="0.975">occupation</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>댄서--겸</gsdp_lemma>
+		<head>데이트했다.</head>
+		<cluster>31</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2258" total_morp="24" total_word="13">
+		<sent>이쿠토라 역은 일본 홋카이도 소라치 군 미나미후라노_정에 있는 홋카이도 여객철도 네무로 본선의 철도역이다.</sent>
+		<sbj type="LCP_COUNTY" weight="1.45" label="NP_AJT" josa="에">미나미후라노_정</sbj>
+		<obj type="LCP_PROVINCE" weight="1.73" label="NP" josa="">홋카이도</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.892">owner</mln_predict>
+		<cnn_predict conf="0.385">routeStart</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>군--소라치</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>14</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2964" total_morp="24" total_word="13">
+		<sent>니시나카 역은 일본 홋카이도 소라치 군 나카후라노_정에 위치한 홋카이도 여객철도 후라노 선의 철도역이다.</sent>
+		<sbj type="LCP_COUNTY" weight="1.45" label="NP_AJT" josa="에">나카후라노_정</sbj>
+		<obj type="LCP_PROVINCE" weight="1.73" label="NP" josa="">홋카이도</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.777">routeEnd</mln_predict>
+		<cnn_predict conf="0.360">routeStart</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>군--소라치</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3540" total_morp="26" total_word="12">
+		<sent>반월천은 경기도 군포시 속달동 수리산에서 발원하여 화성시 매송면 원리에서 황해로 유입하는 지방하천이다.</sent>
+		<sbj type="LCG_MOUNTAIN" weight="3.18" label="NP_AJT" josa="에서">수리산</sbj>
+		<obj type="LCP_PROVINCE" weight="0.62" label="NP" josa="">경기도</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.857">locatedInArea</mln_predict>
+		<cnn_predict conf="0.537">locatedInArea</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>속달동--군포시</gsdp_lemma>
+		<head>지방하천이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T342" total_morp="38" total_word="18">
+		<sent>한천으로도 불렸던 노성천은 충청남도 공주시 계룡면 계룡산에서 발원해 논산시 부적면에서 연산천과 합류한 뒤 다시 논산시 취암동에서 논산천과 만난다.</sent>
+		<sbj type="LCG_MOUNTAIN" weight="3.18" label="NP_AJT" josa="에서">계룡산</sbj>
+		<obj type="LCP_PROVINCE" weight="0.62" label="NP" josa="">충청남도</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.902">locatedInArea</mln_predict>
+		<cnn_predict conf="0.582">locatedInArea</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>계룡면--공주시</gsdp_lemma>
+		<head>만난다.</head>
+		<cluster>2</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2544" total_morp="24" total_word="13">
+		<sent>규시라타키 역은 일본 홋카이도 몬베쓰 군 엔가루_정에 위치한 홋카이도 여객철도 세키호쿠 본선의 철도역이다.</sent>
+		<sbj type="LCP_COUNTY" weight="1.45" label="NP_AJT" josa="에">엔가루_정</sbj>
+		<obj type="LCP_PROVINCE" weight="1.73" label="NP" josa="">홋카이도</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.451">owner</mln_predict>
+		<cnn_predict conf="0.339">routeStart</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>군--몬베쓰</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

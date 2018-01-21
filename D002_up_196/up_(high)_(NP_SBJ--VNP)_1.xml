@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--(VNP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2059" total_morp="23" total_word="9">
+		<sent>남동생 조지환은 영화 《실미도》, 드라마 《아이리스》 등에 출연했던 배우이다.</sent>
+		<sbj type="PS_NAME" weight="0.48" label="NP_SBJ" josa="은">조지환</sbj>
+		<obj type="CV_OCCUPATION" weight="3.04" label="VNP" josa="">배우</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.998">occupation</mln_predict>
+		<cnn_predict conf="0.997">occupation</cnn_predict>
+		<gsdp>(NP_SBJ)--up--(VNP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>배우이다.</head>
+		<cluster>6</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

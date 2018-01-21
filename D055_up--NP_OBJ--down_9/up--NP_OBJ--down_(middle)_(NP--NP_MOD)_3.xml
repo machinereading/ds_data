@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_OBJ--down--(NP_MOD)</dependency>
+	<total>3</total>
+	<sent_item id="M_T2742" total_morp="43" total_word="20">
+		<sent>미국에서 각종 반공 단체와 대학들의 지도자로 임명되고 1953년 대한민국의 이승만 대통령을 방문하고, 중화민국의 장제스 등을 방문하는 등 반공외교 활동을 하였다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP" josa="">이승만</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_MOD" josa="의">대한민국</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.767">country</mln_predict>
+		<cnn_predict conf="0.347">nationality</cnn_predict>
+		<gsdp>(NP)--up--NP_OBJ--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>대통령을</gsdp_lemma>
+		<head>하였다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3484" total_morp="31" total_word="13">
+		<sent>2.3GHz 작동속도를 가진 쿼드코어 프로세서인 퀄컴의 스냅드래곤 프로세서를 탑재했으며, 아드레노 그래픽 프로세서를 탑재했다.</sent>
+		<sbj type="TMI_HW" weight="0.59" label="NP" josa="">스냅드래곤</sbj>
+		<obj type="OGG_ECONOMY" weight="1.13" label="NP_MOD" josa="의">퀄컴</obj>
+		<gold>owner</gold>
+		<mln_predict conf="0.228">starring</mln_predict>
+		<cnn_predict conf="0.134">location</cnn_predict>
+		<gsdp>(NP)--up--NP_OBJ--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>프로세서를</gsdp_lemma>
+		<head>탑재했다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1178" total_morp="34" total_word="16">
+		<sent>그는 대통령이 되기 전 당시 이탈리아의 베니토_무솔리니 정치를 옹호했으며, 이러한 행위는 그가 축출당하는 결정적 계기가 된다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP" josa="">베니토_무솔리니</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_MOD" josa="의">이탈리아</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.436">birthPlace</mln_predict>
+		<cnn_predict conf="0.438">country</cnn_predict>
+		<gsdp>(NP)--up--NP_OBJ--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>정치를</gsdp_lemma>
+		<head>된다.</head>
+		<cluster>30</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

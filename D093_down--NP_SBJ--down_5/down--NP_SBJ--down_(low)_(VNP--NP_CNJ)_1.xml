@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(VNP)--down--NP_SBJ--down--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_T566" total_morp="47" total_word="21">
+		<sent>안타르티카칠레나 현은 칠레 마가야네스 이 안타르티카칠레나 주를 구성하는 4개의 현 가운데 하나로 현도는 푸에르토윌리암스이며 면적은 1,265,853.7㎢, 인구는 1,792명, 인구 밀도는 1,792명/㎢이다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="VNP" josa="">푸에르토윌리암스</sbj>
+		<obj type="PS_NAME" weight="-0.89" label="NP_CNJ" josa="나">칠레</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.641">country</mln_predict>
+		<cnn_predict conf="0.445">region</cnn_predict>
+		<gsdp>(VNP)--down--NP_SBJ--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma>현은</gsdp_lemma>
+		<head>1,792명/㎢이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

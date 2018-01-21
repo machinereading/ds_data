@@ -1,0 +1,56 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP_MOD--up--(NP_AJT)</dependency>
+	<total>4</total>
+	<sent_item id="M_T597" total_morp="26" total_word="11">
+		<sent>쿨리코로 주는 말리에 있는 주로, 주도는 쿨리코로이며 인구는 1,516,486명, 면적은 90,120㎢다.</sent>
+		<sbj type="LCP_PROVINCE" weight="0.19" label="NP_AJT" josa="로">쿨리코로</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_AJT" josa="에">말리</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.278">largestCity</mln_predict>
+		<cnn_predict conf="0.734">country</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_AJT)</gsdp>
+		<gsdp_lemma>주는</gsdp_lemma>
+		<head>90,120㎢다.</head>
+		<cluster>14</cluster>
+		<comment>'주는' VP 태깅이 잘못</comment>
+	</sent_item>
+	<sent_item id="M_T3703" total_morp="35" total_word="14">
+		<sent>그 후에는 사이판_전투에 갇힌 나구모_주이치중장에게 대본영의 철수 명령을 알리려 가다 미군에 의해 사이판에서 전사했다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에">사이판_전투</sbj>
+		<obj type="PS_NAME" weight="0.88" label="NP_AJT" josa="에게">나구모_주이치</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.904">commander</mln_predict>
+		<cnn_predict conf="0.756">commander</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_AJT)</gsdp>
+		<gsdp_lemma>갇힌</gsdp_lemma>
+		<head>전사했다.</head>
+		<cluster>22</cluster>
+		<comment>context word : '전투', '중장', '명령'</comment>
+	</sent_item>
+	<sent_item id="M_T3071" total_morp="20" total_word="6">
+		<sent>누나는 제3차_포에니_전쟁에서 카르타고를 멸망시킨 스키피오_아이밀리아누스_아프리카누스와 결혼했다.</sent>
+		<sbj type="QT_ORDER" weight="2.07" label="NP_AJT" josa="에서">제3차_포에니_전쟁</sbj>
+		<obj type="PS_NAME" weight="0.88" label="NP_AJT" josa="와">스키피오_아이밀리아누스_아프리카누스</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.561">commander</mln_predict>
+		<cnn_predict conf="0.605">commander</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_AJT)</gsdp>
+		<gsdp_lemma>멸망시킨</gsdp_lemma>
+		<head>결혼했다.</head>
+		<cluster>22</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1796" total_morp="15" total_word="5">
+		<sent>남아메리카바위쥐속은 데구과에 속하는 설치류에 속한다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">데구과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_AJT" josa="에">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.943">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_AJT)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>속한다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

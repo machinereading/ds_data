@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP)--up--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2281" total_morp="34" total_word="14">
+		<sent>237년, 위_(삼국) 황제 조예가 유주자사 관구검으로 하여금 공손연 세력을 격멸하려 했는데, 이를 공손연이 격퇴하였다.</sent>
+		<sbj type="" weight="0.00" label="NP" josa="">위_(삼국)</sbj>
+		<obj type="CV_POSITION" weight="-0.19" label="NP_SBJ" josa="가">조예</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.751">leaderName</mln_predict>
+		<cnn_predict conf="0.658">leaderName</cnn_predict>
+		<gsdp>(NP)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>격퇴하였다.</head>
+		<cluster>22</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

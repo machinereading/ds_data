@@ -1,0 +1,95 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--(NP)</dependency>
+	<total>7</total>
+	<sent_item id="M_T3267" total_morp="44" total_word="14">
+		<sent>1995년에 V6_(음악_그룹)의 사카모토_마사유키 등과 함께 쟈니즈 Sr.로서 활약해, 1996년까지 히카루겐지·SMAP·V6·KinKi Kids의 백 댄서를 맡았다.</sent>
+		<sbj type="PS_NAME" weight="0.68" label="NP_MOD" josa="의">V6_(음악_그룹)</sbj>
+		<obj type="PS_NAME" weight="1.22" label="NP" josa="">사카모토_마사유키</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.354">currentMember</mln_predict>
+		<cnn_predict conf="0.790">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>맡았다.</head>
+		<cluster>13</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2992" total_morp="28" total_word="11">
+		<sent>보컬은 Dream의 니시다 시즈카와 아베 에리에, Happiness_(음악_그룹)의 후지이_카렌, Flower의 와시오 레이나.</sent>
+		<sbj type="" weight="0.00" label="NP_MOD" josa="의">Happiness_(음악_그룹)</sbj>
+		<obj type="PS_NAME" weight="1.22" label="NP" josa="">후지이_카렌</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.991">currentMember</mln_predict>
+		<cnn_predict conf="0.901">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>레이나.</head>
+		<cluster>47</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2921" total_morp="10" total_word="5">
+		<sent>대한민국 여성 그룹 미쓰에이의 민_(가수).</sent>
+		<sbj type="PS_NAME" weight="0.68" label="NP_MOD" josa="의">미쓰에이</sbj>
+		<obj type="" weight="0.00" label="NP" josa="">민_(가수)</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.280">occupation</mln_predict>
+		<cnn_predict conf="0.896">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>민_(가수).</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T352" total_morp="61" total_word="29">
+		<sent>전북_현대_모터스과의 K리그_클래식 6라운드 원정 경기에서 코너킥으로 조재철의 헤딩골을 어시스트하면서 첫 공격 포인트를 올린 피투는 9라운드 울산 현대 축구단과의 원정 경기에서 황의조의 패스를 받아 박스 왼쪽에서 왼발로 마무리하면서 데뷔골까지 기록한다.</sent>
+		<sbj type="OGG_ECONOMY" weight="0.36" label="NP_MOD" josa="의">전북_현대_모터스</sbj>
+		<obj type="EV_SPORTS" weight="1.60" label="NP" josa="">K리그_클래식</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.581">league</mln_predict>
+		<cnn_predict conf="0.535">team</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>기록한다.</head>
+		<cluster>24</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2491" total_morp="50" total_word="24">
+		<sent>2014년 8월 23일, 아직 레알 사라고사 B 경기 출전이 전무한 바예호는 레크레아티보_우엘바와의 세군다_디비시온 경기에서 첫 프로 경기를 펼쳤고, 이 원정 경기는 0-0 무승부로 끝났다.</sent>
+		<sbj type="PS_NAME" weight="-0.86" label="NP_MOD" josa="의">레크레아티보_우엘바</sbj>
+		<obj type="EV_SPORTS" weight="1.60" label="NP" josa="">세군다_디비시온</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.775">club</mln_predict>
+		<cnn_predict conf="0.424">team</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>끝났다.</head>
+		<cluster>29</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3658" total_morp="36" total_word="15">
+		<sent>2014년 8월 24일, 요렌테는 1-2로 진 아틀레티코_마드리드_B와의 세군다_디비시온_B 원정 경기에서 첫 성인 무대 경기를 뛰었다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_MOD" josa="의">아틀레티코_마드리드_B</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP" josa="">세군다_디비시온_B</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">league</mln_predict>
+		<cnn_predict conf="0.498">league</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>뛰었다.</head>
+		<cluster>48</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2856" total_morp="34" total_word="17">
+		<sent>혼다 테쓰야의 경찰 소설 시리즈 〈히메카와 레이코 시리즈〉를 원작으로 하는 후지 TV의 형사 드라마 《스트로베리_나이트_(드라마)》의 극장판 작품. 감독은 사토 유이치, 주연은 다케우치_유코.</sent>
+		<sbj type="AFW_VIDEO" weight="1.84" label="NP_MOD" josa="의">스트로베리_나이트_(드라마)</sbj>
+		<obj type="" weight="0.00" label="NP" josa="">다케우치_유코</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.739">starring</mln_predict>
+		<cnn_predict conf="0.849">starring</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>작품.</head>
+		<cluster>6</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

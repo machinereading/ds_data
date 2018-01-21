@@ -1,0 +1,18 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--NP_AJT--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3337" total_morp="36" total_word="15">
+		<sent>2009년에서 2010년 아메리카_FC_(리우데자네이루) 시절에는 그의 롤모델인 브라질의 축구 영웅 호마리우와 2년간 같이 뛰며 가르침을 받았다.</sent>
+		<sbj type="PS_NAME" weight="0.73" label="NP_AJT" josa="와">호마리우</sbj>
+		<obj type="OGG_ECONOMY" weight="0.48" label="NP" josa="">아메리카_FC_(리우데자네이루)</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.582">team</mln_predict>
+		<cnn_predict conf="0.396">league</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>뛰며--시절에는</gsdp_lemma>
+		<head>받았다.</head>
+		<cluster>30</cluster>
+		<comment>Relation Type(club-team)
+			'같이 뛰며'가 keyword</comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,56 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_AJT--up--VP--up--VP--down--(NP_AJT)</dependency>
+	<total>4</total>
+	<sent_item id="M_T2569" total_morp="30" total_word="8">
+		<sent>2007년 5월 UEFA컵_2006-07 결승전에 출전했으나, 세비야_FC에 3-1로 졌다.</sent>
+		<sbj type="EV_SPORTS" weight="0.82" label="NP" josa="">UEFA컵_2006-07</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_AJT" josa="에">세비야_FC</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.448">team</mln_predict>
+		<cnn_predict conf="0.440">league</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>결승전에--출전했으나,--졌다.</gsdp_lemma>
+		<head>졌다.</head>
+		<cluster>33</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1113" total_morp="50" total_word="19">
+		<sent>각 연령대별 국가대표팀을 거쳐 2014년 페르난두_산투스 감독에 의해 포르투갈_축구_국가대표팀에 발탁되었으며, 2014년 11월 18일 아르헨티나 축구 국가대표팀와의 경기에서 데뷔전을 치뤘다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP" josa="">페르난두_산투스</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_AJT" josa="에">포르투갈_축구_국가대표팀</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.627">league</mln_predict>
+		<cnn_predict conf="0.535">league</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>감독에--의해--발탁되었으며,</gsdp_lemma>
+		<head>치뤘다.</head>
+		<cluster>40</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3316" total_morp="51" total_word="27">
+		<sent>차범근의 아들 차두리 또한 대한민국 축구 국가대표팀 축구 선수로 2002년 FIFA 월드컵, 2010년 FIFA 월드컵에 출전한 것 외에도 셀틱 FC에서 활동하였고 현재는 K리그 클래식의 FC_서울에서 뛰고 있다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP" josa="">차두리</sbj>
+		<obj type="EV_SPORTS" weight="0.00" label="NP_AJT" josa="에서">FC_서울</obj>
+		<gold>team</gold>
+		<mln_predict conf="1.000">league</mln_predict>
+		<cnn_predict conf="0.510">team</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>월드컵,--활동하였고--뛰고</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>35</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2036" total_morp="36" total_word="14">
+		<sent>2016년 5월, 요렌테는 보스니아 헤르체고비나 축구 국가대표팀와의 친선경기를 앞두고 비센테_델_보스케 감독에 의해 스페인_축구_국가대표팀에 차출되었다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP" josa="">비센테_델_보스케</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_AJT" josa="에">스페인_축구_국가대표팀</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.817">club</mln_predict>
+		<cnn_predict conf="0.509">league</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>감독에--의해--차출되었다.</gsdp_lemma>
+		<head>차출되었다.</head>
+		<cluster>9</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

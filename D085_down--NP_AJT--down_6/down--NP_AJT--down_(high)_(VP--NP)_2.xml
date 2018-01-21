@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(VP)--down--NP_AJT--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_T2995" total_morp="12" total_word="5">
+		<sent>2008년 MBC 아침드라마 《흔들리지마》 ... 송옥분 역</sent>
+		<sbj type="AFW_VIDEO" weight="1.69" label="VP" josa="">흔들리지마</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP" josa="">MBC</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.944">channel</mln_predict>
+		<cnn_predict conf="0.991">channel</cnn_predict>
+		<gsdp>(VP)--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>아침드라마</gsdp_lemma>
+		<head>...</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3618" total_morp="15" total_word="5">
+		<sent>2006년 SBS 아침드라마 《사랑하고_싶다》 ... 지은우 역</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.87" label="VP" josa="">사랑하고_싶다</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP" josa="">SBS</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.986">channel</cnn_predict>
+		<gsdp>(VP)--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>아침드라마</gsdp_lemma>
+		<head>...</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

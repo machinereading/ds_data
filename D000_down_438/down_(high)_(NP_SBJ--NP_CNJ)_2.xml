@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--(NP_CNJ)</dependency>
+	<total>2</total>
+	<sent_item id="M_T592" total_morp="19" total_word="7">
+		<sent>현에는 143만 명의 한족과 25000명의 후이족이 거주한다.</sent>
+		<sbj type="CV_TRIBE" weight="2.30" label="NP_SBJ" josa="이">후이족</sbj>
+		<obj type="CV_TRIBE" weight="2.21" label="NP_CNJ" josa="과">한족</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.675">related</mln_predict>
+		<cnn_predict conf="0.897">related</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>거주한다.</head>
+		<cluster>14</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3725" total_morp="17" total_word="7">
+		<sent>이 지역의 주민인 한티인과 만시인은 핀우그리아계 민족이다.</sent>
+		<sbj type="CV_TRIBE" weight="2.30" label="NP_SBJ" josa="은">만시인</sbj>
+		<obj type="CV_TRIBE" weight="2.21" label="NP_CNJ" josa="과">한티인</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.765">related</mln_predict>
+		<cnn_predict conf="0.179">related</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>민족이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

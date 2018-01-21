@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--NP_MOD--down--(NP_MOD)</dependency>
+	<total>2</total>
+	<sent_item id="M_T1864" total_morp="17" total_word="7">
+		<sent>본사는 캘리포니아_주의 유니버설 시티의 유니버설_스튜디오내에 위치해 있다.</sent>
+		<sbj type="LC_TOUR" weight="1.05" label="NP_AJT" josa="에">유니버설_스튜디오</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP_MOD" josa="의">캘리포니아_주</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.667">location</mln_predict>
+		<cnn_predict conf="0.379">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>시티의</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T639" total_morp="36" total_word="13">
+		<sent>8월 초순에는 제1친위 전차군, 제8 친위군, 제70군으로 이루어진 정예부대가 바르샤바의 맞은편의 비스와_강에 도달하였다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에">비스와_강</sbj>
+		<obj type="LCP_CAPITALCITY" weight="1.03" label="NP_MOD" josa="의">바르샤바</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.285">birthPlace</mln_predict>
+		<cnn_predict conf="0.535">commander</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>맞은편의</gsdp_lemma>
+		<head>도달하였다.</head>
+		<cluster>22</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

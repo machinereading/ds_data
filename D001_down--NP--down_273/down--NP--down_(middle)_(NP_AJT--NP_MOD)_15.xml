@@ -1,0 +1,199 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--NP--down--(NP_MOD)</dependency>
+	<total>15</total>
+	<sent_item id="M_T701" total_morp="25" total_word="13">
+		<sent>1910년 미국의 콜로라도 주 덴버에서 제시 슈웨이더가 슈웨이더 트렁크 회사를 설립하면서 사업을 시작했다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_AJT" josa="에서">덴버</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">미국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.390">country</mln_predict>
+		<cnn_predict conf="0.411">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>주</gsdp_lemma>
+		<head>시작했다.</head>
+		<cluster>40</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2030" total_morp="57" total_word="27">
+		<sent>Beyond Magnetic은 미국 헤비메탈 밴드인 메탈리카의 9번째 정규앨범 《Death_Magnetic》에 수록되지 않은 4곡의 미발표곡을 모은 EP로, 메탈리카 결성 30주년 기념공연 시점을 기해 아이튠즈를 통한 유료 다운로드 형식으로 발매했다.</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.68" label="NP_AJT" josa="에">Death_Magnetic</sbj>
+		<obj type="PS_NAME" weight="0.89" label="NP_MOD" josa="의">메탈리카</obj>
+		<gold>artist</gold>
+		<mln_predict conf="0.995">artist</mln_predict>
+		<cnn_predict conf="0.335">currentMember</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>정규앨범</gsdp_lemma>
+		<head>발매했다.</head>
+		<cluster>47</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T662" total_morp="32" total_word="13">
+		<sent>라도사브 "라차" 페트로비치는 세르비아의 축구 선수로, 프리메이라리가의 클럽 스포르팅_CP에서 미드필더#수비형 미드필더로 뛰고 있다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에서">스포르팅_CP</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_MOD" josa="의">프리메이라리가</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.759">league</mln_predict>
+		<cnn_predict conf="0.644">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>클럽</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>24</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1261" total_morp="60" total_word="28">
+		<sent>그리고 1982년 재정 위기에 빠진 첼시 FC를 인수해 21년간 구단주로 있었으나, 많은 논란과 문제가 일으켰고 예상 부채가 8000만 파운드에 달하자 2003년 러시아의 석유 재벌 로만_아브라모비치에게 17억 달러에 매각했다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_AJT" josa="에게">로만_아브라모비치</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_MOD" josa="의">러시아</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.313">nationality</mln_predict>
+		<cnn_predict conf="0.480">birthPlace</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>재벌</gsdp_lemma>
+		<head>매각했다.</head>
+		<cluster>12</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T4072" total_morp="37" total_word="15">
+		<sent>소련은 덴마크의 물리학자 닐스_보어에 유래하는 닐스보륨을 제안하고, 미국은 독일의 물리학자 오토 한에 유래하는 하늄을 제안했다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_AJT" josa="에">닐스_보어</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_MOD" josa="의">덴마크</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.385">birthPlace</mln_predict>
+		<cnn_predict conf="0.467">birthPlace</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>물리학자</gsdp_lemma>
+		<head>제안했다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2326" total_morp="21" total_word="8">
+		<sent>최근에는 세리에_A의 클럽 아탈란타_BC에서 뛰며 주장 직을 맡고있다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_AJT" josa="에서">아탈란타_BC</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_MOD" josa="의">세리에_A</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">league</mln_predict>
+		<cnn_predict conf="0.907">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>클럽</gsdp_lemma>
+		<head>맡고있다.</head>
+		<cluster>24</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2642" total_morp="28" total_word="14">
+		<sent>이에 반발한 둘째 형 고발기가 후한의 요동군태수 공손탁에게서 군사 3만 명을 빌려 고구려를 쳐들어왔다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_AJT" josa="에게서">공손탁</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_MOD" josa="의">후한</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.812">birthPlace</mln_predict>
+		<cnn_predict conf="0.442">birthPlace</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>요동군태수</gsdp_lemma>
+		<head>쳐들어왔다.</head>
+		<cluster>19</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2690" total_morp="62" total_word="28">
+		<sent>FA시장이 본격적으로 열리기 전에 이미 롯데 자이언츠의 포수 강민호, 한화_이글스의 2루수 정근우와 중견수인 그 등 국가대표 출신 야구선수들이고 3개 구단의 프랜차이즈 스타에 공, 수도 뛰어난 선수들이라 BIG3로 거론되었다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_AJT" josa="와">정근우</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_MOD" josa="의">한화_이글스</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.965">team</mln_predict>
+		<cnn_predict conf="0.867">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>2루수</gsdp_lemma>
+		<head>거론되었다.</head>
+		<cluster>45</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3468" total_morp="24" total_word="9">
+		<sent>〈Helter Skelter〉는 1968년 발매된 비틀즈의 앨범 《The_Beatles》에 수록된 곡이다.</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.68" label="NP_AJT" josa="에">The_Beatles</sbj>
+		<obj type="PS_NAME" weight="0.89" label="NP_MOD" josa="의">비틀즈</obj>
+		<gold>artist</gold>
+		<mln_predict conf="1.000">artist</mln_predict>
+		<cnn_predict conf="0.759">artist</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>앨범</gsdp_lemma>
+		<head>곡이다.</head>
+		<cluster>47</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2886" total_morp="54" total_word="21">
+		<sent>시리즈 MVP는 플레이오프 1차전에서 선발로 나서 3피안타 2볼넷 6탈삼진 완봉승, 4차전에서도 선발로 나서 7이닝 무실점을 기록,2승을 챙긴 두산_베어스의 에이스 더스틴_니퍼트에게 돌아갔다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_AJT" josa="에게">더스틴_니퍼트</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_MOD" josa="의">두산_베어스</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.664">team</mln_predict>
+		<cnn_predict conf="0.982">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>에이스</gsdp_lemma>
+		<head>돌아갔다.</head>
+		<cluster>17</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2211" total_morp="39" total_word="15">
+		<sent>브레누는 전 FC_바이에른_뮌헨의 브라질인 선수 지오바니_에우베르로부터 추천을 받았고, 그는 나중에 그의 조국, 브라질에서 스카우트로 일하였다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_AJT" josa="로부터">지오바니_에우베르</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_MOD" josa="의">FC_바이에른_뮌헨</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.826">team</mln_predict>
+		<cnn_predict conf="0.327">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>선수</gsdp_lemma>
+		<head>일하였다.</head>
+		<cluster>9</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3982" total_morp="33" total_word="13">
+		<sent>이에 대한 해답으로 대구 FC의 풀백 감한솔을 서울_이랜드_FC의 골키퍼 김현성_(1993년)과 맞트레이드를 하여 영입하였다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_AJT" josa="과">김현성_(1993년)</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_MOD" josa="의">서울_이랜드_FC</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.518">club</mln_predict>
+		<cnn_predict conf="0.330">club</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>골키퍼</gsdp_lemma>
+		<head>영입하였다.</head>
+		<cluster>25</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3931" total_morp="16" total_word="8">
+		<sent>현재 잉글랜드 프리미어리그의 클럽 번리_FC에서 미드필더로 뛰고 있다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에서">번리_FC</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_MOD" josa="의">프리미어리그</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.887">league</mln_predict>
+		<cnn_predict conf="0.932">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>클럽</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T75" total_morp="30" total_word="10">
+		<sent>보름뒤 잠실에서 한화_이글스와의 경기때 정근우에게 공식으로 사과했고, 정근우도 쿨하게 용서해주었다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_AJT" josa="에게">정근우</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_MOD" josa="의">한화_이글스</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.829">team</mln_predict>
+		<cnn_predict conf="0.973">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>경기때</gsdp_lemma>
+		<head>용서해주었다.</head>
+		<cluster>5</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3933" total_morp="26" total_word="13">
+		<sent>다닐루 아파레시두 다 시우바는 브라질의 축구 선수로, 우크라이나_프리미어리그의 클럽 FC_디나모_키예프에서 수비수로 뛰고 있다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에서">FC_디나모_키예프</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_MOD" josa="의">우크라이나_프리미어리그</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">league</mln_predict>
+		<cnn_predict conf="0.776">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>클럽</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>40</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

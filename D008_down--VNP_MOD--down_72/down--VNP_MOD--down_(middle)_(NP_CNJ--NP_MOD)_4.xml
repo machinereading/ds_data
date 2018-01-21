@@ -1,0 +1,56 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--down--VNP_MOD--down--(NP_MOD)</dependency>
+	<total>4</total>
+	<sent_item id="M_T4049" total_morp="31" total_word="13">
+		<sent>셀림 2세는 오스만_제국의 10번째 술탄인 쉴레이만_1세와 그의 총비인 휴렘 술탄의 사이에서 태어난 아들이다.</sent>
+		<sbj type="QT_AGE" weight="1.18" label="NP_CNJ" josa="와">쉴레이만_1세</sbj>
+		<obj type="LCP_COUNTRY" weight="0.58" label="NP_MOD" josa="의">오스만_제국</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.769">birthPlace</mln_predict>
+		<cnn_predict conf="0.333">birthPlace</cnn_predict>
+		<gsdp>(NP_CNJ)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>술탄인</gsdp_lemma>
+		<head>아들이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T446" total_morp="31" total_word="12">
+		<sent>1993년에 캐나다의 정치인이자 지도자인 조르주에티엔_카르티에와 존 맥도널드를 기르기 위해 현재의 사명으로 변경했다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_CNJ" josa="와">조르주에티엔_카르티에</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_MOD" josa="의">캐나다</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.818">birthPlace</mln_predict>
+		<cnn_predict conf="0.453">birthPlace</cnn_predict>
+		<gsdp>(NP_CNJ)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>지도자인</gsdp_lemma>
+		<head>변경했다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T550" total_morp="54" total_word="22">
+		<sent>첫째, 당시 미국의 대통령이던 제임스_매디슨과 그의 지지세력들이 영국에 적대적이었다는 것과, 둘째, 영국이 프랑스로 가던 미국 선박들을 나포하여 미국의 수출에 타격을 주었다는 것이다.</sent>
+		<sbj type="PS_NAME" weight="0.06" label="NP_CNJ" josa="과">제임스_매디슨</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">미국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.300">deathPlace</mln_predict>
+		<cnn_predict conf="0.382">birthPlace</cnn_predict>
+		<gsdp>(NP_CNJ)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>대통령이던</gsdp_lemma>
+		<head>것이다.</head>
+		<cluster>36</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2868" total_morp="24" total_word="11">
+		<sent>스타디오 주세페 메아차는 이탈리아 세리에_A의 명문 클럽인 FC_인테르나치오날레_밀라노와 AC 밀란의 홈구장이다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_CNJ" josa="와">FC_인테르나치오날레_밀라노</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_MOD" josa="의">세리에_A</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">league</mln_predict>
+		<cnn_predict conf="0.913">league</cnn_predict>
+		<gsdp>(NP_CNJ)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>클럽인</gsdp_lemma>
+		<head>홈구장이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--VNP_MOD--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3591" total_morp="44" total_word="18">
+		<sent>그러나 이듬해인 덴쇼 11년 가쓰이에는 도요토미_히데요시와의 싸움인 시즈가타케_전투에서 패하여 자결하였고, 오이치 또한 남편의 뒤를 따라 스스로 목숨을 끊었다.</sent>
+		<sbj type="EV_WAR_REVOLUTION" weight="2.59" label="NP_AJT" josa="에서">시즈가타케_전투</sbj>
+		<obj type="PS_NAME" weight="0.88" label="NP_MOD" josa="의">도요토미_히데요시</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.726">commander</mln_predict>
+		<cnn_predict conf="0.691">commander</cnn_predict>
+		<gsdp>(NP_AJT)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>싸움인</gsdp_lemma>
+		<head>끊었다.</head>
+		<cluster>30</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

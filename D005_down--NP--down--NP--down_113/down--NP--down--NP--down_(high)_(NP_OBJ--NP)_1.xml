@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--down--NP--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T22" total_morp="17" total_word="7">
+		<sent>그는 그들에게 스위스 프리부르 주의 프리부르_대학교를 추천했다.</sent>
+		<sbj type="OGG_EDUCATION" weight="2.51" label="NP_OBJ" josa="를">프리부르_대학교</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">스위스</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.886">country</mln_predict>
+		<cnn_predict conf="0.382">country</cnn_predict>
+		<gsdp>(NP_OBJ)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주의--프리부르</gsdp_lemma>
+		<head>추천했다.</head>
+		<cluster>35</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

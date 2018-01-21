@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--NP_SBJ--down--(NP_MOD)</dependency>
+	<total>2</total>
+	<sent_item id="M_T1632" total_morp="34" total_word="10">
+		<sent>남편 김호진_(배우)과의 첫 만남은 2000년에 방영된 MBC 주말연속극 사랑은_아무나_하나_(2000년_드라마)에서 이루어졌다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에서">사랑은_아무나_하나_(2000년_드라마)</sbj>
+		<obj type="PS_NAME" weight="1.43" label="NP_MOD" josa="의">김호진_(배우)</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.799">starring</mln_predict>
+		<cnn_predict conf="0.833">channel</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_SBJ--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>이루어졌다.--만남은</gsdp_lemma>
+		<head>이루어졌다.</head>
+		<cluster>6</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T559" total_morp="23" total_word="12">
+		<sent>20세기 초 로마는 영국의 수도 런던과 비슷하게 매우 많은 중소 클럽이 있었다.</sent>
+		<sbj type="LCP_CAPITALCITY" weight="1.86" label="NP_AJT" josa="과">런던</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">영국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.985">country</mln_predict>
+		<cnn_predict conf="0.431">country</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_SBJ--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>있었다.--수도</gsdp_lemma>
+		<head>있었다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

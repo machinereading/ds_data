@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP--down--VP_MOD--down--(NP_AJT)</dependency>
+	<total>2</total>
+	<sent_item id="M_T3895" total_morp="15" total_word="5">
+		<sent>가수이자 배우로 활동하는 엄정화의 남동생이다.</sent>
+		<sbj type="PS_NAME" weight="0.48" label="NP_MOD" josa="의">엄정화</sbj>
+		<obj type="CV_OCCUPATION" weight="3.04" label="NP_AJT" josa="로">배우</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.995">occupation</mln_predict>
+		<cnn_predict conf="0.990">occupation</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>남동생이다.--활동하는</gsdp_lemma>
+		<head>남동생이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3212" total_morp="25" total_word="10">
+		<sent>1900년 하계 올림픽 요트는 프랑스 파리_(도시)에서 개최된 1900년_하계_올림픽의 경기 종목이다.</sent>
+		<sbj type="DT_YEAR" weight="2.51" label="NP_MOD" josa="의">1900년_하계_올림픽</sbj>
+		<obj type="LCP_CAPITALCITY" weight="1.03" label="NP_AJT" josa="에서">파리_(도시)</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.640">city</mln_predict>
+		<cnn_predict conf="0.913">city</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>종목이다.--개최된</gsdp_lemma>
+		<head>종목이다.</head>
+		<cluster>40</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

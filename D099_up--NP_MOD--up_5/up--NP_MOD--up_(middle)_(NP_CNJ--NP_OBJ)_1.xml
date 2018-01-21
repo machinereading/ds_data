@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP_MOD--up--(NP_OBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2625" total_morp="50" total_word="23">
+		<sent>2010년 12월 12일, 델라스는 또다른 그리스 축구 국가대표팀의 UEFA 유로 2004 우승 주역인 니코스_다비자스와 스틸리아노스 베네티디스의 라리사_FC를 상대로 2년만에 복귀한 그리스 리그에서 득점했다.</sent>
+		<sbj type="PS_NAME" weight="0.73" label="NP_CNJ" josa="와">니코스_다비자스</sbj>
+		<obj type="OGG_SPORTS" weight="1.71" label="NP_OBJ" josa="를">라리사_FC</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.509">club</mln_predict>
+		<cnn_predict conf="0.507">league</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_MOD--up--(NP_OBJ)</gsdp>
+		<gsdp_lemma>베네티디스의</gsdp_lemma>
+		<head>득점했다.</head>
+		<cluster>25</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

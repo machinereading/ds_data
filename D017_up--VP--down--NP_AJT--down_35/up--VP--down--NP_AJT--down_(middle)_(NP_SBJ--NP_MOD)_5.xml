@@ -1,0 +1,69 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--down--NP_AJT--down--(NP_MOD)</dependency>
+	<total>5</total>
+	<sent_item id="M_T3200" total_morp="35" total_word="14">
+		<sent>한편 펠레는 디에고_마라도나가 아르헨티나_축구_국가대표팀의 국가대표 감독에 부임하자 "마라도나는 경험 부족으로 팀을 곤란하게 만들 것이다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_SBJ" josa="가">디에고_마라도나</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_MOD" josa="의">아르헨티나_축구_국가대표팀</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.798">team</mln_predict>
+		<cnn_predict conf="0.407">team</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>부임하자--감독에</gsdp_lemma>
+		<head>것이다.</head>
+		<cluster>9</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3220" total_morp="33" total_word="13">
+		<sent>10월 19일 LG_트윈스와의 준플레이오프 1차전에서 선발투수 류제국이 그의 헬멧에 공을 던지면서 퇴장을 당하였다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_SBJ" josa="이">류제국</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_MOD" josa="의">LG_트윈스</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.840">team</mln_predict>
+		<cnn_predict conf="0.965">team</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>던지면서--1차전에서</gsdp_lemma>
+		<head>당하였다.</head>
+		<cluster>5</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T681" total_morp="19" total_word="7">
+		<sent>어치속은 까마귓과에 속하는 참새목의 새들로 어치를 포함한다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_SBJ" josa="은">어치</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">참새목</obj>
+		<gold>order</gold>
+		<mln_predict conf="0.606">class</mln_predict>
+		<cnn_predict conf="0.732">class</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>포함한다.--새들로</gsdp_lemma>
+		<head>포함한다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1453" total_morp="18" total_word="9">
+		<sent>바레스 사라반드 는 미국의 음반사로 유니버설_뮤직_그룹이 배포를 맡고 있다.</sent>
+		<sbj type="OGG_ECONOMY" weight="1.40" label="NP_SBJ" josa="이">유니버설_뮤직_그룹</sbj>
+		<obj type="LCP_COUNTRY" weight="-0.30" label="NP_MOD" josa="의">미국</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.261">country</mln_predict>
+		<cnn_predict conf="0.430">country</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>맡고--음반사로</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1524" total_morp="10" total_word="4">
+		<sent>네팔과의 국경에는 에베레스트_산이 있다.</sent>
+		<sbj type="LCG_MOUNTAIN" weight="3.18" label="NP_SBJ" josa="이">에베레스트_산</sbj>
+		<obj type="LCP_COUNTRY" weight="-0.62" label="NP_MOD" josa="의">네팔</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.352">locatedInArea</mln_predict>
+		<cnn_predict conf="0.636">country</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>있다.--국경에는</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

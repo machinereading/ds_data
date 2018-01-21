@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP_MOD--down--(NP_SBJ)</dependency>
+	<total>2</total>
+	<sent_item id="M_T463" total_morp="60" total_word="28">
+		<sent>이미 형식상으로나마 가권은 장남 오다 노부타다에게 넘긴 상태였으나 장남마저 교토의 니죠 성에서 살해돼 후계자리가 또다른 중신 도요토미 히데요시에게 넘어갔고, 이런 일본 통일의 기반이 도쿠가와_이에야스가 에도_막부를 여는 밑거름이 됐다.</sent>
+		<sbj type="" weight="0.00" label="NP_OBJ" josa="를">에도_막부</sbj>
+		<obj type="PS_NAME" weight="1.09" label="NP_SBJ" josa="가">도쿠가와_이에야스</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.804">leaderName</mln_predict>
+		<cnn_predict conf="0.786">commander</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma>여는</gsdp_lemma>
+		<head>됐다.</head>
+		<cluster>27</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1615" total_morp="29" total_word="12">
+		<sent>AS 생테티엔은 생테티엔에 위치한 스타드_조프루아_기샤르를 홈구장으로 하는 프랑스의 축구 클럽이며 1919년 창단되었다.</sent>
+		<sbj type="TMI_HW" weight="1.21" label="NP_OBJ" josa="를">스타드_조프루아_기샤르</sbj>
+		<obj type="OGG_SPORTS" weight="-0.24" label="NP_SBJ" josa="은">생테티엔</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.323">region</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma>하는</gsdp_lemma>
+		<head>창단되었다.</head>
+		<cluster>34</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,225 @@
+<sentence_list>
+	<dependency>(NP)--down--NP--down--NP--down--(NP)</dependency>
+	<total>17</total>
+	<sent_item id="M_T3450" total_morp="18" total_word="7">
+		<sent>빅히트 시즌송 디지털음원 'Perfect Christmas' with 2AM조권,임정희,방탄소년단랩몬스터&정국</sent>
+		<sbj type="PS_NAME" weight="0.68" label="NP" josa="">방탄소년단</sbj>
+		<obj type="PS_NAME" weight="1.22" label="NP" josa="">정국</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.203">currentMember</mln_predict>
+		<cnn_predict conf="0.828">currentMember</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>Christmas'--디지털음원</gsdp_lemma>
+		<head>2AM조권,임정희,방탄소년단랩몬스터</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1234" total_morp="31" total_word="14">
+		<sent>제17회 세계잼버리는 1991년 8월 8일부터 8월 16일까지 대한민국 강원도 고성군 설악산 주변에서 열린 세계잼버리이다.</sent>
+		<sbj type="LCG_MOUNTAIN" weight="3.18" label="NP" josa="">설악산</sbj>
+		<obj type="LCP_COUNTRY" weight="-0.62" label="NP" josa="">대한민국</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.245">location</mln_predict>
+		<cnn_predict conf="0.704">country</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>고성군--강원도</gsdp_lemma>
+		<head>세계잼버리이다.</head>
+		<cluster>3</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T924" total_morp="25" total_word="16">
+		<sent>캘리포니아 제퍼는 미국 일리노이 주 시카고 유니언 역에서 캘리포니아 주 에머리빌 에머리빌 역까지 운행되는 장거리 열차이다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP" josa="">시카고</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">미국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.998">country</mln_predict>
+		<cnn_predict conf="0.408">largestCity</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--일리노이</gsdp_lemma>
+		<head>열차이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T299" total_morp="34" total_word="17">
+		<sent>상무야구장은 대한민국 경기도 성남시 수정구 복정동 국군체육부대 내와 대한민국 경상북도 문경시 호계면 견탄리 국군체육부대 내에 위치한 야구장이다.</sent>
+		<sbj type="LCP_COUNTY" weight="-0.10" label="NP" josa="">수정구</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">대한민국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.381">city</mln_predict>
+		<cnn_predict conf="0.704">country</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>성남시--경기도</gsdp_lemma>
+		<head>야구장이다.</head>
+		<cluster>11</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T14" total_morp="21" total_word="11">
+		<sent>웅천 안골왜성은 대한민국 경상남도 창원시 진해구 안골동 산27외에 있는 일본식 성이다.</sent>
+		<sbj type="LCP_COUNTY" weight="-0.10" label="NP" josa="">진해구</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">대한민국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.763">locatedInArea</mln_predict>
+		<cnn_predict conf="0.871">country</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>창원시--경상남도</gsdp_lemma>
+		<head>성이다.</head>
+		<cluster>7</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T638" total_morp="18" total_word="10">
+		<sent>림프 비즈킷은 미국 플로리다 주 잭슨빌_(플로리다_주) 출신의 뉴 메탈 밴드이다.</sent>
+		<sbj type="LCP_COUNTY" weight="-0.10" label="NP" josa="">잭슨빌_(플로리다_주)</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">미국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.178">country</mln_predict>
+		<cnn_predict conf="0.467">country</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--플로리다</gsdp_lemma>
+		<head>밴드이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1208" total_morp="65" total_word="29">
+		<sent>(다만, YTN 본사는 서울특별시 종로구 수송동 연합뉴스 사옥에 입주하였으나 2004년 3월 1일에 서울특별시 중구 (서울) 세종대로 17 (남대문로5가)로 이전하였고, 2014년 4월 7일에 또다시 서울특별시 마포구 상암산로 76 (상암동)으로 이전하였다.</sent>
+		<sbj type="OGG_MEDIA" weight="-0.43" label="NP" josa="">연합뉴스</sbj>
+		<obj type="LCP_CAPITALCITY" weight="1.60" label="NP" josa="">서울특별시</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.728">location</mln_predict>
+		<cnn_predict conf="0.871">location</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>수송동--종로구</gsdp_lemma>
+		<head>이전하였다.</head>
+		<cluster>12</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T10" total_morp="18" total_word="9">
+		<sent>루디코프는 2002년 설립된 캐나다 브리티시컬럼비아 주 밴쿠버 소재 기업이었다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP" josa="">밴쿠버</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">캐나다</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.395">location</mln_predict>
+		<cnn_predict conf="0.604">country</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--브리티시컬럼비아</gsdp_lemma>
+		<head>기업이었다.</head>
+		<cluster>11</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T157" total_morp="15" total_word="10">
+		<sent>심플 플랜은 캐나다 퀘벡 주 몬트리올 출신의 팝 펑크 밴드이다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP" josa="">몬트리올</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">캐나다</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.775">country</mln_predict>
+		<cnn_predict conf="0.352">country</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--퀘벡</gsdp_lemma>
+		<head>밴드이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T471" total_morp="57" total_word="23">
+		<sent>헌팅턴 블리자드/텍사스 와일드캐터스는 미국 웨스트버지니아 주 헌팅턴/텍사스_주 보몬트을 연고지로 하는 1993년부터 2008년까지 ECHL 소속되었던 아이스 하키팀이면, 2005~2006시즌에는 허리케인 리타로 인해 리그에 참가하지 못했다.</sent>
+		<sbj type="LCP_PROVINCE" weight="0.19" label="NP" josa="">텍사스_주</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">미국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.257">largestCity</mln_predict>
+		<cnn_predict conf="0.443">region</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--웨스트버지니아</gsdp_lemma>
+		<head>못했다.</head>
+		<cluster>24</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T477" total_morp="25" total_word="10">
+		<sent>서원재로는 대한민국 경상북도 포항시 남구_(포항시) 호동에서 인덕동을 거쳐 연결하는 도로이다.</sent>
+		<sbj type="LCP_COUNTY" weight="-0.10" label="NP" josa="">남구_(포항시)</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">대한민국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.653">city</mln_predict>
+		<cnn_predict conf="0.884">country</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>포항시--경상북도</gsdp_lemma>
+		<head>도로이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T103" total_morp="26" total_word="15">
+		<sent>블루워터는 미국 일리노이 주 시카고 유니언 역에서 미시간 주 포트휴런 포트휴런 역까지 운행되는 장거리 열차이다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP" josa="">시카고</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">미국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.982">country</mln_predict>
+		<cnn_predict conf="0.456">largestCity</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--일리노이</gsdp_lemma>
+		<head>열차이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T40" total_morp="19" total_word="10">
+		<sent>네이버 그린팩토리은 대한민국 경기도 성남시 분당구 정자동에 위치한 초고층 빌딩이다.</sent>
+		<sbj type="LCP_COUNTY" weight="-0.10" label="NP" josa="">분당구</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">대한민국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.384">city</mln_predict>
+		<cnn_predict conf="0.747">country</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>성남시--경기도</gsdp_lemma>
+		<head>빌딩이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2443" total_morp="9" total_word="5">
+		<sent>2005년에는 액션 코미디 영화 《미스터_&_미세스_스미스》에 브래드_피트와 함께 결혼한 커플이면서도 서로 다른 비밀 암살요원인 존과 제인 스미스 역으로 출연했다.</sent>
+		<sbj type="AFW_VIDEO" weight="1.84" label="NP" josa="">미스터_&_미세스_스미스</sbj>
+		<obj type="AFW_VIDEO" weight="0.71" label="NP" josa="">브래드_피트</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.444">starring</mln_predict>
+		<cnn_predict conf="0.920">starring</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>영화--코미디</gsdp_lemma>
+		<head>《미스터_</head>
+		<cluster>36</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T283" total_morp="31" total_word="16">
+		<sent>컨트리 음악 명예의 전당 박물관은 ​​미국 테네시 주 내슈빌 5번로 남쪽 222에 위치한 명예의 전당이자 박물관이다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP" josa="">내슈빌</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">미국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.584">country</mln_predict>
+		<cnn_predict conf="0.526">country</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--테네시</gsdp_lemma>
+		<head>박물관이다.</head>
+		<cluster>7</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T241" total_morp="21" total_word="12">
+		<sent>주부 국제공항은 일본 아이치 현 도코나메_시 앞 이세 만의 인공섬에 만든 공항이다.</sent>
+		<sbj type="LCP_PROVINCE" weight="0.19" label="NP" josa="">도코나메_시</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">일본</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.459">country</mln_predict>
+		<cnn_predict conf="0.295">country</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>현--아이치</gsdp_lemma>
+		<head>공항이다.</head>
+		<cluster>7</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T521" total_morp="19" total_word="8">
+		<sent>처용암은 울산광역시 남구 황성동 외황강 하구에 떠있는 바위섬이다.</sent>
+		<sbj type="LCG_RIVER" weight="0.94" label="NP" josa="">외황강</sbj>
+		<obj type="LCP_CITY" weight="1.01" label="NP" josa="">울산광역시</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.860">city</mln_predict>
+		<cnn_predict conf="0.427">locatedInArea</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>황성동--남구</gsdp_lemma>
+		<head>바위섬이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

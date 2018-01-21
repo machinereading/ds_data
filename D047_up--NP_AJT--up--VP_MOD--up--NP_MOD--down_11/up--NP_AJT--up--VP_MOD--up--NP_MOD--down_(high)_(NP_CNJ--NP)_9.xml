@@ -1,0 +1,121 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP_AJT--up--VP_MOD--up--NP_MOD--down--(NP)</dependency>
+	<total>9</total>
+	<sent_item id="M_T2503" total_morp="18" total_word="7">
+		<sent>남아메리카밭쥐속은 비단털쥐과 목화쥐아과에 속하는 설치류 속의 하나이다.</sent>
+		<sbj type="AM_MAMMALIA" weight="2.27" label="NP_CNJ" josa="과">비단털쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP" josa="">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.947">order</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma>목화쥐아과에--속하는--속의</gsdp_lemma>
+		<head>하나이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3388" total_morp="17" total_word="7">
+		<sent>큰귀생쥐속은 비단털쥐과 목화쥐아과에 속하는 설치류 속의 하나이다.</sent>
+		<sbj type="AM_MAMMALIA" weight="2.27" label="NP_CNJ" josa="과">비단털쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP" josa="">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.951">order</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma>목화쥐아과에--속하는--속의</gsdp_lemma>
+		<head>하나이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T223" total_morp="18" total_word="7">
+		<sent>시궁쥐속은 쥐과 쥐아과에 속하는 설치류 속의 하나이다.</sent>
+		<sbj type="AM_MAMMALIA" weight="2.27" label="NP_CNJ" josa="과">쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP" josa="">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.875">order</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma>쥐아과에--속하는--속의</gsdp_lemma>
+		<head>하나이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1904" total_morp="18" total_word="7">
+		<sent>남아메리카자이언트쥐속은 비단털쥐과 목화쥐아과에 속하는 설치류 속의 하나이다.</sent>
+		<sbj type="AM_MAMMALIA" weight="2.27" label="NP_CNJ" josa="과">비단털쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP" josa="">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.963">order</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma>목화쥐아과에--속하는--속의</gsdp_lemma>
+		<head>하나이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2240" total_morp="18" total_word="7">
+		<sent>토끼쥐속은 비단털쥐과 목화쥐아과에 속하는 설치류 속의 하나이다.</sent>
+		<sbj type="AM_MAMMALIA" weight="2.27" label="NP_CNJ" josa="과">비단털쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP" josa="">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.961">order</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma>목화쥐아과에--속하는--속의</gsdp_lemma>
+		<head>하나이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1195" total_morp="18" total_word="7">
+		<sent>목화쥐아과는 쥐상과 비단털쥐과에 속하는 설치류 아과의 하나이다.</sent>
+		<sbj type="CV_PRIZE" weight="2.27" label="NP_CNJ" josa="과">쥐상과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP" josa="">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="0.977">class</mln_predict>
+		<cnn_predict conf="0.862">order</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma>비단털쥐과에--속하는--아과의</gsdp_lemma>
+		<head>하나이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2407" total_morp="17" total_word="7">
+		<sent>옥시믹테루스속은 비단털쥐과 목화쥐아과에 속하는 설치류 속의 하나이다.</sent>
+		<sbj type="AM_MAMMALIA" weight="2.27" label="NP_CNJ" josa="과">비단털쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP" josa="">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.930">order</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma>목화쥐아과에--속하는--속의</gsdp_lemma>
+		<head>하나이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3091" total_morp="19" total_word="7">
+		<sent>중앙아메리카물쥐속은 비단털쥐과 목화쥐아과에 속하는 설치류 속의 하나이다.</sent>
+		<sbj type="AM_MAMMALIA" weight="2.27" label="NP_CNJ" josa="과">비단털쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP" josa="">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.957">order</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma>목화쥐아과에--속하는--속의</gsdp_lemma>
+		<head>하나이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1994" total_morp="18" total_word="7">
+		<sent>안데스밭쥐족은 비단털쥐과 목화쥐아과에 속하는 설치류 족의 하나이다.</sent>
+		<sbj type="AM_MAMMALIA" weight="2.27" label="NP_CNJ" josa="과">비단털쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP" josa="">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.924">order</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma>목화쥐아과에--속하는--족의</gsdp_lemma>
+		<head>하나이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

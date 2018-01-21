@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2249" total_morp="33" total_word="14">
+		<sent>그 다음 경기는 3-0으로 이긴 스포르팅_히혼과의 프리메라리가 프리메라리가 2009-10이었고, 이 경기에서 한 골을 득점하였다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_MOD" josa="의">스포르팅_히혼</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP" josa="">프리메라리가</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.590">league</mln_predict>
+		<cnn_predict conf="0.693">league</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--down--(NP)</gsdp>
+		<gsdp_lemma>프리메라리가</gsdp_lemma>
+		<head>득점하였다.</head>
+		<cluster>29</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

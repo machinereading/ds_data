@@ -1,0 +1,108 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP_SBJ--up--VNP--down--(NP_MOD)</dependency>
+	<total>8</total>
+	<sent_item id="M_T2021" total_morp="18" total_word="7">
+		<sent>동부바위코끼리땃쥐 또는 동부바위센지는 코끼리땃쥐에 속하는 포유류의 일종이다.</sent>
+		<sbj type="LC_TOUR" weight="0.27" label="NP_CNJ" josa="">코끼리땃쥐</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="0.850">class</mln_predict>
+		<cnn_predict conf="0.891">class</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_SBJ--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>동부바위센지는--일종이다.</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T4047" total_morp="18" total_word="7">
+		<sent>일리우는토끼 또는 일리피카는 우는토끼에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_MAMMALIA" weight="0.17" label="NP_CNJ" josa="는">우는토끼</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.891">class</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_SBJ--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>일리피카는--일종이다.</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1460" total_morp="19" total_word="7">
+		<sent>아메리카검은멧토끼 또는 검은잭토끼는 토끼에 속하는 포유류의 일종이다.</sent>
+		<sbj type="LCG_CONTINENT" weight="-0.14" label="NP_CNJ" josa="">토끼</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.899">class</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_SBJ--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>검은잭토끼는--일종이다.</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3054" total_morp="20" total_word="7">
+		<sent>트레스마리아스토끼 또는 트레스마리아스솜꼬리토끼는 토끼에 속하는 포유류의 일종이다.</sent>
+		<sbj type="MT_CHEMICAL" weight="0.44" label="NP_CNJ" josa="">토끼</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.873">class</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_SBJ--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>트레스마리아스솜꼬리토끼는--일종이다.</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2553" total_morp="17" total_word="7">
+		<sent>글로버우는토끼 또는 글로버피카는 우는토끼에 속하는 포유류의 일종이다.</sent>
+		<sbj type="PS_NAME" weight="-0.69" label="NP_CNJ" josa="">우는토끼</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.894">class</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_SBJ--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>글로버피카는--일종이다.</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3767" total_morp="17" total_word="7">
+		<sent>검은우는토끼 또는 검은피카는 우는토끼에 속하는 포유류의 일종이다.</sent>
+		<sbj type="PS_NAME" weight="-0.69" label="NP_CNJ" josa="">우는토끼</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.885">class</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_SBJ--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>검은피카는--일종이다.</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3407" total_morp="19" total_word="8">
+		<sent>아삼털토끼 또는 아삼토끼는 토끼목 토끼에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_MAMMALIA" weight="0.17" label="NP_CNJ" josa="">토끼</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.887">class</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_SBJ--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>아삼토끼는--일종이다.</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T346" total_morp="18" total_word="7">
+		<sent>투루한우는토끼 또는 투루한피카는 우는토끼에 속하는 포유류의 일종이다.</sent>
+		<sbj type="AM_MAMMALIA" weight="0.17" label="NP_CNJ" josa="는">우는토끼</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_MOD" josa="의">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.892">class</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_SBJ--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>투루한피카는--일종이다.</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

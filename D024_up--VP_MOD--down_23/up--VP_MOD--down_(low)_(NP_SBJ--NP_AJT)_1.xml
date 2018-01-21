@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP_MOD--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3739" total_morp="54" total_word="26">
+		<sent>팔라디오 양식의 영향을 가장 강하게 받은 곳은 영국으로 17세기 초에 이니고_존스가 팔라디오 양식을 도입한 이후 18세기 전반에는 대대적인 팔라디아니즘 운동이 일어나 팔라디오 양식의 컨트리 하우스가 유행하였다.</sent>
+		<sbj type="OGG_ECONOMY" weight="-0.24" label="NP_SBJ" josa="가">이니고_존스</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_AJT" josa="으로">영국</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.386">birthPlace</mln_predict>
+		<cnn_predict conf="0.430">birthPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>도입한</gsdp_lemma>
+		<head>유행하였다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

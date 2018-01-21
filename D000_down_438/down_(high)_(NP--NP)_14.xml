@@ -1,0 +1,186 @@
+<sentence_list>
+	<dependency>(NP)--down--(NP)</dependency>
+	<total>14</total>
+	<sent_item id="M_T2695" total_morp="39" total_word="13">
+		<sent>2014년 JTBC 《비정상회담》 24회에 일일 비정상으로 출연하였으며, 2015년 《내 친구의 집은 어디인가》에 출연하였다.</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.87" label="NP" josa="">비정상회담</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP" josa="">JTBC</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.948">channel</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>출연하였다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3472" total_morp="19" total_word="9">
+		<sent>2013년 6월 4일 ~ 2014년 5월 20일 JTBC 《유자식_상팔자》</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.87" label="NP" josa="">유자식_상팔자</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP" josa="">JTBC</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.762">channel</mln_predict>
+		<cnn_predict conf="0.998">channel</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>《유자식_상팔자》</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1319" total_morp="9" total_word="4">
+		<sent>2015년 Mnet 《더_러버》 ... 오도시 역</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.87" label="NP" josa="">더_러버</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP" josa="">Mnet</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.552">channel</mln_predict>
+		<cnn_predict conf="0.942">channel</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>...</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1459" total_morp="15" total_word="6">
+		<sent>2010년 SBS 《제중원_(드라마)》- 치루 딸 역</sent>
+		<sbj type="OGG_MEDICINE" weight="2.13" label="NP" josa="">제중원_(드라마)</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP" josa="">SBS</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.836">channel</mln_predict>
+		<cnn_predict conf="0.980">channel</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>역</head>
+		<cluster>6</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2527" total_morp="32" total_word="15">
+		<sent>목관악기: 피콜로, 플루트2, 오보에2, 잉글리시 호른, 클라리넷2, E플랫 클라리넷, 베이스 클라리넷, 테너 색소폰, 바순2, 콘트라바순</sent>
+		<sbj type="AF_MUSICAL_INSTRUMENT" weight="1.76" label="NP" josa="">콘트라바순</sbj>
+		<obj type="AF_MUSICAL_INSTRUMENT" weight="1.54" label="NP" josa="">바순</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.440">related</mln_predict>
+		<cnn_predict conf="0.984">related</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>콘트라바순</head>
+		<cluster>18</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2906" total_morp="10" total_word="5">
+		<sent>2000년 문화방송 시트콤 《뉴_논스톱》 ... 문화대학교 청춘 남녀 특집 "사랑의 스튜디오" 이벤트 MC 윤정수 역으로 카메오 출연</sent>
+		<sbj type="AFW_DOCUMENT" weight="0.50" label="NP" josa="">뉴_논스톱</sbj>
+		<obj type="FD_ART" weight="3.14" label="NP" josa="">시트콤</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.991">genre</mln_predict>
+		<cnn_predict conf="0.804">channel</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>...</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2908" total_morp="18" total_word="9">
+		<sent>~ 2010년 SBS 《접속!_무비월드》 - 〈영화는 수다다〉 공동 MC</sent>
+		<sbj type="AFW_VIDEO" weight="1.69" label="NP" josa="">접속!_무비월드</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP" josa="">SBS</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.791">channel</mln_predict>
+		<cnn_predict conf="0.987">channel</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>MC</head>
+		<cluster>6</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2603" total_morp="17" total_word="8">
+		<sent>2017년 4월 22일 ~ 현재 MBC_TV 《쇼!_음악중심》 MC</sent>
+		<sbj type="AFW_VIDEO" weight="1.69" label="NP" josa="">쇼!_음악중심</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP" josa="">MBC_TV</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.881">channel</mln_predict>
+		<cnn_predict conf="0.996">channel</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>MC</head>
+		<cluster>47</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1709" total_morp="49" total_word="19">
+		<sent>타이틀곡인 "Fly"로 활동하면서 SBSTV 인기가요와 MBC_TV 《쇼!_음악중심》 컴백 무대에서 곧바로 1위를 기록하였으며 인터넷 차트에서도 몇 주 동안 상위권을 기록하였다.</sent>
+		<sbj type="AFW_VIDEO" weight="1.69" label="NP" josa="">쇼!_음악중심</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP" josa="">MBC_TV</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.886">channel</mln_predict>
+		<cnn_predict conf="0.954">channel</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>기록하였다.</head>
+		<cluster>6</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1554" total_morp="12" total_word="6">
+		<sent>2002년 SBS 대하드라마 《야인시대》- 이기붕 역</sent>
+		<sbj type="AFW_VIDEO" weight="1.69" label="NP" josa="">야인시대</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP" josa="">SBS</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.968">channel</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>역</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1271" total_morp="15" total_word="5">
+		<sent>2011년 JTBC 대하드라마 《인수대비_(드라마)》 ... 소혜왕후 역</sent>
+		<sbj type="AFW_VIDEO" weight="1.69" label="NP" josa="">인수대비_(드라마)</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP" josa="">JTBC</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.987">channel</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>...</head>
+		<cluster>6</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3227" total_morp="12" total_word="5">
+		<sent>2002년 SBS 대하드라마 《야인시대》 ... 작두 이전 서대문 오야붕 역</sent>
+		<sbj type="AFW_VIDEO" weight="1.69" label="NP" josa="">야인시대</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP" josa="">SBS</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.955">channel</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>...</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3377" total_morp="12" total_word="6">
+		<sent>2015년 JTBC 금토드라마《사랑하는_은동아》 - 민아 역</sent>
+		<sbj type="AFW_VIDEO" weight="1.69" label="NP" josa="">사랑하는_은동아</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP" josa="">JTBC</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.985">channel</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>역</head>
+		<cluster>38</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T322" total_morp="12" total_word="6">
+		<sent>2016년 9월 20일 SBS_MTV 《더_쇼》- 웬디</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.87" label="NP" josa="">더_쇼</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP" josa="">SBS_MTV</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.916">channel</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>웬디</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

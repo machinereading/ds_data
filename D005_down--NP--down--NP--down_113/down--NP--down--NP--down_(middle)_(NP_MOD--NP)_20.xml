@@ -1,0 +1,264 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--NP--down--NP--down--(NP)</dependency>
+	<total>20</total>
+	<sent_item id="M_T2947" total_morp="28" total_word="14">
+		<sent>영돈녕부사 어유구의 딸 선의왕후 어씨가 조선 20대 왕 조선_경종의 왕비가 되면서 함종현이 함종부로 승격되었다.</sent>
+		<sbj type="PS_NAME" weight="0.40" label="NP_MOD" josa="의">조선_경종</sbj>
+		<obj type="LCP_COUNTRY" weight="0.58" label="NP" josa="">조선</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.596">birthPlace</mln_predict>
+		<cnn_predict conf="0.510">birthPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>왕--20대</gsdp_lemma>
+		<head>승격되었다.</head>
+		<cluster>49</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3539" total_morp="37" total_word="15">
+		<sent>엠페러는 《듄》 세계관을 기반으로 한 전략_시뮬레이션 게임 중, 《듄II》와 《듄_2000》의 뒤를 이은 세 번째 게임이다.</sent>
+		<sbj type="AFW_DOCUMENT" weight="0.50" label="NP_MOD" josa="의">듄_2000</sbj>
+		<obj type="TMIG_GENRE" weight="0.92" label="NP" josa="">전략_시뮬레이션</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.761">genre</mln_predict>
+		<cnn_predict conf="0.472">channel</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>중,--게임</gsdp_lemma>
+		<head>게임이다.</head>
+		<cluster>5</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T530" total_morp="11" total_word="6">
+		<sent>갈바리노는 칠레 아라우카니아 주 카우틴_현의 코무나이다.</sent>
+		<sbj type="LCP_PROVINCE" weight="0.19" label="NP_MOD" josa="의">카우틴_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">칠레</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.828">country</mln_predict>
+		<cnn_predict conf="0.745">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--아라우카니아</gsdp_lemma>
+		<head>코무나이다.</head>
+		<cluster>11</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T725" total_morp="13" total_word="6">
+		<sent>산탄젤로아쿠폴로는 이탈리아 캄파니아 주 베네벤토_현의 코무네다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_MOD" josa="의">베네벤토_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">이탈리아</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.851">country</mln_predict>
+		<cnn_predict conf="0.704">region</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--캄파니아</gsdp_lemma>
+		<head>코무네다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2974" total_morp="26" total_word="12">
+		<sent>케이코 소피아 후지모리 히구치는 페루 제91대 대통령 알베르토_후지모리의 딸로 페루의 사업가이자 정치가이다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_MOD" josa="의">알베르토_후지모리</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP" josa="">페루</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.329">country</mln_predict>
+		<cnn_predict conf="0.418">birthPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>대통령--제91대</gsdp_lemma>
+		<head>정치가이다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T648" total_morp="11" total_word="6">
+		<sent>로카산펠리체는 이탈리아 캄파니아 주 아벨리노_현의 코무네다.</sent>
+		<sbj type="LCP_PROVINCE" weight="0.19" label="NP_MOD" josa="의">아벨리노_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">이탈리아</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.780">region</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--캄파니아</gsdp_lemma>
+		<head>코무네다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T600" total_morp="12" total_word="6">
+		<sent>미원면은 대한민국 충청북도 청주시 상당구의 면이다.</sent>
+		<sbj type="LCP_COUNTY" weight="-0.10" label="NP_MOD" josa="의">상당구</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">대한민국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.691">city</mln_predict>
+		<cnn_predict conf="0.937">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>청주시--충청북도</gsdp_lemma>
+		<head>면이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2691" total_morp="27" total_word="13">
+		<sent>박정희 전 대통령의 외아들인 박지만 EG 회장의 부인이자, 대한민국 제18대 대통령 박근혜의 올케이다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_MOD" josa="의">박근혜</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP" josa="">대한민국</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.596">nationality</mln_predict>
+		<cnn_predict conf="0.329">birthPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>대통령--제18대</gsdp_lemma>
+		<head>올케이다.</head>
+		<cluster>40</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T63" total_morp="13" total_word="6">
+		<sent>파레도네스는 칠레 리베르타도르헤네랄베르나르도오이긴스 주 카르데날카로_현의 코무나이다.</sent>
+		<sbj type="OGG_ECONOMY" weight="0.63" label="NP_MOD" josa="의">카르데날카로_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">칠레</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.707">country</mln_predict>
+		<cnn_predict conf="0.593">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--리베르타도르헤네랄베르나르도오이긴스</gsdp_lemma>
+		<head>코무나이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1036" total_morp="11" total_word="6">
+		<sent>불네스는 칠레 비오비오 주 뉴블레_현의 코무나이다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_MOD" josa="의">뉴블레_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">칠레</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.665">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--비오비오</gsdp_lemma>
+		<head>코무나이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T738" total_morp="41" total_word="23">
+		<sent>워크 오브 게임은 미국 캘리포니아 주 샌프란시스코의 엔터테인먼트 복합 시설 메토레온에 설치되어 있는 비디오 게임 산업에서 뛰어난 활약을 보인 사람들을 기념하기 위한 장소이다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_MOD" josa="의">샌프란시스코</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">미국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.971">country</mln_predict>
+		<cnn_predict conf="0.439">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--캘리포니아</gsdp_lemma>
+		<head>장소이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1800" total_morp="45" total_word="20">
+		<sent>그밖에 공학자이며 시스템클럽의 대표 지만원, 대한민국 11~12대 대통령 전두환의 팬클럽인 전사모, 대학교수 이주천, 언론인 김동문 등이 유사한 주장을 하고 있다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_MOD" josa="의">전두환</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP" josa="">대한민국</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.909">country</mln_predict>
+		<cnn_predict conf="0.436">birthPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>대통령--11~12대</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>13</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1037" total_morp="11" total_word="6">
+		<sent>카사칼렌다는 이탈리아 몰리세 주 캄포바소_현의 코무네다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_MOD" josa="의">캄포바소_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">이탈리아</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.770">region</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--몰리세</gsdp_lemma>
+		<head>코무네다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T192" total_morp="11" total_word="6">
+		<sent>춘골리는 이탈리아 캄파니아 주 아벨리노_현의 코무네다.</sent>
+		<sbj type="LCP_PROVINCE" weight="0.19" label="NP_MOD" josa="의">아벨리노_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">이탈리아</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.781">region</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--캄파니아</gsdp_lemma>
+		<head>코무네다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T722" total_morp="11" total_word="6">
+		<sent>핀토는 칠레 비오비오 주 뉴블레_현의 코무나이다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_MOD" josa="의">뉴블레_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">칠레</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.677">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--비오비오</gsdp_lemma>
+		<head>코무나이다.</head>
+		<cluster>11</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T848" total_morp="11" total_word="6">
+		<sent>비사차는 이탈리아 캄파니아 주 아벨리노_현의 코무네다.</sent>
+		<sbj type="LCP_PROVINCE" weight="0.19" label="NP_MOD" josa="의">아벨리노_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">이탈리아</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.780">region</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--캄파니아</gsdp_lemma>
+		<head>코무네다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T899" total_morp="11" total_word="6">
+		<sent>칼리트리는 이탈리아 캄파니아 주 아벨리노_현의 코무네다.</sent>
+		<sbj type="LCP_PROVINCE" weight="0.19" label="NP_MOD" josa="의">아벨리노_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">이탈리아</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.781">region</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--캄파니아</gsdp_lemma>
+		<head>코무네다.</head>
+		<cluster>11</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T44" total_morp="11" total_word="6">
+		<sent>엘타보는 칠레 발파라이소 주 산안토니오_현의 코무나이다.</sent>
+		<sbj type="LCP_PROVINCE" weight="0.19" label="NP_MOD" josa="의">산안토니오_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">칠레</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.276">country</mln_predict>
+		<cnn_predict conf="0.730">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--발파라이소</gsdp_lemma>
+		<head>코무나이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1346" total_morp="15" total_word="8">
+		<sent>승만부인은 신라 제26대 왕 진평왕의 두 번째 왕비이다.</sent>
+		<sbj type="PS_NAME" weight="0.40" label="NP_MOD" josa="의">진평왕</sbj>
+		<obj type="LCP_COUNTRY" weight="0.58" label="NP" josa="">신라</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.791">birthPlace</mln_predict>
+		<cnn_predict conf="0.423">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>왕--제26대</gsdp_lemma>
+		<head>왕비이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3837" total_morp="14" total_word="7">
+		<sent>노건평은 대한민국 제16대 대통령 노무현의 둘째 형이다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_MOD" josa="의">노무현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP" josa="">대한민국</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.938">country</mln_predict>
+		<cnn_predict conf="0.346">birthPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>대통령--제16대</gsdp_lemma>
+		<head>형이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

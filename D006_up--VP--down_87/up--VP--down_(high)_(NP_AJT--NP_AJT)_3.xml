@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--(NP_AJT)</dependency>
+	<total>3</total>
+	<sent_item id="M_T1213" total_morp="46" total_word="22">
+		<sent>또 2012년 9월 18일 잠실야구장 LG 트윈스전에서는 2도루를 추가하며 유격수로는 해태 타이거즈 시절의 이종범에 이어 두 번째로 20-20 클럽에 이름을 올리게 되었다.</sent>
+		<sbj type="PS_NAME" weight="0.20" label="NP_AJT" josa="에">이종범</sbj>
+		<obj type="CV_POSITION" weight="3.17" label="NP_AJT" josa="는">유격수</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.455">team</mln_predict>
+		<cnn_predict conf="0.643">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>이어</gsdp_lemma>
+		<head>되었다.</head>
+		<cluster>41</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1988" total_morp="48" total_word="18">
+		<sent>조인성은 2001년 SBS 드라마 《피아노_(2001년_드라마)》에서 조재현, 고수, 김하늘과 공연하였고, 극중 한억관의 아들 이경호 역할로 출연해 반항적 연기를 선보였다.</sent>
+		<sbj type="AFW_VIDEO" weight="1.84" label="NP_AJT" josa="에서">피아노_(2001년_드라마)</sbj>
+		<obj type="PS_NAME" weight="1.43" label="NP_AJT" josa="과">김하늘</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.747">starring</mln_predict>
+		<cnn_predict conf="0.911">starring</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>공연하였고,</gsdp_lemma>
+		<head>선보였다.</head>
+		<cluster>6</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T556" total_morp="55" total_word="26">
+		<sent>이때 류조지 군은 6만대군 이었지만, 적의 지장 시마즈_이에히사에게 오키타나와테_전투에서 크게 지고 많은 장병과 함께 타카노부 자신도 향년 56세의 나이로 시마즈 씨의 가신·가와카미 다다카타에 의해 죽임을 당했다.</sent>
+		<sbj type="EV_WAR_REVOLUTION" weight="2.59" label="NP_AJT" josa="에서">오키타나와테_전투</sbj>
+		<obj type="PS_NAME" weight="0.88" label="NP_AJT" josa="에게">시마즈_이에히사</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.800">commander</mln_predict>
+		<cnn_predict conf="0.723">commander</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>지고</gsdp_lemma>
+		<head>당했다.</head>
+		<cluster>45</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

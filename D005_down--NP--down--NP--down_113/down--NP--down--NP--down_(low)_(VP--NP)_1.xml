@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(VP)--down--NP--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2793" total_morp="19" total_word="9">
+		<sent>그러나, 이승연이 당시 출연 중이었던 KBS 2TV 주말극 사랑하세요? 스케줄과 겹쳐 캐스팅 제의를 포기하자 제작진은 영화 《거짓말_(2000년_영화)》로 스타덤에 오른 모델 출신 김태연_(배우)을 대타로 올리고 2000년 하반기에 첫 방영될 예정이었다.</sent>
+		<sbj type="" weight="0.00" label="VP" josa="">거짓말_(2000년_영화)</sbj>
+		<obj type="" weight="0.00" label="NP" josa="">김태연_(배우)</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.346">channel</mln_predict>
+		<cnn_predict conf="0.880">starring</cnn_predict>
+		<gsdp>(VP)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주말극--2TV</gsdp_lemma>
+		<head>사랑하세요?</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP--up--NP_AJT--up--VP--down--(NP_OBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_T353" total_morp="25" total_word="11">
+		<sent>밤늦게 활동을시작하여 나방이나 왕풍뎅이, 말똥구리, 풍뎅이 등 주로 곤충을 잡아 먹는다.</sent>
+		<sbj type="AM_INSECT" weight="1.38" label="NP_CNJ" josa="">풍뎅이</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP_OBJ" josa="을">곤충</obj>
+		<gold>class</gold>
+		<mln_predict conf="0.920">class</mln_predict>
+		<cnn_predict conf="0.930">class</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP--up--NP_AJT--up--VP--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma>풍뎅이--등--잡아</gsdp_lemma>
+		<head>먹는다.</head>
+		<cluster>23</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,147 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</dependency>
+	<total>11</total>
+	<sent_item id="M_T3839" total_morp="23" total_word="10">
+		<sent>2014년 동계 올림픽 아이스하키는 러시아 소치에서 개최된 2014년_동계_올림픽의 경기 종목이다.</sent>
+		<sbj type="DT_YEAR" weight="2.51" label="NP_MOD" josa="의">2014년_동계_올림픽</sbj>
+		<obj type="LCP_CITY" weight="1.01" label="NP_AJT" josa="에서">소치</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.723">location</mln_predict>
+		<cnn_predict conf="0.943">city</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>개최된</gsdp_lemma>
+		<head>종목이다.</head>
+		<cluster>40</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1429" total_morp="23" total_word="10">
+		<sent>1906년 하계 올림픽 사이클은 그리스 아테네에서 개최된 1906년_중간_올림픽의 경기 종목이다.</sent>
+		<sbj type="DT_YEAR" weight="2.51" label="NP_MOD" josa="의">1906년_중간_올림픽</sbj>
+		<obj type="LCP_CAPITALCITY" weight="1.03" label="NP_AJT" josa="에서">아테네</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.918">city</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>개최된</gsdp_lemma>
+		<head>종목이다.</head>
+		<cluster>40</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3666" total_morp="23" total_word="10">
+		<sent>1908년 하계 올림픽 다이빙은 영국 런던에서 개최된 1908년_하계_올림픽의 경기 종목이다.</sent>
+		<sbj type="DT_YEAR" weight="2.51" label="NP_MOD" josa="의">1908년_하계_올림픽</sbj>
+		<obj type="LCP_CAPITALCITY" weight="1.03" label="NP_AJT" josa="에서">런던</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.870">city</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>개최된</gsdp_lemma>
+		<head>종목이다.</head>
+		<cluster>40</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1103" total_morp="23" total_word="10">
+		<sent>1906년 하계 올림픽 조정은 그리스 아테네에서 개최된 1906년_중간_올림픽의 경기 종목이다.</sent>
+		<sbj type="DT_YEAR" weight="2.51" label="NP_MOD" josa="의">1906년_중간_올림픽</sbj>
+		<obj type="LCP_CAPITALCITY" weight="1.03" label="NP_AJT" josa="에서">아테네</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.973">city</mln_predict>
+		<cnn_predict conf="0.902">city</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>개최된</gsdp_lemma>
+		<head>종목이다.</head>
+		<cluster>40</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2425" total_morp="23" total_word="10">
+		<sent>1904년 하계 올림픽 수영은 미국 세인트루이스에서 개최된 1904년_하계_올림픽의 경기 종목이다.</sent>
+		<sbj type="DT_YEAR" weight="2.51" label="NP_MOD" josa="의">1904년_하계_올림픽</sbj>
+		<obj type="LCP_CITY" weight="1.01" label="NP_AJT" josa="에서">세인트루이스</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.790">city</mln_predict>
+		<cnn_predict conf="0.844">city</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>개최된</gsdp_lemma>
+		<head>종목이다.</head>
+		<cluster>40</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3103" total_morp="23" total_word="10">
+		<sent>1904년 하계 올림픽 육상은 미국 세인트루이스에서 개최된 1904년_하계_올림픽의 경기 종목이다.</sent>
+		<sbj type="DT_YEAR" weight="2.51" label="NP_MOD" josa="의">1904년_하계_올림픽</sbj>
+		<obj type="LCP_CITY" weight="1.01" label="NP_AJT" josa="에서">세인트루이스</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.774">city</mln_predict>
+		<cnn_predict conf="0.846">city</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>개최된</gsdp_lemma>
+		<head>종목이다.</head>
+		<cluster>40</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3741" total_morp="23" total_word="10">
+		<sent>2014년 동계 올림픽 피겨스케이팅은 러시아 소치에서 개최된 2014년_동계_올림픽의 경기 종목이다.</sent>
+		<sbj type="DT_YEAR" weight="2.51" label="NP_MOD" josa="의">2014년_동계_올림픽</sbj>
+		<obj type="LCP_CITY" weight="1.01" label="NP_AJT" josa="에서">소치</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.827">location</mln_predict>
+		<cnn_predict conf="0.933">city</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>개최된</gsdp_lemma>
+		<head>종목이다.</head>
+		<cluster>40</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2026" total_morp="23" total_word="10">
+		<sent>1906년 하계 올림픽 레슬링은 그리스 아테네에서 개최된 1906년_중간_올림픽의 경기 종목이다.</sent>
+		<sbj type="DT_YEAR" weight="2.51" label="NP_MOD" josa="의">1906년_중간_올림픽</sbj>
+		<obj type="LCP_CAPITALCITY" weight="1.03" label="NP_AJT" josa="에서">아테네</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.905">city</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>개최된</gsdp_lemma>
+		<head>종목이다.</head>
+		<cluster>40</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1539" total_morp="22" total_word="10">
+		<sent>1920년 하계 올림픽 양궁은 벨기에 안트베르펜에서 개최된 1920년_하계_올림픽의 경기 종목이다.</sent>
+		<sbj type="DT_YEAR" weight="2.51" label="NP_MOD" josa="의">1920년_하계_올림픽</sbj>
+		<obj type="LCP_CITY" weight="1.01" label="NP_AJT" josa="에서">안트베르펜</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.838">city</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>개최된</gsdp_lemma>
+		<head>종목이다.</head>
+		<cluster>40</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1843" total_morp="23" total_word="10">
+		<sent>1906년 하계 올림픽 체조는 그리스 아테네에서 개최된 1906년_중간_올림픽의 경기 종목이다.</sent>
+		<sbj type="DT_YEAR" weight="2.51" label="NP_MOD" josa="의">1906년_중간_올림픽</sbj>
+		<obj type="LCP_CAPITALCITY" weight="1.03" label="NP_AJT" josa="에서">아테네</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.937">city</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>개최된</gsdp_lemma>
+		<head>종목이다.</head>
+		<cluster>40</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3198" total_morp="49" total_word="17">
+		<sent>《K팝스타 5》는 K팝스타 4 후속편으로, SBS_TV에서 방영된 일요일이_좋다의 한 코너로 2015년 11월 22일부터 2016년 4월 10일까지 방송되었다.</sent>
+		<sbj type="DT_OTHERS" weight="1.50" label="NP_MOD" josa="의">일요일이_좋다</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP_AJT" josa="에서">SBS_TV</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.934">channel</mln_predict>
+		<cnn_predict conf="0.978">channel</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>방영된</gsdp_lemma>
+		<head>방송되었다.</head>
+		<cluster>32</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

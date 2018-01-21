@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_AJT--up--VP--down--NP_AJT--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2656" total_morp="46" total_word="16">
+		<sent>2014년 2월 13일, 수지는 SBS 드라마 《별에서_온_그대》 17회에 《드림하이》에서 공연한 김수현_(1988년)과의 인연으로 대학생 고혜미 역으로 특별출연했다.</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.41" label="NP" josa="에서">별에서_온_그대</sbj>
+		<obj type="PS_NAME" weight="1.43" label="NP_MOD" josa="의">김수현_(1988년)</obj>
+		<gold>starring</gold>
+		<mln_predict conf="1.000">starring</mln_predict>
+		<cnn_predict conf="0.866">starring</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>17회에--특별출연했다.--인연으로</gsdp_lemma>
+		<head>특별출연했다.</head>
+		<cluster>6</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

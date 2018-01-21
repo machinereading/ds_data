@@ -1,0 +1,498 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--NP--down--NP--down--(NP)</dependency>
+	<total>38</total>
+	<sent_item id="M_T67" total_morp="33" total_word="14">
+		<sent>도호쿠후쿠시다이마에 역은 일본 미야기 현 센다이 시 아오바_구_(센다이_시)에 위치한 동일본 여객철도 센잔 선의 철도역이다.</sent>
+		<sbj type="LCP_COUNTY" weight="-0.10" label="NP_AJT" josa="에">아오바_구_(센다이_시)</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">일본</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.922">location</mln_predict>
+		<cnn_predict conf="0.385">routeStart</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>시--미야기</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T78" total_morp="20" total_word="10">
+		<sent>나벨리는 이탈리아 아브루초 주 라퀼라_현에 있는 코무네이며 사프란 생산으로 유명하다.</sent>
+		<sbj type="LCP_PROVINCE" weight="0.19" label="NP_AJT" josa="에">라퀼라_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">이탈리아</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.614">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--아브루초</gsdp_lemma>
+		<head>유명하다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T4099" total_morp="37" total_word="15">
+		<sent>팬들 사이에서는 그를 오스트레일리아 출신 패널 다니엘_스눅스와 구별하기 위해 '독다' 또는 '독다니엘'이라는 표현을 쓰기도 했다.</sent>
+		<sbj type="PS_NAME" weight="0.40" label="NP_AJT" josa="와">다니엘_스눅스</sbj>
+		<obj type="LCP_COUNTRY" weight="0.58" label="NP" josa="">오스트레일리아</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.727">birthPlace</mln_predict>
+		<cnn_predict conf="0.395">birthPlace</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>패널--출신</gsdp_lemma>
+		<head>했다.</head>
+		<cluster>35</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T829" total_morp="20" total_word="11">
+		<sent>바콜로드는 필리핀 중부 비사야 제도 네그로스_섬에 위치한 도시로, 서네그로스 주의 주도이다.</sent>
+		<sbj type="LCG_ISLAND" weight="1.18" label="NP_AJT" josa="에">네그로스_섬</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">필리핀</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.870">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>제도--중부</gsdp_lemma>
+		<head>주도이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T412" total_morp="14" total_word="8">
+		<sent>미야코 시는 일본 도호쿠 지방 이와테_현에 있는 시이다.</sent>
+		<sbj type="LCP_PROVINCE" weight="0.19" label="NP_AJT" josa="에">이와테_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">일본</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.646">country</mln_predict>
+		<cnn_predict conf="0.701">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>지방--도호쿠</gsdp_lemma>
+		<head>시이다.</head>
+		<cluster>14</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2252" total_morp="27" total_word="10">
+		<sent>유림 양복은 충청남도 천안시 동남구 독립기념관_(대한민국)에 있는, 독립운동가 유림의 양복이다.</sent>
+		<sbj type="OGG_ART" weight="1.63" label="NP_AJT" josa="에">독립기념관_(대한민국)</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="">충청남도</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.457">location</mln_predict>
+		<cnn_predict conf="0.404">locatedInArea</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>동남구--천안시</gsdp_lemma>
+		<head>양복이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T607" total_morp="16" total_word="7">
+		<sent>부온콘벤토는 이탈리아 토스카나 주 시에나_현에 있는 코무네다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에">시에나_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">이탈리아</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.812">country</mln_predict>
+		<cnn_predict conf="0.771">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--토스카나</gsdp_lemma>
+		<head>코무네다.</head>
+		<cluster>14</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T423" total_morp="15" total_word="7">
+		<sent>산토메로는 이탈리아 아브루초 주 테라모_현에 위치한 코무네다.</sent>
+		<sbj type="LCP_PROVINCE" weight="0.19" label="NP_AJT" josa="에">테라모_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">이탈리아</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.768">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--아브루초</gsdp_lemma>
+		<head>코무네다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T532" total_morp="13" total_word="7">
+		<sent>아리엘리는 이탈리아 아브루초 주 키에티_현에 있는 코무네이다.</sent>
+		<sbj type="LCP_PROVINCE" weight="0.19" label="NP_AJT" josa="에">키에티_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">이탈리아</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.774">country</mln_predict>
+		<cnn_predict conf="0.729">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--아브루초</gsdp_lemma>
+		<head>코무네이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T92" total_morp="15" total_word="7">
+		<sent>아나니는 이탈리아 라치오 주 프로시노네_현에 위치한 코무네다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_AJT" josa="에">프로시노네_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">이탈리아</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.798">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--라치오</gsdp_lemma>
+		<head>코무네다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2321" total_morp="24" total_word="13">
+		<sent>도요우라 역은 일본 홋카이도 아부타 군 도요우라_정에 위치한 홋카이도 여객철도 무로란 본선의 철도역이다.</sent>
+		<sbj type="LC_TOUR" weight="-0.31" label="NP_AJT" josa="에">도요우라_정</sbj>
+		<obj type="LCP_PROVINCE" weight="1.73" label="NP" josa="">홋카이도</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.942">owner</mln_predict>
+		<cnn_predict conf="0.447">routeStart</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>군--아부타</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T61" total_morp="14" total_word="7">
+		<sent>카스텔라바테는 이탈리아 캄파니아 주 살레르노_현에 위치한 코무네다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_AJT" josa="에">살레르노_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">이탈리아</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.863">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--캄파니아</gsdp_lemma>
+		<head>코무네다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T162" total_morp="14" total_word="7">
+		<sent>콜레피에트로는 이탈리아 아브루초 주 라퀼라_현에 있는 코무네이다.</sent>
+		<sbj type="LCP_PROVINCE" weight="0.19" label="NP_AJT" josa="에">라퀼라_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">이탈리아</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.991">country</mln_predict>
+		<cnn_predict conf="0.704">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--아브루초</gsdp_lemma>
+		<head>코무네이다.</head>
+		<cluster>11</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1009" total_morp="15" total_word="7">
+		<sent>산텔리아피우메라피는 이탈리아 라치오 주 프로시노네_현에 위치한 코무네다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_AJT" josa="에">프로시노네_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">이탈리아</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.803">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--라치오</gsdp_lemma>
+		<head>코무네다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T533" total_morp="16" total_word="8">
+		<sent>콘치 공화국은 미국 플로리다 주 키웨스트에 위치한 마이크로네이션이다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_AJT" josa="에">키웨스트</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">미국</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.746">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--플로리다</gsdp_lemma>
+		<head>마이크로네이션이다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T637" total_morp="13" total_word="7">
+		<sent>갈리카노는 이탈리아 토스카나 주 루카_현에 있는 코무네이다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_AJT" josa="에">루카_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">이탈리아</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.829">country</mln_predict>
+		<cnn_predict conf="0.733">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--토스카나</gsdp_lemma>
+		<head>코무네이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3873" total_morp="17" total_word="8">
+		<sent>이안숲속는 대한민국 충청남도 공주시 계룡산줄기에 있는 자연 테마파크이다.</sent>
+		<sbj type="LCG_MOUNTAIN" weight="3.18" label="NP_AJT" josa="에">계룡산</sbj>
+		<obj type="LCP_COUNTRY" weight="-0.62" label="NP" josa="">대한민국</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.987">locatedInArea</mln_predict>
+		<cnn_predict conf="0.892">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>공주시--충청남도</gsdp_lemma>
+		<head>테마파크이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T804" total_morp="25" total_word="13">
+		<sent>도쿠미쓰 역은 일본 홋카이도 데시오 군 도요토미_정에 위치한 홋카이도 여객철도 소야 본선의 철도역이다.</sent>
+		<sbj type="PS_NAME" weight="-0.72" label="NP_AJT" josa="에">도요토미_정</sbj>
+		<obj type="LCP_PROVINCE" weight="1.73" label="NP" josa="">홋카이도</obj>
+		<gold>region</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.505">routeStart</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>군--데시오</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T459" total_morp="38" total_word="16">
+		<sent>산타바르바라는 칠레 비오비오 주 비오비오_현에 위치한 도시로 면적은 1,254.9㎢, 높이는 222m, 인구는 13,405명, 인구 밀도는 11명/㎢이다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_AJT" josa="에">비오비오_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">칠레</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.878">country</mln_predict>
+		<cnn_predict conf="0.585">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--비오비오</gsdp_lemma>
+		<head>11명/㎢이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1040" total_morp="14" total_word="7">
+		<sent>부치노는 이탈리아 캄파니아 주 살레르노_현에 위치한 코무네다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_AJT" josa="에">살레르노_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">이탈리아</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.863">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--캄파니아</gsdp_lemma>
+		<head>코무네다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T723" total_morp="29" total_word="13">
+		<sent>코이푸이는 칠레 아라우카니아 주 마예코_현에 위치한 도시로 면적은 1,295.9㎢, 높이는 243m, 인구는 23,321명이다.</sent>
+		<sbj type="LCP_PROVINCE" weight="0.19" label="NP_AJT" josa="에">마예코_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">칠레</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.981">country</mln_predict>
+		<cnn_predict conf="0.760">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--아라우카니아</gsdp_lemma>
+		<head>23,321명이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T728" total_morp="16" total_word="7">
+		<sent>아빌리아노움브로는 이탈리아 움브리아 주 테르니_현에 위치한 코무네다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_AJT" josa="에">테르니_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">이탈리아</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.772">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--움브리아</gsdp_lemma>
+		<head>코무네다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T369" total_morp="14" total_word="7">
+		<sent>안카라노는 이탈리아 아브루초 주 테라모_현에 위치한 코무네다.</sent>
+		<sbj type="LCP_PROVINCE" weight="0.19" label="NP_AJT" josa="에">테라모_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">이탈리아</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.768">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--아브루초</gsdp_lemma>
+		<head>코무네다.</head>
+		<cluster>11</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T185" total_morp="14" total_word="7">
+		<sent>첼리노아타나시오는 이탈리아 아브루초 주 테라모_현에 위치한 코무네다.</sent>
+		<sbj type="LCP_PROVINCE" weight="0.19" label="NP_AJT" josa="에">테라모_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">이탈리아</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.767">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--아브루초</gsdp_lemma>
+		<head>코무네다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T590" total_morp="13" total_word="7">
+		<sent>미냐노몬테룬고는 이탈리아 캄파니아 주 카세르타_현에 있는 코무네이다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_AJT" josa="에">카세르타_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">이탈리아</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.762">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--캄파니아</gsdp_lemma>
+		<head>코무네이다.</head>
+		<cluster>14</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T731" total_morp="14" total_word="7">
+		<sent>코리는 이탈리아 라치오 주 라티나_현에 위치한 코무네다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_AJT" josa="에">라티나_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">이탈리아</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.751">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--라치오</gsdp_lemma>
+		<head>코무네다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T806" total_morp="14" total_word="7">
+		<sent>로카세카데이볼시는 이탈리아 라치오 주 라티나_현에 위치한 코무네다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_AJT" josa="에">라티나_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">이탈리아</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.771">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--라치오</gsdp_lemma>
+		<head>코무네다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T119" total_morp="31" total_word="13">
+		<sent>토메는 칠레 비오비오 주 콘셉시온_현에 위치한 도시로 면적은 494.5㎢, 높이는 12m, 인구는 53,219명이다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_AJT" josa="에">콘셉시온_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">칠레</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.992">country</mln_predict>
+		<cnn_predict conf="0.709">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--비오비오</gsdp_lemma>
+		<head>53,219명이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T957" total_morp="25" total_word="12">
+		<sent>커클리즈 스타디움은 잉글랜드 웨스트요크셔 주 허더즈필드에 위치한 다목적 경기장으로, 수용 인원은 24,500명이다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_AJT" josa="에">허더즈필드</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">잉글랜드</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.722">country</mln_predict>
+		<cnn_predict conf="0.583">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--웨스트요크셔</gsdp_lemma>
+		<head>24,500명이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T663" total_morp="15" total_word="7">
+		<sent>올리베토치트라는 이탈리아 캄파니아 주 살레르노_현에 있는 코무네이다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_AJT" josa="에">살레르노_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">이탈리아</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.837">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--캄파니아</gsdp_lemma>
+		<head>코무네이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1878" total_morp="36" total_word="16">
+		<sent>국도 제26호선은 전라북도 군산시 옥서면 군산공항에서 전주시, 거창군을 지나 대구광역시 서구 두류네거리를 연결하는 대한민국의 일반 국도이다.</sent>
+		<sbj type="LC_OTHERS" weight="1.96" label="NP_AJT" josa="에서">군산공항</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="">전라북도</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.536">location</mln_predict>
+		<cnn_predict conf="0.410">locatedInArea</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>옥서면--군산시</gsdp_lemma>
+		<head>국도이다.</head>
+		<cluster>1</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3578" total_morp="20" total_word="9">
+		<sent>왼발의 수비수로, 현재 에레디비시 축구 클럽 FC_흐로닝언에서 활약하고 있다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_AJT" josa="에서">FC_흐로닝언</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP" josa="">에레디비시</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.535">league</mln_predict>
+		<cnn_predict conf="0.874">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>클럽--축구</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T135" total_morp="32" total_word="19">
+		<sent>딥워터 허라이즌 폭발 사고는 2010년 4월 20일 미국 루이지애나 주 멕시코_만에 있는 딥워터 허라이즌의 석유 시추 시설이 폭발한 사고이다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_AJT" josa="에">멕시코_만</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">미국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.999">country</mln_predict>
+		<cnn_predict conf="0.531">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--루이지애나</gsdp_lemma>
+		<head>사고이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T4" total_morp="15" total_word="7">
+		<sent>카사마르차노는 이탈리아 캄파니아 주 나폴리_현에 위치한 코무네다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_AJT" josa="에">나폴리_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">이탈리아</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.934">country</mln_predict>
+		<cnn_predict conf="0.856">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--캄파니아</gsdp_lemma>
+		<head>코무네다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1732" total_morp="24" total_word="13">
+		<sent>야스우시 역은 일본 홋카이도 데시오 군 호로노베_정에 위치한 홋카이도 여객철도 소야 본선의 철도역이다.</sent>
+		<sbj type="LC_TOUR" weight="-0.31" label="NP_AJT" josa="에">호로노베_정</sbj>
+		<obj type="LCP_PROVINCE" weight="1.73" label="NP" josa="">홋카이도</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.973">owner</mln_predict>
+		<cnn_predict conf="0.516">routeStart</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>군--데시오</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T584" total_morp="15" total_word="7">
+		<sent>포피는 이탈리아 라치오 주 프로시노네_현에 위치한 코무네이다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_AJT" josa="에">프로시노네_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">이탈리아</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.763">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--라치오</gsdp_lemma>
+		<head>코무네이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T82" total_morp="23" total_word="12">
+		<sent>나가야마 역은 일본 아이치 현 도요카와_시에 위치한 도카이 여객철도 이다 선의 철도역이다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_AJT" josa="에">도요카와_시</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">일본</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.366">routeEnd</mln_predict>
+		<cnn_predict conf="0.397">routeStart</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>현--아이치</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T811" total_morp="13" total_word="7">
+		<sent>로카몬피나는 이탈리아 캄파니아 주 카세르타_현에 있는 코무네이다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_AJT" josa="에">카세르타_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">이탈리아</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.761">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--캄파니아</gsdp_lemma>
+		<head>코무네이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

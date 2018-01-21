@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP--down--NP_SBJ--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T101" total_morp="26" total_word="13">
+		<sent>1975년 4월 17일 크메르 루즈로 널리 알려진 캄보디아 공산당이 캄보디아의 수도 프놈펜을 점령하였다.</sent>
+		<sbj type="LCP_CAPITALCITY" weight="1.86" label="NP_OBJ" josa="을">프놈펜</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">캄보디아</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.769">country</mln_predict>
+		<cnn_predict conf="0.677">country</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--NP_SBJ--down--(NP)</gsdp>
+		<gsdp_lemma>점령하였다.--공산당이</gsdp_lemma>
+		<head>점령하였다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--down--NP_MOD--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2475" total_morp="40" total_word="17">
+		<sent>이 비행기는코트디부아르 아비장의 포르부에 국제공항을 이륙, 나이지리아 라고스의 무르탈라_모하메드_국제공항을 경유해서 케냐 나이로비 조모 케냐타 국제공항으로 가던 비행기였다.</sent>
+		<sbj type="LC_OTHERS" weight="1.96" label="NP_OBJ" josa="을">무르탈라_모하메드_국제공항</sbj>
+		<obj type="LCP_COUNTRY" weight="-0.30" label="NP" josa="">나이지리아</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.682">location</mln_predict>
+		<cnn_predict conf="0.352">country</cnn_predict>
+		<gsdp>(NP_OBJ)--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma>라고스의</gsdp_lemma>
+		<head>비행기였다.</head>
+		<cluster>7</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

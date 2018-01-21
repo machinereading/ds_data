@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP_AJT--up--VP--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_T812" total_morp="33" total_word="14">
+		<sent>밀로시 요이치는 세르비아의 축구 선수로, 푸스발-분데스리가 클럽 1._FC_쾰른와 세르비아 축구 국가대표팀에서 미드필더로 활약하고 있다.</sent>
+		<sbj type="" weight="0.00" label="NP_CNJ" josa="와">1._FC_쾰른</sbj>
+		<obj type="PS_NAME" weight="-0.83" label="NP_SBJ" josa="가">푸스발-분데스리가</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.963">league</mln_predict>
+		<cnn_predict conf="0.820">league</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma>국가대표팀에서--활약하고</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>41</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

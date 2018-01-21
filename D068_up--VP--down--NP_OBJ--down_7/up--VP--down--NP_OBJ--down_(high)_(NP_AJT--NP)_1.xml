@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--NP_OBJ--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1291" total_morp="53" total_word="21">
+		<sent>2000년에 복귀했지만, 2002년 8월 14일 경기를 끝으로 주전 1루수 자리를 한동안 동갑내기 1루수 최동수_(야구_선수)에게 내주고 입대하여 2004년 공익근무요원으로 군 복무를 마쳤다.</sent>
+		<sbj type="PS_NAME" weight="0.20" label="NP_AJT" josa="에게">최동수_(야구_선수)</sbj>
+		<obj type="CV_POSITION" weight="3.17" label="NP" josa="">1루수</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.961">position</mln_predict>
+		<cnn_predict conf="0.560">position</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_OBJ--down--(NP)</gsdp>
+		<gsdp_lemma>내주고--자리를</gsdp_lemma>
+		<head>마쳤다.</head>
+		<cluster>9</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

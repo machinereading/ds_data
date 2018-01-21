@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(VP_MOD)--up--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1199" total_morp="22" total_word="8">
+		<sent>작가 톰 휘던의 아들이며, 조스_휘던, 제드_휘던 등의 동생이다.</sent>
+		<sbj type="" weight="0.00" label="VP_MOD" josa="">조스_휘던</sbj>
+		<obj type="" weight="0.00" label="NP" josa="">제드_휘던</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.558">relative</mln_predict>
+		<cnn_predict conf="0.308">relative</cnn_predict>
+		<gsdp>(VP_MOD)--up--(NP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>동생이다.</head>
+		<cluster>30</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

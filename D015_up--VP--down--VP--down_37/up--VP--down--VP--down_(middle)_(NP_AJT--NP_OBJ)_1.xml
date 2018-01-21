@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--VP--down--(NP_OBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1015" total_morp="53" total_word="23">
+		<sent>아민은 우선 리비아로 도망치고 나중엔 이라크로 향했다가 결국에는 사우디아라비아를 마지막 망명지로 택하였는데 사우디아라비아 정부는 정치에 관여하지 않는다는 조건으로 지다에 그가 살 빌라를 내어주었다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에">지다</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_OBJ" josa="를">사우디아라비아</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.959">country</mln_predict>
+		<cnn_predict conf="0.294">country</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--VP--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma>내어주었다.--택하였는데</gsdp_lemma>
+		<head>내어주었다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,121 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--(NP_AJT)</dependency>
+	<total>9</total>
+	<sent_item id="M_T704" total_morp="30" total_word="12">
+		<sent>대한민국에서는 북한판 정명훈으로 알려져 있고 또한 관현악으로 편곡한 아리랑환상곡의 연주자로 알려져 있다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_AJT" josa="으로">정명훈</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_AJT" josa="는">대한민국</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.731">country</mln_predict>
+		<cnn_predict conf="0.383">birthPlace</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>알려져</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>47</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3780" total_morp="28" total_word="12">
+		<sent>아를린드 아프림 아예티는 세리에_A에 소속 구단인 토리노_FC에서 활약하고 있는 알바니아의 축구 선수이다.</sent>
+		<sbj type="OGG_ECONOMY" weight="0.36" label="NP_AJT" josa="에서">토리노_FC</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_AJT" josa="에">세리에_A</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.402">league</mln_predict>
+		<cnn_predict conf="0.885">league</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>활약하고</gsdp_lemma>
+		<head>선수이다.</head>
+		<cluster>25</cluster>
+		<comment>'소속 구단인'이 토리노_FC의 Modifier가 clue.</comment>
+	</sent_item>
+	<sent_item id="M_T976" total_morp="18" total_word="8">
+		<sent>일본에서는 따뜻한 오키나와 현 , 가고시마_현등에서 이기작이 가능하다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에서">가고시마_현</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_AJT" josa="는">일본</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.106">owningOrganisation</mln_predict>
+		<cnn_predict conf="0.519">region</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>가능하다.</gsdp_lemma>
+		<head>가능하다.</head>
+		<cluster>27</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3068" total_morp="30" total_word="12">
+		<sent>이후 오스만 제국의 몰락에 접어든 오스만 제국은 제1차_세계_대전에서 동맹국편으로 참전하여 결국 패배하였다.</sent>
+		<sbj type="EV_OTHERS" weight="1.24" label="NP_AJT" josa="에서">제1차_세계_대전</sbj>
+		<obj type="" weight="0.00" label="NP_AJT" josa="으로">동맹국</obj>
+		<gold>commander</gold>
+		<mln_predict conf="1.000">commander</mln_predict>
+		<cnn_predict conf="0.624">commander</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>참전하여</gsdp_lemma>
+		<head>패배하였다.</head>
+		<cluster>34</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1013" total_morp="50" total_word="21">
+		<sent>그러나 1878년 베를린 회의의 결과 영국에게 조차되었고, 제1차_세계_대전에 오스만 제국이 동맹국으로 참전하자 적국이었던 영국은 1914년 11월 5일 키프로스의 완전 합병을 선언한다.</sent>
+		<sbj type="QT_ORDER" weight="2.07" label="NP_AJT" josa="에">제1차_세계_대전</sbj>
+		<obj type="" weight="0.00" label="NP_AJT" josa="으로">동맹국</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.924">commander</mln_predict>
+		<cnn_predict conf="0.788">commander</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>참전하자</gsdp_lemma>
+		<head>선언한다.</head>
+		<cluster>17</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1397" total_morp="21" total_word="8">
+		<sent>2016년, KBS 2TV 드라마 《태양의_후예》에서 송중기와 호흡을 맞추었다.</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.41" label="NP_AJT" josa="에서">태양의_후예</sbj>
+		<obj type="PS_NAME" weight="1.43" label="NP_AJT" josa="와">송중기</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.998">starring</mln_predict>
+		<cnn_predict conf="0.943">starring</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>맞추었다.</gsdp_lemma>
+		<head>맞추었다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1708" total_morp="46" total_word="17">
+		<sent>이어 1976년 열차로 통학하는 청소년들의 사랑과 우정을 그린 《진짜_진짜_잊지마》에서, 청순한 여고생 주인공으로 이덕화와 열연해 함께 스타덤에 올랐다.</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.41" label="NP_AJT" josa="에서">진짜_진짜_잊지마</sbj>
+		<obj type="PS_NAME" weight="1.43" label="NP_AJT" josa="와">이덕화</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.631">starring</mln_predict>
+		<cnn_predict conf="0.748">starring</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>열연해</gsdp_lemma>
+		<head>올랐다.</head>
+		<cluster>36</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3544" total_morp="46" total_word="18">
+		<sent>이에 빌헬름 비트게프트 제독이 탈출을 시도해 블라디보스토크로 가려했으나 8월 10일 황해_해전_(1904년)에서 일본의 도고_헤이하치로 제독에게 모두 격침당하고 전사하게 된다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에서">황해_해전_(1904년)</sbj>
+		<obj type="PS_NAME" weight="0.88" label="NP_AJT" josa="로">도고_헤이하치로</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.238">artist</mln_predict>
+		<cnn_predict conf="0.690">commander</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>격침당하고</gsdp_lemma>
+		<head>된다.</head>
+		<cluster>22</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3456" total_morp="39" total_word="15">
+		<sent>적벽대전에 주유의 호위무장으로 참전하고 합비_전투에서 장료에게 계략을 간파당하여 중상을 입고 이로 인해 죽는 것으로 처리하였다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에서">합비_전투</sbj>
+		<obj type="PS_NAME" weight="0.88" label="NP_AJT" josa="에게">장료</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.294">commander</mln_predict>
+		<cnn_predict conf="0.962">commander</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>간파당하여</gsdp_lemma>
+		<head>처리하였다.</head>
+		<cluster>22</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

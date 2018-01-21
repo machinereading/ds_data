@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP_MOD--up--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_T1382" total_morp="18" total_word="5">
+		<sent>물땡땡이아과는 물땡땡이과에 속하는 딱정벌레목 분류군이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">물땡땡이과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP" josa="">딱정벌레목</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.555">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>분류군이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3489" total_morp="12" total_word="5">
+		<sent>오색나무쥐는 가시쥐과에 속하는 남아메리카 설치류다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">가시쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP" josa="">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.983">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>설치류다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

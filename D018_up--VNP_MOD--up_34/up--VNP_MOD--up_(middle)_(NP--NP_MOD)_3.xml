@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP)--up--VNP_MOD--up--(NP_MOD)</dependency>
+	<total>3</total>
+	<sent_item id="M_T2936" total_morp="56" total_word="23">
+		<sent>뉘른베르크 재판에서는 범죄 사실에 대한 명백한 증거와 아우슈비츠_강제_수용소 소장이었던 루돌프_회스의 증언에도 불구하고 자신의 혐의를 부인했으며, 심지어 진술서 등 관련 서류에 서명조차 하기를 거부했다.</sent>
+		<sbj type="CV_POSITION" weight="0.24" label="NP" josa="">아우슈비츠_강제_수용소</sbj>
+		<obj type="PS_NAME" weight="0.88" label="NP_MOD" josa="의">루돌프_회스</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.180">operator</mln_predict>
+		<cnn_predict conf="0.450">commander</cnn_predict>
+		<gsdp>(NP)--up--VNP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>소장이었던</gsdp_lemma>
+		<head>거부했다.</head>
+		<cluster>22</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3588" total_morp="30" total_word="11">
+		<sent>마쓰다이라/도쿠가와 노부야스는 센고쿠 시대부터 아즈치모모야마 시대까지의 무장으로, 에도_막부초대 쇼군인 도쿠가와_이에야스의 적장자이다.</sent>
+		<sbj type="OGG_POLITICS" weight="1.85" label="NP" josa="">에도_막부</sbj>
+		<obj type="PS_NAME" weight="1.09" label="NP_MOD" josa="의">도쿠가와_이에야스</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.976">leaderName</mln_predict>
+		<cnn_predict conf="0.474">commander</cnn_predict>
+		<gsdp>(NP)--up--VNP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>쇼군인</gsdp_lemma>
+		<head>적장자이다.</head>
+		<cluster>49</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1003" total_morp="29" total_word="12">
+		<sent>그런데 이 곡은 Double K와 같은 무브먼트_(힙합_크루) 소속인 Epik_High의 Tablo를 디스하는 곡이었다.</sent>
+		<sbj type="" weight="0.00" label="NP" josa="">무브먼트_(힙합_크루)</sbj>
+		<obj type="PS_NAME" weight="1.22" label="NP_MOD" josa="의">Epik_High</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.140">starring</mln_predict>
+		<cnn_predict conf="0.623">currentMember</cnn_predict>
+		<gsdp>(NP)--up--VNP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>소속인</gsdp_lemma>
+		<head>곡이었다.</head>
+		<cluster>47</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

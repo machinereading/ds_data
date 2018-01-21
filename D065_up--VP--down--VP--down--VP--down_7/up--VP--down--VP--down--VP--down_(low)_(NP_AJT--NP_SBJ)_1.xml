@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--VP--down--VP--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1370" total_morp="40" total_word="18">
+		<sent>1978년, 보스턴_레드삭스는 마지막 8경기를 모두 승리로 장식하며 뉴욕 양키스와 포스트시즌 진출권을 놓고 홈구장인 펜웨이_파크에서 단판 승부를 벌이게 되었다.</sent>
+		<sbj type="OGG_ECONOMY" weight="0.45" label="NP_AJT" josa="에서">펜웨이_파크</sbj>
+		<obj type="OGG_SPORTS" weight="-0.01" label="NP_SBJ" josa="는">보스턴_레드삭스</obj>
+		<gold>owner</gold>
+		<mln_predict conf="0.785">location</mln_predict>
+		<cnn_predict conf="0.740">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--VP--down--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma>벌이게--놓고--장식하며</gsdp_lemma>
+		<head>되었다.</head>
+		<cluster>34</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

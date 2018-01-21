@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3642" total_morp="31" total_word="13">
+		<sent>그 중의 하나는 두타산 남쪽 댓재에서 발원한 번천이고, 다른 하나는 삼척시의 대덕산_(강원)과 중봉산이다.</sent>
+		<sbj type="LC_OTHERS" weight="-0.16" label="NP_CNJ" josa="과">대덕산_(강원)</sbj>
+		<obj type="LCP_CITY" weight="0.01" label="NP_MOD" josa="의">삼척시</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.440">location</mln_predict>
+		<cnn_predict conf="0.450">locatedInArea</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>중봉산이다.</head>
+		<cluster>15</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

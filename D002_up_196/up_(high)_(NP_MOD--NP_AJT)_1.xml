@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3429" total_morp="28" total_word="12">
+		<sent>비구름은 미국 중북부 지역까지 확대되어 미네소타_주의 최대도시인 미니애폴리스에 50 mm의 비가 내렸다.</sent>
+		<sbj type="LCP_PROVINCE" weight="2.05" label="NP_MOD" josa="의">미네소타_주</sbj>
+		<obj type="LCP_CITY" weight="1.41" label="NP_AJT" josa="에">미니애폴리스</obj>
+		<gold>largestCity</gold>
+		<mln_predict conf="1.000">largestCity</mln_predict>
+		<cnn_predict conf="0.317">region</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_AJT)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>내렸다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

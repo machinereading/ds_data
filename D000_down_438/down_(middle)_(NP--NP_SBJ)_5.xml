@@ -1,0 +1,69 @@
+<sentence_list>
+	<dependency>(NP)--down--(NP_SBJ)</dependency>
+	<total>5</total>
+	<sent_item id="M_T1137" total_morp="9" total_word="5">
+		<sent>츠지모토 마사키 - 후지이_류세이 (자니스WEST)</sent>
+		<sbj type="PS_NAME" weight="0.68" label="NP" josa="">자니스WEST</sbj>
+		<obj type="PS_NAME" weight="1.22" label="NP_SBJ" josa="이">후지이_류세이</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.133">nationality</mln_predict>
+		<cnn_predict conf="0.749">currentMember</cnn_predict>
+		<gsdp>(NP)--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>(자니스WEST)</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3106" total_morp="10" total_word="5">
+		<sent>5월 26일 - 슈퍼플라이 《Superfly》</sent>
+		<sbj type="AFW_MUSIC" weight="1.73" label="NP" josa="">Superfly</sbj>
+		<obj type="PS_NAME" weight="0.89" label="NP_SBJ" josa="이">슈퍼플라이</obj>
+		<gold>artist</gold>
+		<mln_predict conf="0.910">artist</mln_predict>
+		<cnn_predict conf="0.620">channel</cnn_predict>
+		<gsdp>(NP)--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>《Superfly》</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T996" total_morp="26" total_word="9">
+		<sent>그러나 비엣민은 새로운 정부로 인정받지 못하고 바오_다이 황제가 추대되었다(베트남_제국). 1950년에 바오 다이 황제는 사이공을 수도로 삼았었다.</sent>
+		<sbj type="LCP_COUNTRY" weight="2.15" label="NP" josa="">베트남_제국</sbj>
+		<obj type="" weight="0.00" label="NP_SBJ" josa="이">바오_다이</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.389">leaderName</mln_predict>
+		<cnn_predict conf="0.535">commander</cnn_predict>
+		<gsdp>(NP)--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>추대되었다(베트남_제국).</head>
+		<cluster>49</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3663" total_morp="8" total_word="4">
+		<sent>타나카 - 마루야마_류헤이 (칸쟈니∞)</sent>
+		<sbj type="PS_NAME" weight="0.68" label="NP" josa="">칸쟈니∞</sbj>
+		<obj type="PS_NAME" weight="1.22" label="NP_SBJ" josa="이">마루야마_류헤이</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.507">currentMember</mln_predict>
+		<cnn_predict conf="0.889">currentMember</cnn_predict>
+		<gsdp>(NP)--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>(칸쟈니∞)</head>
+		<cluster>19</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3290" total_morp="14" total_word="5">
+		<sent>쿠사카 케이치로 - 이노오_케이 (헤이!_세이!_점프)</sent>
+		<sbj type="PS_NAME" weight="0.68" label="NP" josa="">헤이!_세이!_점프</sbj>
+		<obj type="PS_NAME" weight="1.22" label="NP_SBJ" josa="이">이노오_케이</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.454">currentMember</mln_predict>
+		<cnn_predict conf="0.933">currentMember</cnn_predict>
+		<gsdp>(NP)--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>(헤이!_세이!_점프)</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

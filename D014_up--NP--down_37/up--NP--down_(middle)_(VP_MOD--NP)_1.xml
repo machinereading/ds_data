@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(VP_MOD)--up--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T140" total_morp="38" total_word="16">
+		<sent>결국 김종부_(축구인) 선수의 포항_스틸러스 임대, 1988년 1월에 현대는 축구단 부활을 선언하면서 이와 같은 사태는 일단락 되었다.</sent>
+		<sbj type="PS_NAME" weight="0.73" label="VP_MOD" josa="">김종부_(축구인)</sbj>
+		<obj type="" weight="0.00" label="NP" josa="">포항_스틸러스</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.768">team</mln_predict>
+		<cnn_predict conf="0.363">team</cnn_predict>
+		<gsdp>(VP_MOD)--up--NP--down--(NP)</gsdp>
+		<gsdp_lemma>임대,</gsdp_lemma>
+		<head>되었다.</head>
+		<cluster>34</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

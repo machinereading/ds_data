@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--down--NP--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T487" total_morp="33" total_word="16">
+		<sent>법적 외숙부뻘: 쑹쯔원(宋子文, 1891년 12월 4일 ~ 1971년 4월 26일. 쑹칭링의 남동생. 前 중화민국 행정원 원장.)</sent>
+		<sbj type="PS_NAME" weight="0.60" label="NP" josa="">쑹쯔원</sbj>
+		<obj type="PS_NAME" weight="1.08" label="NP_MOD" josa="의">쑹칭링</obj>
+		<gold>relative</gold>
+		<mln_predict conf="1.000">birthPlace</mln_predict>
+		<cnn_predict conf="0.257">birthPlace</cnn_predict>
+		<gsdp>(NP)--up--NP--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>원장.)--남동생.</gsdp_lemma>
+		<head>원장.)</head>
+		<cluster>15</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

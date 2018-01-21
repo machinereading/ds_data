@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--AP--down--NP_AJT--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3467" total_morp="20" total_word="7">
+		<sent>이후 청산리_전투에서 김좌진의 북로군정서군과 함께 일본군을 대파하였다.</sent>
+		<sbj type="EV_SPORTS" weight="1.21" label="NP_AJT" josa="에서">청산리_전투</sbj>
+		<obj type="PS_NAME" weight="0.88" label="NP_MOD" josa="의">김좌진</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.410">commander</mln_predict>
+		<cnn_predict conf="0.866">commander</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--AP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>대파하였다.--함께--북로군정서군과</gsdp_lemma>
+		<head>대파하였다.</head>
+		<cluster>22</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VNP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2688" total_morp="21" total_word="9">
+		<sent>《아이언맨》은 마블 코믹스의 아이언맨을 주인공으로 한 미국 TV 애니메이션이다.</sent>
+		<sbj type="AFW_VIDEO" weight="-0.01" label="NP_SBJ" josa="은">아이언맨</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP" josa="">미국</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.535">nationality</mln_predict>
+		<cnn_predict conf="0.309">birthPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma>애니메이션이다.</gsdp_lemma>
+		<head>애니메이션이다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

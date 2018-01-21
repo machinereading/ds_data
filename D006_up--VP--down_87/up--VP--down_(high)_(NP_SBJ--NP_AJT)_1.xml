@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2730" total_morp="31" total_word="14">
+		<sent>이와 같은 구조의 역은 서울메트로 서울 지하철 3호선, 서울 지하철 4호선 환승역 충무로역이 있다.</sent>
+		<sbj type="LC_OTHERS" weight="1.82" label="NP_SBJ" josa="이">충무로역</sbj>
+		<obj type="OGG_ECONOMY" weight="1.66" label="NP_AJT" josa="로">서울메트로</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.471">routeEnd</mln_predict>
+		<cnn_predict conf="0.370">routeStart</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>있다.</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>38</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

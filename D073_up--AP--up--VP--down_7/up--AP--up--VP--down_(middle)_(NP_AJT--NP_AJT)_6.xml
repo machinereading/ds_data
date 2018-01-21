@@ -1,0 +1,82 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--AP--up--VP--down--(NP_AJT)</dependency>
+	<total>6</total>
+	<sent_item id="M_T1819" total_morp="50" total_word="25">
+		<sent>하지만 2008년 팀의 성적 부진으로 김학범 감독에서 신태용 감독 체제로 전환되면서 팀 개편의 일환으로 2009년 1월 이동국과 함께 전북_현대_모터스로 이적하였고, 팀의 새 주장직을 맡게 되었다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_AJT" josa="과">이동국</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_AJT" josa="로">전북_현대_모터스</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.921">club</mln_predict>
+		<cnn_predict conf="0.663">club</cnn_predict>
+		<gsdp>(NP_AJT)--up--AP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>함께--이적하였고,</gsdp_lemma>
+		<head>되었다.</head>
+		<cluster>41</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3141" total_morp="44" total_word="20">
+		<sent>2001년 크루스 아술에 입단한 후 1부 리그에서 활약하기 시작하였고 2006년 FIFA 월드컵에서의 활약을 바탕으로 대표팀 동료 파벨_파르도와 함께 VfB_슈투트가르트에 입단하였다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_AJT" josa="와">파벨_파르도</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_AJT" josa="에">VfB_슈투트가르트</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.532">club</mln_predict>
+		<cnn_predict conf="0.495">club</cnn_predict>
+		<gsdp>(NP_AJT)--up--AP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>함께--입단하였다.</gsdp_lemma>
+		<head>입단하였다.</head>
+		<cluster>30</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3879" total_morp="34" total_word="15">
+		<sent>2016 시즌을 앞두고 팀 동료 임종은과 함께 전북_현대_모터스로 전격 이적하였고, 22경기 출전하여 5골 3도움을 기록하였다.</sent>
+		<sbj type="PS_NAME" weight="0.73" label="NP_AJT" josa="과">임종은</sbj>
+		<obj type="OGG_SPORTS" weight="1.71" label="NP_AJT" josa="로">전북_현대_모터스</obj>
+		<gold>club</gold>
+		<mln_predict conf="1.000">club</mln_predict>
+		<cnn_predict conf="0.574">club</cnn_predict>
+		<gsdp>(NP_AJT)--up--AP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>함께--이적하였고,</gsdp_lemma>
+		<head>기록하였다.</head>
+		<cluster>41</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2797" total_morp="18" total_word="9">
+		<sent>2014 시즌을 앞두고 팀 동료 김인성과 함께 전북_현대_모터스로 이적하였다.</sent>
+		<sbj type="PS_NAME" weight="0.73" label="NP_AJT" josa="과">김인성</sbj>
+		<obj type="OGG_SPORTS" weight="1.71" label="NP_AJT" josa="로">전북_현대_모터스</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.827">club</mln_predict>
+		<cnn_predict conf="0.649">club</cnn_predict>
+		<gsdp>(NP_AJT)--up--AP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>함께--이적하였다.</gsdp_lemma>
+		<head>이적하였다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T384" total_morp="36" total_word="17">
+		<sent>FC_서울에 2000년 7월 히카르두_캄푸스_다_코스타와 같이 입단하여 K리그 2000 한 시즌 동안 시즌 통산 33경기 9득점-0도움의 기록을 남겼다.</sent>
+		<sbj type="OGG_SPORTS" weight="-0.56" label="NP_AJT" josa="와">히카르두_캄푸스_다_코스타</sbj>
+		<obj type="OGG_SPORTS" weight="1.71" label="NP_AJT" josa="에">FC_서울</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.459">team</mln_predict>
+		<cnn_predict conf="0.722">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--AP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>같이--입단하여</gsdp_lemma>
+		<head>남겼다.</head>
+		<cluster>9</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2516" total_morp="25" total_word="11">
+		<sent>보 감독은 2004년에 그의 총애를 받는 선수 파스칼_팽두노와 함께 AS_생테티엔으로 이적하였다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_AJT" josa="와">파스칼_팽두노</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_AJT" josa="으로">AS_생테티엔</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.578">club</mln_predict>
+		<cnn_predict conf="0.385">club</cnn_predict>
+		<gsdp>(NP_AJT)--up--AP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>함께--이적하였다.</gsdp_lemma>
+		<head>이적하였다.</head>
+		<cluster>9</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

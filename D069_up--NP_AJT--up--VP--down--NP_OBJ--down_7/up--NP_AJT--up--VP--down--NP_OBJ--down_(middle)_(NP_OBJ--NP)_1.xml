@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--NP_AJT--up--VP--down--NP_OBJ--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3414" total_morp="24" total_word="9">
+		<sent>2009년 3월 8일, 펠루소는 AC_밀란을 상대로 세리에_A 데뷔전을 치뤘다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_OBJ" josa="을">AC_밀란</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP" josa="">세리에_A</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.929">league</mln_predict>
+		<cnn_predict conf="0.768">league</cnn_predict>
+		<gsdp>(NP_OBJ)--up--NP_AJT--up--VP--down--NP_OBJ--down--(NP)</gsdp>
+		<gsdp_lemma>상대로--치뤘다.--데뷔전을</gsdp_lemma>
+		<head>치뤘다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

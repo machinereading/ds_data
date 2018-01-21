@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2689" total_morp="34" total_word="15">
+		<sent>인천국제공항은 2001년 3월 29일 개항과 동시에 서울특별시 강서구에 있는 김포국제공항의 당시 국제선 노선을 일괄 이관받았다.</sent>
+		<sbj type="LC_OTHERS" weight="1.96" label="NP_MOD" josa="의">김포국제공항</sbj>
+		<obj type="LCP_CAPITALCITY" weight="1.60" label="NP" josa="">서울특별시</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.584">location</mln_predict>
+		<cnn_predict conf="0.627">location</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>있는--강서구에</gsdp_lemma>
+		<head>이관받았다.</head>
+		<cluster>36</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

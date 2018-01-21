@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--NP_AJT--up--VP--down--NP_AJT--down--(NP_MOD)</dependency>
+	<total>2</total>
+	<sent_item id="M_T2081" total_morp="34" total_word="13">
+		<sent>4월 22일 마산야구장에서 열린 삼성_라이온즈와의 경기에서 3회말 1사에서 차우찬을 상대로 솔로 홈런을 기록했다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_OBJ" josa="을">차우찬</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_MOD" josa="의">삼성_라이온즈</obj>
+		<gold>team</gold>
+		<mln_predict conf="1.000">team</mln_predict>
+		<cnn_predict conf="0.975">team</cnn_predict>
+		<gsdp>(NP_OBJ)--up--NP_AJT--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>상대로--기록했다.--경기에서</gsdp_lemma>
+		<head>기록했다.</head>
+		<cluster>5</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3335" total_morp="45" total_word="19">
+		<sent>2012년 8월 14일 목동 넥센_히어로즈와의 원정 경기에서 한현희를 상대로 1회에 기선제압 솔로홈런을 쳤지만, 우천으로 인하여 이 기록이 지워지고 말았다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_OBJ" josa="를">한현희</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_MOD" josa="의">넥센_히어로즈</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.950">club</mln_predict>
+		<cnn_predict conf="0.963">team</cnn_predict>
+		<gsdp>(NP_OBJ)--up--NP_AJT--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>상대로--쳤지만,--경기에서</gsdp_lemma>
+		<head>말았다.</head>
+		<cluster>5</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

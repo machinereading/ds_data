@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_SBJ--down--(NP_MOD)</dependency>
+	<total>3</total>
+	<sent_item id="M_T4022" total_morp="34" total_word="14">
+		<sent>1989년 12월 3일 몰타 회담에서 미하일 고르바초프와 미국의 조지_H._W._부시 대통령은 냉전이 종결되었다는 선언을 하였다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP" josa="">조지_H._W._부시</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_MOD" josa="의">미국</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.822">birthPlace</mln_predict>
+		<cnn_predict conf="0.332">birthPlace</cnn_predict>
+		<gsdp>(NP)--up--NP_SBJ--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>대통령은</gsdp_lemma>
+		<head>하였다.</head>
+		<cluster>17</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2226" total_morp="34" total_word="14">
+		<sent>2015년 대통령 취임식에는 미국의 존_케리 국무장관이 참석했으며, 대한민국에서는 이주영 국회의원이 대통령 특사 자격으로 참석했다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP" josa="">존_케리</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_MOD" josa="의">미국</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.703">birthPlace</mln_predict>
+		<cnn_predict conf="0.421">birthPlace</cnn_predict>
+		<gsdp>(NP)--up--NP_SBJ--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>국무장관이</gsdp_lemma>
+		<head>참석했다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2520" total_morp="51" total_word="21">
+		<sent>반공주의자인 미국의 존_포스터_덜레스 국무장관 고문이 대한민국을 방문하여 38도선을 시찰하는 등 미국의 북침에 대한 위협을 느낀 김일성이 먼저 남침을 결정했다는 주장도 있다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP" josa="">존_포스터_덜레스</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_MOD" josa="의">미국</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.622">nationality</mln_predict>
+		<cnn_predict conf="0.349">birthPlace</cnn_predict>
+		<gsdp>(NP)--up--NP_SBJ--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>고문이</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>13</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

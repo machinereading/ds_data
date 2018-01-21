@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--NP_AJT--up--VP--down--NP_OBJ--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3843" total_morp="21" total_word="9">
+		<sent>칼초 파도바는 이탈리아의 축구 클럽으로, 베네토_주의 파도바를 연고지로 한다.</sent>
+		<sbj type="OGG_SPORTS" weight="0.66" label="NP_SBJ" josa="는">파도바</sbj>
+		<obj type="LCP_PROVINCE" weight="1.73" label="NP_MOD" josa="의">베네토_주</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.638">region</mln_predict>
+		<cnn_predict conf="0.780">region</cnn_predict>
+		<gsdp>(NP_SBJ)--up--NP_AJT--up--VP--down--NP_OBJ--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>클럽으로,--한다.--파도바를</gsdp_lemma>
+		<head>한다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

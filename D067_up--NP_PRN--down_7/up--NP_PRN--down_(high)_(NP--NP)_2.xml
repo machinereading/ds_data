@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_PRN--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_T1278" total_morp="14" total_word="3">
+		<sent>《우리집_(텔레비전_프로그램)》 (JTBC, 2015년)</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.87" label="NP" josa="">우리집_(텔레비전_프로그램)</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP" josa="">JTBC</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">birthPlace</mln_predict>
+		<cnn_predict conf="0.993">channel</cnn_predict>
+		<gsdp>(NP)--up--NP_PRN--down--(NP)</gsdp>
+		<gsdp_lemma>2015년)</gsdp_lemma>
+		<head>2015년)</head>
+		<cluster>32</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2554" total_morp="22" total_word="4">
+		<sent>《서동요_(드라마)》(SBS, 2005년~2006년, 배우:류진 (배우))</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.87" label="NP" josa="">서동요_(드라마)</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP" josa="">SBS</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.958">channel</cnn_predict>
+		<gsdp>(NP)--up--NP_PRN--down--(NP)</gsdp>
+		<gsdp_lemma>(배우))</gsdp_lemma>
+		<head>(배우))</head>
+		<cluster>39</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

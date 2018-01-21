@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP_MOD--up--NP--up--NP_MOD--up--VNP--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2506" total_morp="15" total_word="6">
+		<sent>테이트삼지창코박쥐속은 잎코박쥐과에 속하는 박쥐 속의 하나이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">잎코박쥐과</sbj>
+		<obj type="OGG_ECONOMY" weight="-0.75" label="NP_SBJ" josa="은">박쥐</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.885">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP--up--NP_MOD--up--VNP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma>속하는--박쥐--속의--하나이다.</gsdp_lemma>
+		<head>하나이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

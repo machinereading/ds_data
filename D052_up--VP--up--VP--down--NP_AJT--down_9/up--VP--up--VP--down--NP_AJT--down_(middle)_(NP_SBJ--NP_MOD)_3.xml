@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--up--VP--down--NP_AJT--down--(NP_MOD)</dependency>
+	<total>3</total>
+	<sent_item id="M_T304" total_morp="25" total_word="11">
+		<sent>북쪽으로 안다만_제도가 있으며, 행정 구역 상으로 인도의 안다만 니코바르 제도에 속한다.</sent>
+		<sbj type="" weight="0.00" label="NP_SBJ" josa="가">안다만_제도</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">인도</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.363">country</mln_predict>
+		<cnn_predict conf="0.511">country</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>있으며,--속한다.--제도에</gsdp_lemma>
+		<head>속한다.</head>
+		<cluster>31</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3088" total_morp="35" total_word="13">
+		<sent>그리고 3분 뒤 이민성이 중거리슛으로 역전골 득점에 성공하며 대한민국_축구_국가대표팀의 2-1 승리로 경기는 마무리되었다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_SBJ" josa="이">이민성</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_MOD" josa="의">대한민국_축구_국가대표팀</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.484">club</mln_predict>
+		<cnn_predict conf="0.655">team</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>성공하며--마무리되었다.--승리로</gsdp_lemma>
+		<head>마무리되었다.</head>
+		<cluster>48</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3261" total_morp="36" total_word="11">
+		<sent>아약스는 UEFA_챔피언스리그_1995-96 결승전에도 올랐으나 유벤투스_FC와의 결승전에서 승부차기 끝에 패하여 준우승에 머물렀다.</sent>
+		<sbj type="OGG_SPORTS" weight="0.30" label="NP_SBJ" josa="">UEFA_챔피언스리그_1995-96</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_MOD" josa="의">유벤투스_FC</obj>
+		<gold>team</gold>
+		<mln_predict conf="1.000">club</mln_predict>
+		<cnn_predict conf="0.653">team</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>올랐으나--패하여--결승전에서</gsdp_lemma>
+		<head>머물렀다.</head>
+		<cluster>24</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

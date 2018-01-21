@@ -1,0 +1,95 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--VNP_MOD--down--(NP)</dependency>
+	<total>7</total>
+	<sent_item id="M_T2944" total_morp="24" total_word="9">
+		<sent>2013년 12월 강원_FC 시절 팀 동료인 이우혁_(축구_선수)의 누나와 결혼하였다.</sent>
+		<sbj type="PS_NAME" weight="0.73" label="NP_MOD" josa="의">이우혁_(축구_선수)</sbj>
+		<obj type="OGG_SPORTS" weight="1.71" label="NP" josa="">강원_FC</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.420">team</mln_predict>
+		<cnn_predict conf="0.406">club</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma>동료인</gsdp_lemma>
+		<head>결혼하였다.</head>
+		<cluster>9</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1552" total_morp="19" total_word="8">
+		<sent>밥 말리의 아들이자 레게 뮤지션인 데미언_말리의 어머니이기도 하다.</sent>
+		<sbj type="PS_NAME" weight="-0.03" label="NP_MOD" josa="의">데미언_말리</sbj>
+		<obj type="FD_ART" weight="3.14" label="NP" josa="">레게</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.865">genre</mln_predict>
+		<cnn_predict conf="0.238">relative</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma>뮤지션인</gsdp_lemma>
+		<head>하다.</head>
+		<cluster>49</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T226" total_morp="20" total_word="8">
+		<sent>《오버 더 호라이즌》은 대한민국의 판타지 소설가인 이영도의 단편소설이다.</sent>
+		<sbj type="PS_NAME" weight="-0.03" label="NP_MOD" josa="의">이영도</sbj>
+		<obj type="FD_ART" weight="3.14" label="NP" josa="">판타지</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.972">genre</mln_predict>
+		<cnn_predict conf="0.214">birthPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma>소설가인</gsdp_lemma>
+		<head>단편소설이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3807" total_morp="19" total_word="7">
+		<sent>아래는 KBS_1TV 음악 프로그램인 《콘서트_7080》의 방영 목록이다.</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.87" label="NP_MOD" josa="의">콘서트_7080</sbj>
+		<obj type="" weight="0.00" label="NP" josa="">KBS_1TV</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.982">channel</mln_predict>
+		<cnn_predict conf="0.978">channel</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma>프로그램인</gsdp_lemma>
+		<head>목록이다.</head>
+		<cluster>48</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2573" total_morp="23" total_word="11">
+		<sent>City of Evil은 2005년 6월 6일 발매한 미국의 헤비_메탈 밴드인 어벤지드_세븐폴드의</sent>
+		<sbj type="OGG_ECONOMY" weight="-0.13" label="NP_MOD" josa="의">어벤지드_세븐폴드</sbj>
+		<obj type="FD_ART" weight="3.14" label="NP" josa="">헤비_메탈</obj>
+		<gold>genre</gold>
+		<mln_predict conf="1.000">genre</mln_predict>
+		<cnn_predict conf="0.649">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma>밴드인</gsdp_lemma>
+		<head>어벤지드_세븐폴드의</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T347" total_morp="19" total_word="7">
+		<sent>아래는 JTBC 프로그램인 《비정상회담》의 2015년 에피소드 목록이다.</sent>
+		<sbj type="OGG_POLITICS" weight="-0.01" label="NP_MOD" josa="의">비정상회담</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP" josa="">JTBC</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.989">channel</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma>프로그램인</gsdp_lemma>
+		<head>목록이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2232" total_morp="20" total_word="11">
+		<sent>The Stage 는 미국의 헤비_메탈 밴드인 어벤지드_세븐폴드의 일곱 번째 정규 앨범이다.</sent>
+		<sbj type="OGG_ECONOMY" weight="-0.13" label="NP_MOD" josa="의">어벤지드_세븐폴드</sbj>
+		<obj type="FD_ART" weight="3.14" label="NP" josa="">헤비_메탈</obj>
+		<gold>genre</gold>
+		<mln_predict conf="1.000">genre</mln_predict>
+		<cnn_predict conf="0.510">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma>밴드인</gsdp_lemma>
+		<head>앨범이다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

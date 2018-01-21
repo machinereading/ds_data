@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_SBJ--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1703" total_morp="26" total_word="10">
+		<sent>그가 구속된 후, 이영진_(1963년) 전 FC_서울 수석코치가 새 감독으로 취임하였다.</sent>
+		<sbj type="PS_NAME" weight="0.73" label="NP" josa="">이영진_(1963년)</sbj>
+		<obj type="LC_OTHERS" weight="-0.34" label="NP" josa="">FC_서울</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.607">team</mln_predict>
+		<cnn_predict conf="0.434">team</cnn_predict>
+		<gsdp>(NP)--up--NP_SBJ--down--(NP)</gsdp>
+		<gsdp_lemma>수석코치가</gsdp_lemma>
+		<head>취임하였다.</head>
+		<cluster>12</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

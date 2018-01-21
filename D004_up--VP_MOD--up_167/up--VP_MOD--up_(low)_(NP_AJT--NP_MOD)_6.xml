@@ -1,0 +1,82 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</dependency>
+	<total>6</total>
+	<sent_item id="M_T2056" total_morp="16" total_word="5">
+		<sent>웨브술꼬리쥐는 붉은숲쥐과에 속하는 설치류의 일종이다.</sent>
+		<sbj type="EV_OTHERS" weight="-0.37" label="NP_AJT" josa="에">붉은숲쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.915">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2717" total_morp="16" total_word="5">
+		<sent>동부붉은숲쥐는 붉은숲쥐과에 속하는 설치류의 일종이다.</sent>
+		<sbj type="EV_OTHERS" weight="-0.37" label="NP_AJT" josa="에">붉은숲쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.890">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2040" total_morp="16" total_word="5">
+		<sent>겨울잠술꼬리쥐는 붉은숲쥐과에 속하는 설치류의 일종이다.</sent>
+		<sbj type="EV_OTHERS" weight="-0.37" label="NP_AJT" josa="에">붉은숲쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.914">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2251" total_morp="16" total_word="5">
+		<sent>마다가스카르짧은꼬리쥐는 붉은숲쥐과에 속하는 설치류의 일종이다.</sent>
+		<sbj type="EV_OTHERS" weight="-0.37" label="NP_AJT" josa="에">붉은숲쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.924">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T337" total_morp="16" total_word="5">
+		<sent>큰발칸쥐닮은햄스터는 칼로미스쿠스류에 속하는 설치류의 일종이다.</sent>
+		<sbj type="MT_CHEMICAL" weight="-0.33" label="NP_AJT" josa="에">칼로미스쿠스류</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.906">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1476" total_morp="16" total_word="5">
+		<sent>페테르왕발생쥐는 붉은숲쥐과에 속하는 설치류의 일종이다.</sent>
+		<sbj type="EV_OTHERS" weight="-0.37" label="NP_AJT" josa="에">붉은숲쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="0.763">order</mln_predict>
+		<cnn_predict conf="0.906">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--NP_MOD--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2823" total_morp="19" total_word="9">
+		<sent>뮤지엄 역은 캐나다 온타리오_주 토론토의 지하철 1호선 영-유니버시티_선의 역이다.</sent>
+		<sbj type="PS_NAME" weight="-0.77" label="NP_MOD" josa="의">영-유니버시티_선</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="">온타리오_주</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.601">region</mln_predict>
+		<cnn_predict conf="0.355">largestCity</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma>토론토의</gsdp_lemma>
+		<head>역이다.</head>
+		<cluster>38</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

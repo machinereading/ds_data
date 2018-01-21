@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP)--down--VP_MOD--down--NP_AJT--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2214" total_morp="45" total_word="19">
+		<sent>버찌는 검거나 붉은빛을 띤 핵과의 하나로, 장미목 벚나무속에 딸린 벚나무·신양벚나무·양벚나무·왕벚나무 등 여러 식물의 열매를 구분하지 않고 아울러 이르는 말이다.</sent>
+		<sbj type="PT_TREE" weight="-0.02" label="NP" josa="">왕벚나무</sbj>
+		<obj type="PT_TYPE" weight="2.63" label="NP" josa="">장미목</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.336">order</cnn_predict>
+		<gsdp>(NP)--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>딸린--벚나무속에</gsdp_lemma>
+		<head>말이다.</head>
+		<cluster>45</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

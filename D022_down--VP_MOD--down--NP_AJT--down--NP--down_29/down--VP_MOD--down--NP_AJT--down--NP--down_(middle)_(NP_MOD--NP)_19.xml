@@ -1,0 +1,251 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</dependency>
+	<total>19</total>
+	<sent_item id="M_T709" total_morp="24" total_word="10">
+		<sent>용인 나들목은 경기도 용인시 처인구 유림동에 설치된 영동고속도로의 15번 교차로이다.</sent>
+		<sbj type="AF_ROAD" weight="1.58" label="NP_MOD" josa="의">영동고속도로</sbj>
+		<obj type="LCP_CITY" weight="1.01" label="NP" josa="">용인시</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.941">city</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>설치된--유림동에--처인구</gsdp_lemma>
+		<head>교차로이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1203" total_morp="19" total_word="8">
+		<sent>금천 나들목은 서울특별시 금천구 독산동에 설치된 서해안고속도로의 교차로이다.</sent>
+		<sbj type="AF_ROAD" weight="1.58" label="NP_MOD" josa="의">서해안고속도로</sbj>
+		<obj type="LCP_CAPITALCITY" weight="1.03" label="NP" josa="">서울특별시</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.848">city</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>설치된--독산동에--금천구</gsdp_lemma>
+		<head>교차로이다.</head>
+		<cluster>11</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1774" total_morp="22" total_word="10">
+		<sent>북강릉 나들목은 강원도 강릉시 사천면 석교리에 설치된 동해고속도로의 37번 교차로이다.</sent>
+		<sbj type="AF_ROAD" weight="1.58" label="NP_MOD" josa="의">동해고속도로</sbj>
+		<obj type="LCP_CITY" weight="1.01" label="NP" josa="">강릉시</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.959">routeEnd</mln_predict>
+		<cnn_predict conf="0.857">city</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>설치된--석교리에--사천면</gsdp_lemma>
+		<head>교차로이다.</head>
+		<cluster>1</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2529" total_morp="24" total_word="9">
+		<sent>가락 나들목은 부산광역시 강서구 가락동에 위치한 남해고속도로제2지선의 3번 교차로이다.</sent>
+		<sbj type="AF_ROAD" weight="1.58" label="NP_MOD" josa="의">남해고속도로제2지선</sbj>
+		<obj type="LCP_CITY" weight="1.01" label="NP" josa="">부산광역시</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.780">city</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>위치한--가락동에--강서구</gsdp_lemma>
+		<head>교차로이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3423" total_morp="22" total_word="7">
+		<sent>석바위시장역은 인천광역시 남구 주안동에 위치한 인천_도시철도_2호선의 전철역이다.</sent>
+		<sbj type="" weight="0.00" label="NP_MOD" josa="의">인천_도시철도_2호선</sbj>
+		<obj type="LCP_CITY" weight="0.74" label="NP" josa="">인천광역시</obj>
+		<gold>routeEnd</gold>
+		<mln_predict conf="0.951">routeEnd</mln_predict>
+		<cnn_predict conf="0.492">routeEnd</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>위치한--주안동에--남구</gsdp_lemma>
+		<head>전철역이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1537" total_morp="25" total_word="10">
+		<sent>동수원 나들목은 경기도 수원시 영통구 광교동에 설치된 영동고속도로의 12번 교차로이다.</sent>
+		<sbj type="AF_ROAD" weight="1.58" label="NP_MOD" josa="의">영동고속도로</sbj>
+		<obj type="LCP_CITY" weight="1.01" label="NP" josa="">수원시</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.884">city</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>설치된--광교동에--영통구</gsdp_lemma>
+		<head>교차로이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T429" total_morp="27" total_word="11">
+		<sent>히가시나가하라 역은 일본 후쿠시마_현 아이즈와카마쓰 시에 위치한 동일본 여객철도 반에쓰사이_선의 철도역이다.</sent>
+		<sbj type="LC_OTHERS" weight="1.96" label="NP_MOD" josa="의">반에쓰사이_선</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="">후쿠시마_현</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.733">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>위치한--시에--아이즈와카마쓰</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2631" total_morp="24" total_word="11">
+		<sent>구로마쓰 역은 일본 시마네_현 고쓰 시에 있는 서일본 여객철도 산인_본선의 철도역이다.</sent>
+		<sbj type="EV_SPORTS" weight="-0.40" label="NP_MOD" josa="의">산인_본선</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="">시마네_현</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">routeStart</mln_predict>
+		<cnn_predict conf="0.662">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>있는--시에--고쓰</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>14</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1592" total_morp="24" total_word="11">
+		<sent>아코가시마 역은 일본 후쿠시마_현 고리야마 시에 위치한 동일본 여객철도 반에쓰사이_선의 철도역이다.</sent>
+		<sbj type="LC_OTHERS" weight="1.96" label="NP_MOD" josa="의">반에쓰사이_선</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="">후쿠시마_현</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.554">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>위치한--시에--고리야마</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T131" total_morp="23" total_word="10">
+		<sent>미야노사와 역은 일본 홋카이도 삿포로_시 니시 구에 위치한 삿포로_시영_지하철의 역이다.</sent>
+		<sbj type="OGG_ECONOMY" weight="1.40" label="NP_MOD" josa="의">삿포로_시영_지하철</sbj>
+		<obj type="LCP_CITY" weight="0.92" label="NP" josa="">삿포로_시</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.960">routeEnd</mln_predict>
+		<cnn_predict conf="0.435">region</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>위치한--구에--니시</gsdp_lemma>
+		<head>역이다.</head>
+		<cluster>38</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2702" total_morp="26" total_word="13">
+		<sent>기타카네가사와 역은 일본 아오모리_현 니시쓰가루 군 후카우라 정에 위치한 동일본 여객철도 고노_선의 철도역이다.</sent>
+		<sbj type="AF_ROAD" weight="-0.38" label="NP_MOD" josa="의">고노_선</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="">아오모리_현</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.586">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>위치한--정에--군</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>27</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2408" total_morp="32" total_word="12">
+		<sent>남광명 분기점은 경기도 광명시 학온동에 설치된 수원문산고속도로의 5번 분기점이자 수원문산고속도로 소하지선의 기점이다.</sent>
+		<sbj type="AF_ROAD" weight="1.30" label="NP_MOD" josa="의">수원문산고속도로</sbj>
+		<obj type="LCP_PROVINCE" weight="1.56" label="NP" josa="">경기도</obj>
+		<gold>routeEnd</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.499">city</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>설치된--학온동에--광명시</gsdp_lemma>
+		<head>기점이다.</head>
+		<cluster>14</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2670" total_morp="25" total_word="13">
+		<sent>군마오쓰 역은 일본 군마_현 아가쓰마 군 나가노하라 정에 위치한 동일본 여객철도 아가쓰마_선의 철도역이다.</sent>
+		<sbj type="AF_ROAD" weight="-0.38" label="NP_MOD" josa="의">아가쓰마_선</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="">군마_현</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.606">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>위치한--정에--군</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1532" total_morp="23" total_word="11">
+		<sent>이와키모리야마 역은 일본 후쿠시마_현 고리야마 시에 위치한 동일본 여객철도 스이군_선의 철도역이다.</sent>
+		<sbj type="AF_ROAD" weight="-0.38" label="NP_MOD" josa="의">스이군_선</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="">후쿠시마_현</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.534">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>위치한--시에--고리야마</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2703" total_morp="24" total_word="13">
+		<sent>니다 역은 일본 고치_현 다카오카 군 시만토 정에 위치한 시코쿠 여객철도 도산_선의 철도역이다.</sent>
+		<sbj type="AF_ROAD" weight="-0.38" label="NP_MOD" josa="의">도산_선</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="">고치_현</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.714">owner</mln_predict>
+		<cnn_predict conf="0.725">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>위치한--정에--군</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>27</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T111" total_morp="19" total_word="7">
+		<sent>산인역은 경상남도 함안군 산인면에 위치한 경전선의 철도역이었다.</sent>
+		<sbj type="AF_ROAD" weight="-0.38" label="NP_MOD" josa="의">경전선</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="">경상남도</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.950">routeStart</mln_predict>
+		<cnn_predict conf="0.496">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>위치한--산인면에--함안군</gsdp_lemma>
+		<head>철도역이었다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1039" total_morp="25" total_word="11">
+		<sent>우카혼고 역은 일본 야마구치_현 시모노세키 시에 위치한 서일본 여객철도 산인_본선의 철도역이다.</sent>
+		<sbj type="EV_SPORTS" weight="-0.40" label="NP_MOD" josa="의">산인_본선</sbj>
+		<obj type="LCP_CITY" weight="0.92" label="NP" josa="">야마구치_현</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.677">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>위치한--시에--시모노세키</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>38</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1947" total_morp="17" total_word="7">
+		<sent>별내역은 경기도 남양주시 별내동에 있는 경춘선의 전철역이다.</sent>
+		<sbj type="AF_ROAD" weight="-0.38" label="NP_MOD" josa="의">경춘선</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="">경기도</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.972">routeStart</mln_predict>
+		<cnn_predict conf="0.471">routeEnd</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>있는--별내동에--남양주시</gsdp_lemma>
+		<head>전철역이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T972" total_morp="23" total_word="11">
+		<sent>와키모토 역은 일본 아키타_현 오가 시에 위치한 동일본 여객철도 오가_선의 철도역이다.</sent>
+		<sbj type="AF_ROAD" weight="-0.38" label="NP_MOD" josa="의">오가_선</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="">아키타_현</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.821">location</mln_predict>
+		<cnn_predict conf="0.537">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>위치한--시에--오가</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>27</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP_MOD--up--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_T328" total_morp="31" total_word="13">
+		<sent>후당의 건국자인 이존욱이 후량를 멸하면서 이무정도 그 압력에 굴복하여 나라를 924년에 이존욱에게 바쳤다.</sent>
+		<sbj type="LCP_COUNTRY" weight="2.15" label="NP_MOD" josa="의">후당</sbj>
+		<obj type="PS_NAME" weight="1.09" label="NP_SBJ" josa="이">이존욱</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.729">leaderName</mln_predict>
+		<cnn_predict conf="0.568">leaderName</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP_MOD--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma>건국자인</gsdp_lemma>
+		<head>바쳤다.</head>
+		<cluster>49</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

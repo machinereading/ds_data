@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--down--VNP_MOD--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T4064" total_morp="56" total_word="25">
+		<sent>대타와 외야의 수비 요원으로 기용되는 일이 많았지만 2006년 시즌 중반에 1루수의 주전이었던 구리하라_겐타, 외야수인 시마 시게노부의 전력 이탈도 있으면서 주로 1루에서의 선발 출전하는 일이 많아졌다.</sent>
+		<sbj type="PS_NAME" weight="0.20" label="NP_CNJ" josa="">구리하라_겐타</sbj>
+		<obj type="CV_POSITION" weight="3.17" label="NP_MOD" josa="의">1루수</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.935">position</mln_predict>
+		<cnn_predict conf="0.523">position</cnn_predict>
+		<gsdp>(NP_CNJ)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>주전이었던</gsdp_lemma>
+		<head>많아졌다.</head>
+		<cluster>24</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

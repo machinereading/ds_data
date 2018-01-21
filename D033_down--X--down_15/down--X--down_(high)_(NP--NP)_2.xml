@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP)--down--X--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_T1110" total_morp="19" total_word="8">
+		<sent>《연개소문》, SBS, 2006년 ~ 2007년, 배우 : 김상순_(배우)</sent>
+		<sbj type="PS_NAME" weight="0.48" label="NP" josa="">김상순_(배우)</sbj>
+		<obj type="CV_OCCUPATION" weight="3.04" label="NP" josa="">배우</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.810">occupation</mln_predict>
+		<cnn_predict conf="0.996">occupation</cnn_predict>
+		<gsdp>(NP)--down--X--down--(NP)</gsdp>
+		<gsdp_lemma>:</gsdp_lemma>
+		<head>김상순_(배우)</head>
+		<cluster>39</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2705" total_morp="15" total_word="8">
+		<sent>《삼국기》, KBS, 1992년 ~ 1993년, 배우 : 임혁</sent>
+		<sbj type="PS_NAME" weight="0.48" label="NP" josa="">임혁</sbj>
+		<obj type="CV_OCCUPATION" weight="3.04" label="NP" josa="">배우</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.943">occupation</mln_predict>
+		<cnn_predict conf="0.996">occupation</cnn_predict>
+		<gsdp>(NP)--down--X--down--(NP)</gsdp>
+		<gsdp_lemma>:</gsdp_lemma>
+		<head>임혁</head>
+		<cluster>39</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

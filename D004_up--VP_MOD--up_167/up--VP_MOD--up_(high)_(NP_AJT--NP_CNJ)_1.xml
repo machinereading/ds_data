@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP_MOD--up--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1334" total_morp="63" total_word="25">
+		<sent>몇몇 왕들은 그 자신들이 전사로 유명했는데, 아쟁쿠르_전투에서 큰 승리를 거둔 헨리_5세와 제3차 십자군에서 사자심왕이라는 별명을 얻으면서 영국 전래 문학에서 기사도의 상징이 된 리처드 1세가 대표적이다.</sent>
+		<sbj type="EV_WAR_REVOLUTION" weight="2.59" label="NP_AJT" josa="에서">아쟁쿠르_전투</sbj>
+		<obj type="QT_AGE" weight="1.27" label="NP_CNJ" josa="와">헨리_5세</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.990">commander</mln_predict>
+		<cnn_predict conf="0.240">birthPlace</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_CNJ)</gsdp>
+		<gsdp_lemma>거둔</gsdp_lemma>
+		<head>대표적이다.</head>
+		<cluster>49</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

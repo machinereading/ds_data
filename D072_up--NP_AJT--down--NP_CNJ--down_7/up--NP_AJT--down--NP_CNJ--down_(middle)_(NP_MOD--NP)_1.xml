@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP_AJT--down--NP_CNJ--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T136" total_morp="17" total_word="8">
+		<sent>타톤은 미얀마 남부, 몬_주의 도시로 테나시림 평야에 위치한다.</sent>
+		<sbj type="LCP_COUNTY" weight="-0.10" label="NP_MOD" josa="의">몬_주</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">미얀마</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.395">country</mln_predict>
+		<cnn_predict conf="0.695">country</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--down--NP_CNJ--down--(NP)</gsdp>
+		<gsdp_lemma>도시로--남부,</gsdp_lemma>
+		<head>위치한다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

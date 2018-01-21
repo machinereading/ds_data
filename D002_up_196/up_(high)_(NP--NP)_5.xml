@@ -1,0 +1,69 @@
+<sentence_list>
+	<dependency>(NP)--up--(NP)</dependency>
+	<total>5</total>
+	<sent_item id="M_T3819" total_morp="16" total_word="4">
+		<sent>《공주의_남자》 (KBS, 2011년~2011년 배우:송종호)</sent>
+		<sbj type="AFW_VIDEO" weight="1.84" label="NP" josa="">공주의_남자</sbj>
+		<obj type="PS_NAME" weight="1.43" label="NP" josa="">송종호</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.838">starring</mln_predict>
+		<cnn_predict conf="0.956">starring</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>배우:송종호)</head>
+		<cluster>39</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3188" total_morp="18" total_word="4">
+		<sent>《불멸의_이순신》 (KBS1, 2004년~2005년, 배우:전현)</sent>
+		<sbj type="AFW_VIDEO" weight="1.84" label="NP" josa="">불멸의_이순신</sbj>
+		<obj type="PS_NAME" weight="1.43" label="NP" josa="">전현</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.907">starring</mln_predict>
+		<cnn_predict conf="0.974">starring</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>배우:전현)</head>
+		<cluster>39</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1466" total_morp="22" total_word="8">
+		<sent>《느낌_(드라마)》(1994년, 한국방송공사) - 한준의 동갑내기 친구 김석장 역</sent>
+		<sbj type="AFW_MUSIC" weight="1.05" label="NP" josa="">느낌_(드라마)</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP" josa="">한국방송공사</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.740">channel</mln_predict>
+		<cnn_predict conf="0.746">channel</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>역</head>
+		<cluster>6</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T766" total_morp="11" total_word="3">
+		<sent>《천추태후_(드라마)》 KBS, 배우:임혁</sent>
+		<sbj type="AFW_VIDEO" weight="1.84" label="NP" josa="">천추태후_(드라마)</sbj>
+		<obj type="PS_NAME" weight="1.43" label="NP" josa="">임혁</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.518">starring</mln_predict>
+		<cnn_predict conf="0.950">starring</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>배우:임혁</head>
+		<cluster>39</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2324" total_morp="4" total_word="2">
+		<sent>《용의_눈물》 KBS</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.87" label="NP" josa="">용의_눈물</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP" josa="">KBS</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.844">channel</mln_predict>
+		<cnn_predict conf="0.946">channel</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>KBS</head>
+		<cluster>6</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

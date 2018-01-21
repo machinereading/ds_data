@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(VNP)--down--(NP_MOD)</dependency>
+	<total>2</total>
+	<sent_item id="M_T762" total_morp="16" total_word="6">
+		<sent>동쪽은 캄보디아의 반테아이메안체이_주, 바탐방 주와 접한다.</sent>
+		<sbj type="TMI_HW" weight="0.34" label="VNP" josa="">반테아이메안체이_주</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">캄보디아</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.723">country</mln_predict>
+		<cnn_predict conf="0.710">country</cnn_predict>
+		<gsdp>(VNP)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>접한다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T717" total_morp="14" total_word="6">
+		<sent>그가 발견한 지역은 현재 캐나다의 뉴펀들랜드_섬이다.</sent>
+		<sbj type="LCG_ISLAND" weight="1.18" label="VNP" josa="">뉴펀들랜드_섬</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">캐나다</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.652">country</mln_predict>
+		<cnn_predict conf="0.637">country</cnn_predict>
+		<gsdp>(VNP)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>뉴펀들랜드_섬이다.</head>
+		<cluster>7</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

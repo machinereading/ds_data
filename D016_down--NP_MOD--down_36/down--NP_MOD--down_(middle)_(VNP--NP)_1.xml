@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(VNP)--down--NP_MOD--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2805" total_morp="17" total_word="8">
+		<sent>현재 유럽에서 가장 높은 마천루는 러시아 모스크바의 페더레이션_타워이다.</sent>
+		<sbj type="AF_BUILDING" weight="1.17" label="VNP" josa="">페더레이션_타워</sbj>
+		<obj type="LCP_COUNTRY" weight="-0.30" label="NP" josa="">러시아</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.446">location</mln_predict>
+		<cnn_predict conf="0.721">country</cnn_predict>
+		<gsdp>(VNP)--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma>모스크바의</gsdp_lemma>
+		<head>페더레이션_타워이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

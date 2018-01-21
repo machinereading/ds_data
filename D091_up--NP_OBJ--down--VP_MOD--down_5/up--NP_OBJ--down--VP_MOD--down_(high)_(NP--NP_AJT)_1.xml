@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_OBJ--down--VP_MOD--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_T565" total_morp="33" total_word="14">
+		<sent>1961년 인도네시아 정부는 자카르타에서 열리는 1962년_아시안_게임 개최를 준비하면서 국립 텔레비전 방송의 설립을 포함하기로 하였다.</sent>
+		<sbj type="DT_YEAR" weight="2.51" label="NP" josa="">1962년_아시안_게임</sbj>
+		<obj type="LCP_CAPITALCITY" weight="1.03" label="NP_AJT" josa="에서">자카르타</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.630">location</mln_predict>
+		<cnn_predict conf="0.446">country</cnn_predict>
+		<gsdp>(NP)--up--NP_OBJ--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>개최를--열리는</gsdp_lemma>
+		<head>하였다.</head>
+		<cluster>7</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

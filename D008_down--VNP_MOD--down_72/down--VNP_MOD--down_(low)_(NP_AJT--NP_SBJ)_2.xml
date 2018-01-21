@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--VNP_MOD--down--(NP_SBJ)</dependency>
+	<total>2</total>
+	<sent_item id="M_T3559" total_morp="24" total_word="8">
+		<sent>현재 덴마크_수페르리가 소속인 FC_코펜하겐에서 활약하고 있으며, 포지션은 수비수이다.</sent>
+		<sbj type="OGG_SPORTS" weight="-0.61" label="NP_AJT" josa="에서">FC_코펜하겐</sbj>
+		<obj type="OGG_SPORTS" weight="-1.05" label="NP_SBJ" josa="가">덴마크_수페르리가</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.950">league</mln_predict>
+		<cnn_predict conf="0.622">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--VNP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma>소속인</gsdp_lemma>
+		<head>수비수이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3055" total_morp="25" total_word="8">
+		<sent>1978년, 뢰프는 2._푸스발-분데스리가 클럽인 SC_프라이부르크에서 선수 경력을 시작하였다.</sent>
+		<sbj type="OGG_SPORTS" weight="-0.61" label="NP_AJT" josa="에서">SC_프라이부르크</sbj>
+		<obj type="QT_ORDER" weight="-0.01" label="NP_SBJ" josa="가">2._푸스발-분데스리가</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.998">league</mln_predict>
+		<cnn_predict conf="0.567">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--VNP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma>클럽인</gsdp_lemma>
+		<head>시작하였다.</head>
+		<cluster>34</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

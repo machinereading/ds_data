@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--down--NP--down--(NP_MOD)</dependency>
+	<total>3</total>
+	<sent_item id="M_T3661" total_morp="29" total_word="11">
+		<sent>그는 AS_로마의 미드필더 다니엘레_데_로시와 피를로를 파트너삼아 국가대표팀에서도 유사한 역할을 할 수있다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_CNJ" josa="와">다니엘레_데_로시</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_MOD" josa="의">AS_로마</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.359">team</mln_predict>
+		<cnn_predict conf="0.544">league</cnn_predict>
+		<gsdp>(NP_CNJ)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>미드필더</gsdp_lemma>
+		<head>수있다.</head>
+		<cluster>2</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T360" total_morp="38" total_word="18">
+		<sent>캡틴 잭 하크니스는 영국의 드라마 《닥터_후》와 그 스핀오프 드라마 《토치우드》에 등장하는 가공의 인물로, 배우 존 바로우만이 연기하고 있다.</sent>
+		<sbj type="AFW_DOCUMENT" weight="-0.20" label="NP_CNJ" josa="와">닥터_후</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">영국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.823">channel</mln_predict>
+		<cnn_predict conf="0.458">channel</cnn_predict>
+		<gsdp>(NP_CNJ)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>드라마</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>47</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T280" total_morp="27" total_word="12">
+		<sent>페데리코 펠루소는 세리에_A의 클럽 US_사수올로_칼초와 이탈리아 축구 국가대표팀에서 뛰는 이탈리아의 축구 선수이다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_CNJ" josa="와">US_사수올로_칼초</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_MOD" josa="의">세리에_A</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">league</mln_predict>
+		<cnn_predict conf="0.925">league</cnn_predict>
+		<gsdp>(NP_CNJ)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>클럽</gsdp_lemma>
+		<head>선수이다.</head>
+		<cluster>24</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,48 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--NP--down--NP--down--(NP)</dependency>
+	<total>3</total>
+	<sent_item id="M_T3374" total_morp="16" total_word="7">
+		<sent>근빈 박씨는 조선 제7대 왕 조선_세조의 후궁이다.</sent>
+		<sbj type="LCP_COUNTRY" weight="-0.11" label="NP_MOD" josa="의">조선_세조</sbj>
+		<obj type="LCP_COUNTRY" weight="0.58" label="NP" josa="">조선</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.568">deathPlace</mln_predict>
+		<cnn_predict conf="0.492">birthPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>왕--제7대</gsdp_lemma>
+		<head>후궁이다.</head>
+		<cluster>49</cluster>
+		<comment>중간 보통명사가(왕, 제-7대)가 Type으로 작용함
+			inverse relation 은 king ,  leaderName 같은 것이 나옴. (조선 king 조선_세조)
+			정 방향일 경우 occupation이 맞음 (조선_세조 occupation 조선)
+			이런 경우 (birth,death를 직접적으로 유추할 수 없는 경우)는 확실히 맞는 것이 아님-> 
+			nationality가 정확함
+		</comment>
+	</sent_item>
+	<sent_item id="M_T917" total_morp="11" total_word="6">
+		<sent>엠페드라도는 칠레 마울레 주 탈카_현의 코무나이다.</sent>
+		<sbj type="OGG_ECONOMY" weight="0.63" label="NP_MOD" josa="의">탈카_현</sbj>
+		<obj type="OGG_ECONOMY" weight="-0.67" label="NP" josa="">칠레</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.693">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--마울레</gsdp_lemma>
+		<head>코무나이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T388" total_morp="13" total_word="6">
+		<sent>코크라네는 칠레 아이센델헤네랄카를로스이바녜스델캄포 주 카피탄프라트_현의 코무나이다.</sent>
+		<sbj type="OGG_ECONOMY" weight="0.63" label="NP_MOD" josa="의">카피탄프라트_현</sbj>
+		<obj type="OGG_ECONOMY" weight="-0.67" label="NP" josa="">칠레</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.308">owningOrganisation</mln_predict>
+		<cnn_predict conf="0.591">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>주--아이센델헤네랄카를로스이바녜스델캄포</gsdp_lemma>
+		<head>코무나이다.</head>
+		<cluster>11</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

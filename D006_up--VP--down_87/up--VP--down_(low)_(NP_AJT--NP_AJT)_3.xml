@@ -1,0 +1,56 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--(NP_AJT)</dependency>
+	<total>3</total>
+	<sent_item id="M_T863" total_morp="18" total_word="9">
+		<sent>기타다케 산은 일본에서 후지_산에 이어 두 번째로 높은 산이다.</sent>
+		<sbj type="OGG_ECONOMY" weight="-0.68" label="NP_AJT" josa="에">후지_산</sbj>
+		<obj type="LCP_COUNTRY" weight="-0.62" label="NP_AJT" josa="에서">일본</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.581">country</mln_predict>
+		<cnn_predict conf="0.589">country</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>이어</gsdp_lemma>
+		<head>산이다.</head>
+		<cluster>27</cluster>
+		<comment>이어-governing하는 VP로 볼 수 없음. next_to
+			head인 산이다.가 predicate로 볼 수 있다.
+		    핵심키워드는 일본, 후지_산
+		    '에서'조사가 제거되면 "NN-Sequence."(에서 조사가 너무 앞에와서 좋은 문장이 아님)
+		    조사 때문에 '이어-VP'로 가서 혼동을 주는 케이스
+			Relation Path
+			(country는 domain이 null , nationality는 domain이 person, locatedInArea는 domain이 place)
+		    이처럼 Entity의 GSDP가 짧고 직관적인 케이스에서 틀린 경우는
+			개체타입이 잘못 태깅된 경우가 많음 --> dbpedia ontology등을 활용
+			NN 관계 NNN 관계 통계 내보기</comment>
+	</sent_item>
+	<sent_item id="M_T859" total_morp="30" total_word="9">
+		<sent>대한민국에서는 2009년 7월 제13회 부천국제판타스틱영화제에서 첫 상영되었고, 특별언급상을 수상하였다.</sent>
+		<sbj type="EV_OTHERS" weight="0.51" label="NP_AJT" josa="에서">부천국제판타스틱영화제</sbj>
+		<obj type="LCP_COUNTRY" weight="-0.30" label="NP_AJT" josa="는">대한민국</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.213">country</mln_predict>
+		<cnn_predict conf="0.437">birthPlace</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>상영되었고,</gsdp_lemma>
+		<head>수상하였다.</head>
+		<cluster>23</cluster>
+		<comment>
+			Relation Path
+			이 케이스도 VP가 역할을 제대로 못함</comment>
+	</sent_item>
+	<sent_item id="M_T3266" total_morp="31" total_word="12">
+		<sent>북쪽은 전국적으로도 유명한 아카시_해협_대교로 고베_시와 연결되고 있고 남쪽은 스모토 시와 접하고 있다.</sent>
+		<sbj type="AF_ROAD" weight="-0.38" label="NP_AJT" josa="로">아카시_해협_대교</sbj>
+		<obj type="" weight="0.00" label="NP_AJT" josa="와">고베_시</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.228">city</mln_predict>
+		<cnn_predict conf="0.581">region</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>연결되고</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>14</cluster>
+		<comment>
+			Relation Path
+			VP(연결되다)가 의미있게 작용한 케이스</comment>
+	</sent_item>
+</sentence_list>

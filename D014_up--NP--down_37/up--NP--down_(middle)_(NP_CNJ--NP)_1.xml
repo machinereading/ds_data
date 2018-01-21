@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1912" total_morp="12" total_word="5">
+		<sent>대한민국의 가수 세훈 (EXO, EXO-K).</sent>
+		<sbj type="PS_NAME" weight="0.68" label="NP_CNJ" josa="">EXO</sbj>
+		<obj type="PS_NAME" weight="1.22" label="NP" josa="">세훈</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.820">currentMember</mln_predict>
+		<cnn_predict conf="0.967">currentMember</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP--down--(NP)</gsdp>
+		<gsdp_lemma>EXO-K).</gsdp_lemma>
+		<head>EXO-K).</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

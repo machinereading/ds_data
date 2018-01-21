@@ -1,0 +1,69 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_AJT--down--(NP_MOD)</dependency>
+	<total>5</total>
+	<sent_item id="M_T1267" total_morp="21" total_word="10">
+		<sent>다루마에 산은 일본 홋카이도의 시코쓰_호 남쪽에 있는 성층 화산으로, 활화산이다.</sent>
+		<sbj type="LCP_PROVINCE" weight="-0.71" label="NP" josa="">시코쓰_호</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP_MOD" josa="의">홋카이도</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.600">locatedInArea</mln_predict>
+		<cnn_predict conf="0.732">region</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>남쪽에</gsdp_lemma>
+		<head>활화산이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1743" total_morp="54" total_word="25">
+		<sent>8월 1일, 케디라는 올랭피크 드 마르세유와 시즌 전 친선전을 시작한 지 25분 만에 힘줄 파열으로 들것에 실려나갔고, SS_라치오와의 그 다음 주 수페르코파_이탈리아나_2015 경기에 참가하지 못했다.</sent>
+		<sbj type="EV_OTHERS" weight="-0.24" label="NP" josa="">수페르코파_이탈리아나_2015</sbj>
+		<obj type="OGG_MILITARY" weight="-0.27" label="NP_MOD" josa="의">SS_라치오</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.502">country</mln_predict>
+		<cnn_predict conf="0.278">team</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>경기에</gsdp_lemma>
+		<head>못했다.</head>
+		<cluster>34</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T908" total_morp="19" total_word="9">
+		<sent>마시모 모라티는 첼시_FC의 로만_아브라모비치 다음으로 돈을 많이 쓴 구단주이다.</sent>
+		<sbj type="PS_NAME" weight="0.48" label="NP" josa="">로만_아브라모비치</sbj>
+		<obj type="OGG_SPORTS" weight="-0.58" label="NP_MOD" josa="의">첼시_FC</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.536">team</mln_predict>
+		<cnn_predict conf="0.369">club</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>다음으로</gsdp_lemma>
+		<head>구단주이다.</head>
+		<cluster>25</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T589" total_morp="12" total_word="5">
+		<sent>동쪽으로는 루마니아의 트란실바니아 지방과 접한다.</sent>
+		<sbj type="LCP_COUNTRY" weight="-0.36" label="NP" josa="">트란실바니아</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">루마니아</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.532">country</mln_predict>
+		<cnn_predict conf="0.712">country</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>지방과</gsdp_lemma>
+		<head>접한다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2023" total_morp="32" total_word="17">
+		<sent>전원도시 운동은 스코틀랜드 출신 도시주의자 패트릭 지즈 경이 1920년대 당시 영국 위임통치령이던 이스라엘의 텔아비브 계획에도 영향을 주었다.</sent>
+		<sbj type="OGG_ECONOMY" weight="-0.42" label="NP" josa="">텔아비브</sbj>
+		<obj type="LCP_COUNTRY" weight="-0.62" label="NP_MOD" josa="의">이스라엘</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.800">country</mln_predict>
+		<cnn_predict conf="0.327">country</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>계획에도</gsdp_lemma>
+		<head>주었다.</head>
+		<cluster>30</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

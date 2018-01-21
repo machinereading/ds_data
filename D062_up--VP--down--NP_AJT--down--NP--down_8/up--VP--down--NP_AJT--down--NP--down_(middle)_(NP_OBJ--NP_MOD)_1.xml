@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP--down--NP_AJT--down--NP--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3154" total_morp="56" total_word="20">
+		<sent>2015년 5월 5일, 유벤투스_FC와의 UEFA 챔피언스리그 2014-15 준결승 1차전에서 카를로스_테베스를 넘어뜨려 페널티킥을 내주었고, 유벤투스의 공격수 테베스가 페널티킥을 성공시켜 1-2로 패했다.</sent>
+		<sbj type="PS_NAME" weight="0.73" label="NP_OBJ" josa="를">카를로스_테베스</sbj>
+		<obj type="OGG_SPORTS" weight="1.71" label="NP_MOD" josa="의">유벤투스_FC</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.949">team</mln_predict>
+		<cnn_predict conf="0.453">team</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--NP_AJT--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>넘어뜨려--1차전에서--2014-15</gsdp_lemma>
+		<head>패했다.</head>
+		<cluster>48</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

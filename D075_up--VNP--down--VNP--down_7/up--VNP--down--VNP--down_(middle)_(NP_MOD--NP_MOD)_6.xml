@@ -1,0 +1,82 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP--down--VNP--down--(NP_MOD)</dependency>
+	<total>6</total>
+	<sent_item id="M_T4037" total_morp="23" total_word="9">
+		<sent>월트 디즈니 컴퍼니의 공동 창업자 로이_O._디즈니의 아들이며, 월트_디즈니의 조카이다.</sent>
+		<sbj type="PS_NAME" weight="0.60" label="NP_MOD" josa="의">월트_디즈니</sbj>
+		<obj type="PS_NAME" weight="1.08" label="NP_MOD" josa="의">로이_O._디즈니</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.589">leaderName</mln_predict>
+		<cnn_predict conf="0.213">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>조카이다.--아들이며,</gsdp_lemma>
+		<head>조카이다.</head>
+		<cluster>6</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1678" total_morp="14" total_word="6">
+		<sent>음악가 코트니_러브의 어머니이며 작가 폴라_팍스의 딸이다.</sent>
+		<sbj type="PS_NAME" weight="0.60" label="NP_MOD" josa="의">폴라_팍스</sbj>
+		<obj type="PS_NAME" weight="1.08" label="NP_MOD" josa="의">코트니_러브</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.503">relative</mln_predict>
+		<cnn_predict conf="0.285">relative</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>딸이다.--어머니이며</gsdp_lemma>
+		<head>딸이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T936" total_morp="41" total_word="16">
+		<sent>변호사 허헌의 맏딸이며, 조선공산당의 간부인 임원근, 송봉우, 중국 연안의 조선독립동맹의 부주석 최창익의 부인이고, 신일룡 등의 연인이었다.</sent>
+		<sbj type="PS_NAME" weight="0.60" label="NP_MOD" josa="의">최창익</sbj>
+		<obj type="PS_NAME" weight="1.08" label="NP_MOD" josa="의">허헌</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.347">country</mln_predict>
+		<cnn_predict conf="0.225">nationality</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>부인이고,--맏딸이며,</gsdp_lemma>
+		<head>연인이었다.</head>
+		<cluster>49</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3318" total_morp="32" total_word="12">
+		<sent>그는 이종학_(1361년)의 아버지이고 박상충의 손윗처남이며 박은의 외숙부이고 고려 말 삼은의 한 사람이다.</sent>
+		<sbj type="PS_NAME" weight="0.60" label="NP_MOD" josa="의">박상충</sbj>
+		<obj type="PS_NAME" weight="1.08" label="NP_MOD" josa="의">이종학_(1361년)</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.694">relative</mln_predict>
+		<cnn_predict conf="0.428">relative</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>손윗처남이며--아버지이고</gsdp_lemma>
+		<head>사람이다.</head>
+		<cluster>49</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T4061" total_morp="23" total_word="9">
+		<sent>한확의 아들이며 소혜왕후의 친오빠이고 한치의의 친형이자 한치형의 사촌 형이다.</sent>
+		<sbj type="PS_NAME" weight="0.60" label="NP_MOD" josa="의">한치의</sbj>
+		<obj type="PS_NAME" weight="1.08" label="NP_MOD" josa="의">소혜왕후</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.792">relative</mln_predict>
+		<cnn_predict conf="0.803">relative</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>친형이자--친오빠이고</gsdp_lemma>
+		<head>형이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1347" total_morp="30" total_word="10">
+		<sent>정난공신 의정부좌의정 김질_(1422년)의 넷째 아들이자 의정부영의정 정창손의 외손이고, 강희맹의 사위이다.</sent>
+		<sbj type="PS_NAME" weight="0.60" label="NP_MOD" josa="의">정창손</sbj>
+		<obj type="PS_NAME" weight="1.08" label="NP_MOD" josa="의">김질_(1422년)</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.934">relative</mln_predict>
+		<cnn_predict conf="0.940">relative</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>외손이고,--아들이자</gsdp_lemma>
+		<head>사위이다.</head>
+		<cluster>49</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

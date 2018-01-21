@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--up--VP--up--VP--down--(NP_AJT)</dependency>
+	<total>2</total>
+	<sent_item id="M_T3556" total_morp="27" total_word="11">
+		<sent>시조 문익점은 1360년 문과에 급제하고 원나라에 사신으로 다녀오면서 면화씨를 고려에 도입하였다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_SBJ" josa="은">문익점</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_AJT" josa="에">고려</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.310">nationality</mln_predict>
+		<cnn_predict conf="0.448">deathPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--up--VP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>급제하고--다녀오면서--도입하였다.</gsdp_lemma>
+		<head>도입하였다.</head>
+		<cluster>49</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T654" total_morp="29" total_word="10">
+		<sent>남편 조지_H._W._부시가 1992년 재선에 실패하자, 부부는 1993년 은퇴하여 텍사스_주로 돌아왔다.</sent>
+		<sbj type="PS_NAME" weight="-0.72" label="NP_SBJ" josa="가">조지_H._W._부시</sbj>
+		<obj type="LCP_PROVINCE" weight="1.73" label="NP_AJT" josa="로">텍사스_주</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.250">birthPlace</mln_predict>
+		<cnn_predict conf="0.314">birthPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--up--VP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>실패하자,--은퇴하여--돌아왔다.</gsdp_lemma>
+		<head>돌아왔다.</head>
+		<cluster>6</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

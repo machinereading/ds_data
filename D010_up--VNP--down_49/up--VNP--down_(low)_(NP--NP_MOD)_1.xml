@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP)--up--VNP--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3742" total_morp="16" total_word="6">
+		<sent>포지션은 미드필더이며, 스웨덴 알스벤스칸의 IF_엘프스보리 소속이다.</sent>
+		<sbj type="OGG_SPORTS" weight="-0.61" label="NP" josa="">IF_엘프스보리</sbj>
+		<obj type="OGG_SPORTS" weight="-1.05" label="NP_MOD" josa="의">알스벤스칸</obj>
+		<gold>position</gold>
+		<mln_predict conf="1.000">league</mln_predict>
+		<cnn_predict conf="0.676">league</cnn_predict>
+		<gsdp>(NP)--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>소속이다.</gsdp_lemma>
+		<head>소속이다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T611" total_morp="47" total_word="23">
+		<sent>이후 지난 2009년 2월 16일 대한민국의 팝페라테너 임형주가 한국어로 번안 및 개사하여 자신의 미니앨범 'My Hero'의 마지막 7번 트랙으로 수록하여 한국에 처음으로 발표하였다.</sent>
+		<sbj type="PS_NAME" weight="0.48" label="NP_SBJ" josa="가">임형주</sbj>
+		<obj type="CV_OCCUPATION" weight="3.04" label="NP" josa="">팝페라</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.961">occupation</mln_predict>
+		<cnn_predict conf="0.595">currentMember</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>발표하였다.</head>
+		<cluster>30</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

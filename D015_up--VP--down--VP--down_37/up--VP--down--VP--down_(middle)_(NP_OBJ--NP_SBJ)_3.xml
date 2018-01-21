@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP--down--VP--down--(NP_SBJ)</dependency>
+	<total>3</total>
+	<sent_item id="M_T3296" total_morp="31" total_word="12">
+		<sent>1940년 왕징웨이는 일본의 도움을 받아 왕징웨이_정권을 세우고, 청천백일만지홍기를 공식 국기로 채택하려 했다.</sent>
+		<sbj type="PS_NAME" weight="-0.15" label="NP_OBJ" josa="을">왕징웨이_정권</sbj>
+		<obj type="PS_NAME" weight="1.09" label="NP_SBJ" josa="는">왕징웨이</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.234">commander</mln_predict>
+		<cnn_predict conf="0.280">commander</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma>세우고,--받아</gsdp_lemma>
+		<head>했다.</head>
+		<cluster>17</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2376" total_morp="43" total_word="18">
+		<sent>2011년 7월 25일, 프랑스 클럽 파리_생제르맹_FC은 마투이디가 클럽과 3년 계약을 맺었으며 현역에서 은퇴하는 클로드_마켈렐레를 대체하게 될 것이라고 발표하였다.</sent>
+		<sbj type="EV_OTHERS" weight="-0.24" label="NP_OBJ" josa="를">클로드_마켈렐레</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_SBJ" josa="은">파리_생제르맹_FC</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.337">club</mln_predict>
+		<cnn_predict conf="0.424">league</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma>대체하게--맺었으며</gsdp_lemma>
+		<head>발표하였다.</head>
+		<cluster>5</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3836" total_morp="29" total_word="12">
+		<sent>하지만 2015년 시즌 후 SK_와이번스는 그와 재계약을 포기했고, 대체 선수로 헥터_고메즈를 영입하였다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_OBJ" josa="를">헥터_고메즈</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_SBJ" josa="는">SK_와이번스</obj>
+		<gold>team</gold>
+		<mln_predict conf="1.000">team</mln_predict>
+		<cnn_predict conf="0.863">team</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma>영입하였다.--포기했고,</gsdp_lemma>
+		<head>영입하였다.</head>
+		<cluster>35</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

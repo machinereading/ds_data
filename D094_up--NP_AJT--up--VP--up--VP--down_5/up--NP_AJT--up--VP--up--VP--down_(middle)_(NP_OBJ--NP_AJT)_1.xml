@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--NP_AJT--up--VP--up--VP--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2764" total_morp="28" total_word="13">
+		<sent>시즌을 마친 후 2011년 11월 22일 곽광선을 상대로 현금 트레이드되어 강원_FC로 완전히 이적하였다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_OBJ" josa="을">곽광선</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_AJT" josa="로">강원_FC</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.733">team</mln_predict>
+		<cnn_predict conf="0.561">club</cnn_predict>
+		<gsdp>(NP_OBJ)--up--NP_AJT--up--VP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>상대로--트레이드되어--이적하였다.</gsdp_lemma>
+		<head>이적하였다.</head>
+		<cluster>25</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

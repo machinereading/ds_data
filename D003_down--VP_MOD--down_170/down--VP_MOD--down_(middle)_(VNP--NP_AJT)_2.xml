@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(VNP)--down--VP_MOD--down--(NP_AJT)</dependency>
+	<total>2</total>
+	<sent_item id="M_T3438" total_morp="19" total_word="9">
+		<sent>그의 형제 역시 축구선수로 바로 FC_바르셀로나에서 뛰었던 동생 가브리엘_밀리토이다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="VNP" josa="">가브리엘_밀리토</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_AJT" josa="에서">FC_바르셀로나</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.351">team</mln_predict>
+		<cnn_predict conf="0.530">league</cnn_predict>
+		<gsdp>(VNP)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>뛰었던</gsdp_lemma>
+		<head>가브리엘_밀리토이다.</head>
+		<cluster>25</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T155" total_morp="31" total_word="15">
+		<sent>라조가의 양아버지는 전 SV 베르더 브레멘과 FC 샬케 04, 독일 축구 국가대표팀에서 골키퍼로 활약했던 올리버_레크다.</sent>
+		<sbj type="" weight="0.00" label="VNP" josa="">올리버_레크</sbj>
+		<obj type="CV_POSITION" weight="3.17" label="NP_AJT" josa="로">골키퍼</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.440">position</mln_predict>
+		<cnn_predict conf="0.644">league</cnn_predict>
+		<gsdp>(VNP)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>활약했던</gsdp_lemma>
+		<head>올리버_레크다.</head>
+		<cluster>30</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

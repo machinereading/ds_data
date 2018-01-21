@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--up--VP--down--NP_AJT--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1926" total_morp="63" total_word="29">
+		<sent>그해 여름 에이전트 도움으로 중국 지아리그 랴오닝_훙윈에 입단하여 팀의 중국_슈퍼리그 승격에 공헌하였고 2010년엔 중국 슈퍼리그 충칭 리판에 입단하였으나 고질적인 무릎 부상으로 인하여 7월 구단과 양자합의에 따라 계약을 해지 하였다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_AJT" josa="에">랴오닝_훙윈</sbj>
+		<obj type="EV_SPORTS" weight="1.60" label="NP" josa="">중국_슈퍼리그</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.925">league</mln_predict>
+		<cnn_predict conf="0.358">league</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--up--VP--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>입단하여--공헌하였고--승격에</gsdp_lemma>
+		<head>하였다.</head>
+		<cluster>41</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

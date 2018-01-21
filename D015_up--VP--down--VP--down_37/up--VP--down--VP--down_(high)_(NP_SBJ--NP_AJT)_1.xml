@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--down--VP--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1061" total_morp="57" total_word="19">
+		<sent>2007년 대구광역시에서 세계 육상 선수권 대회의 유치에 성공하여, 2011년_세계_육상_선수권_대회가 이 경기장에서 열렸으며, 2015년 7월 18일에는 《슈퍼콘서트 토요일을 즐겨라》가 열렸다.</sent>
+		<sbj type="DT_YEAR" weight="2.51" label="NP_SBJ" josa="가">2011년_세계_육상_선수권_대회</sbj>
+		<obj type="LCP_CITY" weight="1.01" label="NP_AJT" josa="에서">대구광역시</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.897">location</mln_predict>
+		<cnn_predict conf="0.300">channel</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>열렸으며,--성공하여,</gsdp_lemma>
+		<head>열렸다.</head>
+		<cluster>40</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

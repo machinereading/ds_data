@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP_MOD--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3067" total_morp="37" total_word="14">
+		<sent>그리고 그 외에도 배우로서는 2001년 MBC TV 드라마 《창밖에는_태양이_빛났다》에 이미연_(배우)과 주연으로 출연한 바 있다.</sent>
+		<sbj type="AFW_VIDEO" weight="1.84" label="NP_AJT" josa="에">창밖에는_태양이_빛났다</sbj>
+		<obj type="PS_NAME" weight="1.43" label="NP_AJT" josa="과">이미연_(배우)</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.878">channel</mln_predict>
+		<cnn_predict conf="0.937">starring</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>출연한</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>2</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

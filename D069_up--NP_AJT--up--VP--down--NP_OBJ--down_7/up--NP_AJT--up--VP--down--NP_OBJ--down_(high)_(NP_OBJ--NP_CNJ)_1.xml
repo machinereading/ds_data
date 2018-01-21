@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--NP_AJT--up--VP--down--NP_OBJ--down--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_T123" total_morp="59" total_word="20">
+		<sent>시의 서쪽은 불암산을 경계로 서울특별시와, 왕숙천을 경계로 구리시와 접하고, 남쪽은 한강을 경계로 광주시·하남시와 접하며, 북쪽으로 포천시·의정부시, 동쪽으로 가평군·양평군과 맞닿아 있다.</sent>
+		<sbj type="LCG_MOUNTAIN" weight="3.18" label="NP_OBJ" josa="을">불암산</sbj>
+		<obj type="LCP_CAPITALCITY" weight="0.57" label="NP_CNJ" josa="와">서울특별시</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.464">locatedInArea</mln_predict>
+		<cnn_predict conf="0.490">locatedInArea</cnn_predict>
+		<gsdp>(NP_OBJ)--up--NP_AJT--up--VP--down--NP_OBJ--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma>경계로--접하고,--왕숙천을</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>36</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(VNP)--down--(VNP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T4056" total_morp="17" total_word="5">
+		<sent>재경은 대한민국의 가수이며, 본명은 김재경_(가수)이다.</sent>
+		<sbj type="PS_NAME" weight="0.48" label="VNP" josa="">김재경_(가수)</sbj>
+		<obj type="CV_OCCUPATION" weight="3.04" label="VNP" josa="">가수</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="1.000">occupation</mln_predict>
+		<cnn_predict conf="0.974">occupation</cnn_predict>
+		<gsdp>(VNP)--down--(VNP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>김재경_(가수)이다.</head>
+		<cluster>6</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,69 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP_MOD--up--VNP--down--(NP_MOD)</dependency>
+	<total>5</total>
+	<sent_item id="M_T469" total_morp="34" total_word="18">
+		<sent>구리하마 선(은 일본 가나가와 현 요코스카 시의 호리노우치 역과 가나가와 현 미우라 시의 미사키구치_역을 잇는 게이힌_급행_전철의 철도 노선이다.</sent>
+		<sbj type="LC_OTHERS" weight="1.82" label="NP_OBJ" josa="을">미사키구치_역</sbj>
+		<obj type="OGG_ECONOMY" weight="1.66" label="NP_MOD" josa="의">게이힌_급행_전철</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="1.000">owningOrganisation</mln_predict>
+		<cnn_predict conf="0.426">owningOrganisation</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP_MOD--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>잇는--노선이다.</gsdp_lemma>
+		<head>노선이다.</head>
+		<cluster>38</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1151" total_morp="32" total_word="17">
+		<sent>쓰야마 선은, 오카야마 현 오카야마 시의 오카야마 역에서 오카야마 현 쓰야마 시의 쓰야마_역까지를 잇는 서일본_여객철도의 철도 노선이다.</sent>
+		<sbj type="LC_OTHERS" weight="1.82" label="NP_OBJ" josa="를">쓰야마_역</sbj>
+		<obj type="AF_ROAD" weight="1.44" label="NP_MOD" josa="의">서일본_여객철도</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.979">owningOrganisation</mln_predict>
+		<cnn_predict conf="0.697">operator</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP_MOD--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>잇는--노선이다.</gsdp_lemma>
+		<head>노선이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2060" total_morp="38" total_word="20">
+		<sent>하나와 선은 일본 이와테 현 모리오카 시에 있는 고마 역부터 아키타 현 오다테 시에 있는 오다테_역을 잇는 동일본_여객철도의 철도 노선이다.</sent>
+		<sbj type="LC_OTHERS" weight="1.82" label="NP_OBJ" josa="을">오다테_역</sbj>
+		<obj type="AF_ROAD" weight="1.44" label="NP_MOD" josa="의">동일본_여객철도</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.786">owningOrganisation</mln_predict>
+		<cnn_predict conf="0.630">operator</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP_MOD--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>잇는--노선이다.</gsdp_lemma>
+		<head>노선이다.</head>
+		<cluster>14</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2896" total_morp="37" total_word="17">
+		<sent>광주 도시철도 1호선은 대한민국 광주광역시 동구 월남동의 녹동역과 광주광역시 광산구 월전동의 평동역을 잇는 광주광역시_도시철도공사의 도시 철도 노선이다.</sent>
+		<sbj type="LC_OTHERS" weight="1.82" label="NP_OBJ" josa="을">평동역</sbj>
+		<obj type="OGG_POLITICS" weight="1.65" label="NP_MOD" josa="의">광주광역시_도시철도공사</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.283">routeEnd</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP_MOD--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>잇는--노선이다.</gsdp_lemma>
+		<head>노선이다.</head>
+		<cluster>36</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1073" total_morp="32" total_word="20">
+		<sent>한큐 전철 다카라즈카 본선은 일본 오사카 시 기타 구의 우메다 역부터 효고 현 다카라즈카 시의 다카라즈카_역을 잇는 한큐_전철의 철도 노선이다.</sent>
+		<sbj type="LC_OTHERS" weight="1.82" label="NP_OBJ" josa="을">다카라즈카_역</sbj>
+		<obj type="OGG_ECONOMY" weight="1.66" label="NP_MOD" josa="의">한큐_전철</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.883">owningOrganisation</mln_predict>
+		<cnn_predict conf="0.503">owningOrganisation</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP_MOD--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>잇는--노선이다.</gsdp_lemma>
+		<head>노선이다.</head>
+		<cluster>3</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

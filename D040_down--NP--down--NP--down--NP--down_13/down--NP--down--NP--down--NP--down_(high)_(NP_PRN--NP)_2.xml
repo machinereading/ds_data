@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP_PRN)--down--NP--down--NP--down--NP--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_T253" total_morp="19" total_word="7">
+		<sent>1995년 SBS 창사 5주년 특별기획드라마 《코리아게이트_(드라마)》 ... 중앙정보부장 김형욱 역</sent>
+		<sbj type="AFW_VIDEO" weight="1.69" label="NP_PRN" josa="">코리아게이트_(드라마)</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP" josa="">SBS</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.983">channel</cnn_predict>
+		<gsdp>(NP_PRN)--down--NP--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>특별기획드라마--5주년--창사</gsdp_lemma>
+		<head>...</head>
+		<cluster>32</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2371" total_morp="15" total_word="6">
+		<sent>2005년 문화방송 주말 특별기획 드라마 《제5공화국_(드라마)》</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.87" label="NP_PRN" josa="">제5공화국_(드라마)</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP" josa="">문화방송</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.919">channel</mln_predict>
+		<cnn_predict conf="0.988">channel</cnn_predict>
+		<gsdp>(NP_PRN)--down--NP--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>드라마--특별기획--주말</gsdp_lemma>
+		<head>《제5공화국_(드라마)》</head>
+		<cluster>32</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

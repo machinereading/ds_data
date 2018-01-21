@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(VP)--up--NP--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3640" total_morp="23" total_word="9">
+		<sent>1990년: 김용수_(야구인) (LG_트윈스, 투수) : 2게임 2승 방어율 1.29</sent>
+		<sbj type="PS_NAME" weight="0.55" label="VP" josa="">김용수_(야구인)</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP" josa="">LG_트윈스</obj>
+		<gold>team</gold>
+		<mln_predict conf="1.000">birthPlace</mln_predict>
+		<cnn_predict conf="0.991">team</cnn_predict>
+		<gsdp>(VP)--up--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>1.29--투수)</gsdp_lemma>
+		<head>1.29</head>
+		<cluster>15</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

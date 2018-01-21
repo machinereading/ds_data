@@ -1,0 +1,199 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_AJT--down--(NP_MOD)</dependency>
+	<total>15</total>
+	<sent_item id="M_T3153" total_morp="26" total_word="12">
+		<sent>현재 러시아_프리미어리그의 FC_스파르타크_모스크바 소속으로, 러시아 축구 국가대표팀에서 활약하고 있으며 포지션은 중앙 미드필더이다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP" josa="">FC_스파르타크_모스크바</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_MOD" josa="의">러시아_프리미어리그</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.972">league</mln_predict>
+		<cnn_predict conf="0.739">league</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>소속으로,</gsdp_lemma>
+		<head>미드필더이다.</head>
+		<cluster>24</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3109" total_morp="43" total_word="20">
+		<sent>그의 첫 골은 12월 18일 세비야_FC와의 에스타디오_라몬_산체스_피스후안 원정 경기에서 86분에 카림 벤제마와 교체로 들어가 89분에 사비 알론소의 도움을 받아 기록했다.</sent>
+		<sbj type="EV_SPORTS" weight="0.99" label="NP" josa="">에스타디오_라몬_산체스_피스후안</sbj>
+		<obj type="OGG_SPORTS" weight="-0.01" label="NP_MOD" josa="의">세비야_FC</obj>
+		<gold>owner</gold>
+		<mln_predict conf="0.703">team</mln_predict>
+		<cnn_predict conf="0.429">team</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>경기에서</gsdp_lemma>
+		<head>기록했다.</head>
+		<cluster>41</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1043" total_morp="15" total_word="6">
+		<sent>자월면은 대한민국의 인천광역시 옹진군에 설치된 면이다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP" josa="">인천광역시</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">대한민국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.622">region</mln_predict>
+		<cnn_predict conf="0.887">country</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>옹진군에</gsdp_lemma>
+		<head>면이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2308" total_morp="30" total_word="10">
+		<sent>2015년 기준으로 K3리그 소속의 이천시민축구단과 WK리그의 이천_대교_여자_축구단 홈구장으로 사용되고 있다.</sent>
+		<sbj type="EV_SPORTS" weight="0.18" label="NP" josa="">이천_대교_여자_축구단</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_MOD" josa="의">WK리그</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.423">team</mln_predict>
+		<cnn_predict conf="0.510">league</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>홈구장으로</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>9</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T702" total_morp="19" total_word="9">
+		<sent>속초 설악동 소나무는 대한민국의 강원도 속초시 대포동에 있는 소나무이다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP" josa="">속초시</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">대한민국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.311">country</mln_predict>
+		<cnn_predict conf="0.847">country</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>대포동에</gsdp_lemma>
+		<head>소나무이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2057" total_morp="15" total_word="7">
+		<sent>현재 터키 쉬페르리그의 카이세리스포르 소속으로, 포지션은 공격수이다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP" josa="">카이세리스포르</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_MOD" josa="의">쉬페르리그</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">league</mln_predict>
+		<cnn_predict conf="0.791">league</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>소속으로,</gsdp_lemma>
+		<head>공격수이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T544" total_morp="18" total_word="7">
+		<sent>1984년 5월 17일 대한민국의 충청남도 제255호로 지정되었다.</sent>
+		<sbj type="LCP_PROVINCE" weight="0.19" label="NP" josa="">충청남도</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">대한민국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.329">country</mln_predict>
+		<cnn_predict conf="0.795">country</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>제255호로</gsdp_lemma>
+		<head>지정되었다.</head>
+		<cluster>1</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3946" total_morp="37" total_word="17">
+		<sent>10월 20일, 솔다도는 애스턴_빌라_FC와의 빌라_파크 원정 경기에서 첫 정상적인 경기 진행 중의 골을 집어넣고 2-0 승리를 도왔다.</sent>
+		<sbj type="EV_SPORTS" weight="0.59" label="NP" josa="">빌라_파크</sbj>
+		<obj type="OGG_SPORTS" weight="0.17" label="NP_MOD" josa="의">애스턴_빌라_FC</obj>
+		<gold>operator</gold>
+		<mln_predict conf="0.943">team</mln_predict>
+		<cnn_predict conf="0.540">team</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>경기에서</gsdp_lemma>
+		<head>도왔다.</head>
+		<cluster>25</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2635" total_morp="15" total_word="6">
+		<sent>현재 스위스_슈퍼리그의 FC_시옹 소속으로, 포지션은 골키퍼이다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP" josa="">FC_시옹</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_MOD" josa="의">스위스_슈퍼리그</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.994">league</mln_predict>
+		<cnn_predict conf="0.798">league</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>소속으로,</gsdp_lemma>
+		<head>골키퍼이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3064" total_morp="40" total_word="15">
+		<sent>복귀 후 두 번째 경기인 9월 15일, 맨체스터_시티_FC와의 UEFA_챔피언스리그_2015-16 경기에 85분 뛰어 2-1 결승골을 득점했다.</sent>
+		<sbj type="EV_SPORTS" weight="0.82" label="NP" josa="">UEFA_챔피언스리그_2015-16</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_MOD" josa="의">맨체스터_시티_FC</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.990">team</mln_predict>
+		<cnn_predict conf="0.443">league</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>경기에</gsdp_lemma>
+		<head>득점했다.</head>
+		<cluster>41</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1295" total_morp="16" total_word="7">
+		<sent>현재 러시아_프리미어리그의 FC_루빈_카잔 소속으로, 포지션은 공격형 미드필더이다.</sent>
+		<sbj type="" weight="0.00" label="NP" josa="">FC_루빈_카잔</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_MOD" josa="의">러시아_프리미어리그</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.993">league</mln_predict>
+		<cnn_predict conf="0.783">league</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>소속으로,</gsdp_lemma>
+		<head>미드필더이다.</head>
+		<cluster>34</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1214" total_morp="43" total_word="19">
+		<sent>세군다 디비시온 B 2007-08, 그는 성인 무대 첫 경기를 치렀는데, 그는 이어지는 3ㅜ 시즌 동안 세군다_디비시온_B의 레알_마드리드_카스티야 경기에 출전했다.</sent>
+		<sbj type="EV_SPORTS" weight="0.18" label="NP" josa="">레알_마드리드_카스티야</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_MOD" josa="의">세군다_디비시온_B</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.988">league</mln_predict>
+		<cnn_predict conf="0.414">league</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>경기에</gsdp_lemma>
+		<head>출전했다.</head>
+		<cluster>9</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T216" total_morp="25" total_word="10">
+		<sent>신화로는 대한민국의 경상북도 영천시 신녕면에서 시작하여, 화남면을 거쳐 연결하는 도로이다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP" josa="">영천시</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">대한민국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.423">country</mln_predict>
+		<cnn_predict conf="0.900">country</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>신녕면에서</gsdp_lemma>
+		<head>도로이다.</head>
+		<cluster>3</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3585" total_morp="18" total_word="9">
+		<sent>캔터베리 평원은 뉴질랜드 남섬 캔터베리_지방의 크라이스트처치 남쪽에 위치한 평원이다.</sent>
+		<sbj type="LCP_CITY" weight="2.07" label="NP" josa="">크라이스트처치</sbj>
+		<obj type="LC_OTHERS" weight="0.66" label="NP_MOD" josa="의">캔터베리_지방</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.293">routeEnd</mln_predict>
+		<cnn_predict conf="0.654">region</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>남쪽에</gsdp_lemma>
+		<head>평원이다.</head>
+		<cluster>14</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2173" total_morp="14" total_word="6">
+		<sent>현재 K리그_챌린지의 서울_이랜드_FC 소속으로 뛰고 있다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP" josa="">서울_이랜드_FC</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_MOD" josa="의">K리그_챌린지</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">league</mln_predict>
+		<cnn_predict conf="0.908">league</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>소속으로</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>25</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--VP--down--(NP_AJT)</dependency>
+	<total>2</total>
+	<sent_item id="M_T1394" total_morp="39" total_word="19">
+		<sent>곤충은 날개의 유무에 따라 무시아강과 유시아강으로 나뉘며 또한 유시아강은 날개가 완전히 접히지 않는 고시하강와 날개가 완전히 접히는 신시하강로 분류한다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="로">신시하강</sbj>
+		<obj type="" weight="0.00" label="NP_AJT" josa="으로">유시아강</obj>
+		<gold>class</gold>
+		<mln_predict conf="0.146">routeEnd</mln_predict>
+		<cnn_predict conf="0.243">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>분류한다.--나뉘며</gsdp_lemma>
+		<head>분류한다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3175" total_morp="46" total_word="22">
+		<sent>2015년 7월 16일, 호비뉴는 같은 국적 루이스 펠리피 스콜라리가 이끄는 중국 슈퍼리그의 광저우_헝다_타오바오와 6개월 계약을 맺었고, 전 국가대표팀 동료 파울리뉴와 동행하게 되었다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_AJT" josa="와">파울리뉴</sbj>
+		<obj type="CV_POSITION" weight="-1.12" label="NP_AJT" josa="와">광저우_헝다_타오바오</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.671">position</mln_predict>
+		<cnn_predict conf="0.353">league</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>동행하게--맺었고,</gsdp_lemma>
+		<head>되었다.</head>
+		<cluster>12</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

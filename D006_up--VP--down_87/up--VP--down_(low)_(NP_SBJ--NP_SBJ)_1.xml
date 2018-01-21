@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3406" total_morp="17" total_word="6">
+		<sent>1910년부터 1918년까지 히바_칸국은 아스판디야로프_칸이 지배하고 있었다.</sent>
+		<sbj type="LCP_COUNTRY" weight="-0.11" label="NP_SBJ" josa="이">아스판디야로프_칸</sbj>
+		<obj type="LCP_COUNTRY" weight="0.58" label="NP_SBJ" josa="은">히바_칸국</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.265">birthPlace</mln_predict>
+		<cnn_predict conf="0.353">deathPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma>지배하고</gsdp_lemma>
+		<head>있었다.</head>
+		<cluster>11</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

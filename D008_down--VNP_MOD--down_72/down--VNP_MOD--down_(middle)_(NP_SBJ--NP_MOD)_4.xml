@@ -1,0 +1,56 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--VNP_MOD--down--(NP_MOD)</dependency>
+	<total>4</total>
+	<sent_item id="M_T1448" total_morp="21" total_word="10">
+		<sent>무쌍 시리즈는 일본의 게임 회사인 코에이가 발매한 액션 게임 작품군이다.</sent>
+		<sbj type="OGG_ECONOMY" weight="1.40" label="NP_SBJ" josa="가">코에이</sbj>
+		<obj type="LCP_COUNTRY" weight="-0.30" label="NP_MOD" josa="의">일본</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.461">genre</mln_predict>
+		<cnn_predict conf="0.351">birthPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>회사인</gsdp_lemma>
+		<head>작품군이다.</head>
+		<cluster>38</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3917" total_morp="49" total_word="19">
+		<sent>전 맨체스터_유나이티드_FC의 미드필더였던 폴_스콜스는 2014년에 크로스를 언급하며 "최고 수준의 미드필더"라고 언급했고, 맨체스터 유나이티드가 선수단 보강을 위해 필요한 선수라고 덧붙였다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_SBJ" josa="는">폴_스콜스</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_MOD" josa="의">맨체스터_유나이티드_FC</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.371">club</mln_predict>
+		<cnn_predict conf="0.359">club</cnn_predict>
+		<gsdp>(NP_SBJ)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>미드필더였던</gsdp_lemma>
+		<head>덧붙였다.</head>
+		<cluster>9</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T4051" total_morp="21" total_word="8">
+		<sent>또한 <시티 라이트> 개봉날에는 미국의 학자인 알베르트_아인슈타인도 참가하였다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_SBJ" josa="도">알베르트_아인슈타인</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_MOD" josa="의">미국</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.861">birthPlace</mln_predict>
+		<cnn_predict conf="0.579">birthPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>학자인</gsdp_lemma>
+		<head>참가하였다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T741" total_morp="31" total_word="11">
+		<sent>《삼학사전》은 1671년 조선의 유학자인 송시열이 편찬한 삼학사의 전기문으로 국립중앙박물관에 소장되어 있다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_SBJ" josa="이">송시열</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_MOD" josa="의">조선</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.553">nationality</mln_predict>
+		<cnn_predict conf="0.455">birthPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>유학자인</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>49</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

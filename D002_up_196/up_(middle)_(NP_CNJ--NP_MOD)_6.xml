@@ -1,0 +1,82 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--(NP_MOD)</dependency>
+	<total>6</total>
+	<sent_item id="M_T3427" total_morp="33" total_word="14">
+		<sent>형제 정승인 의정부영의정 해평부원군 윤두수, 보국숭록대부 해원부원군 윤근수형제의 후손으로, 윤두수의 넷째 아들 윤휘의 4대손이다.</sent>
+		<sbj type="PS_NAME" weight="0.60" label="NP_CNJ" josa="">윤두수</sbj>
+		<obj type="PS_NAME" weight="1.08" label="NP_MOD" josa="의">윤근수</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.750">birthPlace</mln_predict>
+		<cnn_predict conf="0.980">relative</cnn_predict>
+		<gsdp>(NP_CNJ)--up--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>4대손이다.</head>
+		<cluster>49</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2675" total_morp="22" total_word="8">
+		<sent>종6대조 성석용은 성삼문과 성담수, 성담년의 증조부이며 이기의 외고조부였다.</sent>
+		<sbj type="PS_NAME" weight="0.60" label="NP_CNJ" josa="">성담수</sbj>
+		<obj type="PS_NAME" weight="1.08" label="NP_MOD" josa="의">성담년</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.911">relative</mln_predict>
+		<cnn_predict conf="0.812">relative</cnn_predict>
+		<gsdp>(NP_CNJ)--up--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>외고조부였다.</head>
+		<cluster>49</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2903" total_morp="9" total_word="4">
+		<sent>배우 하정우, 차현우의 아버지이다.</sent>
+		<sbj type="PS_NAME" weight="0.60" label="NP_CNJ" josa="">하정우</sbj>
+		<obj type="PS_NAME" weight="1.08" label="NP_MOD" josa="의">차현우</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.361">starring</mln_predict>
+		<cnn_predict conf="0.212">starring</cnn_predict>
+		<gsdp>(NP_CNJ)--up--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>아버지이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T214" total_morp="60" total_word="27">
+		<sent>서자 윤발은 후에 조선 말의 군부대신 윤웅렬과 육군참장 윤영렬의 증조 할아버지이자, 독립운동가 윤치호, 대한민국의 내무부장관, 서울시장 윤치영, 4대 대통령 윤보선, 한국의 초기 병리학자이자 해부학자인 윤일선의 선조가 된다.</sent>
+		<sbj type="PS_NAME" weight="0.60" label="NP_CNJ" josa="과">윤웅렬</sbj>
+		<obj type="PS_NAME" weight="1.08" label="NP_MOD" josa="의">윤영렬</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.991">relative</mln_predict>
+		<cnn_predict conf="0.695">relative</cnn_predict>
+		<gsdp>(NP_CNJ)--up--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>된다.</head>
+		<cluster>49</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3853" total_morp="53" total_word="21">
+		<sent>외가쪽으로는 조선 세조의 측근이자 계유정난, 세조 반정을 도왔고, 조선 세조, 조선 예종, 조선 성종때에 각각 영의정을 지냈던 정창손과 김질_(1422년)의 후손이기도 했다.</sent>
+		<sbj type="PS_NAME" weight="0.60" label="NP_CNJ" josa="과">정창손</sbj>
+		<obj type="PS_NAME" weight="1.08" label="NP_MOD" josa="의">김질_(1422년)</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.915">relative</mln_predict>
+		<cnn_predict conf="0.693">relative</cnn_predict>
+		<gsdp>(NP_CNJ)--up--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>했다.</head>
+		<cluster>36</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1791" total_morp="9" total_word="6">
+		<sent>장남 : 윤방: 윤덕영, 윤택영의 선조</sent>
+		<sbj type="PS_NAME" weight="0.60" label="NP_CNJ" josa="">윤덕영</sbj>
+		<obj type="PS_NAME" weight="1.08" label="NP_MOD" josa="의">윤택영</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.162">relative</mln_predict>
+		<cnn_predict conf="0.759">relative</cnn_predict>
+		<gsdp>(NP_CNJ)--up--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>선조</head>
+		<cluster>18</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

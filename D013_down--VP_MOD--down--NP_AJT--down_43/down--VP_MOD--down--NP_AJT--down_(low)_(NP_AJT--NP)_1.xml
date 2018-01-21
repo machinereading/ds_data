@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--VP_MOD--down--NP_AJT--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T331" total_morp="49" total_word="20">
+		<sent>포트사이드 경기장 폭력 사태는 2012년 2월 1일 이집트 포트사이드에 위치한 포트사이드_경기장에서 일어난 폭력이 유혈 사태로 진화되어 총 74명이 사망한 사건이다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에서">포트사이드_경기장</sbj>
+		<obj type="LCP_COUNTRY" weight="-0.30" label="NP" josa="">이집트</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.379">country</mln_predict>
+		<cnn_predict conf="0.274">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>위치한--포트사이드에</gsdp_lemma>
+		<head>사건이다.</head>
+		<cluster>1</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

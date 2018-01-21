@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(VP)--up--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2238" total_morp="18" total_word="7">
+		<sent>수비수 : 장외룡, 한문배, 최강희, 김철수_(축구인) (포항_스틸러스)</sent>
+		<sbj type="PS_NAME" weight="0.55" label="VP" josa="">김철수_(축구인)</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP" josa="">포항_스틸러스</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.760">club</mln_predict>
+		<cnn_predict conf="0.518">club</cnn_predict>
+		<gsdp>(VP)--up--(NP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>(포항_스틸러스)</head>
+		<cluster>34</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

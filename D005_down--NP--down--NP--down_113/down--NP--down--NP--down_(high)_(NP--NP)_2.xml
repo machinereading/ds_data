@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP)--down--NP--down--NP--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_T3983" total_morp="13" total_word="6">
+		<sent>2016년 MBC 주말 특별기획 《옥중화》 ... 오종금 역</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.87" label="NP" josa="">옥중화</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP" josa="">MBC</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.993">channel</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>특별기획--주말</gsdp_lemma>
+		<head>...</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T318" total_morp="9" total_word="5">
+		<sent>1989년 한국방송공사 텔레비전 드라마 《무풍지대》</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.87" label="NP" josa="">무풍지대</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP" josa="">한국방송공사</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.988">channel</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>드라마--텔레비전</gsdp_lemma>
+		<head>《무풍지대》</head>
+		<cluster>40</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

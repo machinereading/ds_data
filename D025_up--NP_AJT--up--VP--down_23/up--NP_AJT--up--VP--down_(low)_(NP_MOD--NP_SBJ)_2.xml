@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP_AJT--up--VP--down--(NP_SBJ)</dependency>
+	<total>2</total>
+	<sent_item id="M_T1320" total_morp="23" total_word="11">
+		<sent>여름 이적 시장에서 FC_바이에른_뮌헨은 FC 샬케 04의 주장 마누엘_노이어의 영입에 성공하였다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_MOD" josa="의">마누엘_노이어</sbj>
+		<obj type="CV_OCCUPATION" weight="-0.88" label="NP_SBJ" josa="은">FC_바이에른_뮌헨</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.990">club</mln_predict>
+		<cnn_predict conf="0.425">club</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma>영입에--성공하였다.</gsdp_lemma>
+		<head>성공하였다.</head>
+		<cluster>12</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1256" total_morp="29" total_word="13">
+		<sent>그 다음 주말, 그는 산티아고 베르나베우에서 벌어진 레알_소시에다드와의 경기에서 라리가 첫 골을 기록했다.</sent>
+		<sbj type="" weight="0.00" label="NP_MOD" josa="의">레알_소시에다드</sbj>
+		<obj type="OGG_SPORTS" weight="-1.05" label="NP_SBJ" josa="가">라리가</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.597">team</mln_predict>
+		<cnn_predict conf="0.402">league</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma>경기에서--기록했다.</gsdp_lemma>
+		<head>기록했다.</head>
+		<cluster>5</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

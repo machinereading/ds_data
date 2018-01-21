@@ -1,0 +1,407 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--down--(NP_MOD)</dependency>
+	<total>31</total>
+	<sent_item id="M_T225" total_morp="34" total_word="12">
+		<sent>대한성공회 부산교구는 대한민국의 부산광역시, 대구광역시, 경상북도, 경상남도, 제주도 지역을 관할하는 대한성공회의 교구이다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_CNJ" josa="">부산광역시</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">대한민국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.894">country</mln_predict>
+		<cnn_predict conf="0.844">country</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>교구이다.</head>
+		<cluster>1</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1279" total_morp="46" total_word="22">
+		<sent>푸스볼-분데스리가의 FC_바이에른_뮌헨, FC 샬케 04, 이탈리아 세리에 A의 AC 밀란, AS 로마 등이 있으며 대한민국에서도 많은 구단이 흰 색을 어웨이 유니폼으로 사용한다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_CNJ" josa="에">FC_바이에른_뮌헨</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_MOD" josa="의">푸스볼-분데스리가</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.902">league</mln_predict>
+		<cnn_predict conf="0.517">league</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>사용한다.</head>
+		<cluster>31</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1754" total_morp="44" total_word="15">
+		<sent>2015년 8월 31일, 에르난데스는 푸스발-분데스리가의 바이어_04_레버쿠젠과 비공개 이적료에 3년 계약을 맺었는데, 언론은 이적료를 £7.3M으로 추정했다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_CNJ" josa="과">바이어_04_레버쿠젠</sbj>
+		<obj type="PS_NAME" weight="-0.83" label="NP_MOD" josa="의">푸스발-분데스리가</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.611">league</mln_predict>
+		<cnn_predict conf="0.784">league</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>추정했다.</head>
+		<cluster>36</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1297" total_morp="19" total_word="9">
+		<sent>현재 풋볼_리그_챔피언십의 카디프_시티_FC와 웨일스 축구 국가대표팀에서 미드필더로 뛰고 있다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_CNJ" josa="와">카디프_시티_FC</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_MOD" josa="의">풋볼_리그_챔피언십</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">league</mln_predict>
+		<cnn_predict conf="0.925">league</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>있다.</head>
+		<cluster>25</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T755" total_morp="20" total_word="9">
+		<sent>현재 프리미어리그의 에버턴_FC과 프랑스 축구 국가대표팀에서 공격수로 뛰고 있다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_CNJ" josa="과">에버턴_FC</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_MOD" josa="의">프리미어리그</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">league</mln_predict>
+		<cnn_predict conf="0.940">league</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>있다.</head>
+		<cluster>25</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1684" total_morp="37" total_word="21">
+		<sent>오사카 ~ 고베 간에는 서일본 여객철도의 JR 고베 선, 한신_전기_철도의 한신_본선 및 한신 난바 선, 한큐 전철의 고베 본선 등이 운행된다.</sent>
+		<sbj type="AF_ROAD" weight="0.47" label="NP_CNJ" josa="">한신_본선</sbj>
+		<obj type="AF_TRANSPORT" weight="1.03" label="NP_MOD" josa="의">한신_전기_철도</obj>
+		<gold>operator</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.399">operator</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>운행된다.</head>
+		<cluster>36</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2959" total_morp="20" total_word="9">
+		<sent>현재 프리미어리그의 아스널_FC과 프랑스 축구 국가대표팀에서 풀백으로 뛰고 있다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_CNJ" josa="과">아스널_FC</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_MOD" josa="의">프리미어리그</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">league</mln_predict>
+		<cnn_predict conf="0.955">league</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>있다.</head>
+		<cluster>36</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T242" total_morp="31" total_word="13">
+		<sent>온라인 투표에서, 제루멜은 FC_포르투의 리산드로_로페스와 루초 곤살레스를 제치고 2007-08 시즌의 프리메이라리가 선수가 되었다.</sent>
+		<sbj type="PS_NAME" weight="0.73" label="NP_CNJ" josa="와">리산드로_로페스</sbj>
+		<obj type="OGG_SPORTS" weight="1.71" label="NP_MOD" josa="의">FC_포르투</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.529">club</mln_predict>
+		<cnn_predict conf="0.397">team</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>되었다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3490" total_morp="15" total_word="8">
+		<sent>중국의 찰스 카오, 캐나다의 윌러드_보일, 미국의 조지 E. 스미스가 2009년 노벨 물리학상을 공동수상하게 되었다고 스웨덴 왕립 과학원이 발표했다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_CNJ" josa="">윌러드_보일</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_MOD" josa="의">캐나다</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.183">country</mln_predict>
+		<cnn_predict conf="0.410">birthPlace</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>E.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2514" total_morp="19" total_word="9">
+		<sent>현재 풋볼_리그_챔피언십의 애스턴_빌라_FC와 웨일스 축구 국가대표팀에서 풀백으로 뛰고 있다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_CNJ" josa="와">애스턴_빌라_FC</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_MOD" josa="의">풋볼_리그_챔피언십</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.908">league</mln_predict>
+		<cnn_predict conf="0.936">league</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>있다.</head>
+		<cluster>25</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3859" total_morp="20" total_word="9">
+		<sent>현재 쉬페르리그의 이스탄불_바샥셰히르_FK와 카메룬 축구 국가대표팀에서 수비수로 뛰고 있다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_CNJ" josa="와">이스탄불_바샥셰히르_FK</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_MOD" josa="의">쉬페르리그</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.845">league</mln_predict>
+		<cnn_predict conf="0.881">league</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>있다.</head>
+		<cluster>22</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2213" total_morp="50" total_word="19">
+		<sent>카르바할은 분데스리가에서의 푸스발-분데스리가 2012-13에 FC_바이에른_뮌헨의 필리프_람과 FC 샬케 04의 우치다 아쓰토의 뒤를 이어 최고의 우측 수비수 3명중 한명으로 선정되었다.</sent>
+		<sbj type="PS_NAME" weight="0.73" label="NP_CNJ" josa="과">필리프_람</sbj>
+		<obj type="OGG_SPORTS" weight="1.71" label="NP_MOD" josa="의">FC_바이에른_뮌헨</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.169">league</mln_predict>
+		<cnn_predict conf="0.418">club</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>선정되었다.</head>
+		<cluster>41</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T221" total_morp="30" total_word="16">
+		<sent>세르지오 부스케츠 부르고스는 스페인의 축구 선수이며, 현재 스페인 프리메라리가의 FC_바르셀로나와 스페인 축구 국가대표팀 소속으로 뛰고 있다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_CNJ" josa="와">FC_바르셀로나</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_MOD" josa="의">프리메라리가</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.523">team</mln_predict>
+		<cnn_predict conf="0.924">league</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>있다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T295" total_morp="55" total_word="26">
+		<sent>소치는 2007년 7월 4일, 과테말라 과테말라 시에서 열린 제119차 국제올림픽위원회 총회에서 오스트리아의 잘츠부르크, 대한민국의 평창군, 그리고 러시아의 소치가 참가한 2014년 동계 올림픽 유치 과정에서 개최지로 결정되었다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_CNJ" josa="">잘츠부르크</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">오스트리아</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.909">country</mln_predict>
+		<cnn_predict conf="0.654">country</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>결정되었다.</head>
+		<cluster>23</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3204" total_morp="36" total_word="17">
+		<sent>그는 처음에 새로운 감독인 둥가의 취향에 맞지 않아 토트넘_홋스퍼_FC의 에우렐류_고메스, FC 포르투의 에우통, AS 로마의 도니에게 밀렸다.</sent>
+		<sbj type="PS_NAME" weight="0.73" label="NP_CNJ" josa="">에우렐류_고메스</sbj>
+		<obj type="OGG_SPORTS" weight="1.71" label="NP_MOD" josa="의">토트넘_홋스퍼_FC</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.326">team</mln_predict>
+		<cnn_predict conf="0.419">club</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>밀렸다.</head>
+		<cluster>30</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1866" total_morp="25" total_word="12">
+		<sent>뉴욕_시의 메트로폴리탄_미술관, 시카고의 시카고 미술관과 함께 미국의 3대 미술관 중 하나로 손꼽힌다.</sent>
+		<sbj type="OGG_ART" weight="1.63" label="NP_CNJ" josa="">메트로폴리탄_미술관</sbj>
+		<obj type="LCP_CITY" weight="0.92" label="NP_MOD" josa="의">뉴욕_시</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.714">location</mln_predict>
+		<cnn_predict conf="0.179">country</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>손꼽힌다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T165" total_morp="63" total_word="20">
+		<sent>김정은이 조선민주주의인민공화국을 현대화하기 위한 시도로 모란봉악단의 스타일에 변화를 줬다고 설명하면서 그 증거로 모란봉악단의 무대 의상이 소녀시대의 '소원을_말해봐_(Genie)'와 콘셉트가 유사하다고 주장했다.</sent>
+		<sbj type="" weight="0.00" label="NP_CNJ" josa="와">소원을_말해봐_(Genie)</sbj>
+		<obj type="PS_NAME" weight="0.89" label="NP_MOD" josa="의">소녀시대</obj>
+		<gold>artist</gold>
+		<mln_predict conf="0.929">currentMember</mln_predict>
+		<cnn_predict conf="0.251">birthPlace</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>주장했다.</head>
+		<cluster>19</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3453" total_morp="36" total_word="18">
+		<sent>"Famous Four"의 또 다른 멤버들은 디나모 키예프의 고란 가브란치치, 맨체스터_유나이티드_FC의 네마냐_비디치, 그리고 FC 샬케 04의 믈라덴 크르스타이치 등이다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_CNJ" josa="">네마냐_비디치</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_MOD" josa="의">맨체스터_유나이티드_FC</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.813">club</mln_predict>
+		<cnn_predict conf="0.409">club</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>등이다.</head>
+		<cluster>25</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2236" total_morp="42" total_word="19">
+		<sent>인천은 청해진해운의 세월호와 오하마나호 면허가 취소됐고 삼천포는 제주월드호가 경영 악화로 휴업에, 부산의 서경아일랜드호 등 여객선 2척은 일요일 휴항에 들어갔다.</sent>
+		<sbj type="AF_TRANSPORT" weight="0.70" label="NP_CNJ" josa="와">세월호</sbj>
+		<obj type="OGG_ECONOMY" weight="1.13" label="NP_MOD" josa="의">청해진해운</obj>
+		<gold>owner</gold>
+		<mln_predict conf="0.207">owner</mln_predict>
+		<cnn_predict conf="0.128">location</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>들어갔다.</head>
+		<cluster>1</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3206" total_morp="26" total_word="12">
+		<sent>이후, 그는 스페인 프리메라리가의 세비야_FC와 이탈리아의 유벤투스 FC, 잉글랜드의 리버풀 FC를 거쳤다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_CNJ" josa="와">세비야_FC</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_MOD" josa="의">프리메라리가</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.511">league</mln_predict>
+		<cnn_predict conf="0.903">league</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>거쳤다.</head>
+		<cluster>25</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T564" total_morp="18" total_word="9">
+		<sent>어린 시절, 존스는 미국의 시카고와 미시시피 주의 그린우드에서 자랐다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_CNJ" josa="와">시카고</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">미국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.998">country</mln_predict>
+		<cnn_predict conf="0.456">country</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>자랐다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T4021" total_morp="25" total_word="13">
+		<sent>누리 샤힌 은 터키의 축구 선수로, 현재 푸스발-분데스리가의 보루시아_도르트문트와 터키 축구 국가대표팀 소속이다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_CNJ" josa="와">보루시아_도르트문트</sbj>
+		<obj type="PS_NAME" weight="-0.83" label="NP_MOD" josa="의">푸스발-분데스리가</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">league</mln_predict>
+		<cnn_predict conf="0.855">league</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>소속이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T837" total_morp="56" total_word="27">
+		<sent>황금의 초승달 지대는 중앙아시아, 아프가니스탄의 님루즈_주, 파키스탄의 발루치스탄 주, 이란의 국경이 교착하는 지대이고, 아프가니스탄 동부의 잘랄라바드로부터 남부의 칸다하르를 거쳐 남서부의 자란지 남방으로 계속 되는 초승달형의 국경 지대이다.</sent>
+		<sbj type="LCP_PROVINCE" weight="0.19" label="NP_CNJ" josa="">님루즈_주</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">아프가니스탄</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.689">country</mln_predict>
+		<cnn_predict conf="0.573">country</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>지대이다.</head>
+		<cluster>17</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T389" total_morp="23" total_word="11">
+		<sent>2012년 캐나다의 에드먼턴과 밴쿠버에서 열렸던 영화 촬영 겸 라이브의 실황을 수록했다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_CNJ" josa="과">에드먼턴</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">캐나다</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.611">region</mln_predict>
+		<cnn_predict conf="0.362">birthPlace</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>수록했다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T493" total_morp="25" total_word="12">
+		<sent>최다 월드컵 토너먼트 참가: 로타어 마테우스 – 5대회 (멕시코_축구_국가대표팀의 안토니오_카르바할과 역대기록 동률]])</sent>
+		<sbj type="OGG_SPORTS" weight="0.30" label="NP_CNJ" josa="과">안토니오_카르바할</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_MOD" josa="의">멕시코_축구_국가대표팀</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.562">league</mln_predict>
+		<cnn_predict conf="0.780">team</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>동률]])</head>
+		<cluster>15</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T967" total_morp="46" total_word="20">
+		<sent>데뷔부터 1996년 까지 소비에트 톱 리그(소비에트 연방 붕괴 후 우크라이나_프리미어리그)의 FC_드니프로_드니프로페트로우스크와 메타루흐 자포리지아에서 활약한 스크리프니크는 1996년 푸스발-분데스리가의 베르더 브레멘으로 이적했다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_CNJ" josa="와">FC_드니프로_드니프로페트로우스크</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_MOD" josa="의">우크라이나_프리미어리그</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.752">league</mln_predict>
+		<cnn_predict conf="0.449">league</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>이적했다.</head>
+		<cluster>9</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T657" total_morp="32" total_word="17">
+		<sent>동남아시아의 보르네오 섬이 원산지이며, 인도네시아 칼리만탄의 카푸아스 강 북부, 말레이시아의 사바_주와 사라왁 주 그리고 브루나이에 분포하고 있다.</sent>
+		<sbj type="" weight="0.00" label="NP_CNJ" josa="와">사바_주</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">말레이시아</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.831">country</mln_predict>
+		<cnn_predict conf="0.549">country</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>있다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1046" total_morp="39" total_word="20">
+		<sent>최대 규모는 타이의 아유타야 니혼마치로 그외에 베트남의 호이안, 말레이 반도의 파타니 왕국, 캄보디아의 프놈펜, 필리핀 마닐라 등에도 일본인 지구가 존재했다.</sent>
+		<sbj type="LCG_BAY" weight="0.00" label="NP_CNJ" josa="">호이안</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">베트남</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.164">country</mln_predict>
+		<cnn_predict conf="0.663">country</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>존재했다.</head>
+		<cluster>23</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1674" total_morp="50" total_word="18">
+		<sent>짐 자머시의 〈천국보다 낯선〉, 올리버 스톤의 〈플래툰〉, 스티븐 소더버그의 〈섹스·거짓말·비디오테이프〉, 쿠엔틴_타란티노의 〈저수지의_개들〉과 〈펄프 픽션〉 등이 잘 알려져 있다.</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.41" label="NP_CNJ" josa="과">저수지의_개들</sbj>
+		<obj type="PS_NAME" weight="1.43" label="NP_MOD" josa="의">쿠엔틴_타란티노</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.591">artist</mln_predict>
+		<cnn_predict conf="0.592">currentMember</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>있다.</head>
+		<cluster>45</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T760" total_morp="37" total_word="17">
+		<sent>니콜라스 폴 "닉" 리만도 는 미국의 축구 선수로, 현재 메이저_리그_사커의 레알_솔트레이크와 미국 축구 국가대표팀에서 골키퍼로 활약하고 있다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_CNJ" josa="와">레알_솔트레이크</sbj>
+		<obj type="PS_NAME" weight="-0.83" label="NP_MOD" josa="의">메이저_리그_사커</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.983">league</mln_predict>
+		<cnn_predict conf="0.286">birthPlace</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>있다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T651" total_morp="58" total_word="29">
+		<sent>꼼데가르송의 플래그쉽 스토어는 일본 도쿄, 교토, 오사카와 프랑스의 파리, 영국의 런던, 중화인민공화국의 베이징, 홍콩과 미국 뉴욕 등에 있으며, 대한민국에는 서울특별시 용산구 한남동 한강진역 일대에 최초로 꼼데가르송 플래그쉽 스토어가 오픈되었다.</sent>
+		<sbj type="LCP_CAPITALCITY" weight="1.86" label="NP_CNJ" josa="">런던</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">영국</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.467">country</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>오픈되었다.</head>
+		<cluster>23</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

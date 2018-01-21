@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(VP_MOD)--up--NP_MOD--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T4005" total_morp="29" total_word="13">
+		<sent>이 시기는 딥 퍼플, 레드 제플린과 블랙_사바스같은 초기 헤비_메탈 쇠퇴의 부분적인 반응으로서 발전하였다.</sent>
+		<sbj type="PS_NAME" weight="-0.03" label="VP_MOD" josa="">블랙_사바스</sbj>
+		<obj type="FD_ART" weight="3.14" label="NP" josa="">헤비_메탈</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.805">genre</mln_predict>
+		<cnn_predict conf="0.221">currentMember</cnn_predict>
+		<gsdp>(VP_MOD)--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma>쇠퇴의</gsdp_lemma>
+		<head>발전하였다.</head>
+		<cluster>11</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP_SBJ--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3696" total_morp="41" total_word="16">
+		<sent>그의 클럽에서의 미래에 대한 전망에 대한 예상이 속속 흘러나왔고, 그의 PAOK_FC의 디미트리스_살핑기디스와의 교환 이적이 백지화되기도 했다.</sent>
+		<sbj type="TMI_HW" weight="-0.45" label="NP_MOD" josa="의">디미트리스_살핑기디스</sbj>
+		<obj type="" weight="0.00" label="NP_MOD" josa="의">PAOK_FC</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.401">team</mln_predict>
+		<cnn_predict conf="0.425">club</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_SBJ--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>이적이</gsdp_lemma>
+		<head>했다.</head>
+		<cluster>35</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP)--up--X--up--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1249" total_morp="9" total_word="5">
+		<sent>1992년 문화방송 《일밤 - 몰래카메라》</sent>
+		<sbj type="AFW_VIDEO" weight="1.69" label="NP" josa="">일밤</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP" josa="">문화방송</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.995">channel</cnn_predict>
+		<gsdp>(NP)--up--X--up--NP--down--(NP)</gsdp>
+		<gsdp_lemma>---몰래카메라》</gsdp_lemma>
+		<head>몰래카메라》</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

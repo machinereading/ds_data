@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--down--NP_CNJ--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T645" total_morp="37" total_word="16">
+		<sent>봉은사 관내의 여러 말사인 경기도 고양군 적조암, 양평군 용문사_(양평군), 양주군 수종사 주지를 차례로 역임하며 이력을 쌓았다.</sent>
+		<sbj type="LCP_COUNTY" weight="-0.12" label="NP_CNJ" josa="">용문사_(양평군)</sbj>
+		<obj type="LCP_PROVINCE" weight="0.62" label="NP" josa="">경기도</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.234">region</mln_predict>
+		<cnn_predict conf="0.391">locatedInArea</cnn_predict>
+		<gsdp>(NP_CNJ)--down--NP_CNJ--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>적조암,--고양군</gsdp_lemma>
+		<head>쌓았다.</head>
+		<cluster>49</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

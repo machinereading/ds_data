@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--down--NP_AJT--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2105" total_morp="29" total_word="13">
+		<sent>19세기를 배경으로 1820년대 미국 서부 야생에서 사냥꾼 '휴 글래스'(레오나르도_디카프리오)는 회색 곰의 습격을 받는다.</sent>
+		<sbj type="EV_SPORTS" weight="-0.72" label="NP_SBJ" josa="는">레오나르도_디카프리오</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP" josa="">미국</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.279">nationality</mln_predict>
+		<cnn_predict conf="0.324">country</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>받는다.--야생에서--서부</gsdp_lemma>
+		<head>받는다.</head>
+		<cluster>11</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

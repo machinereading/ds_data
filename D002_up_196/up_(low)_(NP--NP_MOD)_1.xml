@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP)--up--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2473" total_morp="30" total_word="17">
+		<sent>기슈 번 초대 번주 도쿠가와 요리노부의 삼남, 에도_막부 초대 쇼군 도쿠가와_이에야스의 손자, 제8대 쇼군 도쿠가와 요시무네의 숙부이다.</sent>
+		<sbj type="LC_OTHERS" weight="-0.82" label="NP" josa="">에도_막부</sbj>
+		<obj type="PS_NAME" weight="1.09" label="NP_MOD" josa="의">도쿠가와_이에야스</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.884">leaderName</mln_predict>
+		<cnn_predict conf="0.331">commander</cnn_predict>
+		<gsdp>(NP)--up--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>숙부이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

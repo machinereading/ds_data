@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--down--VP_MOD--down--(NP_SBJ)</dependency>
+	<total>2</total>
+	<sent_item id="M_T3464" total_morp="65" total_word="27">
+		<sent>그리고, SF 블록버스터의 거장 제임스 캐머런 감독이 메가폰을 잡고 리어나도 디캐프리오, 케이트_윈슬렛이 주연을 맡았던 《타이타닉_(1997년_영화)》을 만들어서 미국전역에 개봉했는데 (북미는 파라마운트 픽쳐스가 전 세계는 20세기 폭스가 배급을 맡았다.</sent>
+		<sbj type="AFW_VIDEO" weight="1.84" label="NP_OBJ" josa="을">타이타닉_(1997년_영화)</sbj>
+		<obj type="OGG_ECONOMY" weight="-0.03" label="NP_SBJ" josa="이">케이트_윈슬렛</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.957">starring</mln_predict>
+		<cnn_predict conf="0.735">starring</cnn_predict>
+		<gsdp>(NP_OBJ)--down--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma>맡았던</gsdp_lemma>
+		<head>맡았다.</head>
+		<cluster>6</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T4045" total_morp="59" total_word="26">
+		<sent>아랍어로 위대하다는 의미를 지닌 아크바르라는 이름에 걸맞게 중앙 아시아에서 들어온 외지인이었던 조부 바부르가 세운 무굴_제국을 진정한 제국이란 이름에 걸맞은 국가로 발전시켜, 아크바르 대제란 이름으로 널리 알려졌다.</sent>
+		<sbj type="" weight="0.00" label="NP_OBJ" josa="을">무굴_제국</sbj>
+		<obj type="PS_NAME" weight="1.09" label="NP_SBJ" josa="가">바부르</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.242">commander</mln_predict>
+		<cnn_predict conf="0.270">birthPlace</cnn_predict>
+		<gsdp>(NP_OBJ)--down--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma>세운</gsdp_lemma>
+		<head>알려졌다.</head>
+		<cluster>17</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

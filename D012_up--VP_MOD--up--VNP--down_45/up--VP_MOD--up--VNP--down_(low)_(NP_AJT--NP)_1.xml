@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1685" total_morp="37" total_word="19">
+		<sent>전 일본 축구 국가대표팀 감독 오카다_다케시와는 같은 오사카_시 출신이자 같은 성씨, 와세다 대학의 동창생, 프로 스포츠 감독이라는 공통점도 많다.</sent>
+		<sbj type="PS_NAME" weight="0.40" label="NP_AJT" josa="는">오카다_다케시</sbj>
+		<obj type="" weight="0.00" label="NP" josa="">오사카_시</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.409">club</mln_predict>
+		<cnn_predict conf="0.250">region</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma>같은--출신이자</gsdp_lemma>
+		<head>많다.</head>
+		<cluster>9</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

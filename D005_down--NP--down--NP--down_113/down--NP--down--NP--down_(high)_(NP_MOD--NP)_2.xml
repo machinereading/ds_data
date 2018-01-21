@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--NP--down--NP--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_T1445" total_morp="35" total_word="14">
+		<sent>《소설 북의》는 2014년 21세기북스에서 출간한 최지영 작가의 책으로, SBS SBS 월화드라마 《닥터_이방인》의 원작 소설이다.</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.87" label="NP_MOD" josa="의">닥터_이방인</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP" josa="">SBS</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.921">channel</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>월화드라마--SBS</gsdp_lemma>
+		<head>소설이다.</head>
+		<cluster>6</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1827" total_morp="25" total_word="11">
+		<sent>2012년 가수 겸 배우 아카니시_진과의 결혼을 발표했으며, 그 해 딸을 출산했다.</sent>
+		<sbj type="PS_NAME" weight="0.48" label="NP_MOD" josa="의">아카니시_진</sbj>
+		<obj type="CV_OCCUPATION" weight="3.04" label="NP" josa="">가수</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.983">occupation</mln_predict>
+		<cnn_predict conf="0.949">occupation</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>배우--겸</gsdp_lemma>
+		<head>출산했다.</head>
+		<cluster>49</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

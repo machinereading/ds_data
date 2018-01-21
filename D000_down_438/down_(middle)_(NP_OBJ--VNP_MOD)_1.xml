@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--down--(VNP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2909" total_morp="33" total_word="16">
+		<sent>이 상은 야구 명예의 전당에 헌액된 투수인 사이_영을 기리기 위해 1956년 커미셔너 포드 프릭에 의해 만들어졌다.</sent>
+		<sbj type="" weight="0.00" label="NP_OBJ" josa="을">사이_영</sbj>
+		<obj type="CV_POSITION" weight="3.17" label="VNP_MOD" josa="">투수</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.604">position</mln_predict>
+		<cnn_predict conf="0.560">position</cnn_predict>
+		<gsdp>(NP_OBJ)--down--(VNP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>만들어졌다.</head>
+		<cluster>12</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

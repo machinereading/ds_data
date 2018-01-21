@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--down--NP--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_T2664" total_morp="23" total_word="8">
+		<sent>로는 오패럴의 빈자리에 전 스코틀랜드_축구_국가대표팀 동료 토미_도처티를 추천하였다.</sent>
+		<sbj type="OGG_FOOD" weight="-0.01" label="NP_OBJ" josa="를">토미_도처티</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP" josa="">스코틀랜드_축구_국가대표팀</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.303">club</mln_predict>
+		<cnn_predict conf="0.283">club</cnn_predict>
+		<gsdp>(NP_OBJ)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>동료</gsdp_lemma>
+		<head>추천하였다.</head>
+		<cluster>34</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T50" total_morp="34" total_word="17">
+		<sent>봉산사는 진주 강씨의 시조인 고구려 장군 강이식을 배향한 사당으로 경남 진주시 상봉동 885번지 대봉산 자락에 위치하고 있다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_OBJ" josa="을">강이식</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP" josa="">고구려</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.442">country</mln_predict>
+		<cnn_predict conf="0.446">locatedInArea</cnn_predict>
+		<gsdp>(NP_OBJ)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>장군</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>49</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

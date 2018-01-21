@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--(VNP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1829" total_morp="58" total_word="24">
+		<sent>주전 포수였던 임수혁이 불의의 사고로 전력에서 이탈하게 되자 2000년부터 6시즌 간 롯데 자이언츠의 주전 포수로 활약하였으나, 2004년에는 병역비리 사건에 연루되어 잠시 전력에서 이탈하기도 했다.</sent>
+		<sbj type="PS_NAME" weight="0.20" label="NP_SBJ" josa="이">임수혁</sbj>
+		<obj type="CV_POSITION" weight="3.17" label="VNP_MOD" josa="">포수</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.863">position</mln_predict>
+		<cnn_predict conf="0.454">position</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(VNP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>했다.</head>
+		<cluster>31</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

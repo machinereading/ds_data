@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP--down--NP_AJT--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3239" total_morp="40" total_word="17">
+		<sent>2008-09 시즌 맨체스터_유나이티드_FC와의 UEFA 챔피언스리그 결승전에서 네마냐_비디치를 제치고 결승골을 득점, FC 바르셀로나의 챔피언스리그 우승과 트레블 달성을 견인하였다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_OBJ" josa="를">네마냐_비디치</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_MOD" josa="의">맨체스터_유나이티드_FC</obj>
+		<gold>team</gold>
+		<mln_predict conf="1.000">club</mln_predict>
+		<cnn_predict conf="0.518">team</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>제치고--결승전에서</gsdp_lemma>
+		<head>견인하였다.</head>
+		<cluster>25</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP_AJT--up--VP--down--NP_AJT--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1492" total_morp="41" total_word="13">
+		<sent>프세우도지우스상과는 게 상과의 하나로 이전에는 에리피데스상과, 붉은무늬부채게상과, 부채게상과, 애기털보부채게상과 그리고 원숭이게상과에 포함시켜 분류했다.</sent>
+		<sbj type="CV_PRIZE" weight="2.27" label="NP_CNJ" josa="과">부채게상과</sbj>
+		<obj type="" weight="0.00" label="NP_SBJ" josa="이">게</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.561">order</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--up--VP--down--NP_AJT--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma>원숭이게상과에--포함시켜--하나로</gsdp_lemma>
+		<head>분류했다.</head>
+		<cluster>5</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

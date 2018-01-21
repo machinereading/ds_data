@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP_MOD--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_T74" total_morp="29" total_word="11">
+		<sent>국가두마는 1993년 보리스_옐친이 1993년_러시아_체제_위기를 일으킨 뒤 소비에트 러시아를 해체하고 만든 것이다.</sent>
+		<sbj type="DT_YEAR" weight="0.41" label="NP_OBJ" josa="를">1993년_러시아_체제_위기</sbj>
+		<obj type="OGG_ECONOMY" weight="-0.12" label="NP_SBJ" josa="이">보리스_옐친</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.693">commander</mln_predict>
+		<cnn_predict conf="0.234">commander</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma>일으킨</gsdp_lemma>
+		<head>것이다.</head>
+		<cluster>11</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

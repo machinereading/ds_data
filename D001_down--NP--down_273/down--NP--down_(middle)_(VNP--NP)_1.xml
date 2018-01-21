@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(VNP)--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1293" total_morp="28" total_word="9">
+		<sent>제2경기장은 충청북도 청주시 청주야구장이고, 2군･3군 홈구장은 충청남도 서산시 서산야구장이다.</sent>
+		<sbj type="AF_BUILDING" weight="1.17" label="VNP" josa="">청주야구장</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="">충청북도</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.550">location</cnn_predict>
+		<gsdp>(VNP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>청주시</gsdp_lemma>
+		<head>서산야구장이다.</head>
+		<cluster>48</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

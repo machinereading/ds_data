@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP_OBJ--down--VP_MOD--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3396" total_morp="49" total_word="22">
+		<sent>강승조의 전북 현대 모터스 이적은 그해 FC_서울로 이적한 중앙 미드필더 하대성의 공백을 감안한 영입이었며, 세간에서는 하대성의 공백을 메우기엔 다소 부족하다는 의견이 많았다.</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP_MOD" josa="의">하대성</sbj>
+		<obj type="CV_SPORTS" weight="-0.29" label="NP_AJT" josa="로">FC_서울</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.902">club</mln_predict>
+		<cnn_predict conf="0.531">club</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_OBJ--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>공백을--이적한</gsdp_lemma>
+		<head>많았다.</head>
+		<cluster>24</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

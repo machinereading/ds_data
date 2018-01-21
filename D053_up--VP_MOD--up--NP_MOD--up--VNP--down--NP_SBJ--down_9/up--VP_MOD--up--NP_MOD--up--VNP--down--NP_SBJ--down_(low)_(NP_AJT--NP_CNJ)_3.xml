@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP_MOD--up--NP_MOD--up--VNP--down--NP_SBJ--down--(NP_CNJ)</dependency>
+	<total>3</total>
+	<sent_item id="M_T1368" total_morp="17" total_word="7">
+		<sent>서부대꼬리박쥐 또는 서부칼집꼬리박쥐는 대꼬리박쥐과에 속하는 박쥐의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">대꼬리박쥐과</sbj>
+		<obj type="OGG_SPORTS" weight="-1.10" label="NP_CNJ" josa="">박쥐</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.944">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--up--VNP--down--NP_SBJ--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma>속하는--박쥐의--일종이다.--서부칼집꼬리박쥐는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>11</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T631" total_morp="17" total_word="7">
+		<sent>서부집박쥐 또는 협곡박쥐는 애기박쥐과에 속하는 박쥐의 일종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">애기박쥐과</sbj>
+		<obj type="LC_OTHERS" weight="-0.68" label="NP_CNJ" josa="">박쥐</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.965">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--up--VNP--down--NP_SBJ--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma>속하는--박쥐의--일종이다.--협곡박쥐는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2661" total_morp="17" total_word="7">
+		<sent>리치단엽박쥐 또는 큰앤틸리스긴혀박쥐는 주걱박쥐과에 속하는 박쥐의 일종이다.</sent>
+		<sbj type="PS_NAME" weight="-0.57" label="NP_AJT" josa="에">주걱박쥐과</sbj>
+		<obj type="OGG_MEDICINE" weight="0.09" label="NP_CNJ" josa="">박쥐</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.983">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--up--VNP--down--NP_SBJ--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma>속하는--박쥐의--일종이다.--큰앤틸리스긴혀박쥐는</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

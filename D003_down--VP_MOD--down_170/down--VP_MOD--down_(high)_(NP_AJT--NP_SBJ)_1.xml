@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--VP_MOD--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1869" total_morp="45" total_word="17">
+		<sent>수영과 웹툰 만화가 강풀은 이연희가 주연한 영화 《순정만화_(영화)》에 출연하는데, 수영과 강풀의 인연이 강풀을 만화를 통해서 공개되기도 하였다.</sent>
+		<sbj type="AFW_VIDEO" weight="1.84" label="NP_AJT" josa="에">순정만화_(영화)</sbj>
+		<obj type="PS_NAME" weight="1.43" label="NP_SBJ" josa="가">이연희</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.995">starring</mln_predict>
+		<cnn_predict conf="0.875">starring</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma>주연한</gsdp_lemma>
+		<head>하였다.</head>
+		<cluster>6</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

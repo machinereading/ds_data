@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP_MOD--up--NP_MOD--up--VNP--down--(NP_SBJ)</dependency>
+	<total>2</total>
+	<sent_item id="M_T1221" total_morp="14" total_word="5">
+		<sent>작은과일박쥐는 큰박쥐류에 속하는 박쥐의 일종이다.</sent>
+		<sbj type="AM_MAMMALIA" weight="2.27" label="NP_AJT" josa="에">큰박쥐류</sbj>
+		<obj type="AM_MAMMALIA" weight="1.62" label="NP_SBJ" josa="는">박쥐</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.947">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--up--VNP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma>속하는--박쥐의--일종이다.</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1339" total_morp="14" total_word="5">
+		<sent>뉴조지아원숭이얼굴박쥐는 큰박쥐류에 속하는 박쥐의 일종이다.</sent>
+		<sbj type="AM_MAMMALIA" weight="2.27" label="NP_AJT" josa="에">큰박쥐류</sbj>
+		<obj type="AM_MAMMALIA" weight="1.62" label="NP_SBJ" josa="는">박쥐</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.966">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--up--VNP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma>속하는--박쥐의--일종이다.</gsdp_lemma>
+		<head>일종이다.</head>
+		<cluster>11</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

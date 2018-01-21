@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--VP_MOD--down--VP--down--NP_AJT--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2756" total_morp="65" total_word="30">
+		<sent>이 징계로 중국_슈퍼리그 잔류에 매우 큰 타격을 입게 된 소속팀 우한_광구는 격렬히 항의하였지만 소용이 없자, 징계에 불복하여 심판을 폭행하고 잔여 경기를 거부하여 2008 시즌 전 경기가 몰수패 처리되고 2부리그로 강등되었다.</sent>
+		<sbj type="" weight="0.00" label="NP_SBJ" josa="는">우한_광구</sbj>
+		<obj type="EV_SPORTS" weight="1.60" label="NP" josa="">중국_슈퍼리그</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.451">league</mln_predict>
+		<cnn_predict conf="0.265">team</cnn_predict>
+		<gsdp>(NP_SBJ)--down--VP_MOD--down--VP--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>된--입게--잔류에</gsdp_lemma>
+		<head>강등되었다.</head>
+		<cluster>12</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--VNP--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2002" total_morp="12" total_word="5">
+		<sent>영화_감독은 이마무라_쇼헤이, 주연은 오가타 켄이다.</sent>
+		<sbj type="PS_NAME" weight="0.48" label="NP_CNJ" josa="">이마무라_쇼헤이</sbj>
+		<obj type="PS_NAME" weight="-0.54" label="NP_SBJ" josa="은">영화_감독</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.203">starring</mln_predict>
+		<cnn_predict conf="0.755">occupation</cnn_predict>
+		<gsdp>(NP_CNJ)--up--VNP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma>켄이다.</gsdp_lemma>
+		<head>켄이다.</head>
+		<cluster>11</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP--up--VP--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_T166" total_morp="42" total_word="14">
+		<sent>추축국이 1941년 6월 바르바로사_작전을 개시하면서 소련의 지도자였던 이오시프_스탈린은 서부 유럽에서 제2전선을 형성하라고 압박하기 시작했다.</sent>
+		<sbj type="LCP_COUNTY" weight="0.44" label="NP_OBJ" josa="을">바르바로사_작전</sbj>
+		<obj type="PS_NAME" weight="0.88" label="NP_SBJ" josa="은">이오시프_스탈린</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.580">commander</mln_predict>
+		<cnn_predict conf="0.443">commander</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma>개시하면서--형성하라고</gsdp_lemma>
+		<head>시작했다.</head>
+		<cluster>17</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

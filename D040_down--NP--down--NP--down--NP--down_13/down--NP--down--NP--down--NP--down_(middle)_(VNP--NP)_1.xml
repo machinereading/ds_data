@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(VNP)--down--NP--down--NP--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T113" total_morp="15" total_word="7">
+		<sent>허기도은 대한민국 제45대 민선 6기 경상남도 산청군수이다.</sent>
+		<sbj type="LCP_COUNTY" weight="-0.10" label="VNP" josa="">산청군</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">대한민국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.610">country</mln_predict>
+		<cnn_predict conf="0.791">country</cnn_predict>
+		<gsdp>(VNP)--down--NP--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>6기--민선--제45대</gsdp_lemma>
+		<head>산청군수이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

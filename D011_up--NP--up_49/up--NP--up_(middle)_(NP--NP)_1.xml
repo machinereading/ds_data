@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--up--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T4070" total_morp="8" total_word="3">
+		<sent>《리버스_에지_오카와바타_탐정사》 주연: 오다기리_조</sent>
+		<sbj type="AFW_PERFORMANCE" weight="0.22" label="NP" josa="">리버스_에지_오카와바타_탐정사</sbj>
+		<obj type="PS_NAME" weight="1.43" label="NP" josa="">오다기리_조</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.470">starring</mln_predict>
+		<cnn_predict conf="0.850">starring</cnn_predict>
+		<gsdp>(NP)--up--NP--up--(NP)</gsdp>
+		<gsdp_lemma>주연:</gsdp_lemma>
+		<head>오다기리_조</head>
+		<cluster>15</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

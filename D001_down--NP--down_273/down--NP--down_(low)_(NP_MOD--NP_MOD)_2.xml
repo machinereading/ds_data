@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--NP--down--(NP_MOD)</dependency>
+	<total>2</total>
+	<sent_item id="M_T3786" total_morp="25" total_word="11">
+		<sent>이름은 시카고_블루스의 거장 머디_워터스의 노래 〈Rollin' Stone〉을 기념하여 브라이언 존스가 이름지었다.</sent>
+		<sbj type="PS_NAME" weight="-0.03" label="NP_MOD" josa="의">머디_워터스</sbj>
+		<obj type="PS_NAME" weight="-0.74" label="NP_MOD" josa="의">시카고_블루스</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.332">currentMember</mln_predict>
+		<cnn_predict conf="0.430">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>거장</gsdp_lemma>
+		<head>이름지었다.</head>
+		<cluster>47</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2878" total_morp="28" total_word="13">
+		<sent>콘텐토의 부모는 이탈리아 나폴리 출신으로, 그의 이름은 SSC_나폴리의 슈퍼스타 디에고_마라도나의 이름을 딴 것이다.</sent>
+		<sbj type="PS_NAME" weight="0.73" label="NP_MOD" josa="의">디에고_마라도나</sbj>
+		<obj type="OGG_ART" weight="-0.35" label="NP_MOD" josa="의">SSC_나폴리</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.840">birthPlace</mln_predict>
+		<cnn_predict conf="0.288">league</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>슈퍼스타</gsdp_lemma>
+		<head>것이다.</head>
+		<cluster>9</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

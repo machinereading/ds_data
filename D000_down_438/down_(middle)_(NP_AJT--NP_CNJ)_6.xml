@@ -1,0 +1,82 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--(NP_CNJ)</dependency>
+	<total>6</total>
+	<sent_item id="M_T1232" total_morp="19" total_word="7">
+		<sent>아메리카솔새과 또는 신대륙개개비과는 참새목에 속하는 새 과이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">참새목</sbj>
+		<obj type="LCG_CONTINENT" weight="-0.25" label="NP_CNJ" josa="과">새</obj>
+		<gold>class</gold>
+		<mln_predict conf="0.767">order</mln_predict>
+		<cnn_predict conf="0.889">class</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>과이다.</head>
+		<cluster>19</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2841" total_morp="19" total_word="7">
+		<sent>애플렉은 1972년 8월 15일 캘리포니아_주, 버클리_(캘리포니아_주)에서 태어났다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에서">버클리_(캘리포니아_주)</sbj>
+		<obj type="LCP_PROVINCE" weight="1.73" label="NP_CNJ" josa="">캘리포니아_주</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.499">region</mln_predict>
+		<cnn_predict conf="0.279">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>태어났다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1946" total_morp="14" total_word="4">
+		<sent>허균, 허난설헌과도 친족관계이기도 했다.</sent>
+		<sbj type="PS_NAME" weight="0.60" label="NP_AJT" josa="도">허난설헌</sbj>
+		<obj type="PS_NAME" weight="1.08" label="NP_CNJ" josa="">허균</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.220">currentMember</mln_predict>
+		<cnn_predict conf="0.828">relative</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>했다.</head>
+		<cluster>5</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3765" total_morp="15" total_word="6">
+		<sent>갈라파고스가마우지는 사다새목과 사다새과에 속하는 곳 가마우지종이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">사다새과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_CNJ" josa="과">사다새목</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.738">order</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>가마우지종이다.</head>
+		<cluster>19</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T143" total_morp="31" total_word="14">
+		<sent>2006년 5월 27일 피트는 졸리와의 사이에서 첫 아이이자, 딸 샤일로 누엘이 나미비아, 스바코프문트에서 태어났다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_AJT" josa="에서">스바코프문트</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_CNJ" josa="">나미비아</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.385">country</mln_predict>
+		<cnn_predict conf="0.393">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>태어났다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3953" total_morp="67" total_word="27">
+		<sent>조반 완행선은 제도고속도교통영단(현재 도쿄_지하철_(기업)) 도쿄_지하철_지요다_선과 직결 운행하는 노선이기 때문에 직결 운행 협정과 차량 사용료 등의 영향으로 지하철 차량과 비슷한 수준의 높은 가감속 성능과 에너지 절약이 요구된 노선이었다.</sent>
+		<sbj type="OGG_ECONOMY" weight="0.45" label="NP_AJT" josa="과">도쿄_지하철_지요다_선</sbj>
+		<obj type="OGG_ECONOMY" weight="1.13" label="NP_CNJ" josa="">도쿄_지하철_(기업)</obj>
+		<gold>owner</gold>
+		<mln_predict conf="0.688">operator</mln_predict>
+		<cnn_predict conf="0.295">routeEnd</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>노선이었다.</head>
+		<cluster>1</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

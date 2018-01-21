@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--up--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2649" total_morp="31" total_word="15">
+		<sent>2008년 미얀마 최대도시 양곤 등을 강타하여 10만 명 이상을 사망하게 한 사이클론 나르기스는 4등급 사이클론이었다.</sent>
+		<sbj type="LCP_COUNTRY" weight="-0.62" label="NP" josa="">미얀마</sbj>
+		<obj type="LCP_CAPITALCITY" weight="-0.71" label="NP" josa="">양곤</obj>
+		<gold>largestCity</gold>
+		<mln_predict conf="0.325">location</mln_predict>
+		<cnn_predict conf="0.495">country</cnn_predict>
+		<gsdp>(NP)--up--NP--up--(NP)</gsdp>
+		<gsdp_lemma>최대도시</gsdp_lemma>
+		<head>사이클론이었다.</head>
+		<cluster>23</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

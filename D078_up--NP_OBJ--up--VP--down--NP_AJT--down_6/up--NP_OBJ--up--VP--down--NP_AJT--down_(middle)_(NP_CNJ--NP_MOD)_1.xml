@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP_OBJ--up--VP--down--NP_AJT--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2190" total_morp="19" total_word="7">
+		<sent>까마귀과는 참새목의 하위분류로 까마귀, 까치, 어치를 포함한다.</sent>
+		<sbj type="AM_BIRD" weight="2.10" label="NP_CNJ" josa="">까치</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP_MOD" josa="의">참새목</obj>
+		<gold>order</gold>
+		<mln_predict conf="0.461">order</mln_predict>
+		<cnn_predict conf="0.481">order</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_OBJ--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>어치를--포함한다.--하위분류로</gsdp_lemma>
+		<head>포함한다.</head>
+		<cluster>5</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

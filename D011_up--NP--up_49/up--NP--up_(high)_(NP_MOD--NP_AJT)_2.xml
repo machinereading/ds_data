@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP--up--(NP_AJT)</dependency>
+	<total>2</total>
+	<sent_item id="M_T4030" total_morp="38" total_word="14">
+		<sent>교황 스테파노 2세는 롬바르드족에게 위협받지 않으려고 중립을 선언하였지만 실제로는 프랑크_왕국의 국왕 피핀_3세에게 지켜달라고 호소하였다.</sent>
+		<sbj type="LCP_COUNTRY" weight="2.15" label="NP_MOD" josa="의">프랑크_왕국</sbj>
+		<obj type="PS_NAME" weight="1.09" label="NP_AJT" josa="에게">피핀_3세</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.987">leaderName</mln_predict>
+		<cnn_predict conf="0.472">leaderName</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--(NP_AJT)</gsdp>
+		<gsdp_lemma>국왕</gsdp_lemma>
+		<head>호소하였다.</head>
+		<cluster>17</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3136" total_morp="16" total_word="6">
+		<sent>1631년 무굴_제국의 황제 샤_자한에 의해 지어졌다.</sent>
+		<sbj type="LCP_COUNTRY" weight="2.15" label="NP_MOD" josa="의">무굴_제국</sbj>
+		<obj type="PS_NAME" weight="1.09" label="NP_AJT" josa="에">샤_자한</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.997">leaderName</mln_predict>
+		<cnn_predict conf="0.444">leaderName</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--(NP_AJT)</gsdp>
+		<gsdp_lemma>황제</gsdp_lemma>
+		<head>지어졌다.</head>
+		<cluster>17</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

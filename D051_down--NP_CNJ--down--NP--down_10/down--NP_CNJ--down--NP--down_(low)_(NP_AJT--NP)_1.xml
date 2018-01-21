@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--NP_CNJ--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1637" total_morp="25" total_word="11">
+		<sent>경주 남산 창림사지 삼층석탑은 경상북도 경주시 배동, 남산_(경주)에 있는 신라의 탑이다.</sent>
+		<sbj type="LCP_COUNTY" weight="-0.12" label="NP_AJT" josa="에">남산_(경주)</sbj>
+		<obj type="LCP_PROVINCE" weight="0.62" label="NP" josa="">경상북도</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.606">region</mln_predict>
+		<cnn_predict conf="0.939">locatedInArea</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_CNJ--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>배동,--경주시</gsdp_lemma>
+		<head>탑이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

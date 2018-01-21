@@ -1,0 +1,160 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--(NP_MOD)</dependency>
+	<total>12</total>
+	<sent_item id="M_T995" total_morp="13" total_word="5">
+		<sent>임진왜란 중 이순신의 한산도_대첩에서 대패하였다.</sent>
+		<sbj type="EV_WAR_REVOLUTION" weight="2.59" label="NP_AJT" josa="에서">한산도_대첩</sbj>
+		<obj type="PS_NAME" weight="0.88" label="NP_MOD" josa="의">이순신</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.997">commander</mln_predict>
+		<cnn_predict conf="0.786">commander</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>대패하였다.</head>
+		<cluster>22</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3079" total_morp="17" total_word="9">
+		<sent>우켄 촌은 일본 가고시마_현의 아마미오_섬에 있는 오시마 군의 촌이다.</sent>
+		<sbj type="LCG_ISLAND" weight="1.38" label="NP_AJT" josa="에">아마미오_섬</sbj>
+		<obj type="LCP_PROVINCE" weight="1.73" label="NP_MOD" josa="의">가고시마_현</obj>
+		<gold>region</gold>
+		<mln_predict conf="1.000">region</mln_predict>
+		<cnn_predict conf="0.760">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>촌이다.</head>
+		<cluster>27</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2724" total_morp="31" total_word="14">
+		<sent>1974년, ZDF는 비스바덴에 임시로 본사를 둔 뒤 현 본사가 위치한 라인란트팔츠_주의 마인츠로 본사를 옮겼다.</sent>
+		<sbj type="LCP_CITY" weight="2.07" label="NP_AJT" josa="로">마인츠</sbj>
+		<obj type="LCP_PROVINCE" weight="1.73" label="NP_MOD" josa="의">라인란트팔츠_주</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.734">region</mln_predict>
+		<cnn_predict conf="0.264">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>옮겼다.</head>
+		<cluster>19</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1078" total_morp="32" total_word="13">
+		<sent>공군 장교 복무 및 서울대학교 재학 당시 MBC_TV의 《생방송_퀴즈가_좋다》에 참가하여 왕중왕을 차지하기도 했다.</sent>
+		<sbj type="AFW_VIDEO" weight="1.69" label="NP_AJT" josa="에">생방송_퀴즈가_좋다</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP_MOD" josa="의">MBC_TV</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.871">channel</mln_predict>
+		<cnn_predict conf="0.849">channel</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>했다.</head>
+		<cluster>34</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T4050" total_morp="34" total_word="18">
+		<sent>세르소 조프루아 공자루아 디에 는 흔히 세레 디에 로 알려진 코트디부아르의 축구 미드필더로, 현재 스위스_슈퍼리그의 FC_바젤에서 활약하고 있다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_AJT" josa="에서">FC_바젤</sbj>
+		<obj type="EV_SPORTS" weight="1.60" label="NP_MOD" josa="의">스위스_슈퍼리그</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.971">league</mln_predict>
+		<cnn_predict conf="0.492">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>있다.</head>
+		<cluster>25</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3812" total_morp="26" total_word="11">
+		<sent>토마시 바츨리크는 체코의 축구 선수로, 현재 스위스_슈퍼리그의 FC_바젤에서 골키퍼로 활약하고 있다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_AJT" josa="에서">FC_바젤</sbj>
+		<obj type="EV_SPORTS" weight="1.60" label="NP_MOD" josa="의">스위스_슈퍼리그</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.994">league</mln_predict>
+		<cnn_predict conf="0.871">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>있다.</head>
+		<cluster>25</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1578" total_morp="15" total_word="4">
+		<sent>도요토미_히데요시의 조선 출병(임진왜란)에도 참가했다.</sent>
+		<sbj type="EV_WAR_REVOLUTION" weight="2.59" label="NP_AJT" josa="도">임진왜란</sbj>
+		<obj type="PS_NAME" weight="0.88" label="NP_MOD" josa="의">도요토미_히데요시</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.694">commander</mln_predict>
+		<cnn_predict conf="0.489">commander</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>참가했다.</head>
+		<cluster>2</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1378" total_morp="17" total_word="5">
+		<sent>2015년 7월 풋볼_리그_챔피언십의 버밍엄_시티_FC로 이적했다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_AJT" josa="로">버밍엄_시티_FC</sbj>
+		<obj type="EV_SPORTS" weight="1.60" label="NP_MOD" josa="의">풋볼_리그_챔피언십</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.773">league</mln_predict>
+		<cnn_predict conf="0.941">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>이적했다.</head>
+		<cluster>34</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3361" total_morp="18" total_word="7">
+		<sent>이성계의 위화도_회군과 조선 건국에 반대하여 절의를 지켰다.</sent>
+		<sbj type="OGG_MILITARY" weight="2.49" label="NP_AJT" josa="과">위화도_회군</sbj>
+		<obj type="PS_NAME" weight="0.88" label="NP_MOD" josa="의">이성계</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.320">commander</mln_predict>
+		<cnn_predict conf="0.298">deathPlace</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>지켰다.</head>
+		<cluster>36</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3303" total_morp="19" total_word="7">
+		<sent>이 속은 이전에는 노박덩굴목의 노박덩굴과에 속해 있었다.</sent>
+		<sbj type="PT_TYPE" weight="2.01" label="NP_AJT" josa="에">노박덩굴과</sbj>
+		<obj type="PT_TYPE" weight="2.63" label="NP_MOD" josa="의">노박덩굴목</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.312">order</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>있었다.</head>
+		<cluster>29</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3194" total_morp="50" total_word="22">
+		<sent>그는 1992년 스위스_슈퍼리그의 세르베트_FC에서 선수 생활을 시작하였으며, 스페인 프리메라리가의 CD 테네리페에서도 잠시 선수생활을 하였으나, 1997년 이후 독일 분데스리가로 와서 주로 선수생활을 하였다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_AJT" josa="에서">세르베트_FC</sbj>
+		<obj type="EV_SPORTS" weight="1.60" label="NP_MOD" josa="의">스위스_슈퍼리그</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.953">league</mln_predict>
+		<cnn_predict conf="0.584">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>하였다.</head>
+		<cluster>25</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3199" total_morp="15" total_word="4">
+		<sent>2016년 K리그_클래식의 제주_유나이티드_FC로 이적하였다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_AJT" josa="로">제주_유나이티드_FC</sbj>
+		<obj type="EV_SPORTS" weight="1.60" label="NP_MOD" josa="의">K리그_클래식</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">league</mln_predict>
+		<cnn_predict conf="0.821">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>이적하였다.</head>
+		<cluster>25</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

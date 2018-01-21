@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--VP_MOD--down--NP_AJT--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1180" total_morp="29" total_word="15">
+		<sent>해마다 독일의 하노버에서 열리는 세빗에서는 최신 컴퓨터 모델과 미래형 컴퓨터에 대한 정보를 얻을 수 있다.</sent>
+		<sbj type="EV_OTHERS" weight="0.51" label="NP_AJT" josa="는">세빗</sbj>
+		<obj type="LCP_COUNTRY" weight="-0.30" label="NP_MOD" josa="의">독일</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.432">location</mln_predict>
+		<cnn_predict conf="0.340">birthPlace</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>열리는--하노버에서</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

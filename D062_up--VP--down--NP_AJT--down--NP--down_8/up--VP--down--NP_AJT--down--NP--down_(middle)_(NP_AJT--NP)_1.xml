@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--NP_AJT--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2922" total_morp="22" total_word="8">
+		<sent>사무실은 전라남도 나주시 빛가람로 601 (빛가람동, 한국농촌경제연구원)에 있다.</sent>
+		<sbj type="OGG_ECONOMY" weight="1.40" label="NP_AJT" josa="에">한국농촌경제연구원</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="">전라남도</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.574">routeEnd</mln_predict>
+		<cnn_predict conf="0.373">location</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>있다.--빛가람로--나주시</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

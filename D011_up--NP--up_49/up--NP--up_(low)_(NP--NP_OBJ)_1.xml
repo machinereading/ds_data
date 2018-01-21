@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--up--(NP_OBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1694" total_morp="22" total_word="8">
+		<sent>이구영은 북한에서는 김일성에게 연암 박지원_(1737년) 등 실학사상을 강의하였다.</sent>
+		<sbj type="PS_NAME" weight="0.48" label="NP" josa="">박지원_(1737년)</sbj>
+		<obj type="FD_PHILOSOPHY" weight="0.00" label="NP_OBJ" josa="을">실학</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.409">club</mln_predict>
+		<cnn_predict conf="0.498">relative</cnn_predict>
+		<gsdp>(NP)--up--NP--up--(NP_OBJ)</gsdp>
+		<gsdp_lemma>등</gsdp_lemma>
+		<head>강의하였다.</head>
+		<cluster>13</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

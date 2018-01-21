@@ -1,0 +1,212 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP)</dependency>
+	<total>16</total>
+	<sent_item id="M_T46" total_morp="18" total_word="6">
+		<sent>크라우가스토르과는 개구리목 신와아목에 속하는 양서류 과이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">신와아목</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP" josa="">양서류</obj>
+		<gold>class</gold>
+		<mln_predict conf="0.720">class</mln_predict>
+		<cnn_predict conf="0.910">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma>속하는--과이다.</gsdp_lemma>
+		<head>과이다.</head>
+		<cluster>42</cluster>
+		<comment>속하는. Typical한 구조</comment>
+	</sent_item>
+	<sent_item id="M_T4057" total_morp="13" total_word="5">
+		<sent>좀뱀잠자리과는 뱀잠자리목에 속하는 곤충 과이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">뱀잠자리목</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP" josa="">곤충</obj>
+		<gold>class</gold>
+		<mln_predict conf="0.868">class</mln_predict>
+		<cnn_predict conf="0.941">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma>속하는--과이다.</gsdp_lemma>
+		<head>과이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2228" total_morp="17" total_word="7">
+		<sent>코브라과는 뱀목 뱀 참뱀하목에 속하는 파충류 과이다.</sent>
+		<sbj type="AM_REPTILIA" weight="0.31" label="NP_AJT" josa="에">참뱀하목</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP" josa="">파충류</obj>
+		<gold>class</gold>
+		<mln_predict conf="0.509">class</mln_predict>
+		<cnn_predict conf="0.887">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma>속하는--과이다.</gsdp_lemma>
+		<head>과이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T582" total_morp="16" total_word="6">
+		<sent>비공식군 하이새류에 속하는 수생 복족류 연체동물이다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에">하이새류</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP" josa="">복족류</obj>
+		<gold>class</gold>
+		<mln_predict conf="0.906">class</mln_predict>
+		<cnn_predict conf="0.609">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma>속하는--연체동물이다.</gsdp_lemma>
+		<head>연체동물이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1826" total_morp="13" total_word="5">
+		<sent>반점가시나무쥐속은 가시쥐과에 속하는 설치류 속이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">가시쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP" josa="">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.972">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma>속하는--속이다.</gsdp_lemma>
+		<head>속이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1604" total_morp="15" total_word="6">
+		<sent>로퀜스는 제리케이와 메익센스로 구성된 힙합 듀오이다.</sent>
+		<sbj type="PS_NAME" weight="-0.03" label="NP_AJT" josa="로">메익센스</sbj>
+		<obj type="FD_ART" weight="3.14" label="NP" josa="">힙합</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.457">genre</mln_predict>
+		<cnn_predict conf="0.324">currentMember</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma>구성된--듀오이다.</gsdp_lemma>
+		<head>듀오이다.</head>
+		<cluster>23</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3562" total_morp="15" total_word="5">
+		<sent>뱅어과는 바다빙어목에 속하는 조기어류 과이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">바다빙어목</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP" josa="">조기어류</obj>
+		<gold>class</gold>
+		<mln_predict conf="0.724">order</mln_predict>
+		<cnn_predict conf="0.952">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma>속하는--과이다.</gsdp_lemma>
+		<head>과이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1660" total_morp="22" total_word="9">
+		<sent>기름갈치꼬치 또는 단순히 기름치는 고등어목 갈치꼬치과에 속하는 조기어류 물고기이다.</sent>
+		<sbj type="AM_FISH" weight="-0.13" label="NP_AJT" josa="에">갈치꼬치과</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP" josa="">조기어류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.932">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma>속하는--물고기이다.</gsdp_lemma>
+		<head>물고기이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2203" total_morp="15" total_word="6">
+		<sent>차코쥐속은 비단털쥐과 목화쥐아과에 속하는 설치류 속이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">목화쥐아과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP" josa="">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.962">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma>속하는--속이다.</gsdp_lemma>
+		<head>속이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2135" total_morp="14" total_word="5">
+		<sent>살찐생쥐속은 붉은숲쥐과에 속하는 설치류 속이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">붉은숲쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP" josa="">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="0.602">order</mln_predict>
+		<cnn_predict conf="0.941">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma>속하는--속이다.</gsdp_lemma>
+		<head>속이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2551" total_morp="14" total_word="5">
+		<sent>산비스카차속은 친칠라과에 속하는 설치류 속이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">친칠라과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP" josa="">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.895">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma>속하는--속이다.</gsdp_lemma>
+		<head>속이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1639" total_morp="17" total_word="6">
+		<sent>회색긴팔원숭이는 긴팔원숭이과의 긴팔원숭이속에 속하는 영장류 유인원이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">긴팔원숭이속</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP" josa="">영장류</obj>
+		<gold>order</gold>
+		<mln_predict conf="0.950">class</mln_predict>
+		<cnn_predict conf="0.751">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma>속하는--유인원이다.</gsdp_lemma>
+		<head>유인원이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1933" total_morp="17" total_word="7">
+		<sent>큰흙파는쥐속 또는 큰주머니고퍼속는 흙파는쥐류에 속하는 설치류 속이다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에">흙파는쥐류</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP" josa="">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.934">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma>속하는--속이다.</gsdp_lemma>
+		<head>속이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T317" total_morp="17" total_word="8">
+		<sent>햄스터쥐속 또는 베아미스속은 붉은숲쥐과에 속하는 아프리카 설치류 속이다.</sent>
+		<sbj type="OG_OTHERS" weight="-0.03" label="NP_AJT" josa="에">붉은숲쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP" josa="">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="0.696">class</mln_predict>
+		<cnn_predict conf="0.979">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma>속하는--속이다.</gsdp_lemma>
+		<head>속이다.</head>
+		<cluster>20</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2223" total_morp="14" total_word="6">
+		<sent>대서양가시쥐속은 가시쥐과에 속하는 남아메리카 설치류 속이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">가시쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP" josa="">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.987">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma>속하는--속이다.</gsdp_lemma>
+		<head>속이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3433" total_morp="14" total_word="5">
+		<sent>무지개송사리과는 열대송사리목에 속하는 조기어류 과이다.</sent>
+		<sbj type="TM_CLIMATE" weight="-0.03" label="NP_AJT" josa="에">열대송사리목</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP" josa="">조기어류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.953">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma>속하는--과이다.</gsdp_lemma>
+		<head>과이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

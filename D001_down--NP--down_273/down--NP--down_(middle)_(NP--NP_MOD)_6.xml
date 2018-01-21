@@ -1,0 +1,82 @@
+<sentence_list>
+	<dependency>(NP)--down--NP--down--(NP_MOD)</dependency>
+	<total>6</total>
+	<sent_item id="M_T3606" total_morp="20" total_word="9">
+		<sent>• 소격동은 가수 서태지의 9집 앨범 《Quiet_Night》 2번 수록곡이다.</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.68" label="NP" josa="">Quiet_Night</sbj>
+		<obj type="PS_NAME" weight="0.89" label="NP_MOD" josa="의">서태지</obj>
+		<gold>artist</gold>
+		<mln_predict conf="1.000">artist</mln_predict>
+		<cnn_predict conf="0.694">artist</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>앨범</gsdp_lemma>
+		<head>수록곡이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2032" total_morp="19" total_word="10">
+		<sent>《Reclassified》는 래퍼 이기_아잘리아의 정규 데뷔 앨범 "The_New_Classic" 을 재발매한 앨범이다.</sent>
+		<sbj type="" weight="0.00" label="NP" josa="">The_New_Classic</sbj>
+		<obj type="PS_NAME" weight="0.89" label="NP_MOD" josa="의">이기_아잘리아</obj>
+		<gold>artist</gold>
+		<mln_predict conf="0.783">artist</mln_predict>
+		<cnn_predict conf="0.683">artist</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>앨범</gsdp_lemma>
+		<head>앨범이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T104" total_morp="17" total_word="5">
+		<sent>남유진은 대한민국의 제18·19·20대 경상북도 구미시장이다.</sent>
+		<sbj type="LCP_PROVINCE" weight="0.19" label="NP" josa="">경상북도</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">대한민국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.926">country</mln_predict>
+		<cnn_predict conf="0.623">country</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>제18·19·20대</gsdp_lemma>
+		<head>구미시장이다.</head>
+		<cluster>45</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2285" total_morp="26" total_word="11">
+		<sent>"If I Fell"은 본래 비틀즈의 음반 "A_Hard_Day's_Night" 수록곡으로 마룬 5가 커버하였다.</sent>
+		<sbj type="" weight="0.00" label="NP" josa="">A_Hard_Day's_Night</sbj>
+		<obj type="PS_NAME" weight="0.89" label="NP_MOD" josa="의">비틀즈</obj>
+		<gold>artist</gold>
+		<mln_predict conf="0.976">artist</mln_predict>
+		<cnn_predict conf="0.674">artist</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>음반</gsdp_lemma>
+		<head>커버하였다.</head>
+		<cluster>19</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3633" total_morp="15" total_word="8">
+		<sent>멤버 카메나시 카즈야와 탈퇴멤버 다나카_코키의 드라마 《단_하나의_사랑》 주제가.</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.41" label="NP" josa="">단_하나의_사랑</sbj>
+		<obj type="PS_NAME" weight="1.43" label="NP_MOD" josa="의">다나카_코키</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.602">channel</mln_predict>
+		<cnn_predict conf="0.397">starring</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>드라마</gsdp_lemma>
+		<head>주제가.</head>
+		<cluster>47</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2537" total_morp="38" total_word="16">
+		<sent>신세경은 1998년, 서태지의 5집 《Seo_Tai_Ji》 수록곡 "Take 5"에 포스터 모델로 출연해 나중에 대중들에게 알려지면서 화제가 되었다.</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.68" label="NP" josa="">Seo_Tai_Ji</sbj>
+		<obj type="PS_NAME" weight="0.89" label="NP_MOD" josa="의">서태지</obj>
+		<gold>artist</gold>
+		<mln_predict conf="1.000">artist</mln_predict>
+		<cnn_predict conf="0.510">artist</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>5집</gsdp_lemma>
+		<head>되었다.</head>
+		<cluster>47</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

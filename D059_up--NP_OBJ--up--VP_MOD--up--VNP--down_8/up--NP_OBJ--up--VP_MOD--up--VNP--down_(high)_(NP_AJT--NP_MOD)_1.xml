@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--NP_OBJ--up--VP_MOD--up--VNP--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3004" total_morp="29" total_word="10">
+		<sent>부강화물선은 세종특별자치시의 부강역에서 부강화물역까지를 잇는 총연장 2.9km인 한국철도공사의 철도 노선이다.</sent>
+		<sbj type="LC_OTHERS" weight="1.82" label="NP_AJT" josa="에서">부강역</sbj>
+		<obj type="OGG_ECONOMY" weight="1.66" label="NP_MOD" josa="의">한국철도공사</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.810">location</mln_predict>
+		<cnn_predict conf="0.364">owningOrganisation</cnn_predict>
+		<gsdp>(NP_AJT)--up--NP_OBJ--up--VP_MOD--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>부강화물역까지를--잇는--노선이다.</gsdp_lemma>
+		<head>노선이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

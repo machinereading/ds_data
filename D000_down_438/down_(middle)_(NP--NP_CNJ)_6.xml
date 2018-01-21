@@ -1,0 +1,82 @@
+<sentence_list>
+	<dependency>(NP)--down--(NP_CNJ)</dependency>
+	<total>6</total>
+	<sent_item id="M_T3105" total_morp="50" total_word="23">
+		<sent>윤보선의 당숙 윤치호, 아버지 윤치소, 백부 윤치오 등은 이승만과 인연이 있었는데, 그가 상하이를 떠나 영국으로 유학한 뒤에야 이승만에 대한 부정적인 시선을 거두게 된다.</sent>
+		<sbj type="PS_NAME" weight="0.60" label="NP" josa="">윤치오</sbj>
+		<obj type="PS_NAME" weight="1.08" label="NP_CNJ" josa="">윤치호</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.657">relative</mln_predict>
+		<cnn_predict conf="0.786">relative</cnn_predict>
+		<gsdp>(NP)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>된다.</head>
+		<cluster>11</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T931" total_morp="32" total_word="12">
+		<sent>그리고 이카키나과를 미분류 목이나 가리야목과 가까운 과로 파악했다, 펜난티아과, 스테모누루스과(감탕나무목) 그리고 카르디옵테리스과. 이카키나과는 현재 31속 내지 34속 사이에 150종 이상을 포함하고 있다.</sent>
+		<sbj type="CV_TRIBE" weight="0.10" label="NP" josa="">카르디옵테리스과</sbj>
+		<obj type="PT_TREE" weight="0.58" label="NP_CNJ" josa="">감탕나무목</obj>
+		<gold>order</gold>
+		<mln_predict conf="0.200">related</mln_predict>
+		<cnn_predict conf="0.187">order</cnn_predict>
+		<gsdp>(NP)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>카르디옵테리스과.</head>
+		<cluster>36</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T298" total_morp="31" total_word="14">
+		<sent>증조부 윤취동이 아산에 대농토를 마련했고, 할아버지 윤영렬, 종조부 윤웅렬 형제가 무관이 되면서 가세를 일으켰다.</sent>
+		<sbj type="PS_NAME" weight="0.60" label="NP" josa="">윤웅렬</sbj>
+		<obj type="PS_NAME" weight="1.08" label="NP_CNJ" josa="">윤영렬</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.960">relative</mln_predict>
+		<cnn_predict conf="0.978">relative</cnn_predict>
+		<gsdp>(NP)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>일으켰다.</head>
+		<cluster>49</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1502" total_morp="28" total_word="14">
+		<sent>그는 조선 조선 선조 때의 형제 정승 윤두수, 윤근수 형제의 후손이었고, 도재 윤흔의 6대손이었다.</sent>
+		<sbj type="PS_NAME" weight="0.60" label="NP" josa="">윤근수</sbj>
+		<obj type="PS_NAME" weight="1.08" label="NP_CNJ" josa="">윤두수</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.731">birthPlace</mln_predict>
+		<cnn_predict conf="0.965">relative</cnn_predict>
+		<gsdp>(NP)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>6대손이었다.</head>
+		<cluster>49</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1281" total_morp="15" total_word="10">
+		<sent>이복 숙부 : 윤발, 윤치호, 윤보선, 윤치영, 윤일선 등의 선조</sent>
+		<sbj type="PS_NAME" weight="0.60" label="NP" josa="">윤일선</sbj>
+		<obj type="PS_NAME" weight="1.08" label="NP_CNJ" josa="">윤치호</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.985">relative</mln_predict>
+		<cnn_predict conf="0.914">relative</cnn_predict>
+		<gsdp>(NP)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>선조</head>
+		<cluster>18</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1818" total_morp="27" total_word="12">
+		<sent>할머니: 안동김씨(安東金氏, 1800년? - 1900년 10월, 아버지 윤영렬, 큰아버지 윤웅렬 형제의 생모)</sent>
+		<sbj type="PS_NAME" weight="0.60" label="NP" josa="">윤웅렬</sbj>
+		<obj type="PS_NAME" weight="1.08" label="NP_CNJ" josa="">윤영렬</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.810">relative</mln_predict>
+		<cnn_predict conf="0.871">relative</cnn_predict>
+		<gsdp>(NP)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>생모)</head>
+		<cluster>18</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

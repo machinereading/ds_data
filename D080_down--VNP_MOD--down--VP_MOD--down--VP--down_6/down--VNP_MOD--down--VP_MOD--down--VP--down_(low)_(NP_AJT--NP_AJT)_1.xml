@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--VNP_MOD--down--VP_MOD--down--VP--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1758" total_morp="32" total_word="13">
+		<sent>보레크 도칼은 체코의 축구 선수이며, 현재 중국_슈퍼리그에 소속되어 있는 팀인 허난_젠예에서 활약하고 있다.</sent>
+		<sbj type="AF_BUILDING" weight="-0.22" label="NP_AJT" josa="에서">허난_젠예</sbj>
+		<obj type="OGG_SPORTS" weight="0.70" label="NP_AJT" josa="에">중국_슈퍼리그</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.783">league</mln_predict>
+		<cnn_predict conf="0.732">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--VNP_MOD--down--VP_MOD--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>팀인--있는--소속되어</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>24</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

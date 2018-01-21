@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP)--up--(VP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1931" total_morp="26" total_word="14">
+		<sent>의붓형: 장다웨이(姜大衛, , 아버지는 다르나 같은 어머니 소생의 의붓형으로 홍콩 영화 배우 겸 영화_감독.)</sent>
+		<sbj type="PS_NAME" weight="0.48" label="NP" josa="">장다웨이</sbj>
+		<obj type="CV_OCCUPATION" weight="3.04" label="VP" josa="">영화_감독</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="1.000">occupation</mln_predict>
+		<cnn_predict conf="0.934">occupation</cnn_predict>
+		<gsdp>(NP)--up--(VP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>영화_감독.)</head>
+		<cluster>18</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

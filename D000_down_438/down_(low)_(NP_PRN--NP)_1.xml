@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_PRN)--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3063" total_morp="13" total_word="6">
+		<sent>후카마치 쇼헤이/켄 소고루 - 키쿠치_후마 (Sexy_Zone)</sent>
+		<sbj type="MT_CHEMICAL" weight="0.15" label="NP_PRN" josa="">Sexy_Zone</sbj>
+		<obj type="MT_CHEMICAL" weight="-0.13" label="NP" josa="">키쿠치_후마</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.576">routeEnd</mln_predict>
+		<cnn_predict conf="0.749">currentMember</cnn_predict>
+		<gsdp>(NP_PRN)--down--(NP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>(Sexy_Zone)</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(VNP)--down--VP_MOD--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1266" total_morp="27" total_word="8">
+		<sent>《12년만의 재회: 달래 된, 장국》은 JTBC에서 방송된 JTBC_주말연속극이다.</sent>
+		<sbj type="FD_ART" weight="1.48" label="VNP" josa="">JTBC_주말연속극</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP_AJT" josa="에서">JTBC</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.973">channel</cnn_predict>
+		<gsdp>(VNP)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>방송된</gsdp_lemma>
+		<head>JTBC_주말연속극이다.</head>
+		<cluster>15</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

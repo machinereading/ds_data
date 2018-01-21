@@ -1,0 +1,186 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP_MOD--up--(VNP)</dependency>
+	<total>14</total>
+	<sent_item id="M_T710" total_morp="14" total_word="5">
+		<sent>사이먼가시쥐는 가시쥐과에 속하는 남아메리카 설치류이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">가시쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="VNP" josa="">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.982">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(VNP)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>설치류이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2853" total_morp="14" total_word="5">
+		<sent>치브카물쥐는 비단털쥐과 목화쥐아과에 속하는 설치류이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">목화쥐아과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="VNP" josa="">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.863">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(VNP)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>설치류이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T160" total_morp="13" total_word="5">
+		<sent>큰저녁쥐는 비단털쥐과에 속하는 남아메리카 설치류이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">비단털쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="VNP" josa="">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.983">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(VNP)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>설치류이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2859" total_morp="13" total_word="4">
+		<sent>볼리비아큰귀쥐는 비단털쥐과에 속하는 설치류이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">비단털쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="VNP" josa="">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.932">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(VNP)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>설치류이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2498" total_morp="13" total_word="4">
+		<sent>풀무치는 메뚜기과에 속하는 곤충이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">메뚜기과</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="VNP" josa="">곤충</obj>
+		<gold>class</gold>
+		<mln_predict conf="0.570">order</mln_predict>
+		<cnn_predict conf="0.959">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(VNP)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>곤충이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3626" total_morp="16" total_word="5">
+		<sent>줄무늬물방개는 딱정벌레목 물방개과에 속하는 곤충이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">물방개과</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="VNP" josa="">곤충</obj>
+		<gold>class</gold>
+		<mln_predict conf="0.482">class</mln_predict>
+		<cnn_predict conf="0.845">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(VNP)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>곤충이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2838" total_morp="13" total_word="5">
+		<sent>테페가시쥐는 가시쥐과에 속하는 남아메리카 설치류이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">가시쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="VNP" josa="">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.985">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(VNP)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>설치류이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2984" total_morp="13" total_word="5">
+		<sent>가이아나가시쥐는 가시쥐과에 속하는 남아메리카 설치류이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">가시쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="VNP" josa="">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.983">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(VNP)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>설치류이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3253" total_morp="14" total_word="5">
+		<sent>쥐꼬리대서양가시쥐는 가시쥐과에 속하는 남아메리카 설치류이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">가시쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="VNP" josa="">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.982">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(VNP)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>설치류이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1146" total_morp="12" total_word="4">
+		<sent>파라모올드필드쥐는 비단털쥐과에 속하는 설치류이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">비단털쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="VNP" josa="">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.952">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(VNP)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>설치류이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3860" total_morp="14" total_word="5">
+		<sent>피셔기아라는 가시쥐과에 속하는 남아메리카 설치류이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">가시쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="VNP" josa="">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.961">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(VNP)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>설치류이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1157" total_morp="13" total_word="5">
+		<sent>파라과이푸나레는 가시쥐과에 속하는 남아메리카 설치류이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">가시쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="VNP" josa="">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.971">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(VNP)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>설치류이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3416" total_morp="15" total_word="5">
+		<sent>줄무늬대서양림쥐는 비단털쥐과에 속하는 남아메리카 설치류이다.</sent>
+		<sbj type="AM_TYPE" weight="0.96" label="NP_AJT" josa="에">비단털쥐과</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="VNP" josa="">설치류</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.985">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(VNP)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>설치류이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1877" total_morp="15" total_word="5">
+		<sent>두꺼비는 개구리목 두꺼비과에 속하는 양서류이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_AJT" josa="에">두꺼비과</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="VNP" josa="">양서류</obj>
+		<gold>class</gold>
+		<mln_predict conf="0.954">class</mln_predict>
+		<cnn_predict conf="0.811">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(VNP)</gsdp>
+		<gsdp_lemma>속하는</gsdp_lemma>
+		<head>양서류이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

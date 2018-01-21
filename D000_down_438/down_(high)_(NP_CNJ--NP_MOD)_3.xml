@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--down--(NP_MOD)</dependency>
+	<total>3</total>
+	<sent_item id="M_T329" total_morp="51" total_word="23">
+		<sent>대부분 BBC의 공상과학 텔레비전 드라마 시리즈 《닥터_후》와 그 드라마의 다양한 스핀오프 시리즈와 관련해서 활동하고 있는 그는 특히 달렉과 사이버맨의 목소리를 연기하는 것으로 유명하다.</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.87" label="NP_CNJ" josa="와">닥터_후</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP_MOD" josa="의">BBC</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.614">channel</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>유명하다.</head>
+		<cluster>6</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1058" total_morp="27" total_word="10">
+		<sent>또, 비디오는 후지_TV의 버라이어티 쇼 《SMAP×SMAP》, 《피카루의 정리》에 의해서 패러디화됐다.</sent>
+		<sbj type="AFW_VIDEO" weight="1.69" label="NP_CNJ" josa="">SMAP×SMAP</sbj>
+		<obj type="OGG_MEDIA" weight="3.27" label="NP_MOD" josa="의">후지_TV</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.875">channel</mln_predict>
+		<cnn_predict conf="0.913">channel</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>패러디화됐다.</head>
+		<cluster>19</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3324" total_morp="21" total_word="10">
+		<sent>동해안 더비는 K리그_클래식의 포항_스틸러스와 울산 현대 축구단 간의 더비 경기이다.</sent>
+		<sbj type="OGG_SPORTS" weight="1.89" label="NP_CNJ" josa="와">포항_스틸러스</sbj>
+		<obj type="EV_SPORTS" weight="1.60" label="NP_MOD" josa="의">K리그_클래식</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.984">league</mln_predict>
+		<cnn_predict conf="0.579">league</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>경기이다.</head>
+		<cluster>24</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

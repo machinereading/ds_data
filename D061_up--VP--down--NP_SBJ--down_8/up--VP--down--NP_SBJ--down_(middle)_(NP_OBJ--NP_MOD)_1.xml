@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP--down--NP_SBJ--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2313" total_morp="47" total_word="19">
+		<sent>네덜란드의 화가 요하네스_페르메이르를 소재로 했으며, 주인공 '나'가 페르메이르의 집에서 가정부 생활을 하면서 보고 들은 것을 이야기하는 서술방법을 사용하고 있다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_OBJ" josa="를">요하네스_페르메이르</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_MOD" josa="의">네덜란드</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.530">nationality</mln_predict>
+		<cnn_predict conf="0.471">birthPlace</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--NP_SBJ--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>했으며,--화가</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>32</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

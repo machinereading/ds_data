@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1306" total_morp="28" total_word="11">
+		<sent>제3호위대군은 교토_부 마이즈루 시에 위치한 마이즈루_기지에 있는 해상자위대 호위함대 예하 호위대군이다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에">마이즈루_기지</sbj>
+		<obj type="" weight="0.00" label="NP" josa="">교토_부</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.471">routeEnd</mln_predict>
+		<cnn_predict conf="0.455">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>위치한--시에--마이즈루</gsdp_lemma>
+		<head>호위대군이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

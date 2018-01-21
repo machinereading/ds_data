@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP)--up--X--up--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T3738" total_morp="31" total_word="16">
+		<sent>어머니: 훙메이(紅薇, , 본명 뤄전(羅珍 ), 1918년 중화인민공화국 베이징 시 출생 ~ 2011년 10월 12일 사망. 홍콩 영화_배우 겸 성우. 원적지는 중화인민공화국 내몽골 자치구 샹황 기.)</sent>
+		<sbj type="PS_NAME" weight="0.48" label="NP" josa="">훙메이</sbj>
+		<obj type="" weight="0.00" label="NP" josa="">영화_배우</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.882">birthPlace</mln_predict>
+		<cnn_predict conf="0.865">occupation</cnn_predict>
+		<gsdp>(NP)--up--X--up--(NP)</gsdp>
+		<gsdp_lemma>,</gsdp_lemma>
+		<head>사망.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP--down--NP_SBJ--down--VP_MOD--down--NP_AJT--down--NP--down--NP--down--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1574" total_morp="25" total_word="12">
+		<sent>가미메나 역은 일본 홋카이도 이소야 군 란코시 정에 있었던 일본국유철도 하코다테_본선의 철도역이었다.</sent>
+		<sbj type="AF_ROAD" weight="-0.38" label="NP_MOD" josa="의">하코다테_본선</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP_CNJ" josa="">홋카이도</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.960">routeEnd</mln_predict>
+		<cnn_predict conf="0.702">operator</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_SBJ--down--VP_MOD--down--NP_AJT--down--NP--down--NP--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma>철도역이었다.--일본국유철도--있었던--정에--군--이소야</gsdp_lemma>
+		<head>철도역이었다.</head>
+		<cluster>36</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

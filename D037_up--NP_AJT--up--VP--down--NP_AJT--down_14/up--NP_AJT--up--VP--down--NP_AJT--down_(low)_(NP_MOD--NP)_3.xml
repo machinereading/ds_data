@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP_AJT--up--VP--down--NP_AJT--down--(NP)</dependency>
+	<total>3</total>
+	<sent_item id="M_T3143" total_morp="26" total_word="10">
+		<sent>그는 2013년 8월 9일, 몽펠리에_HSC와의 경기에서 리그_1 경기에 처음 출전하였다.</sent>
+		<sbj type="OGG_ECONOMY" weight="0.36" label="NP_MOD" josa="의">몽펠리에_HSC</sbj>
+		<obj type="" weight="0.00" label="NP" josa="">리그_1</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.507">league</mln_predict>
+		<cnn_predict conf="0.783">league</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>경기에서--출전하였다.--경기에</gsdp_lemma>
+		<head>출전하였다.</head>
+		<cluster>34</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1667" total_morp="37" total_word="14">
+		<sent>루웬조리다이커는 우간다와 콩고민주공화국 사이의 루웬조리 산에서만 발견되는 작지만 통통한 영양아과의 일종으로 소목_(동물) 소과에 속한다.</sent>
+		<sbj type="" weight="0.00" label="NP_MOD" josa="의">영양아과</sbj>
+		<obj type="" weight="0.00" label="NP" josa="">소목_(동물)</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.553">order</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>일종으로--속한다.--소과에</gsdp_lemma>
+		<head>속한다.</head>
+		<cluster>5</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2885" total_morp="20" total_word="7">
+		<sent>웨인스다이커는 작은 영양아과의 일종으로 소목_(동물) 소과에 속한다.</sent>
+		<sbj type="" weight="0.00" label="NP_MOD" josa="의">영양아과</sbj>
+		<obj type="" weight="0.00" label="NP" josa="">소목_(동물)</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.685">order</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>일종으로--속한다.--소과에</gsdp_lemma>
+		<head>속한다.</head>
+		<cluster>11</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

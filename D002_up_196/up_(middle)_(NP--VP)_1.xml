@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP)--up--(VP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1967" total_morp="26" total_word="12">
+		<sent>《마루모의_규칙》 : (4월 24일 ~ 7월 3일, 주연 : 아베 사다오, 아시다_마나)</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.41" label="NP" josa="">마루모의_규칙</sbj>
+		<obj type="" weight="0.00" label="VP" josa="마나">아시다_마나</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.851">starring</mln_predict>
+		<cnn_predict conf="0.899">starring</cnn_predict>
+		<gsdp>(NP)--up--(VP)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>아시다_마나)</head>
+		<cluster>38</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

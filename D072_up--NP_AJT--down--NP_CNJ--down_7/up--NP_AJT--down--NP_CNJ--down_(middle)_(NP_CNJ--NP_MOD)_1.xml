@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP_AJT--down--NP_CNJ--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T349" total_morp="32" total_word="19">
+		<sent>멕시코의 바하칼리포르니아 주와 소노라_주, 미국의 애리조나 주와 캘리포니아 주, 아이다호 주, 네바다 주, 오레곤 주 그리고 유타 주에서 발견된다.</sent>
+		<sbj type="LCP_PROVINCE" weight="0.19" label="NP_CNJ" josa="">소노라_주</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">멕시코</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.348">nationality</mln_predict>
+		<cnn_predict conf="0.456">country</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--down--NP_CNJ--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>주에서--주와</gsdp_lemma>
+		<head>발견된다.</head>
+		<cluster>5</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

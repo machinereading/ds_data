@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_CNJ--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T284" total_morp="23" total_word="12">
+		<sent>봉수산은 대한민국의 충청남도 예산군 대술면과 아산시 송악면, 공주시 유구읍 경계에 있는 산이다.</sent>
+		<sbj type="LCP_COUNTY" weight="-0.10" label="NP" josa="">예산군</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP_MOD" josa="의">대한민국</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.577">locatedInArea</mln_predict>
+		<cnn_predict conf="0.892">country</cnn_predict>
+		<gsdp>(NP)--up--NP_CNJ--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>대술면과</gsdp_lemma>
+		<head>산이다.</head>
+		<cluster>36</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

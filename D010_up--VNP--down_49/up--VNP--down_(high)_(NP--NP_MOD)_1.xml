@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP)--up--VNP--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1687" total_morp="35" total_word="16">
+		<sent>이탈리아 북부 에밀리아로마냐_주의 파르마 원산이며, 생산지명을 따서 영어로 Parmesan이라 한 것을 한국에서는 파마산 치즈라 부르고 있다.</sent>
+		<sbj type="LCP_CITY" weight="2.07" label="NP" josa="">파르마</sbj>
+		<obj type="LCP_PROVINCE" weight="1.73" label="NP_MOD" josa="의">에밀리아로마냐_주</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.914">region</mln_predict>
+		<cnn_predict conf="0.379">region</cnn_predict>
+		<gsdp>(NP)--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma>원산이며,</gsdp_lemma>
+		<head>있다.</head>
+		<cluster>19</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

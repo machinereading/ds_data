@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_AJT--down--VP_MOD--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_T1825" total_morp="44" total_word="14">
+		<sent>그는 2011년 6월 11일부터 25일까지 덴마크에서 열린 2011년_UEFA_U-21_축구_선수권_대회 당시 스위스 U-21 국가대표팀의 골키퍼이자 주장이었다.</sent>
+		<sbj type="DT_YEAR" weight="0.58" label="NP" josa="">2011년_UEFA_U-21_축구_선수권_대회</sbj>
+		<obj type="LCP_COUNTRY" weight="-0.30" label="NP_AJT" josa="에서">덴마크</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.809">location</mln_predict>
+		<cnn_predict conf="0.375">birthPlace</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>당시--열린</gsdp_lemma>
+		<head>주장이었다.</head>
+		<cluster>9</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

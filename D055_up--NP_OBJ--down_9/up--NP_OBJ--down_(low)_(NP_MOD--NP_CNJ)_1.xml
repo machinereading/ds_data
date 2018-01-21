@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP_OBJ--down--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_T2488" total_morp="22" total_word="11">
+		<sent>액슬 / 슬래시 : 건스_앤_로지스의 액슬_로즈와 슬래시를 모델로 하여 만들어진 캐릭터이다.</sent>
+		<sbj type="" weight="0.00" label="NP_MOD" josa="의">건스_앤_로지스</sbj>
+		<obj type="" weight="0.00" label="NP_CNJ" josa="와">액슬_로즈</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.136">birthPlace</mln_predict>
+		<cnn_predict conf="0.333">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_OBJ--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma>슬래시를</gsdp_lemma>
+		<head>캐릭터이다.</head>
+		<cluster>15</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

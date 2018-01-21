@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_T1508" total_morp="10" total_word="5">
+		<sent>6촌: 윤보선, 제4대 대한민국 대통령</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP" josa="">윤보선</sbj>
+		<obj type="CV_POSITION" weight="-0.24" label="NP" josa="">대한민국</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.693">country</mln_predict>
+		<cnn_predict conf="0.338">nationality</cnn_predict>
+		<gsdp>(NP)--up--NP--down--(NP)</gsdp>
+		<gsdp_lemma>대통령</gsdp_lemma>
+		<head>대통령</head>
+		<cluster>23</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2750" total_morp="19" total_word="4">
+		<sent>《임진왜란_(드라마)》(MBC_TV, 1985년~1986년, 배우: 김현직)</sent>
+		<sbj type="AFW_MUSIC" weight="1.05" label="NP" josa="">임진왜란_(드라마)</sbj>
+		<obj type="PS_NAME" weight="-1.18" label="NP" josa="">MBC_TV</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">starring</mln_predict>
+		<cnn_predict conf="0.972">channel</cnn_predict>
+		<gsdp>(NP)--up--NP--down--(NP)</gsdp>
+		<gsdp_lemma>김현직)</gsdp_lemma>
+		<head>김현직)</head>
+		<cluster>39</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

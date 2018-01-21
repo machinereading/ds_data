@@ -1,0 +1,69 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VNP--down--NP_MOD--down--(NP)</dependency>
+	<total>5</total>
+	<sent_item id="M_T2598" total_morp="17" total_word="7">
+		<sent>산토끼속은 토끼목 토끼에 속하는 포유류 속의 하나이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_SBJ" josa="은">토끼</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP" josa="">포유류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.713">class</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VNP--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma>하나이다.--속의</gsdp_lemma>
+		<head>하나이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2729" total_morp="12" total_word="4">
+		<sent>몰몬제비나비는 나비목 호랑나비과의 나비이다.</sent>
+		<sbj type="AM_INSECT" weight="0.44" label="NP_SBJ" josa="는">나비</sbj>
+		<obj type="AM_TYPE" weight="0.79" label="NP" josa="">나비목</obj>
+		<gold>order</gold>
+		<mln_predict conf="0.725">class</mln_predict>
+		<cnn_predict conf="0.598">class</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VNP--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma>나비이다.--호랑나비과의</gsdp_lemma>
+		<head>나비이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1318" total_morp="16" total_word="6">
+		<sent>신진골어류는 진골어류에 속하는 조기어류 분류군의 하나이다.</sent>
+		<sbj type="AM_TYPE" weight="1.10" label="NP_SBJ" josa="는">진골어류</sbj>
+		<obj type="AM_TYPE" weight="1.75" label="NP" josa="">조기어류</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.886">class</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VNP--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma>하나이다.--분류군의</gsdp_lemma>
+		<head>하나이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T496" total_morp="24" total_word="9">
+		<sent>가덕도동은 가덕도와 그 부속도서, 부산신항을 관할하는 부산광역시 강서구의 행정동이다.</sent>
+		<sbj type="LCP_COUNTY" weight="1.45" label="NP_SBJ" josa="은">가덕도</sbj>
+		<obj type="LCP_CITY" weight="0.55" label="NP" josa="">부산광역시</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.327">location</mln_predict>
+		<cnn_predict conf="0.441">locatedInArea</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VNP--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma>행정동이다.--강서구의</gsdp_lemma>
+		<head>행정동이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1605" total_morp="26" total_word="9">
+		<sent>《여인의_향기_(드라마)》는 2011년에 방영한 김선아 주연의 SBS 주말 특별기획 드라마이다.</sent>
+		<sbj type="AFW_DOCUMENT" weight="1.41" label="NP_SBJ" josa="는">여인의_향기_(드라마)</sbj>
+		<obj type="PS_NAME" weight="1.43" label="NP" josa="">김선아</obj>
+		<gold>starring</gold>
+		<mln_predict conf="1.000">starring</mln_predict>
+		<cnn_predict conf="0.543">channel</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VNP--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma>드라마이다.--주연의</gsdp_lemma>
+		<head>드라마이다.</head>
+		<cluster>6</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

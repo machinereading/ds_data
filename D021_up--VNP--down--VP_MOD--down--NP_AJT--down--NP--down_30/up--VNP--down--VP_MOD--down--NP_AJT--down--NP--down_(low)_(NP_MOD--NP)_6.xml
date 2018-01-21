@@ -1,0 +1,82 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</dependency>
+	<total>6</total>
+	<sent_item id="M_T3973" total_morp="20" total_word="8">
+		<sent>각산역은 대한민국 대구광역시 동구 안심로에 있는 대구_도시철도_1호선의 전철역이다.</sent>
+		<sbj type="" weight="0.00" label="NP_MOD" josa="의">대구_도시철도_1호선</sbj>
+		<obj type="LCP_CITY" weight="0.18" label="NP" josa="">대구광역시</obj>
+		<gold>routeStart</gold>
+		<mln_predict conf="0.652">routeEnd</mln_predict>
+		<cnn_predict conf="0.612">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>전철역이다.--있는--안심로에--동구</gsdp_lemma>
+		<head>전철역이다.</head>
+		<cluster>7</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2322" total_morp="23" total_word="8">
+		<sent>학동·증심사입구역은 대한민국 광주광역시 동구 학동에 있는 광주_도시철도_1호선의 지하철역이다.</sent>
+		<sbj type="LCP_CITY" weight="0.11" label="NP_MOD" josa="의">광주_도시철도_1호선</sbj>
+		<obj type="LCP_CITY" weight="0.18" label="NP" josa="">광주광역시</obj>
+		<gold>routeStart</gold>
+		<mln_predict conf="0.960">routeEnd</mln_predict>
+		<cnn_predict conf="0.320">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>지하철역이다.--있는--학동에--동구</gsdp_lemma>
+		<head>지하철역이다.</head>
+		<cluster>45</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2715" total_morp="22" total_word="8">
+		<sent>공항역은 대한민국 광주광역시 광산구 신흥동에 있는 광주_도시철도_1호선의 지하철역이다.</sent>
+		<sbj type="LCP_CITY" weight="0.11" label="NP_MOD" josa="의">광주_도시철도_1호선</sbj>
+		<obj type="LCP_CITY" weight="0.18" label="NP" josa="">광주광역시</obj>
+		<gold>routeStart</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.337">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>지하철역이다.--있는--신흥동에--광산구</gsdp_lemma>
+		<head>지하철역이다.</head>
+		<cluster>1</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2130" total_morp="21" total_word="8">
+		<sent>장산역은 대한민국 부산광역시 해운대구 좌동에 있는 부산_도시철도_2호선의 지하철역이다.</sent>
+		<sbj type="LCP_CITY" weight="0.11" label="NP_MOD" josa="의">부산_도시철도_2호선</sbj>
+		<obj type="LCP_CITY" weight="0.18" label="NP" josa="">부산광역시</obj>
+		<gold>routeStart</gold>
+		<mln_predict conf="0.985">routeEnd</mln_predict>
+		<cnn_predict conf="0.535">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>지하철역이다.--있는--좌동에--해운대구</gsdp_lemma>
+		<head>지하철역이다.</head>
+		<cluster>1</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T664" total_morp="21" total_word="7">
+		<sent>범일역은 부산광역시 동구 범일동에 있는 부산_도시철도_1호선의 전철역이다.</sent>
+		<sbj type="LCP_CITY" weight="0.11" label="NP_MOD" josa="의">부산_도시철도_1호선</sbj>
+		<obj type="LCP_CITY" weight="0.18" label="NP" josa="">부산광역시</obj>
+		<gold>routeStart</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.592">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>전철역이다.--있는--범일동에--동구</gsdp_lemma>
+		<head>전철역이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1614" total_morp="22" total_word="8">
+		<sent>주례역은 대한민국 부산광역시 사상구 주례동에 있는 부산_도시철도_2호선의 지하철역이다.</sent>
+		<sbj type="LCP_CITY" weight="0.11" label="NP_MOD" josa="의">부산_도시철도_2호선</sbj>
+		<obj type="LCP_CITY" weight="0.18" label="NP" josa="">부산광역시</obj>
+		<gold>routeStart</gold>
+		<mln_predict conf="0.964">routeEnd</mln_predict>
+		<cnn_predict conf="0.516">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>지하철역이다.--있는--주례동에--사상구</gsdp_lemma>
+		<head>지하철역이다.</head>
+		<cluster>1</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

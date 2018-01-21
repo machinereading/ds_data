@@ -1,0 +1,17 @@
+<sentence_list>
+	<dependency>(NP)--down--VP_MOD--down--NP_OBJ--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_T418" total_morp="12" total_word="7">
+		<sent>런승만 - 이승만 전 대통령을 조롱하는 말. 한국_전쟁이 일어나자마자 이승만이 국민을 두고 피신한 것을 빗대는 말이다.</sent>
+		<sbj type="" weight="0.00" label="NP" josa="">한국_전쟁</sbj>
+		<obj type="PS_NAME" weight="0.88" label="NP" josa="">이승만</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.095">leaderName</mln_predict>
+		<cnn_predict conf="0.272">commander</cnn_predict>
+		<gsdp>(NP)--down--VP_MOD--down--NP_OBJ--down--(NP)</gsdp>
+		<gsdp_lemma>조롱하는--대통령을</gsdp_lemma>
+		<head>말.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

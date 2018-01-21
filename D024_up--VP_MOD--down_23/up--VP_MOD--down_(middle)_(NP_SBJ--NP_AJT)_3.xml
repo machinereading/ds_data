@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP_MOD--down--(NP_AJT)</dependency>
+	<total>3</total>
+	<sent_item id="M_T1407" total_morp="36" total_word="16">
+		<sent>또한, 팔랑헤당의 이념 중 하나인 생디칼리즘은, 이탈리아에서 베니토_무솔리니가 창당한 파시즘 정당인 이탈리아 전투 파스키의 이념이기도 하였다.</sent>
+		<sbj type="PS_NAME" weight="0.33" label="NP_SBJ" josa="가">베니토_무솔리니</sbj>
+		<obj type="LCP_COUNTRY" weight="0.54" label="NP_AJT" josa="에서">이탈리아</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.646">birthPlace</mln_predict>
+		<cnn_predict conf="0.599">country</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>창당한</gsdp_lemma>
+		<head>하였다.</head>
+		<cluster>17</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2523" total_morp="26" total_word="13">
+		<sent>2012년 주전 경쟁을 벌이던 백민철이 경남_FC로 이적한 이후 완벽히 주전 골키퍼 자리를 굳혔다.</sent>
+		<sbj type="PS_NAME" weight="0.73" label="NP_SBJ" josa="이">백민철</sbj>
+		<obj type="OGG_SPORTS" weight="1.71" label="NP_AJT" josa="로">경남_FC</obj>
+		<gold>club</gold>
+		<mln_predict conf="1.000">club</mln_predict>
+		<cnn_predict conf="0.625">club</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>이적한</gsdp_lemma>
+		<head>굳혔다.</head>
+		<cluster>25</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T366" total_morp="21" total_word="8">
+		<sent>이탈리아의 트리에스테에 국제_이론_물리_센터가 세워진 이후 이곳의 소장을 지냈다.</sent>
+		<sbj type="" weight="0.00" label="NP_SBJ" josa="가">국제_이론_물리_센터</sbj>
+		<obj type="LCP_CITY" weight="1.01" label="NP_AJT" josa="에">트리에스테</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.298">deathPlace</mln_predict>
+		<cnn_predict conf="0.167">birthPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>세워진</gsdp_lemma>
+		<head>지냈다.</head>
+		<cluster>30</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

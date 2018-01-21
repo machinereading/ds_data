@@ -1,0 +1,30 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP--down--VP--down--(NP_AJT)</dependency>
+	<total>2</total>
+	<sent_item id="M_T2687" total_morp="20" total_word="7">
+		<sent>아버지 다윗에 대항하여 압살롬의_난을 일으켰으나 패배해 살해당했다.</sent>
+		<sbj type="PS_NAME" weight="-0.66" label="NP_OBJ" josa="을">압살롬의_난</sbj>
+		<obj type="PS_NAME" weight="0.88" label="NP_AJT" josa="에">다윗</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.508">leaderName</mln_predict>
+		<cnn_predict conf="0.873">commander</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>일으켰으나--대항하여</gsdp_lemma>
+		<head>살해당했다.</head>
+		<cluster>49</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1571" total_morp="30" total_word="10">
+		<sent>압살롬은 자신의 아버지인 다윗에 대항하여 반란(압살롬의_난)을 일으켰지만 실패로 끝나고 만다.</sent>
+		<sbj type="PS_NAME" weight="-0.66" label="NP_OBJ" josa="을">압살롬의_난</sbj>
+		<obj type="PS_NAME" weight="0.88" label="NP_AJT" josa="에">다윗</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.522">leaderName</mln_predict>
+		<cnn_predict conf="0.744">commander</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma>일으켰지만--대항하여</gsdp_lemma>
+		<head>만다.</head>
+		<cluster>49</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

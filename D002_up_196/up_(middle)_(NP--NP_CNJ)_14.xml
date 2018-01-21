@@ -1,0 +1,186 @@
+<sentence_list>
+	<dependency>(NP)--up--(NP_CNJ)</dependency>
+	<total>14</total>
+	<sent_item id="M_T1902" total_morp="14" total_word="4">
+		<sent>가드: 양동근_(농구_선수) (울산_모비스_피버스), 조성민</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP" josa="">양동근_(농구_선수)</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_CNJ" josa="">울산_모비스_피버스</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.900">team</mln_predict>
+		<cnn_predict conf="0.854">team</cnn_predict>
+		<gsdp>(NP)--up--(NP_CNJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>조성민</head>
+		<cluster>15</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2247" total_morp="17" total_word="7">
+		<sent>미드필더: 이근호, 황진성_(축구_선수) (포항_스틸러스), 하대성, 마우리시오 몰리나</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP" josa="">황진성_(축구_선수)</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_CNJ" josa="">포항_스틸러스</obj>
+		<gold>team</gold>
+		<mln_predict conf="1.000">club</mln_predict>
+		<cnn_predict conf="0.518">club</cnn_predict>
+		<gsdp>(NP)--up--(NP_CNJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>몰리나</head>
+		<cluster>15</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T442" total_morp="11" total_word="5">
+		<sent>공격수: 이기근 (포항_스틸러스), 함현기, 신동철</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP" josa="">이기근</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_CNJ" josa="">포항_스틸러스</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.745">club</mln_predict>
+		<cnn_predict conf="0.556">club</cnn_predict>
+		<gsdp>(NP)--up--(NP_CNJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>신동철</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1094" total_morp="17" total_word="7">
+		<sent>에픽하이(특히 타블로), 피아, 하동균 등과 절친 사이이다.</sent>
+		<sbj type="PS_NAME" weight="0.68" label="NP" josa="">에픽하이</sbj>
+		<obj type="PS_NAME" weight="1.22" label="NP_CNJ" josa="로">타블로</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.601">currentMember</mln_predict>
+		<cnn_predict conf="0.775">currentMember</cnn_predict>
+		<gsdp>(NP)--up--(NP_CNJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>사이이다.</head>
+		<cluster>37</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3002" total_morp="10" total_word="6">
+		<sent>2015년 강민호 (롯데_자이언츠, 드림) - 타자</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP" josa="">강민호</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_CNJ" josa="">롯데_자이언츠</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.492">team</mln_predict>
+		<cnn_predict conf="0.979">team</cnn_predict>
+		<gsdp>(NP)--up--(NP_CNJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>타자</head>
+		<cluster>24</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T540" total_morp="17" total_word="6">
+		<sent>수비수: 김현수, 김태영_(1970년) (전남_드래곤즈), 최진철, 홍명보</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP" josa="">김태영_(1970년)</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_CNJ" josa="">전남_드래곤즈</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.245">club</mln_predict>
+		<cnn_predict conf="0.678">club</cnn_predict>
+		<gsdp>(NP)--up--(NP_CNJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>홍명보</head>
+		<cluster>31</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1479" total_morp="13" total_word="7">
+		<sent>수비수 : 장외룡 (부산_아이파크), 한문배, 최강희, 김철수</sent>
+		<sbj type="PS_NAME" weight="0.73" label="NP" josa="">장외룡</sbj>
+		<obj type="AF_BUILDING" weight="0.82" label="NP_CNJ" josa="">부산_아이파크</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.828">club</mln_predict>
+		<cnn_predict conf="0.572">club</cnn_predict>
+		<gsdp>(NP)--up--(NP_CNJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>김철수</head>
+		<cluster>34</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3373" total_morp="13" total_word="6">
+		<sent>수비수: 김현수, 김태영, 최진철 (전북_현대_모터스), 산토스</sent>
+		<sbj type="PS_NAME" weight="0.73" label="NP" josa="">최진철</sbj>
+		<obj type="OGG_SPORTS" weight="1.71" label="NP_CNJ" josa="">전북_현대_모터스</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.478">team</mln_predict>
+		<cnn_predict conf="0.534">club</cnn_predict>
+		<gsdp>(NP)--up--(NP_CNJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>산토스</head>
+		<cluster>15</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3252" total_morp="18" total_word="11">
+		<sent>DF - 수비수 : 황재원, 마토_네레틀랴크 (수원_삼성_블루윙즈), 장학영, 아디우송 두스 산투스</sent>
+		<sbj type="PS_NAME" weight="0.73" label="NP" josa="">마토_네레틀랴크</sbj>
+		<obj type="OGG_SPORTS" weight="1.71" label="NP_CNJ" josa="">수원_삼성_블루윙즈</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.917">club</mln_predict>
+		<cnn_predict conf="0.651">club</cnn_predict>
+		<gsdp>(NP)--up--(NP_CNJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>산투스</head>
+		<cluster>18</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3435" total_morp="10" total_word="6">
+		<sent>미드필더 : 조민국, 이흥실 (포항_스틸러스), 윤성효</sent>
+		<sbj type="PS_NAME" weight="0.55" label="NP" josa="">이흥실</sbj>
+		<obj type="OGG_SPORTS" weight="1.44" label="NP_CNJ" josa="">포항_스틸러스</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.665">club</mln_predict>
+		<cnn_predict conf="0.588">club</cnn_predict>
+		<gsdp>(NP)--up--(NP_CNJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>윤성효</head>
+		<cluster>15</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3655" total_morp="11" total_word="6">
+		<sent>공격수 : 김용세, 정해원 (부산_아이파크), 함현기</sent>
+		<sbj type="PS_NAME" weight="0.73" label="NP" josa="">정해원</sbj>
+		<obj type="OGG_ECONOMY" weight="0.48" label="NP_CNJ" josa="">부산_아이파크</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.875">club</mln_predict>
+		<cnn_predict conf="0.656">club</cnn_predict>
+		<gsdp>(NP)--up--(NP_CNJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>함현기</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T4065" total_morp="14" total_word="7">
+		<sent>미드필더: 이근호, 황진성, 하대성 (FC_서울), 마우리시오 몰리나</sent>
+		<sbj type="PS_NAME" weight="0.73" label="NP" josa="">하대성</sbj>
+		<obj type="OGG_SPORTS" weight="1.71" label="NP_CNJ" josa="">FC_서울</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.588">club</mln_predict>
+		<cnn_predict conf="0.459">team</cnn_predict>
+		<gsdp>(NP)--up--(NP_CNJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>몰리나</head>
+		<cluster>15</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2404" total_morp="10" total_word="5">
+		<sent>미드필더: 이흥실, 조덕제 (부산_아이파크), 강재순</sent>
+		<sbj type="PS_NAME" weight="0.73" label="NP" josa="">조덕제</sbj>
+		<obj type="AF_BUILDING" weight="0.82" label="NP_CNJ" josa="">부산_아이파크</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.801">club</mln_predict>
+		<cnn_predict conf="0.563">club</cnn_predict>
+		<gsdp>(NP)--up--(NP_CNJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>강재순</head>
+		<cluster>34</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T3085" total_morp="17" total_word="6">
+		<sent>미드필더: 최진호, 최진수_(축구_선수) (FC_안양), 이용래, 김호남</sent>
+		<sbj type="PS_NAME" weight="0.73" label="NP" josa="">최진수_(축구_선수)</sbj>
+		<obj type="OGG_SPORTS" weight="1.71" label="NP_CNJ" josa="">FC_안양</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.943">team</mln_predict>
+		<cnn_predict conf="0.558">team</cnn_predict>
+		<gsdp>(NP)--up--(NP_CNJ)</gsdp>
+		<gsdp_lemma></gsdp_lemma>
+		<head>김호남</head>
+		<cluster>9</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

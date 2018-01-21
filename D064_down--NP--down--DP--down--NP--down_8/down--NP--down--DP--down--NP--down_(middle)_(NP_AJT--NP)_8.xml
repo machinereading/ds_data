@@ -1,0 +1,108 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--NP--down--DP--down--NP--down--(NP)</dependency>
+	<total>8</total>
+	<sent_item id="M_T90" total_morp="28" total_word="14">
+		<sent>도오시마 역은 일본 야마나시 현 미나미코마 군 난부_정_(야마나시_현)에 있는 도카이 여객철도 미노부 선의 철도역이다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에">난부_정_(야마나시_현)</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">일본</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.411">routeStart</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--DP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>군--현--야마나시</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T262" total_morp="28" total_word="14">
+		<sent>훗코다이마에 역은 일본 후쿠오카 현 후쿠오카 시 히가시_구_(후쿠오카_시)에 있는, 규슈 여객철도 가고시마 본선의 철도역이다.</sent>
+		<sbj type="LCP_CITY" weight="1.22" label="NP_AJT" josa="에">히가시_구_(후쿠오카_시)</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">일본</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.295">routeStart</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--DP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>시--현--후쿠오카</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>42</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T16" total_morp="27" total_word="14">
+		<sent>우젠야마베 역은 일본 야마가타 현 히가시무라야마 군 야마노베_정에 위치한 동일본 여객철도 아테라자와 선의 철도역이다.</sent>
+		<sbj type="LCP_COUNTY" weight="-0.10" label="NP_AJT" josa="에">야마노베_정</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">일본</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.759">routeEnd</mln_predict>
+		<cnn_predict conf="0.437">routeStart</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--DP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>군--현--야마가타</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T781" total_morp="27" total_word="14">
+		<sent>무쓰사와베 역은 일본 아오모리 현 니시쓰가루 군 후카우라_정에 위치한 동일본 여객철도 고노 선의 철도역이다.</sent>
+		<sbj type="LCP_COUNTY" weight="-0.10" label="NP_AJT" josa="에">후카우라_정</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">일본</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.990">routeEnd</mln_predict>
+		<cnn_predict conf="0.458">routeStart</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--DP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>군--현--아오모리</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T771" total_morp="25" total_word="13">
+		<sent>후쿠시마 제2 원자력 발전소는 일본 후쿠시마 현 후타바 군 도미오카_정에 있는 원자력 발전소이다.</sent>
+		<sbj type="LCP_COUNTY" weight="-0.10" label="NP_AJT" josa="에">도미오카_정</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">일본</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.403">region</mln_predict>
+		<cnn_predict conf="0.431">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--DP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>군--현--후쿠시마</gsdp_lemma>
+		<head>발전소이다.</head>
+		<cluster>27</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1014" total_morp="27" total_word="14">
+		<sent>시모사코자키 역은 일본 지바 현 가토리 군 고자키_정에 위치한 동일본 여객철도 나리타 선의 철도역이다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에">고자키_정</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">일본</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.437">routeStart</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--DP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>군--현--지바</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T676" total_morp="32" total_word="15">
+		<sent>일본 지바 현 지바 시 주오_구_(지바_시)에 있는 지바 역과 가모가와 시에 있는 아와카모가와 역을 잇는다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에">주오_구_(지바_시)</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">일본</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.767">owner</mln_predict>
+		<cnn_predict conf="0.336">operator</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--DP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>시--현--지바</gsdp_lemma>
+		<head>잇는다.</head>
+		<cluster>14</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T929" total_morp="34" total_word="16">
+		<sent>게이세이 지바 역은 일본 지바 현 지바 시 주오_구_(지바_시)에 위치한 게이세이 전철 게이세이 지바 선의 철도역이다.</sent>
+		<sbj type="" weight="0.00" label="NP_AJT" josa="에">주오_구_(지바_시)</sbj>
+		<obj type="LCP_COUNTRY" weight="0.85" label="NP" josa="">일본</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.758">owner</mln_predict>
+		<cnn_predict conf="0.561">operator</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--DP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma>시--현--지바</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>44</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

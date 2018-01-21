@@ -1,0 +1,160 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP--down--NP_SBJ--down--VP_MOD--down--NP_AJT--down--(NP)</dependency>
+	<total>12</total>
+	<sent_item id="M_T2357" total_morp="23" total_word="11">
+		<sent>이리히로세 역은 일본 니가타_현 우오누마 시에 위치한 동일본 여객철도 다다미_선의 철도역이다.</sent>
+		<sbj type="AF_BUILDING" weight="1.17" label="NP_MOD" josa="의">다다미_선</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="">니가타_현</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.738">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_SBJ--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>철도역이다.--여객철도--위치한--시에</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>27</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1617" total_morp="24" total_word="11">
+		<sent>야시마 역은 일본 가가와_현 다카마쓰 시에 위치한 시코쿠 여객철도 고토쿠_선의 철도역이다.</sent>
+		<sbj type="OGG_ECONOMY" weight="1.40" label="NP_MOD" josa="의">고토쿠_선</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="와">가가와_현</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.616">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_SBJ--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>철도역이다.--여객철도--위치한--시에</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1586" total_morp="24" total_word="11">
+		<sent>마스자와 역은 일본 이와테_현 도노 시에 위치한 동일본 여객철도 가마이시_선의 철도역이다.</sent>
+		<sbj type="OGG_ECONOMY" weight="1.40" label="NP_MOD" josa="의">가마이시_선</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="">이와테_현</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.635">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_SBJ--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>철도역이다.--여객철도--위치한--시에</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>27</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2175" total_morp="23" total_word="11">
+		<sent>나라시노 역은 일본 지바_현 후나바시 시에 있는 신케이세이 전철 신케이세이_전철_신케이세이_선의 철도역이다.</sent>
+		<sbj type="OGG_ECONOMY" weight="1.40" label="NP_MOD" josa="의">신케이세이_전철_신케이세이_선</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="">지바_현</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.521">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_SBJ--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>철도역이다.--신케이세이--있는--시에</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>27</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1114" total_morp="23" total_word="11">
+		<sent>만고쿠우라 역은 일본 미야기_현 이시노마키 시에 위치한 동일본 여객철도 이시노마키_선의 철도역이다.</sent>
+		<sbj type="OGG_ECONOMY" weight="1.40" label="NP_MOD" josa="의">이시노마키_선</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="">미야기_현</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.561">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_SBJ--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>철도역이다.--여객철도--위치한--시에</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>27</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2222" total_morp="21" total_word="11">
+		<sent>미즈키 역은 일본 후쿠오카_현 오노조 시에 있는 규슈 여객철도 가고시마_본선의 철도역이다.</sent>
+		<sbj type="EV_SPORTS" weight="-0.40" label="NP_MOD" josa="의">가고시마_본선</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="">후쿠오카_현</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.673">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_SBJ--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>철도역이다.--여객철도--있는--시에</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>27</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1501" total_morp="25" total_word="11">
+		<sent>후타와무코다이 역은 일본 지바_현 후나바시 시에 있는 신케이세이 전철 신케이세이_전철_신케이세이_선의 철도역이다.</sent>
+		<sbj type="OGG_ECONOMY" weight="1.40" label="NP_MOD" josa="의">신케이세이_전철_신케이세이_선</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="">지바_현</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.514">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_SBJ--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>철도역이다.--신케이세이--있는--시에</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>27</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1934" total_morp="22" total_word="11">
+		<sent>교이쿠다이마에 역은 일본 후쿠오카_현 무나카타 시에 있는 규슈 여객철도 가고시마_본선의 철도역이다.</sent>
+		<sbj type="EV_SPORTS" weight="-0.40" label="NP_MOD" josa="의">가고시마_본선</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="">후쿠오카_현</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.655">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_SBJ--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>철도역이다.--여객철도--있는--시에</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>27</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T2000" total_morp="22" total_word="11">
+		<sent>미치노오 역은 일본 나가사키_현 나가사키 시에 있는 규슈 여객철도 나가사키_본선의 철도역이다.</sent>
+		<sbj type="EV_SPORTS" weight="-0.40" label="NP_MOD" josa="의">나가사키_본선</sbj>
+		<obj type="LCP_CITY" weight="0.92" label="NP" josa="">나가사키_현</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.578">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_SBJ--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>철도역이다.--여객철도--있는--시에</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>28</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1905" total_morp="22" total_word="11">
+		<sent>규라기 역은 일본 사가_현 가라쓰 시에 위치한 규슈 여객철도 가라쓰_선의 철도역이다.</sent>
+		<sbj type="OGG_ECONOMY" weight="1.40" label="NP_MOD" josa="의">가라쓰_선</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="">사가_현</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.822">routeEnd</mln_predict>
+		<cnn_predict conf="0.438">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_SBJ--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>철도역이다.--여객철도--위치한--시에</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>27</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1074" total_morp="21" total_word="11">
+		<sent>미나미아라오 역은 일본 구마모토_현 아라오 시에 있는 규슈 여객철도 가고시마_본선의 철도역이다.</sent>
+		<sbj type="EV_SPORTS" weight="-0.40" label="NP_MOD" josa="의">가고시마_본선</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="">구마모토_현</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.651">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_SBJ--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>철도역이다.--여객철도--있는--시에</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>27</cluster>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_T1862" total_morp="21" total_word="11">
+		<sent>미나미세타카 역은 일본 후쿠오카_현 미야마 시에 있는 규슈 여객철도 가고시마_본선의 철도역이다.</sent>
+		<sbj type="EV_SPORTS" weight="-0.40" label="NP_MOD" josa="의">가고시마_본선</sbj>
+		<obj type="LCP_PROVINCE" weight="1.03" label="NP" josa="">후쿠오카_현</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.688">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_SBJ--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma>철도역이다.--여객철도--있는--시에</gsdp_lemma>
+		<head>철도역이다.</head>
+		<cluster>27</cluster>
+		<comment></comment>
+	</sent_item>
+</sentence_list>
