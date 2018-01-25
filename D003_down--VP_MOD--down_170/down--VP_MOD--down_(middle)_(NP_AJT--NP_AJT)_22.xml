@@ -12,7 +12,7 @@
 		<gsdp_lemma>열린</gsdp_lemma>
 		<head>패했다.</head>
 		<cluster>40</cluster>
-		<comment></comment>
+		<comment>Sbj Entity Type 오류. 골드는 region, country가 더 적합해 보임, MLN에서 Obj Type이 Country 인데 city로 준 것이 이상해 보임,Freebase등 참조해서 sub property 관계</comment>
 	</sent_item>
 	<sent_item id="M_T1600" total_morp="35" total_word="16">
 		<sent>실크웨이 항공은 아제르바이잔의 화물 항공사로 허브 공항은 바쿠에 위치한 헤이다르_알리예프_국제공항에 있으며 본사도 이 곳에 위치해 있다.</sent>

@@ -12,7 +12,7 @@
 		<gsdp_lemma></gsdp_lemma>
 		<head>출연했다.</head>
 		<cluster>47</cluster>
-		<comment></comment>
+		<comment>NP-down-NP,Entity범위문제,출연했다 라는 Main Verb가 영향, 개체 Type이 강한 영향</comment>
 	</sent_item>
 	<sent_item id="M_T3921" total_morp="26" total_word="9">
 		<sent>2005년에는 MBC_TV 텔레비전 드라마 《내_이름은_김삼순》을 통해 대한민국에서 배우로 데뷔하였다.</sent>
