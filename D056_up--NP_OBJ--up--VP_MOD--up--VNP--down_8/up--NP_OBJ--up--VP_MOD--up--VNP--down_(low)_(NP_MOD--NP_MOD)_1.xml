@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP_OBJ--up--VP_MOD--up--VNP--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D458">
+		<sent><![CDATA[FK 보주도바츠는 베오그라드의 보주도바츠를 연고로 하는 세르비아의 축구 클럽이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[베오그라드]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[세르비아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.804">country</mln_predict>
+		<cnn_predict conf="0.540">country</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_OBJ--up--VP_MOD--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[보주도바츠를--하는--클럽이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

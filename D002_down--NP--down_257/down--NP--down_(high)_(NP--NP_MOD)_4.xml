@@ -1,0 +1,83 @@
+<sentence_list>
+	<dependency>(NP)--down--NP--down--(NP_MOD)</dependency>
+	<total>4</total>
+	<sent_item id="M_D2529">
+		<sent><![CDATA[신세경은 1998년, 서태지의 5집 《Seo_Tai_Ji》 수록곡 "Take 5"에 포스터 모델로 출연해 나중에 대중들에게 알려지면서 화제가 되었다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[Seo_Tai_Ji]]></sbj_text>
+			<arg_type weight="0.55">Work</arg_type>
+			<arg_type weight="2.57">MusicalWork</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[서태지]]></obj_text>
+			<arg_type weight="0.48">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+			<arg_type weight="1.03">Artist</arg_type>
+		</obj>
+		<gold>artist</gold>
+		<mln_predict conf="0.833">artist</mln_predict>
+		<cnn_predict conf="0.454">artist</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[5집]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3596">
+		<sent><![CDATA[• 소격동은 가수 서태지의 9집 앨범 《Quiet_Night》 2번 수록곡이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[Quiet_Night]]></sbj_text>
+			<arg_type weight="0.55">Work</arg_type>
+			<arg_type weight="2.57">MusicalWork</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[서태지]]></obj_text>
+			<arg_type weight="0.48">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+			<arg_type weight="1.03">Artist</arg_type>
+		</obj>
+		<gold>artist</gold>
+		<mln_predict conf="0.863">artist</mln_predict>
+		<cnn_predict conf="0.691">artist</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[앨범]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3623">
+		<sent><![CDATA[멤버 카메나시 카즈야와 탈퇴멤버 다나카_코키의 드라마 《단_하나의_사랑》 주제가.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[단_하나의_사랑]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[다나카_코키]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="1.000">starring</mln_predict>
+		<cnn_predict conf="0.648">starring</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[드라마]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2277">
+		<sent><![CDATA["If I Fell"은 본래 비틀즈의 음반 "A_Hard_Day's_Night" 수록곡으로 마룬 5가 커버하였다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[A_Hard_Day's_Night]]></sbj_text>
+			<arg_type weight="0.55">Work</arg_type>
+			<arg_type weight="2.57">MusicalWork</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[비틀즈]]></obj_text>
+			<arg_type weight="0.48">Agent</arg_type>
+			<arg_type weight="0.43">Organisation</arg_type>
+			<arg_type weight="2.38">Group</arg_type>
+		</obj>
+		<gold>artist</gold>
+		<mln_predict conf="1.000">artist</mln_predict>
+		<cnn_predict conf="0.735">artist</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[음반]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

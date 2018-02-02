@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--up--VP_MOD--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D971">
+		<sent><![CDATA[1집에서 전자드럼을 연주하다가 베이시스트로 포지션을 바꾼 이동규도 팀을 탈퇴하면서 넥스트 결성 전 신해철의 91 Myself Tour를 함께 하기도 했던 김영석_(음악가)이 새 베이시스트로 영입되었다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[김영석_(음악가)]]></sbj_text>
+			<arg_type weight="0.49">Agent</arg_type>
+			<arg_type weight="0.51">Person</arg_type>
+			<arg_type weight="1.48">Artist</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="로">
+			<obj_text><![CDATA[베이시스트]]></obj_text>
+		</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.317">occupation</mln_predict>
+		<cnn_predict conf="0.287">currentMember</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--up--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[연주하다가--바꾼]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

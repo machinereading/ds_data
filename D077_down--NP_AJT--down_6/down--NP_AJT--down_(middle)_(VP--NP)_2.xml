@@ -1,0 +1,36 @@
+<sentence_list>
+	<dependency>(VP)--down--NP_AJT--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_D3608">
+		<sent><![CDATA[2006년 SBS 아침드라마 《사랑하고_싶다》 ... 지은우 역]]></sent>
+		<sbj label="VP" josa="">
+			<sbj_text><![CDATA[사랑하고_싶다]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[SBS]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.949">channel</mln_predict>
+		<cnn_predict conf="0.889">channel</cnn_predict>
+		<gsdp>(VP)--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[아침드라마]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2987">
+		<sent><![CDATA[2008년 MBC 아침드라마 《흔들리지마》 ... 송옥분 역]]></sent>
+		<sbj label="VP" josa="">
+			<sbj_text><![CDATA[흔들리지마]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[MBC]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.935">channel</mln_predict>
+		<cnn_predict conf="0.931">channel</cnn_predict>
+		<gsdp>(VP)--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[아침드라마]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

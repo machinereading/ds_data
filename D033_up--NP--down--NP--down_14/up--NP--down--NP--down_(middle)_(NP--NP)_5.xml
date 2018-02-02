@@ -1,0 +1,90 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--down--NP--down--(NP)</dependency>
+	<total>5</total>
+	<sent_item id="M_D3630">
+		<sent><![CDATA[1990년: 김용수_(야구인) (LG_트윈스, 투수) : 2게임 2승 방어율 1.29]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[김용수_(야구인)]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[LG_트윈스]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.947">team</mln_predict>
+		<cnn_predict conf="0.835">team</cnn_predict>
+		<gsdp>(NP)--up--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[1.29--투수)]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1838">
+		<sent><![CDATA[남동생: 홍수철(洪秀哲, 1957년 1월 17일 ~ , 가수, 작사가, 작곡가, 개신교 목사. 양정고등학교 (서울) 졸업.)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[홍수철]]></sbj_text>
+			<arg_type weight="0.49">Agent</arg_type>
+			<arg_type weight="0.51">Person</arg_type>
+			<arg_type weight="1.48">Artist</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[개신교]]></obj_text>
+		</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.683">occupation</mln_predict>
+		<cnn_predict conf="0.256">currentMember</cnn_predict>
+		<gsdp>(NP)--up--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[졸업.)--목사.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2969">
+		<sent><![CDATA[2011년 SBS 월화미니시리즈 《천일의_약속》 ... 오현아 역]]></sent>
+		<sbj label="NP" josa="의">
+			<sbj_text><![CDATA[천일의_약속]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[SBS]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.437">channel</mln_predict>
+		<cnn_predict conf="0.765">channel</cnn_predict>
+		<gsdp>(NP)--up--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[...--월화미니시리즈]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D272">
+		<sent><![CDATA[2000년 12월 - 서울특별시 광화문 금호아트홀 개관, 갤러리 금요 콘서트 -> 금호아트홀 금요시리즈로 변경]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[금호아트홀]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[서울특별시]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.331">location</mln_predict>
+		<cnn_predict conf="0.758">location</cnn_predict>
+		<gsdp>(NP)--up--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[개관,--광화문]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1456">
+		<sent><![CDATA[2010년 SBS 《제중원_(드라마)》- 치루 딸 역]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[제중원_(드라마)]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[SBS]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.973">channel</mln_predict>
+		<cnn_predict conf="0.918">channel</cnn_predict>
+		<gsdp>(NP)--up--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[역--《제중원_(드라마)》-]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

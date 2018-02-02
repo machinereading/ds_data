@@ -1,0 +1,20 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--(NP_OBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3915">
+		<sent><![CDATA[주정뱅이 천사부터 붉은_수염까지 주연으로 미후네_도시로를 자주 기용하였다.]]></sent>
+		<sbj label="NP_AJT" josa="까지">
+			<sbj_text><![CDATA[붉은_수염]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="를">
+			<obj_text><![CDATA[미후네_도시로]]></obj_text>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.222">starring</mln_predict>
+		<cnn_predict conf="0.531">starring</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[기용하였다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

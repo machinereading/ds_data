@@ -1,0 +1,25 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--NP--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2107">
+		<sent><![CDATA[듀엣 음반 with 장현_(1955년) (현이와_덕이 음반).]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[현이와_덕이]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[장현_(1955년)]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.821">currentMember</mln_predict>
+		<cnn_predict conf="0.592">artist</cnn_predict>
+		<gsdp>(NP_SBJ)--up--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[음반).--음반]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

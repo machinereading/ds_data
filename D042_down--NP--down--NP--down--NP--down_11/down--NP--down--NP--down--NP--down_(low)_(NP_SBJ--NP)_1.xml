@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--NP--down--NP--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3421">
+		<sent><![CDATA[2009년 3월 17일, 미국 케이블 TV 방송국 커렉트 TV의 여기자인 유나 리와 로라_링이 중국에서 북한으로 사증 없이 넘어갔고, 이에 대해 북한군이 이 사람들을 붙잡아 억류시켰다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[로라_링]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[미국]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.312">location</mln_predict>
+		<cnn_predict conf="0.508">location</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[방송국--TV--케이블]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

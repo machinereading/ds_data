@@ -1,0 +1,156 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP_AJT--up--VP_MOD--up--(NP_MOD)</dependency>
+	<total>8</total>
+	<sent_item id="M_D2555">
+		<sent><![CDATA[콜롬비아사탕수수쥐 또는 갈색사탕수수쥐는 비단털쥐과 아메리카사탕수수쥐속에 속하는 설치류의 일종이다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[비단털쥐과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[설치류]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="0.952">order</mln_predict>
+		<cnn_predict conf="0.547">order</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[아메리카사탕수수쥐속에--속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2232">
+		<sent><![CDATA[쥐며느리쌀쥐는 비단털쥐과 큰머리쌀쥐속에 속하는 설치류의 일종이다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[비단털쥐과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[설치류]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.569">order</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[큰머리쌀쥐속에--속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D97">
+		<sent><![CDATA[털다리흡혈박쥐는 주걱박쥐과 흡혈박쥐아과에 속하는 현존하는 3종의 흡혈 박쥐의 하나이다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[주걱박쥐과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[박쥐]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.754">order</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[흡혈박쥐아과에--속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3442">
+		<sent><![CDATA[피어슨긴발톱쥐는 비단털쥐과 목화쥐아과에 속하는 설치류의 일종이다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[비단털쥐과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[설치류]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.546">order</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[목화쥐아과에--속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1126">
+		<sent><![CDATA[흰날개흡혈박쥐는 주걱박쥐과 흡혈박쥐아과에 속하는 현존하는 3종의 흡혈 박쥐의 하나이다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[주걱박쥐과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[박쥐]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.771">order</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[흡혈박쥐아과에--속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3488">
+		<sent><![CDATA[맵시벌의 숙주는 사슴벌레과, 하늘소과 등 나무속에서 사는 곤충들의 유충으로, 기생당한 숙주는 유충에게 체내를 빼앗겨 껍질만 남게 된다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[하늘소과]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[곤충]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.721">class</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[나무속에서--사는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2179">
+		<sent><![CDATA[골드망물쥐는 비단털쥐과 목화쥐아과에 속하는 설치류의 일종이다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[비단털쥐과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[설치류]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.554">order</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[목화쥐아과에--속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D124">
+		<sent><![CDATA[남아메리카가시쥐는 비단털쥐과 아메리카가시쥐속에 속하는 설치류의 일종이다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[비단털쥐과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[설치류]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.663">order</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[아메리카가시쥐속에--속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

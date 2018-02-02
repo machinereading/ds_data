@@ -1,0 +1,55 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--VNP_MOD--down--(NP_MOD)</dependency>
+	<total>3</total>
+	<sent_item id="M_D3689">
+		<sent><![CDATA[바버라 피어스 부시는 미국의 미국의 대통령인 조지_H._W._부시의 부인이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[조지_H._W._부시]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+			<arg_type weight="0.34">Politician</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[미국]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.492">country</mln_predict>
+		<cnn_predict conf="0.434">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[대통령인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2197">
+		<sent><![CDATA[페데리코의 아들 구이도발도 다 몬테펠트로는 만토바의 군주인 페데리코_1세_곤차가의 뛰어나고 학식있는 딸인 엘리사베타 곤차가와 결혼하였다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[페데리코_1세_곤차가]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[만토바]]></obj_text>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.966">birthPlace</mln_predict>
+		<cnn_predict conf="0.606">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[군주인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2528">
+		<sent><![CDATA[이 부제는 청나라의 공무원이었던 임칙서의 대구의 전반부분이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[임칙서]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[청나라]]></obj_text>
+			<arg_type weight="-0.16">Place</arg_type>
+			<arg_type weight="-0.11">PopulatedPlace</arg_type>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.575">location</mln_predict>
+		<cnn_predict conf="0.661">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[공무원이었던]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

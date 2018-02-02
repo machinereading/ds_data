@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_SBJ--down--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D913">
+		<sent><![CDATA[《화정_(드라마)》(MBC, 2015년, 배우 : 이연희, 정찬비, 허정은)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[화정_(드라마)]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[이연희]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="1.000">starring</mln_predict>
+		<cnn_predict conf="0.986">starring</cnn_predict>
+		<gsdp>(NP)--up--NP_SBJ--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[허정은)]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

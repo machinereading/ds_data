@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--VNP--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3261">
+		<sent><![CDATA[울리세스 알레한드로 다빌라 플라센시아는 멕시코의 축구 선수로, 현재 멕시코 리가_MX의 산토스_라구나 소속이다.]]></sent>
+		<sbj label="NP_CNJ" josa="나">
+			<sbj_text><![CDATA[산토스_라구나]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[리가_MX]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.783">league</mln_predict>
+		<cnn_predict conf="0.320">league</cnn_predict>
+		<gsdp>(NP_CNJ)--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[소속이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

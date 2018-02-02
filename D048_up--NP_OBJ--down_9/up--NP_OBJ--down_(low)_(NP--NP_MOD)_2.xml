@@ -1,0 +1,40 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_OBJ--down--(NP_MOD)</dependency>
+	<total>2</total>
+	<sent_item id="M_D1175">
+		<sent><![CDATA[그는 대통령이 되기 전 당시 이탈리아의 베니토_무솔리니 정치를 옹호했으며, 이러한 행위는 그가 축출당하는 결정적 계기가 된다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[베니토_무솔리니]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+			<arg_type weight="0.34">Politician</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[이탈리아]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.763">birthPlace</mln_predict>
+		<cnn_predict conf="0.478">deathPlace</cnn_predict>
+		<gsdp>(NP)--up--NP_OBJ--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[정치를]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2734">
+		<sent><![CDATA[미국에서 각종 반공 단체와 대학들의 지도자로 임명되고 1953년 대한민국의 이승만 대통령을 방문하고, 중화민국의 장제스 등을 방문하는 등 반공외교 활동을 하였다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[이승만]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+			<arg_type weight="0.34">Politician</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.994">birthPlace</mln_predict>
+		<cnn_predict conf="0.736">deathPlace</cnn_predict>
+		<gsdp>(NP)--up--NP_OBJ--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[대통령을]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

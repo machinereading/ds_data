@@ -1,0 +1,59 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--NP--down--(NP)</dependency>
+	<total>3</total>
+	<sent_item id="M_D153">
+		<sent><![CDATA[독도 천연보호구역은 경상북도 울릉군 울릉읍 독도 지역을 1982년 11월 16일 "해조류 번식지"로 지정하였다가, 1999년 12월 천연기념물 제336호로 지정되면서 명칭이 '독도천연보호구역'으로 바뀌었다.]]></sent>
+		<sbj label="NP_SBJ" josa="도">
+			<sbj_text><![CDATA[독도]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[울릉군]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.475">city</mln_predict>
+		<cnn_predict conf="0.336">location</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[울릉읍]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1280">
+		<sent><![CDATA[에도 시대 유학자 오규 소라이가 당나라 시인 이백이 백제성에 관해 남긴 시에서 영감을 받아 하쿠테이 성이라고 명명했다고 전해진다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[이백]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[당나라]]></obj_text>
+			<arg_type weight="-0.16">Place</arg_type>
+			<arg_type weight="-0.11">PopulatedPlace</arg_type>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.543">birthPlace</mln_predict>
+		<cnn_predict conf="0.567">deathPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[시인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3195">
+		<sent><![CDATA[〈리베르탱고〉는 탱고 작곡가 아스토르_피아졸라가 작곡한 곡으로, 1974년 발표되었다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[아스토르_피아졸라]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.11">Person</arg_type>
+			<arg_type weight="0.43">Artist</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[탱고]]></obj_text>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.650">birthPlace</mln_predict>
+		<cnn_predict conf="0.327">currentMember</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[작곡가]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

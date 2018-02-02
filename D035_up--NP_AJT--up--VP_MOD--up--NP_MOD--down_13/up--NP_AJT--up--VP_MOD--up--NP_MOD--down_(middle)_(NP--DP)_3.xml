@@ -1,0 +1,61 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_AJT--up--VP_MOD--up--NP_MOD--down--(DP)</dependency>
+	<total>3</total>
+	<sent_item id="M_D3054">
+		<sent><![CDATA[개미새류는 참새목 개미새과에 속하는 새 의 총칭이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[참새목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="DP" josa="">
+			<obj_text><![CDATA[새]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="0.946">order</mln_predict>
+		<cnn_predict conf="0.518">order</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP_MOD--up--NP_MOD--down--(DP)</gsdp>
+		<gsdp_lemma><![CDATA[개미새과에--속하는--의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1735">
+		<sent><![CDATA[솔새속은 참새목 솔새과에 속하는 새 속의 하나이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[참새목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="DP" josa="">
+			<obj_text><![CDATA[새]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.584">order</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP_MOD--up--NP_MOD--down--(DP)</gsdp>
+		<gsdp_lemma><![CDATA[솔새과에--속하는--속의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2855">
+		<sent><![CDATA[붉은머리오목눈이속는 참새목 흰턱딱새과에 속하는 새 속의 하나이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[참새목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="DP" josa="">
+			<obj_text><![CDATA[새]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.526">order</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP_MOD--up--NP_MOD--down--(DP)</gsdp>
+		<gsdp_lemma><![CDATA[흰턱딱새과에--속하는--속의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

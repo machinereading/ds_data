@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP)--up--VNP--down--VP_MOD--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D935">
+		<sent><![CDATA[엑토르 헤들리 로페스 스웨인슨은 좌익수와 3루수로 오클랜드 애슬레틱스와 뉴욕_양키스에서 1955년부터 1966년까지 뛰었던 전 메이저_리그_베이스볼 선수이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[메이저_리그_베이스볼]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="-0.11">Organisation</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[뉴욕_양키스]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.584">position</mln_predict>
+		<cnn_predict conf="0.637">position</cnn_predict>
+		<gsdp>(NP)--up--VNP--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[선수이다.--뛰었던]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

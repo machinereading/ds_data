@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1894">
+		<sent><![CDATA[〈이야기〉 시리즈는 《괴물 이야기》를 비롯하여, 니시오_이신의 라이트_노벨 시리즈이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[니시오_이신]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[라이트_노벨]]></obj_text>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.147">channel</mln_predict>
+		<cnn_predict conf="0.245">genre</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

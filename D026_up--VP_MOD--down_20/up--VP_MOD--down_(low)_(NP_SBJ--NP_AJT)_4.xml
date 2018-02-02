@@ -1,0 +1,72 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP_MOD--down--(NP_AJT)</dependency>
+	<total>4</total>
+	<sent_item id="M_D3729">
+		<sent><![CDATA[팔라디오 양식의 영향을 가장 강하게 받은 곳은 영국으로 17세기 초에 이니고_존스가 팔라디오 양식을 도입한 이후 18세기 전반에는 대대적인 팔라디아니즘 운동이 일어나 팔라디오 양식의 컨트리 하우스가 유행하였다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[이니고_존스]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="으로">
+			<obj_text><![CDATA[영국]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.430">birthPlace</mln_predict>
+		<cnn_predict conf="0.331">deathPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[도입한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2515">
+		<sent><![CDATA[2012년 주전 경쟁을 벌이던 백민철이 경남_FC로 이적한 이후 완벽히 주전 골키퍼 자리를 굳혔다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[백민철]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="로">
+			<obj_text><![CDATA[경남_FC]]></obj_text>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="1.000">team</mln_predict>
+		<cnn_predict conf="0.625">team</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[이적한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1404">
+		<sent><![CDATA[또한, 팔랑헤당의 이념 중 하나인 생디칼리즘은, 이탈리아에서 베니토_무솔리니가 창당한 파시즘 정당인 이탈리아 전투 파스키의 이념이기도 하였다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[베니토_무솔리니]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+			<arg_type weight="0.34">Politician</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[이탈리아]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.736">deathPlace</mln_predict>
+		<cnn_predict conf="0.375">deathPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[창당한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D364">
+		<sent><![CDATA[이탈리아의 트리에스테에 국제_이론_물리_센터가 세워진 이후 이곳의 소장을 지냈다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[국제_이론_물리_센터]]></sbj_text>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[트리에스테]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.563">deathPlace</mln_predict>
+		<cnn_predict conf="0.445">deathPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[세워진]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

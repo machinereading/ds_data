@@ -1,0 +1,99 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--NP--down--(NP)</dependency>
+	<total>5</total>
+	<sent_item id="M_D3967">
+		<sent><![CDATA[아프리카플라이쥐족은 쥐과 쥐아과에 속하는 설치류 족 분류군의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[쥐아과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[설치류]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="0.737">order</mln_predict>
+		<cnn_predict conf="0.631">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--분류군의--족]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2645">
+		<sent><![CDATA[보티아과는 잉어목에 속하는 조기어류 물고기 과의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[잉어목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.878">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--과의--물고기]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2158">
+		<sent><![CDATA[오네이로데스과는 아귀목에 속하는 조기어류 물고기 과의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[아귀목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.871">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--과의--물고기]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D268">
+		<sent><![CDATA[쿠스쿠스과는 캥거루목에 속하는 유대류 포유류 과의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[캥거루목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[유대류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="0.504">order</mln_predict>
+		<cnn_predict conf="0.732">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--과의--포유류]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3957">
+		<sent><![CDATA[날개줄고기과는 농어목에 속하는 조기어류 물고기 과의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[농어목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.763">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--과의--물고기]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

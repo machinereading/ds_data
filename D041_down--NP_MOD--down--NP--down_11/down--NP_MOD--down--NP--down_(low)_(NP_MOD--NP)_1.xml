@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--NP_MOD--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D146">
+		<sent><![CDATA[FC 일리치베츠 마리우폴은 우크라이나 도네츠크 주의 마리우폴의 축구 클럽이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[마리우폴]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[우크라이나]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.966">country</mln_predict>
+		<cnn_predict conf="0.816">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP_MOD--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주의--도네츠크]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP--down--NP_SBJ--down--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D981">
+		<sent><![CDATA[SDS의 주요 당원인 밀란_바비치와 밀란 마트리치는 나중에 세르비아_크라이나_공화국을 세우게 된다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[세르비아_크라이나_공화국]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="와">
+			<obj_text><![CDATA[밀란_바비치]]></obj_text>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.759">country</mln_predict>
+		<cnn_predict conf="0.286">location</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--NP_SBJ--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[세우게--마트리치는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

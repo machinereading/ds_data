@@ -1,0 +1,201 @@
+<sentence_list>
+	<dependency>(NP)--up--(NP)</dependency>
+	<total>11</total>
+	<sent_item id="M_D1364">
+		<sent><![CDATA[공격수: 윤상철, 이태호, 송주석 (울산_현대_축구단)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[송주석]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[울산_현대_축구단]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.749">team</mln_predict>
+		<cnn_predict conf="0.651">team</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1463">
+		<sent><![CDATA[《느낌_(드라마)》(1994년, 한국방송공사) - 한준의 동갑내기 친구 김석장 역]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[느낌_(드라마)]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[한국방송공사]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.311">channel</mln_predict>
+		<cnn_predict conf="0.504">starring</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1977">
+		<sent><![CDATA[해머스미스 & 풀럼 구의 일부이며, 프리미어리그 축구팀인 풀럼 FC와 첼시_FC의 연고지이기도 하다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[첼시_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[프리미어리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.492">league</mln_predict>
+		<cnn_predict conf="0.420">league</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D154">
+		<sent><![CDATA[〈Love & Peace〉는, TOKIO의 멤버 마츠오카_마사히로가 주연한 드라마 《LOVE&PEACE》의 주제곡으로 사용되었다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[TOKIO]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[마츠오카_마사히로]]></obj_text>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.136">channel</mln_predict>
+		<cnn_predict conf="0.347">currentMember</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2316">
+		<sent><![CDATA[《용의_눈물》 KBS]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[용의_눈물]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[KBS]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.346">channel</mln_predict>
+		<cnn_predict conf="0.572">channel</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3887">
+		<sent><![CDATA[그러나 6회초 수비에서 사카모토_하야토(일본 대표·요미우리_자이언츠 내야수)의 좌익수 뜬공을 쫓아 후퇴하던 중에 유격 수비를 지키고 있던 우에모토 히로키와 교착, 이토는 사카모토의 타구를 잡았지만 왼쪽 턱 부분을 부딪쳤다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[사카모토_하야토]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[요미우리_자이언츠]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.532">team</mln_predict>
+		<cnn_predict conf="0.654">position</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3684">
+		<sent><![CDATA[● 광주_도시철도_1호선 녹동역 - 평동역]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[광주_도시철도_1호선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.23">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.28">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[평동역]]></obj_text>
+			<arg_type weight="0.36">Place</arg_type>
+			<arg_type weight="1.39">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.42">Infrastructure</arg_type>
+		</obj>
+		<gold>routeEnd</gold>
+		<mln_predict conf="0.451">routeStart</mln_predict>
+		<cnn_predict conf="0.404">routeStart</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1410">
+		<sent><![CDATA[미드필더: 최진호, 최진수, 이용래, 김호남_(축구_선수) (광주_FC)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[김호남_(축구_선수)]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[광주_FC]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.480">team</mln_predict>
+		<cnn_predict conf="0.527">team</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2248">
+		<sent><![CDATA[공격수: 데얀 다미아노비치, 김신욱 (울산_현대_축구단)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[김신욱]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[울산_현대_축구단]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.972">team</mln_predict>
+		<cnn_predict conf="0.689">team</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1751">
+		<sent><![CDATA[대한민국의 야구 선수 정인욱 (삼성_라이온즈).]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[정인욱]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[삼성_라이온즈]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.674">team</mln_predict>
+		<cnn_predict conf="0.693">team</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D425">
+		<sent><![CDATA[미드필더: 신태용, 송종국, 남기일, 서정원 (수원_삼성_블루윙즈)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[서정원]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[수원_삼성_블루윙즈]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.479">team</mln_predict>
+		<cnn_predict conf="0.506">team</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

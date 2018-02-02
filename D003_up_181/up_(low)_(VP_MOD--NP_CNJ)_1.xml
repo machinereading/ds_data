@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(VP_MOD)--up--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1244">
+		<sent><![CDATA[미드필더: 최진한 (FC_서울), 이흥실, 최대식]]></sent>
+		<sbj label="VP_MOD" josa="">
+			<sbj_text><![CDATA[최진한]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[FC_서울]]></obj_text>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.267">team</mln_predict>
+		<cnn_predict conf="0.554">team</cnn_predict>
+		<gsdp>(VP_MOD)--up--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

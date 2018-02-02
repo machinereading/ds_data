@@ -1,0 +1,20 @@
+<sentence_list>
+	<dependency>(NP)--up--(NP_OBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D498">
+		<sent><![CDATA[마이크로소프트는 현재 상용 소프트웨어인 마이크로소프트 비주얼 스튜디오, 프리웨어인 마이크로소프트_비주얼_스튜디오_익스프레스, 두 가지의 주된 비주얼 베이직 통합_개발_환경을 제공한다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[마이크로소프트_비주얼_스튜디오_익스프레스]]></sbj_text>
+			<arg_type weight="0.93">Work</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="을">
+			<obj_text><![CDATA[통합_개발_환경]]></obj_text>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.481">channel</mln_predict>
+		<cnn_predict conf="0.557">genre</cnn_predict>
+		<gsdp>(NP)--up--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

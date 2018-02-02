@@ -1,0 +1,20 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--down--NP--down--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2384">
+		<sent><![CDATA[《남한산성_(드라마)》 (MBC, 1986년~1987년, 배우:박종관)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[남한산성_(드라마)]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[MBC]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.388">channel</mln_predict>
+		<cnn_predict conf="0.711">channel</cnn_predict>
+		<gsdp>(NP)--up--NP--down--NP--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[배우:박종관)--1986년~1987년,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

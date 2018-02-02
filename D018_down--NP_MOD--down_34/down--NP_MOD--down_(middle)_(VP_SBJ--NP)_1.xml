@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(VP_SBJ)--down--NP_MOD--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2575">
+		<sent><![CDATA[노르웨이 출신의 모르텐_튈둠이 감독하고, 그레이엄 무어가 각본을 썼다.]]></sent>
+		<sbj label="VP_SBJ" josa="이">
+			<sbj_text><![CDATA[모르텐_튈둠]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+			<arg_type weight="0.86">Artist</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[노르웨이]]></obj_text>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.965">birthPlace</mln_predict>
+		<cnn_predict conf="0.560">birthPlace</cnn_predict>
+		<gsdp>(VP_SBJ)--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[출신의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,61 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP_MOD--up--VNP--down--(DP)</dependency>
+	<total>3</total>
+	<sent_item id="M_D1973">
+		<sent><![CDATA[휘파람새과는 참새목에 속하는 식충성 새 과이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[참새목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="DP" josa="">
+			<obj_text><![CDATA[새]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.508">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(DP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--과이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D954">
+		<sent><![CDATA[메가포드과는 닭목에 속하는 새 과이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[닭목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="DP" josa="">
+			<obj_text><![CDATA[새]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.745">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(DP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--과이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1229">
+		<sent><![CDATA[아메리카솔새과 또는 신대륙개개비과는 참새목에 속하는 새 과이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[참새목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="DP" josa="">
+			<obj_text><![CDATA[새]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.558">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(DP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--과이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

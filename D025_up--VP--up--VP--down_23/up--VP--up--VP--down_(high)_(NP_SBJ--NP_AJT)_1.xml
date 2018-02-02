@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--up--VP--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3424">
+		<sent><![CDATA[그는 그 해, 코미디 영화 《겟_스마트_(영화)》에서 멜 브룩스의 1960년대 TV 시리즈를 새롭게 리메이크한 작품에서 "에이전트 99" 역할을 맡아 스티브 카렐, 앨런_아킨과 연기하였다.]]></sent>
+		<sbj label="NP_SBJ" josa="는">
+			<sbj_text><![CDATA[겟_스마트_(영화)]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="과">
+			<obj_text><![CDATA[앨런_아킨]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="1.000">starring</mln_predict>
+		<cnn_predict conf="0.894">starring</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[맡아--연기하였다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

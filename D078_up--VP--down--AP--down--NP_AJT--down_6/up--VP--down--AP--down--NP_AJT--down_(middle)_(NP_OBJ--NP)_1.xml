@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP--down--AP--down--NP_AJT--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3749">
+		<sent><![CDATA[1884년 12월 박영효, 박영교, 서재필, 홍영식, 윤웅렬 등과 함께 갑신정변을 일으켰다가 실패하여 일본에 망명생활을 하였다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[갑신정변]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[윤웅렬]]></obj_text>
+			<arg_type weight="0.34">Agent</arg_type>
+			<arg_type weight="0.86">Person</arg_type>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.999">commander</mln_predict>
+		<cnn_predict conf="0.361">relative</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--AP--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[일으켰다가--함께--등과]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

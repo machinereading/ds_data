@@ -1,0 +1,79 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP_AJT--down--(NP)</dependency>
+	<total>4</total>
+	<sent_item id="M_D2371">
+		<sent><![CDATA[2012년 9월 2일, 샤힌은 0-2로 패한 아스널_FC과의 프리미어리그 경기에서 리버풀 신고식을 치렀다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[아스널_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[프리미어리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.429">position</mln_predict>
+		<cnn_predict conf="0.514">team</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[경기에서]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1241">
+		<sent><![CDATA[그의 임대 이적은 2007년 8월, 가브리엘_팔레타의 보카_주니어스 이적으로 인해 리버풀 완전 이적으로 변경되었다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[가브리엘_팔레타]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[보카_주니어스]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.796">team</mln_predict>
+		<cnn_predict conf="0.447">league</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[이적으로]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1252">
+		<sent><![CDATA[그는 9월 13일, SC_바스티아와의 리그_1 경기에서 90분 출전했고, 마르세유는 4-1로 이겼다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[SC_바스티아]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[리그_1]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.538">position</mln_predict>
+		<cnn_predict conf="0.591">team</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[경기에서]]></gsdp_lemma>
+		<comment>(Entity1)와의 경기에서 가 중요 패턴으로 작용한 것으로 보임</comment>
+	</sent_item>
+	<sent_item id="M_D2054">
+		<sent><![CDATA[2013년 9월 22일, 마르키뉴스는 1-1로 비긴 AS_모나코_FC와의 리그_1 경기에서 처음으로 선발 출전하였다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[AS_모나코_FC]]></sbj_text>
+			<arg_type weight="0.28">Agent</arg_type>
+			<arg_type weight="0.34">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[리그_1]]></obj_text>
+		</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.400">position</mln_predict>
+		<cnn_predict conf="0.644">team</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[경기에서]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

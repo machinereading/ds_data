@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP_MOD--up--VNP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1409">
+		<sent><![CDATA[〈Long Tall Sally〉는 로버트 블랙웰, 이노트리스 존슨, 그리고 리틀_리처드가 쓴 12마디 블루스 로큰롤 노래다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[리틀_리처드]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[로큰롤]]></obj_text>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.254">genre</mln_predict>
+		<cnn_predict conf="0.357">currentMember</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP_MOD--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[쓴--노래다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP)--down--NP--down--NP_MOD--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3197">
+		<sent><![CDATA[하길종 감독의 동생 하명중 감독에 의하면 <날이 갈수록>은 다음과 같은 경로를 거쳐 영화 바보들의 행진의 주제곡으로 채택되었다한다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[하명중]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+			<arg_type weight="-0.02">Person</arg_type>
+			<arg_type weight="-0.22">Artist</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[하길종]]></obj_text>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.953">birthPlace</mln_predict>
+		<cnn_predict conf="0.200">deathPlace</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[동생--감독의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

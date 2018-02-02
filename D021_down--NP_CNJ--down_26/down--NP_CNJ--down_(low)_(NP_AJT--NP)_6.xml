@@ -1,0 +1,100 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--NP_CNJ--down--(NP)</dependency>
+	<total>6</total>
+	<sent_item id="M_D1904">
+		<sent><![CDATA[안타로마 역은 일본 홋카이도 가미카와 군 아이베쓰_정에 위치한 홋카이도 여객철도 세키호쿠 본선의 철도역이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[아이베쓰_정]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[홋카이도]]></obj_text>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.968">region</mln_predict>
+		<cnn_predict conf="0.468">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_CNJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[가미카와]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2062">
+		<sent><![CDATA[니시신토쿠 신호장은 일본 홋카이도 가미카와 군 신토쿠_정에 있는 홋카이도 여객철도 네무로 본선의 신호장이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[신토쿠_정]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[홋카이도]]></obj_text>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.903">region</mln_predict>
+		<cnn_predict conf="0.532">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_CNJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[가미카와]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3593">
+		<sent><![CDATA[양산 통도사 동종 및 종거는 경상남도 양산시, 통도사에 있는 조선시대의 동종 및 종거이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[통도사]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="-0.11">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.19">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[경상남도]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.318">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_CNJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[양산시,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2257">
+		<sent><![CDATA[양산 통도사 백련암 용선접인도은 경상남도 양산시, 통도사에 있는 조선시대의 탱화이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[통도사]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="-0.11">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.19">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[경상남도]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.325">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_CNJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[양산시,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D572">
+		<sent><![CDATA[노세 군은 일본 셋쓰 국, 오사카_부에 있던 군이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[오사카_부]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[일본]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.521">country</mln_predict>
+		<cnn_predict conf="0.615">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_CNJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[국,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D730">
+		<sent><![CDATA[비바우시 역은 일본 홋카이도 가미카와 군 비에이_정에 위치한 홋카이도 여객철도 후라노 선의 철도역이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[비에이_정]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[홋카이도]]></obj_text>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.446">region</mln_predict>
+		<cnn_predict conf="0.416">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_CNJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[가미카와]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

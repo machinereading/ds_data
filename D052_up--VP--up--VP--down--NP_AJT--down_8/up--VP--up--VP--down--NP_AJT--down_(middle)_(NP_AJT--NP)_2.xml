@@ -1,0 +1,40 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--up--VP--down--NP_AJT--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_D1921">
+		<sent><![CDATA[그해 여름 에이전트 도움으로 중국 지아리그 랴오닝_훙윈에 입단하여 팀의 중국_슈퍼리그 승격에 공헌하였고 2010년엔 중국 슈퍼리그 충칭 리판에 입단하였으나 고질적인 무릎 부상으로 인하여 7월 구단과 양자합의에 따라 계약을 해지 하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[랴오닝_훙윈]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[중국_슈퍼리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.990">position</mln_predict>
+		<cnn_predict conf="0.336">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--up--VP--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[입단하여--공헌하였고--승격에]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1932">
+		<sent><![CDATA[FC 루체른 유소년팀에서의 3년 후, 그는 그라스호퍼_클럽_취리히로 스카웃 되었고, 2009년 4월 26일, 그는 뇌샤텔 크사막스와의 스위스_슈퍼리그 경기에서 데뷔전을 치르었다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[그라스호퍼_클럽_취리히]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[스위스_슈퍼리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.354">league</mln_predict>
+		<cnn_predict conf="0.508">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--up--VP--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[되었고,--치르었다.--경기에서]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

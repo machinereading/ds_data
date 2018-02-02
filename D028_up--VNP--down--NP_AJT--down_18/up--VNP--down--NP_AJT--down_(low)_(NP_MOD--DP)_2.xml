@@ -1,0 +1,38 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP--down--NP_AJT--down--(DP)</dependency>
+	<total>2</total>
+	<sent_item id="M_D2377">
+		<sent><![CDATA[천화는 중국 북주우문옹의 두 번째 연호이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[북주]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="DP" josa="">
+			<obj_text><![CDATA[우문옹]]></obj_text>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="1.000">leaderName</mln_predict>
+		<cnn_predict conf="0.569">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_AJT--down--(DP)</gsdp>
+		<gsdp_lemma><![CDATA[연호이다.--번째]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1178">
+		<sent><![CDATA[선정은 중국 북주우문옹의 네 번째 연호이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[북주]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="DP" josa="">
+			<obj_text><![CDATA[우문옹]]></obj_text>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="1.000">leaderName</mln_predict>
+		<cnn_predict conf="0.603">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_AJT--down--(DP)</gsdp>
+		<gsdp_lemma><![CDATA[연호이다.--번째]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

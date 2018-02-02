@@ -1,0 +1,38 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--(NP_AJT)</dependency>
+	<total>2</total>
+	<sent_item id="M_D3000">
+		<sent><![CDATA[체이스 조던 헤들리는 미국의 프로 야구 3루수로, 2014년부터 메이저_리그_베이스볼의 뉴욕_양키스에서 3루수로 뛰고 있다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[메이저_리그_베이스볼]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="-0.11">Organisation</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[뉴욕_양키스]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.992">position</mln_predict>
+		<cnn_predict conf="0.494">position</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1302">
+		<sent><![CDATA[1218년 레온_왕국의 알폰소_9세에 의해 설립되었다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[레온_왕국]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[알폰소_9세]]></obj_text>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.189">birthPlace</mln_predict>
+		<cnn_predict conf="0.492">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

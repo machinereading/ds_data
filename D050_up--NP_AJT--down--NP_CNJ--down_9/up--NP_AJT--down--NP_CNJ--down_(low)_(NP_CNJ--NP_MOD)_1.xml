@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP_AJT--down--NP_CNJ--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D347">
+		<sent><![CDATA[멕시코의 바하칼리포르니아 주와 소노라_주, 미국의 애리조나 주와 캘리포니아 주, 아이다호 주, 네바다 주, 오레곤 주 그리고 유타 주에서 발견된다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[소노라_주]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[멕시코]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.597">country</mln_predict>
+		<cnn_predict conf="0.511">country</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--down--NP_CNJ--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[주에서--주와]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

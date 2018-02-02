@@ -1,0 +1,134 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--VP_MOD--down--(NP_AJT)</dependency>
+	<total>7</total>
+	<sent_item id="M_D1765">
+		<sent><![CDATA[조개치레상과는 십각목에 속하는 게 상과의 하나이다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[게]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[십각목]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.629">order</cnn_predict>
+		<gsdp>(NP_SBJ)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2927">
+		<sent><![CDATA[호몰로드로미아과는 십각목 범배아목에 속하는 게 과의 하나이다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[게]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[범배아목]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.562">class</cnn_predict>
+		<gsdp>(NP_SBJ)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D4057">
+		<sent><![CDATA[붉은무늬부채게속은 십각목에 속하는 게 속의 하나이다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[게]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[십각목]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.743">order</cnn_predict>
+		<gsdp>(NP_SBJ)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3679">
+		<sent><![CDATA[입성 당시, 보스턴_레드삭스에서 활약했던 백인 선수 테드_윌리엄스는 사첼 페이지의 명예의 전당 입성에 대해 다음과 같이 발언했다.]]></sent>
+		<sbj label="NP_SBJ" josa="는">
+			<sbj_text><![CDATA[테드_윌리엄스]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[보스턴_레드삭스]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.963">team</mln_predict>
+		<cnn_predict conf="0.575">team</cnn_predict>
+		<gsdp>(NP_SBJ)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[활약했던]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1525">
+		<sent><![CDATA[비토그라이아과는 십각목에 속하는 게 과의 하나이다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[게]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[십각목]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.554">order</cnn_predict>
+		<gsdp>(NP_SBJ)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3929">
+		<sent><![CDATA[2016년 2월 1일 울산_현대_축구단에서 뛰던 김신욱이 영입되었다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[김신욱]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[울산_현대_축구단]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="1.000">team</mln_predict>
+		<cnn_predict conf="0.391">league</cnn_predict>
+		<gsdp>(NP_SBJ)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[뛰던]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1645">
+		<sent><![CDATA[리버티_섬에 위치한 자유의_여신상은 유명한 관광지이자 미국에서 가장 유명한 상 중 하나이다.]]></sent>
+		<sbj label="NP_SBJ" josa="은">
+			<sbj_text><![CDATA[자유의_여신상]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.92">Building</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[리버티_섬]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.331">location</cnn_predict>
+		<gsdp>(NP_SBJ)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[위치한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,66 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_AJT--up--VP--down--VP--down--(NP_AJT)</dependency>
+	<total>4</total>
+	<sent_item id="M_D3564">
+		<sent><![CDATA[그러나 496년 프랑크족의 왕 클로비스_1세에게 정복당해 프랑크_왕국 영토에 병합되었다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[프랑크_왕국]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에게">
+			<obj_text><![CDATA[클로비스_1세]]></obj_text>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.283">region</mln_predict>
+		<cnn_predict conf="0.665">deathPlace</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[영토에--병합되었다.--정복당해]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1349">
+		<sent><![CDATA[덧붙여 일본에서는 토요타 윈덤으로도 판매를 중단했으며, 2005년에 런칭된 렉서스 브랜드로도 판매되지 않는다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[렉서스]]></sbj_text>
+		</sbj>
+		<obj label="NP_AJT" josa="는">
+			<obj_text><![CDATA[일본]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.103">club</mln_predict>
+		<cnn_predict conf="0.713">location</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[브랜드로도--판매되지--중단했으며,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D431">
+		<sent><![CDATA[해상은 남쪽으로 충청남도 당진시, 서산시, 태안군과 접하고 있으며, 조선민주주의인민공화국과는 북방한계선을 사이에 두고 황해남도 룡연군, 옹진군, 강령군, 청단군, 연안군, 배천군 및 황해북도 개풍군과 맞닿아 있다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[황해북도]]></sbj_text>
+		</sbj>
+		<obj label="NP_AJT" josa="는">
+			<obj_text><![CDATA[조선민주주의인민공화국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.248">location</mln_predict>
+		<cnn_predict conf="0.332">city</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개풍군과--맞닿아--두고]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D874">
+		<sent><![CDATA[1940년 말 연해주의 하바로프스크를 거쳐 소련으로 건너가 소련군 간부학교에서 정식 군사훈련을 받고, 소련군 소위로 임관되어 제88 국제극동여단의 제1대대 1중대의 부소대장과 1중대 1소대장을 역임했다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[소련군]]></sbj_text>
+		</sbj>
+		<obj label="NP_AJT" josa="으로">
+			<obj_text><![CDATA[소련]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.104">location</mln_predict>
+		<cnn_predict conf="0.570">commander</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[간부학교에서--받고,--건너가]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

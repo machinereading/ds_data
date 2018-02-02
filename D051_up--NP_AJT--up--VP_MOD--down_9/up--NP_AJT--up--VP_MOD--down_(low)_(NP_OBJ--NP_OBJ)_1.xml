@@ -1,0 +1,20 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--NP_AJT--up--VP_MOD--down--(NP_OBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3865">
+		<sent><![CDATA[무풍지대, 훠어이 훠어이, 전설의 고향 등 작품을 집필하였고 이후 1996년 용의_눈물을 시작으로 사극을 표방하는 집필 작품 전문 각본가로 많이 알려져있기도 하다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[용의_눈물]]></sbj_text>
+			<arg_type weight="0.93">Work</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="을">
+			<obj_text><![CDATA[사극]]></obj_text>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.231">genre</mln_predict>
+		<cnn_predict conf="0.550">starring</cnn_predict>
+		<gsdp>(NP_OBJ)--up--NP_AJT--up--VP_MOD--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[시작으로--표방하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

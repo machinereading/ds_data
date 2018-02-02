@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--down--NP_CNJ--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D891">
+		<sent><![CDATA[노르트 선은 포르투갈의 리스본과 포르투를 잇는 철도노선이다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[포르투]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[포르투갈]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.363">country</mln_predict>
+		<cnn_predict conf="0.603">country</cnn_predict>
+		<gsdp>(NP_OBJ)--down--NP_CNJ--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[리스본과]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

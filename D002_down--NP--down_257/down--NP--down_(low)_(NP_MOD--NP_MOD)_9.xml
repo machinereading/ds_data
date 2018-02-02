@@ -1,0 +1,153 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--NP--down--(NP_MOD)</dependency>
+	<total>9</total>
+	<sent_item id="M_D164">
+		<sent><![CDATA[미국 케이블 방송사 HBO의 텔레비전 연속극 《트루_블러드》의 원작소설이기도 하다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[트루_블러드]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[HBO]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.310">genre</mln_predict>
+		<cnn_predict conf="0.711">channel</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[연속극]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2811">
+		<sent><![CDATA[1880년대 초, 벨기에의 국왕 레오폴_2세의 후원을 받은 헨리 스탠리를 통해 벨기에령인 콩고 자유국이 되었다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[레오폴_2세]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[벨기에]]></obj_text>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.708">birthPlace</mln_predict>
+		<cnn_predict conf="0.508">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[국왕]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2665">
+		<sent><![CDATA[17기 GS칼텍스배는 대한민국의 프로 바둑 기전 GS칼텍스배의 제17차 대회이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[GS칼텍스]]></sbj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="1.12">Organisation</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.570">location</mln_predict>
+		<cnn_predict conf="0.388">location</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[기전]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1016">
+		<sent><![CDATA[《카드캡터 사쿠라》는 일본의 만화창작집단 클램프의 만화와 이를 원작으로 하는 애니메이션이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[클램프]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[일본]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.655">birthPlace</mln_predict>
+		<cnn_predict conf="0.395">birthPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[만화창작집단]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2762">
+		<sent><![CDATA[소의 윤씨는 조선의 15대 왕 조선_광해군의 후궁이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[조선_광해군]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[조선]]></obj_text>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.657">deathPlace</mln_predict>
+		<cnn_predict conf="0.941">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[왕]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3490">
+		<sent><![CDATA[프랑스의 계몽사상가 볼테르의 영향을 받고 그에게 감화되었던 프리드리히가 그와 본격적으로 편지를 주고받으며 친해지기 시작한 것도 결혼 직후 무렵부터였다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[볼테르]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[프랑스]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.425">birthPlace</mln_predict>
+		<cnn_predict conf="0.599">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[계몽사상가]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3342">
+		<sent><![CDATA[폭스_방송의 텔레비전 드라마 《프리즌_브레이크》의 주인공 마이클 스코필드 역으로 유명하다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[프리즌_브레이크]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[폭스_방송]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.540">channel</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[드라마]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3776">
+		<sent><![CDATA[이름은 시카고_블루스의 거장 머디_워터스의 노래 〈Rollin' Stone〉을 기념하여 브라이언 존스가 이름지었다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[머디_워터스]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.11">Person</arg_type>
+			<arg_type weight="0.43">Artist</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[시카고_블루스]]></obj_text>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.367">deathPlace</mln_predict>
+		<cnn_predict conf="0.203">genre</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[거장]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1139">
+		<sent><![CDATA[또한 3.1절 등에는 행사를 할 때 태극기와 대한민국_임시정부의 주석 김구의 사진을 걸었다고도 한다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[김구]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+			<arg_type weight="0.34">Politician</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[대한민국_임시정부]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.901">deathPlace</mln_predict>
+		<cnn_predict conf="0.796">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[주석]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

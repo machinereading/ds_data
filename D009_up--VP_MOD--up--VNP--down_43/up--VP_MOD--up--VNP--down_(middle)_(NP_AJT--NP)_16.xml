@@ -1,0 +1,309 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP)</dependency>
+	<total>16</total>
+	<sent_item id="M_D316">
+		<sent><![CDATA[햄스터쥐속 또는 베아미스속은 붉은숲쥐과에 속하는 아프리카 설치류 속이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[붉은숲쥐과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[설치류]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.610">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--속이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1928">
+		<sent><![CDATA[큰흙파는쥐속 또는 큰주머니고퍼속는 흙파는쥐류에 속하는 설치류 속이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[흙파는쥐류]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[설치류]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="0.523">class</mln_predict>
+		<cnn_predict conf="0.547">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--속이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2543">
+		<sent><![CDATA[산비스카차속은 친칠라과에 속하는 설치류 속이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[친칠라과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[설치류]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="0.752">order</mln_predict>
+		<cnn_predict conf="0.694">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--속이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1656">
+		<sent><![CDATA[기름갈치꼬치 또는 단순히 기름치는 고등어목 갈치꼬치과에 속하는 조기어류 물고기이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[갈치꼬치과]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="0.954">order</mln_predict>
+		<cnn_predict conf="0.824">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--물고기이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3552">
+		<sent><![CDATA[뱅어과는 바다빙어목에 속하는 조기어류 과이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[바다빙어목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="0.953">class</mln_predict>
+		<cnn_predict conf="0.903">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--과이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D46">
+		<sent><![CDATA[크라우가스토르과는 개구리목 신와아목에 속하는 양서류 과이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[신와아목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[양서류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="0.965">class</mln_predict>
+		<cnn_predict conf="0.692">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--과이다.]]></gsdp_lemma>
+		<comment>속하는. Typical한 구조</comment>
+	</sent_item>
+	<sent_item id="M_D580">
+		<sent><![CDATA[비공식군 하이새류에 속하는 수생 복족류 연체동물이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[하이새류]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[복족류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="0.442">order</mln_predict>
+		<cnn_predict conf="0.540">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--연체동물이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2196">
+		<sent><![CDATA[차코쥐속은 비단털쥐과 목화쥐아과에 속하는 설치류 속이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[목화쥐아과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[설치류]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="0.634">order</mln_predict>
+		<cnn_predict conf="0.539">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--속이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2128">
+		<sent><![CDATA[살찐생쥐속은 붉은숲쥐과에 속하는 설치류 속이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[붉은숲쥐과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[설치류]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.625">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--속이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1681">
+		<sent><![CDATA[전 일본 축구 국가대표팀 감독 오카다_다케시와는 같은 오사카_시 출신이자 같은 성씨, 와세다 대학의 동창생, 프로 스포츠 감독이라는 공통점도 많다.]]></sent>
+		<sbj label="NP_AJT" josa="는">
+			<sbj_text><![CDATA[오카다_다케시]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+			<arg_type weight="0.07">Athlete</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[오사카_시]]></obj_text>
+			<arg_type weight="0.23">Place</arg_type>
+			<arg_type weight="0.25">PopulatedPlace</arg_type>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.970">birthPlace</mln_predict>
+		<cnn_predict conf="0.308">location</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[같은--출신이자]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D4043">
+		<sent><![CDATA[좀뱀잠자리과는 뱀잠자리목에 속하는 곤충 과이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[뱀잠자리목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[곤충]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.777">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--과이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3423">
+		<sent><![CDATA[무지개송사리과는 열대송사리목에 속하는 조기어류 과이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[열대송사리목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.900">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--과이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1822">
+		<sent><![CDATA[반점가시나무쥐속은 가시쥐과에 속하는 설치류 속이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[가시쥐과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[설치류]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.664">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--속이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2221">
+		<sent><![CDATA[코브라과는 뱀목 뱀 참뱀하목에 속하는 파충류 과이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[참뱀하목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[파충류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="0.872">class</mln_predict>
+		<cnn_predict conf="0.707">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--과이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2216">
+		<sent><![CDATA[대서양가시쥐속은 가시쥐과에 속하는 남아메리카 설치류 속이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[가시쥐과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[설치류]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.829">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--속이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1635">
+		<sent><![CDATA[회색긴팔원숭이는 긴팔원숭이과의 긴팔원숭이속에 속하는 영장류 유인원이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[긴팔원숭이속]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[영장류]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="0.896">order</mln_predict>
+		<cnn_predict conf="0.602">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--유인원이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

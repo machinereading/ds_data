@@ -1,0 +1,40 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--down--NP--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_D3338">
+		<sent><![CDATA[베이징 올림픽에서 경기하는 모습이 문화방송 예능프로그램 무한도전을 통해 방송되기도 하였다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[무한도전]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[문화방송]]></obj_text>
+			<arg_type weight="0.32">Agent</arg_type>
+			<arg_type weight="1.24">Organisation</arg_type>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.994">channel</mln_predict>
+		<cnn_predict conf="0.570">channel</cnn_predict>
+		<gsdp>(NP_OBJ)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[예능프로그램]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2656">
+		<sent><![CDATA[로는 오패럴의 빈자리에 전 스코틀랜드_축구_국가대표팀 동료 토미_도처티를 추천하였다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[토미_도처티]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[스코틀랜드_축구_국가대표팀]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.766">team</mln_predict>
+		<cnn_predict conf="0.663">team</cnn_predict>
+		<gsdp>(NP_OBJ)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[동료]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

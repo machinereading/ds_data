@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--up--VP--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2132">
+		<sent><![CDATA[1592년 임진왜란이 터지자 그해 10월 제1차 진주성 전투에서 진주목사 김시민은 3,800명의 군사로 3만 여명의 왜적을 물리쳐 진주성대첩을 이룩하였다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[임진왜란]]></sbj_text>
+		</sbj>
+		<obj label="NP_SBJ" josa="은">
+			<obj_text><![CDATA[김시민]]></obj_text>
+			<arg_type weight="0.34">Agent</arg_type>
+			<arg_type weight="0.86">Person</arg_type>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.712">commander</mln_predict>
+		<cnn_predict conf="0.735">commander</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[터지자--물리쳐]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,61 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP_AJT--up--VP--down--(NP_SBJ)</dependency>
+	<total>3</total>
+	<sent_item id="M_D810">
+		<sent><![CDATA[밀로시 요이치는 세르비아의 축구 선수로, 푸스발-분데스리가 클럽 1._FC_쾰른와 세르비아 축구 국가대표팀에서 미드필더로 활약하고 있다.]]></sent>
+		<sbj label="NP_CNJ" josa="와">
+			<sbj_text><![CDATA[1._FC_쾰른]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[푸스발-분데스리가]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">position</mln_predict>
+		<cnn_predict conf="0.416">league</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[국가대표팀에서--활약하고]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3285">
+		<sent><![CDATA[2010년 마데이라 홍수 및 산사태 사태의 희생자들을 기리기 위해, 호날두는 프리메이라리가 클럽 FC 포르투와 마데이라 연고의 CS_마리티무와 CD 나시오날 간 자선 경기에 참가했다.]]></sent>
+		<sbj label="NP_CNJ" josa="와">
+			<sbj_text><![CDATA[CS_마리티무]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[프리메이라리가]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.391">team</mln_predict>
+		<cnn_predict conf="0.332">team</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[경기에--참가했다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3786">
+		<sent><![CDATA[로이 호지슨의 FC_인테르나치오날레_밀라노는 파리 생제르맹 FC에서 프랑스 미드필더 유리_조르카에프, 레알 마드리드 FC에서 칠레 공격수 이반 사모라노, SS 라치오에서 네덜란드 미드필더 아론 빈터르를 영입했다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[유리_조르카에프]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="는">
+			<obj_text><![CDATA[FC_인테르나치오날레_밀라노]]></obj_text>
+			<arg_type weight="0.14">Agent</arg_type>
+			<arg_type weight="0.35">Organisation</arg_type>
+			<arg_type weight="0.72">SportsTeam</arg_type>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="1.000">club</mln_predict>
+		<cnn_predict conf="0.398">team</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[FC에서--영입했다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

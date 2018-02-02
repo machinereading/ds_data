@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_AJT--down--NP_CNJ--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D508">
+		<sent><![CDATA[부마민주항쟁 또는 부마민중항쟁은 1979년 10월 16일부터 10월 20일까지 대한민국의 부산광역시와 경상남도 마산시에서 유신 체제에 대항한 항쟁을 말한다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[경상남도]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.192">country</mln_predict>
+		<cnn_predict conf="0.452">deathPlace</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--down--NP_CNJ--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[마산시에서--부산광역시와]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

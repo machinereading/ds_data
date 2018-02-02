@@ -1,0 +1,61 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_SBJ--up--VP_MOD--up--(NP_AJT)</dependency>
+	<total>3</total>
+	<sent_item id="M_D3798">
+		<sent><![CDATA[또한 신태용 감독이 이끄는 대한민국_U-23_축구_국가대표팀에도 발탁이 되었다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[신태용]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="도">
+			<obj_text><![CDATA[대한민국_U-23_축구_국가대표팀]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.901">team</mln_predict>
+		<cnn_predict conf="0.764">team</cnn_predict>
+		<gsdp>(NP)--up--NP_SBJ--up--VP_MOD--up--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[감독이--이끄는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2925">
+		<sent><![CDATA[정규시즌을 40승 42패로 마치고 가넷은 팀버울브스를 플레이오프에 구단 역사상 처음으로 진출시켰는데, 하킴_올라주원, 찰스 바클리, 클라이드 드렉슬러가 이끄는 휴스턴_로키츠에 0승 3패로 스윕당하고 탈락했다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[하킴_올라주원]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[휴스턴_로키츠]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.902">team</mln_predict>
+		<cnn_predict conf="0.758">team</cnn_predict>
+		<gsdp>(NP)--up--NP_SBJ--up--VP_MOD--up--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[드렉슬러가--이끄는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1903">
+		<sent><![CDATA[K리그 2012 개막 후 주전으로 출전하며 좋은 모습을 보이자 홍명보 감독이 이끄는 대한민국_U-23_축구_국가대표팀에 선발되었다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[홍명보]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[대한민국_U-23_축구_국가대표팀]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.823">team</mln_predict>
+		<cnn_predict conf="0.734">team</cnn_predict>
+		<gsdp>(NP)--up--NP_SBJ--up--VP_MOD--up--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[감독이--이끄는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

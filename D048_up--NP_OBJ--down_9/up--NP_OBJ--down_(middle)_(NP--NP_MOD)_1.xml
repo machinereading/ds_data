@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_OBJ--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3474">
+		<sent><![CDATA[2.3GHz 작동속도를 가진 쿼드코어 프로세서인 퀄컴의 스냅드래곤 프로세서를 탑재했으며, 아드레노 그래픽 프로세서를 탑재했다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[스냅드래곤]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[퀄컴]]></obj_text>
+			<arg_type weight="0.81">Agent</arg_type>
+			<arg_type weight="1.05">Organisation</arg_type>
+		</obj>
+		<gold>owner</gold>
+		<mln_predict conf="0.345">channel</mln_predict>
+		<cnn_predict conf="0.188">location</cnn_predict>
+		<gsdp>(NP)--up--NP_OBJ--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[프로세서를]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

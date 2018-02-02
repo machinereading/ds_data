@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--VNP_MOD--down--NP_MOD--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D86">
+		<sent><![CDATA[개발도상국을 지원한다는 의미에서, 이 연구소의 이름 앞에는 파키스탄 출신의 노벨 물리학상 수상자인 압두스_살람의 이름이 붙어 있다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[압두스_살람]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[파키스탄]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.408">birthPlace</mln_predict>
+		<cnn_predict conf="0.416">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[수상자인--출신의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

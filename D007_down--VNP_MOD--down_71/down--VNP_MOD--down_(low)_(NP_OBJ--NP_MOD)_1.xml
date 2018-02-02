@@ -1,0 +1,20 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--down--VNP_MOD--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2563">
+		<sent><![CDATA[리마르도는 결승전에서 노르웨이국적의 폴란드인 바르토시_피아세츠키를 15대 10으로 제압하여, 베네수엘라의 올림픽 펜싱 역사상 첫 금메달을 차지하였다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[바르토시_피아세츠키]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[노르웨이]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.279">deathPlace</mln_predict>
+		<cnn_predict conf="0.390">birthPlace</cnn_predict>
+		<gsdp>(NP_OBJ)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[폴란드인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

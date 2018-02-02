@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP_AJT--up--VP--down--(NP_OBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2263">
+		<sent><![CDATA[작곡가의 입장으로써는 현미_(가수), 정훈희 등의 가수를 발굴하였고 뮤지컬 배우 출신의 윤복희를 훈련시켜 가수로 재발탁하였다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[현미_(가수)]]></sbj_text>
+			<arg_type weight="0.49">Agent</arg_type>
+			<arg_type weight="0.51">Person</arg_type>
+			<arg_type weight="1.48">Artist</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="를">
+			<obj_text><![CDATA[가수]]></obj_text>
+		</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.880">occupation</mln_predict>
+		<cnn_predict conf="0.920">occupation</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[입장으로써는--발굴하였고]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

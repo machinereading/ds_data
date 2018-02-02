@@ -1,0 +1,84 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--down--NP--down--NP--down--(NP)</dependency>
+	<total>5</total>
+	<sent_item id="M_D3791">
+		<sent><![CDATA[2008년 SBS 미니시리즈 《식객_(드라마)》 ... 오 숙수 역]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[식객_(드라마)]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[SBS]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.966">channel</mln_predict>
+		<cnn_predict conf="0.964">channel</cnn_predict>
+		<gsdp>(NP)--up--NP--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[...--《식객_(드라마)》--미니시리즈]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D757">
+		<sent><![CDATA[1999년 SBS 수목드라마 《해피투게더_(드라마)》 ... 서문주 역]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[해피투게더_(드라마)]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[SBS]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.952">channel</mln_predict>
+		<cnn_predict conf="0.965">channel</cnn_predict>
+		<gsdp>(NP)--up--NP--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[...--《해피투게더_(드라마)》--수목드라마]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D4032">
+		<sent><![CDATA[1999년 SBS 월화드라마 《맛을_보여드립니다_(드라마)》 ... 이미남 역]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[맛을_보여드립니다_(드라마)]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[SBS]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.905">channel</mln_predict>
+		<cnn_predict conf="0.948">channel</cnn_predict>
+		<gsdp>(NP)--up--NP--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[...--《맛을_보여드립니다_(드라마)》--월화드라마]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3384">
+		<sent><![CDATA[2007년 SBS 대하드라마 《왕과_나_(드라마)》 ... 정희왕후 윤씨 역]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[왕과_나_(드라마)]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[SBS]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.774">channel</cnn_predict>
+		<gsdp>(NP)--up--NP--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[...--《왕과_나_(드라마)》--대하드라마]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3943">
+		<sent><![CDATA[2014년 : SBS 드라마 《유혹_(2014년_드라마)》- 나홍규 역]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[유혹_(2014년_드라마)]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[SBS]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.774">channel</cnn_predict>
+		<gsdp>(NP)--up--NP--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[역--《유혹_(2014년_드라마)》---드라마]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

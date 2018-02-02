@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(VNP)--down--NP_MOD--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D370">
+		<sent><![CDATA[모너핸 주는 아일랜드의 아일랜드의 주로 주도는 모너핸이며 면적은 1,295㎢, 인구는 60,483명이다.]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[모너핸]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[아일랜드]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.681">country</mln_predict>
+		<cnn_predict conf="0.870">country</cnn_predict>
+		<gsdp>(VNP)--down--NP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[아일랜드의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

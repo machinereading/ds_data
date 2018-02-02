@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2861">
+		<sent><![CDATA[고치벌과는 벌목_(곤충) 맵시벌상과에 속한 곤충으로, 무당벌레의 성충, 나비애벌레등의 숙주에 기생하여 번식한다.]]></sent>
+		<sbj label="NP_AJT" josa="는">
+			<sbj_text><![CDATA[벌목_(곤충)]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="으로">
+			<obj_text><![CDATA[곤충]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="0.994">order</mln_predict>
+		<cnn_predict conf="0.612">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

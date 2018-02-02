@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(VNP)--down--VNP_MOD--down--(VNP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D4046">
+		<sent><![CDATA[특히 천궁도의 점성술의 발전에 있어서 중요한 사람은 이집트의 알렉산드리아에 살던 점성가이자 천문학자인 클라우디오스_프톨레마이오스이다.]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[클라우디오스_프톨레마이오스]]></sbj_text>
+		</sbj>
+		<obj label="VNP" josa="">
+			<obj_text><![CDATA[점성가]]></obj_text>
+		</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.305">deathPlace</mln_predict>
+		<cnn_predict conf="0.452">deathPlace</cnn_predict>
+		<gsdp>(VNP)--down--VNP_MOD--down--(VNP)</gsdp>
+		<gsdp_lemma><![CDATA[천문학자인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

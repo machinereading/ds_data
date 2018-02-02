@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_AJT--up--VP_MOD--up--VNP--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D657">
+		<sent><![CDATA[쇼비학원대학은 사이타마_현 가와고에 시 도요타 쵸 1-1-1에 본부를 둔 일본의 사립 대학이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[사이타마_현]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[일본]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.345">country</mln_predict>
+		<cnn_predict conf="0.445">location</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP_MOD--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[가와고에--둔--대학이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

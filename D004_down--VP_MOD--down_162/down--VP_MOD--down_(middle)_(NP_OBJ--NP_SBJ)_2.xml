@@ -1,0 +1,40 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--down--VP_MOD--down--(NP_SBJ)</dependency>
+	<total>2</total>
+	<sent_item id="M_D3427">
+		<sent><![CDATA[다윗이 아들 압살롬이 일으킨 압살롬의_난을 피해 달아날 때 바후림에서 다윗에게 돌을 던지며 흙을 뿌리고 압살롬을 지지하는 발언들을 하며 온갖 욕들을 다윗에게 퍼부었다고 한다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[압살롬의_난]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[압살롬]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.499">commander</mln_predict>
+		<cnn_predict conf="0.544">commander</cnn_predict>
+		<gsdp>(NP_OBJ)--down--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[일으킨]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D4031">
+		<sent><![CDATA[아랍어로 위대하다는 의미를 지닌 아크바르라는 이름에 걸맞게 중앙 아시아에서 들어온 외지인이었던 조부 바부르가 세운 무굴_제국을 진정한 제국이란 이름에 걸맞은 국가로 발전시켜, 아크바르 대제란 이름으로 널리 알려졌다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[무굴_제국]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[바부르]]></obj_text>
+			<arg_type weight="0.04">Agent</arg_type>
+			<arg_type weight="0.54">Person</arg_type>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.392">leaderName</mln_predict>
+		<cnn_predict conf="0.583">deathPlace</cnn_predict>
+		<gsdp>(NP_OBJ)--down--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[세운]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

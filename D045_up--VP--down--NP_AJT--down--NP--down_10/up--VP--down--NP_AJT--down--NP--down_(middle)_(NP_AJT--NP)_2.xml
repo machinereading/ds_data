@@ -1,0 +1,36 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--NP_AJT--down--NP--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_D1882">
+		<sent><![CDATA[2014년 김소현은 OCN_(텔레비전_채널) 드라마 《리셋_(드라마)》으로 첫 주연을 맡았다.]]></sent>
+		<sbj label="NP_AJT" josa="">
+			<sbj_text><![CDATA[리셋_(드라마)]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[OCN_(텔레비전_채널)]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.559">channel</mln_predict>
+		<cnn_predict conf="0.816">starring</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[맡았다.--《리셋_(드라마)》으로--드라마]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1841">
+		<sent><![CDATA[2011년부터, HBO 드라마 《왕좌의_게임_(드라마)》에서 "산사 스타크"를 연기했다.]]></sent>
+		<sbj label="NP_AJT" josa="부터">
+			<sbj_text><![CDATA[왕좌의_게임_(드라마)]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[HBO]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.342">channel</mln_predict>
+		<cnn_predict conf="0.717">starring</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[연기했다.--《왕좌의_게임_(드라마)》에서--드라마]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

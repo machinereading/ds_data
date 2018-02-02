@@ -1,0 +1,25 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP_MOD--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2783">
+		<sent><![CDATA[다음 싱글인 "Around The World"는 SMAP의 카토리_싱고 주연 드라마 "서유기"의 주제가로 뽑히어 오리콘 4위를 기록했다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[SMAP]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[카토리_싱고]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.540">starring</mln_predict>
+		<cnn_predict conf="0.348">artist</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA["서유기"의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

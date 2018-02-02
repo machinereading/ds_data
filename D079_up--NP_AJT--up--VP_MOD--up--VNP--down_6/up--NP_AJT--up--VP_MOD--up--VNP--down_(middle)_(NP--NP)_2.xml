@@ -1,0 +1,42 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_AJT--up--VP_MOD--up--VNP--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_D3702">
+		<sent><![CDATA[붉은숲쥐아과 또는 네소미스아과는 쥐아목 붉은숲쥐과에 속하는 설치류 분류군이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[쥐아목]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[설치류]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.678">class</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP_MOD--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[붉은숲쥐과에--속하는--분류군이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3717">
+		<sent><![CDATA[왕발생쥐속은 쥐아목 붉은숲쥐과에 속하는 설치류 속이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[쥐아목]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[설치류]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="0.980">order</mln_predict>
+		<cnn_predict conf="0.599">class</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP_MOD--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[붉은숲쥐과에--속하는--속이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

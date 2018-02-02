@@ -1,0 +1,36 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_D2067">
+		<sent><![CDATA[미국의 언더그라운드 만화가인 로버트_크럼, 찰스_크럼의 동생으로 1945년 미국 플로리다 주 펜실베니아에서 태어났다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[찰스_크럼]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[로버트_크럼]]></obj_text>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.233">country</mln_predict>
+		<cnn_predict conf="0.358">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D319">
+		<sent><![CDATA[매제: 이재영, 역사학자 이병도의 조카, 이병묵의 아들]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[이병도]]></sbj_text>
+			<arg_type weight="0.49">Agent</arg_type>
+			<arg_type weight="0.51">Person</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[역사학]]></obj_text>
+		</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.300">occupation</mln_predict>
+		<cnn_predict conf="0.415">relative</cnn_predict>
+		<gsdp>(NP_MOD)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

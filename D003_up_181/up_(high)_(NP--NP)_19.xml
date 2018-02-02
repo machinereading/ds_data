@@ -1,0 +1,375 @@
+<sentence_list>
+	<dependency>(NP)--up--(NP)</dependency>
+	<total>19</total>
+	<sent_item id="M_D764">
+		<sent><![CDATA[《천추태후_(드라마)》 KBS, 배우:임혁]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[천추태후_(드라마)]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[임혁]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.455">starring</mln_predict>
+		<cnn_predict conf="0.997">starring</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2217">
+		<sent><![CDATA[1991년 KBS 드라마 《왕도_(드라마)》 - 정영숙]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[왕도_(드라마)]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[정영숙]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.867">starring</mln_predict>
+		<cnn_predict conf="0.940">starring</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D544">
+		<sent><![CDATA[친구:모닝구무스메 리더 후쿠무라_미즈키.멤버 이시다 아유미]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[모닝구무스메]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[후쿠무라_미즈키]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="1.000">currentMember</mln_predict>
+		<cnn_predict conf="0.921">currentMember</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1784">
+		<sent><![CDATA[《고우~공주들의_전국~》 (NHK, 2011년, 배우:우에노_주리)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[고우~공주들의_전국~]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[우에노_주리]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.653">channel</mln_predict>
+		<cnn_predict conf="0.958">starring</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D321">
+		<sent><![CDATA[《구르미_그린_달빛_(드라마)》 KBS2, 2016년 배우: 박보검]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[구르미_그린_달빛_(드라마)]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[박보검]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="1.000">starring</mln_predict>
+		<cnn_predict conf="0.983">starring</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3808">
+		<sent><![CDATA[《공주의_남자》 (KBS, 2011년~2011년 배우:송종호)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[공주의_남자]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+			<arg_type weight="-1.29">MusicalWork</arg_type>
+			<arg_type weight="0.96">Album</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[송종호]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.892">channel</mln_predict>
+		<cnn_predict conf="0.987">starring</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3986">
+		<sent><![CDATA[《장영실_(드라마)》 (KBS, 2016년, 배우: 정한용)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[장영실_(드라마)]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[정한용]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="1.000">starring</mln_predict>
+		<cnn_predict conf="0.995">starring</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D933">
+		<sent><![CDATA[2013년 KBS2 TV소설 《삼생이》 ... 어린 석삼생 역 (홍아름 아역)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[삼생이]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[홍아름]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.692">channel</mln_predict>
+		<cnn_predict conf="0.982">starring</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D567">
+		<sent><![CDATA[《여인천하_(드라마)》 (SBS, 2001년~2002년, 배우:전인화)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[여인천하_(드라마)]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[전인화]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.723">channel</mln_predict>
+		<cnn_predict conf="0.990">starring</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1380">
+		<sent><![CDATA[《바람의_나라_(드라마)》 (KBS, 2008년~2009년, 배우:송일국,최원홍)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[바람의_나라_(드라마)]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[송일국]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.894">channel</mln_predict>
+		<cnn_predict conf="0.993">starring</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3467">
+		<sent><![CDATA[GD&TOP은 대한민국의 음악 그룹 빅뱅_(음악_그룹)에서 지드래곤과 T.O.P이 결성한 유닛 그룹의 첫 번째 정규 음반이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[빅뱅_(음악_그룹)]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[지드래곤]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.911">currentMember</mln_predict>
+		<cnn_predict conf="0.569">currentMember</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2883">
+		<sent><![CDATA[《삼국기》(KBS, 1992년~1993년, 배우: 임병기)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[삼국기]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[임병기]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.954">starring</mln_predict>
+		<cnn_predict conf="0.994">starring</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1171">
+		<sent><![CDATA[《서궁》 (KBS, 1995년~1995년 ,배우:임혁주)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[서궁]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[임혁주]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.992">starring</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2989">
+		<sent><![CDATA[2000년 MBC 시트콤 《세_친구_(시트콤)》 ... 윤다훈과 박상면과 정웅인의 고등학교 동창 손민우 역]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[세_친구_(시트콤)]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[정웅인]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="1.000">starring</mln_predict>
+		<cnn_predict conf="0.970">starring</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3178">
+		<sent><![CDATA[《불멸의_이순신》 (KBS1, 2004년~2005년, 배우:전현)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[불멸의_이순신]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[전현]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.995">starring</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2723">
+		<sent><![CDATA[GD&TOP은 대한민국의 음악 그룹 빅뱅_(음악_그룹)의 지드래곤과 T.O.P으로 구성된 유닛 그룹이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[빅뱅_(음악_그룹)]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[T.O.P]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.849">currentMember</mln_predict>
+		<cnn_predict conf="0.766">currentMember</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1771">
+		<sent><![CDATA[《옥중화》 (MBC, 2016년~2016년 배우:김미숙)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[옥중화]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[김미숙]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.973">starring</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3339">
+		<sent><![CDATA[《삼국기》, KBS, 1992년 ~ 1993년, 배우 : 박웅]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[삼국기]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[박웅]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="1.000">starring</mln_predict>
+		<cnn_predict conf="0.993">starring</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1237">
+		<sent><![CDATA[3월 2일 - 동방신기 (최강창민, 유노윤호)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[동방신기]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[최강창민]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.395">currentMember</mln_predict>
+		<cnn_predict conf="0.545">currentMember</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

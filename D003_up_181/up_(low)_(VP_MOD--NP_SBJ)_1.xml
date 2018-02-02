@@ -1,0 +1,20 @@
+<sentence_list>
+	<dependency>(VP_MOD)--up--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1732">
+		<sent><![CDATA[지원하는 웹_브라우저는 구글 크롬, 파이어폭스, 사파리_(웹_브라우저)의 최근 버전을 포함하고, 현재 인터넷 익스플로러, 또는 오페라는 지원하지 않는다.]]></sent>
+		<sbj label="VP_MOD" josa="">
+			<sbj_text><![CDATA[사파리_(웹_브라우저)]]></sbj_text>
+			<arg_type weight="0.93">Work</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="는">
+			<obj_text><![CDATA[웹_브라우저]]></obj_text>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.405">channel</mln_predict>
+		<cnn_predict conf="0.277">genre</cnn_predict>
+		<gsdp>(VP_MOD)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

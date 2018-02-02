@@ -1,0 +1,58 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--VP--down--VP--down--(NP_AJT)</dependency>
+	<total>3</total>
+	<sent_item id="M_D77">
+		<sent><![CDATA[아리스는 수페르리가_엘라다에서 4위라는 준수한 성적을 내고 그리스 컵 결승전에 올라갔으나, 리그 우승팀 올림피아코스_FC에 0-2로 졌다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[올림피아코스_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[수페르리가_엘라다]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.585">league</mln_predict>
+		<cnn_predict conf="0.785">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[졌다.--올라갔으나,--내고]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3375">
+		<sent><![CDATA[이후 2008년에는 내셔널리그_(대한민국)로 옮겨 강릉시청 축구단에서 활약하였으며, 2014년에는 대전_코레일_축구단로 이적하였다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[대전_코레일_축구단]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="">
+			<obj_text><![CDATA[내셔널리그_(대한민국)]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.530">league</mln_predict>
+		<cnn_predict conf="0.643">league</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[이적하였다.--활약하였으며,--옮겨]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2930">
+		<sent><![CDATA[결국 2010년 3월부터 노원 험멜은 창단 이후 처음으로 비수도권 지역인 충청북도 충주시로 연고를 이전하여 충주 험멜 축구단으로 개명하였고, 홈구장을 충주시 교현동에 있는 충주종합운동장으로 정했다.]]></sent>
+		<sbj label="NP_AJT" josa="으로">
+			<sbj_text><![CDATA[충주종합운동장]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="로">
+			<obj_text><![CDATA[충주시]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.955">location</mln_predict>
+		<cnn_predict conf="0.823">location</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[정했다.--개명하였고,--이전하여]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP)--up--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2446">
+		<sent><![CDATA[2010년부터는 구단의 해외 연수 프로그램 지원을 받아 일본_프로_야구 팀 요미우리_자이언츠에서 코치 연수를 받았다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[일본_프로_야구]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="-0.11">Organisation</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[요미우리_자이언츠]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.369">location</mln_predict>
+		<cnn_predict conf="0.478">team</cnn_predict>
+		<gsdp>(NP)--up--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

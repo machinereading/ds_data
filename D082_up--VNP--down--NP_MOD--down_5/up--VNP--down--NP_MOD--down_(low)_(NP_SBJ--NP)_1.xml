@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VNP--down--NP_MOD--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2428">
+		<sent><![CDATA[유지겸은 중국 오대 십국 시대 남한_(십국)의 창시자인 유은·유엄 형제의 아버지이다.]]></sent>
+		<sbj label="NP_SBJ" josa="은">
+			<sbj_text><![CDATA[남한_(십국)]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[유은]]></obj_text>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.608">country</mln_predict>
+		<cnn_predict conf="0.568">deathPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VNP--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[아버지이다.--형제의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

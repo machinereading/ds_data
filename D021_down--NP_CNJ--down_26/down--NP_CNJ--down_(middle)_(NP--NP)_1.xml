@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP)--down--NP_CNJ--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1127">
+		<sent><![CDATA[3. 식육목 기각상과: 물범, 물개아과, 바다사자, 바다코끼리]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[바다코끼리]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[식육목]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="0.482">class</mln_predict>
+		<cnn_predict conf="0.752">order</cnn_predict>
+		<gsdp>(NP)--down--NP_CNJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[기각상과:]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

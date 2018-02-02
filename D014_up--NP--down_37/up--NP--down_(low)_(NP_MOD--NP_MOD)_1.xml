@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2129">
+		<sent><![CDATA[2. 북주의 우문옹의 건덕년 사이.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[북주]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[우문옹]]></obj_text>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.532">leaderName</mln_predict>
+		<cnn_predict conf="0.483">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[사이.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

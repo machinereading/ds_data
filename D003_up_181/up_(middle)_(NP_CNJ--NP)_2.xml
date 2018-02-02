@@ -1,0 +1,41 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_D3081">
+		<sent><![CDATA[할머니 : 장흥 임씨, 1남 5녀, 5녀가 서재필, 서재창 형제의 어머니이다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[서재필]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+			<arg_type weight="-0.02">Person</arg_type>
+			<arg_type weight="-0.41">MilitaryPerson</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[서재창]]></obj_text>
+			<arg_type weight="0.94">Agent</arg_type>
+			<arg_type weight="0.92">Person</arg_type>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.863">relative</mln_predict>
+		<cnn_predict conf="0.862">relative</cnn_predict>
+		<gsdp>(NP_CNJ)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3737">
+		<sent><![CDATA[금관악기 - 네 대의 호른, 세 대의 트롬본, 두 대의 트럼펫, 한 대의 튜바]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[트롬본]]></sbj_text>
+			<arg_type weight="3.03">Device</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[트럼펫]]></obj_text>
+			<arg_type weight="1.14">Device</arg_type>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.942">related</mln_predict>
+		<cnn_predict conf="0.307">related</cnn_predict>
+		<gsdp>(NP_CNJ)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

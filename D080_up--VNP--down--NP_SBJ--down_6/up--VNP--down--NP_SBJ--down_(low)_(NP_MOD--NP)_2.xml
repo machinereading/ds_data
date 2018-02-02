@@ -1,0 +1,40 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP--down--NP_SBJ--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_D432">
+		<sent><![CDATA[금산 나들목은 인천광역시 중구_(인천광역시) 영종동에 설치된 인천국제공항고속도로의 3번 교차로이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[인천국제공항고속도로]]></sbj_text>
+			<arg_type weight="0.23">Place</arg_type>
+			<arg_type weight="0.41">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.48">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[중구_(인천광역시)]]></obj_text>
+		</obj>
+		<gold>routeStart</gold>
+		<mln_predict conf="0.915">routeEnd</mln_predict>
+		<cnn_predict conf="0.559">city</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_SBJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[교차로이다.--나들목은]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1387">
+		<sent><![CDATA[현남 나들목은 강원도_(남) 양양군 현남면 지리와 임호정리, 그리고 강릉시 주문진읍 향호리에 걸쳐 설치된 동해고속도로의 38번 교차로이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[동해고속도로]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.23">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.28">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[강원도_(남)]]></obj_text>
+		</obj>
+		<gold>routeEnd</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.864">city</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_SBJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[교차로이다.--나들목은]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

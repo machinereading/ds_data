@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP_MOD--up--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1809">
+		<sent><![CDATA[앵무조개류를 제외한 대부분의 두족류가 먹물을 뿜을 수 있으며, 문어목 가운데 Cirrina아목도 가능하다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[앵무조개류]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[두족류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.456">order</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP_MOD--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[제외한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

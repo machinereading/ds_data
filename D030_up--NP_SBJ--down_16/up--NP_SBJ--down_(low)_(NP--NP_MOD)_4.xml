@@ -1,0 +1,73 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_SBJ--down--(NP_MOD)</dependency>
+	<total>4</total>
+	<sent_item id="M_D4008">
+		<sent><![CDATA[1989년 12월 3일 몰타 회담에서 미하일 고르바초프와 미국의 조지_H._W._부시 대통령은 냉전이 종결되었다는 선언을 하였다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[조지_H._W._부시]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+			<arg_type weight="0.34">Politician</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[미국]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.612">birthPlace</mln_predict>
+		<cnn_predict conf="0.665">deathPlace</cnn_predict>
+		<gsdp>(NP)--up--NP_SBJ--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[대통령은]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2596">
+		<sent><![CDATA[켄워스 T600는 미국의 켄워스 사가 생산하는 대형 트럭이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[켄워스]]></sbj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="1.12">Organisation</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[미국]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.847">location</mln_predict>
+		<cnn_predict conf="0.468">location</cnn_predict>
+		<gsdp>(NP)--up--NP_SBJ--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[사가]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2512">
+		<sent><![CDATA[반공주의자인 미국의 존_포스터_덜레스 국무장관 고문이 대한민국을 방문하여 38도선을 시찰하는 등 미국의 북침에 대한 위협을 느낀 김일성이 먼저 남침을 결정했다는 주장도 있다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[존_포스터_덜레스]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[미국]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.252">deathPlace</mln_predict>
+		<cnn_predict conf="0.754">deathPlace</cnn_predict>
+		<gsdp>(NP)--up--NP_SBJ--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[고문이]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2219">
+		<sent><![CDATA[2015년 대통령 취임식에는 미국의 존_케리 국무장관이 참석했으며, 대한민국에서는 이주영 국회의원이 대통령 특사 자격으로 참석했다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[존_케리]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[미국]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.369">deathPlace</mln_predict>
+		<cnn_predict conf="0.508">deathPlace</cnn_predict>
+		<gsdp>(NP)--up--NP_SBJ--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[국무장관이]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

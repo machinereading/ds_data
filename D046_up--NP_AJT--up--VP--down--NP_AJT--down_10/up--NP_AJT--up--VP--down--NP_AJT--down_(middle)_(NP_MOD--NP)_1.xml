@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP_AJT--up--VP--down--NP_AJT--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3134">
+		<sent><![CDATA[그는 2013년 8월 9일, 몽펠리에_HSC와의 경기에서 리그_1 경기에 처음 출전하였다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[몽펠리에_HSC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[리그_1]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.654">position</mln_predict>
+		<cnn_predict conf="0.400">team</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[경기에서--출전하였다.--경기에]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

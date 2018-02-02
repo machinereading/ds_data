@@ -1,0 +1,38 @@
+<sentence_list>
+	<dependency>(NP)--up--X--up--NP--down--(NP_MOD)</dependency>
+	<total>2</total>
+	<sent_item id="M_D2846">
+		<sent><![CDATA[첩 : 연일 정씨, 정종성의 서녀, 정보_(조선)의 서매, 포은 정몽주의 서손녀]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[정보_(조선)]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[정몽주]]></obj_text>
+			<arg_type weight="0.94">Agent</arg_type>
+			<arg_type weight="0.92">Person</arg_type>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.589">relative</mln_predict>
+		<cnn_predict conf="0.859">relative</cnn_predict>
+		<gsdp>(NP)--up--X--up--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[:--서손녀]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3266">
+		<sent><![CDATA[《로맨스_(1998년_드라마)》 - 서울방송의 1998년 드라마]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[로맨스_(1998년_드라마)]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[서울방송]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.844">channel</mln_predict>
+		<cnn_predict conf="0.805">channel</cnn_predict>
+		<gsdp>(NP)--up--X--up--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[---드라마]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

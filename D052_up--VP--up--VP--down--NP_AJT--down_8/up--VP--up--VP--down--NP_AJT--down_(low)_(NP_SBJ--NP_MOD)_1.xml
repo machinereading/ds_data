@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--up--VP--down--NP_AJT--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D303">
+		<sent><![CDATA[북쪽으로 안다만_제도가 있으며, 행정 구역 상으로 인도의 안다만 니코바르 제도에 속한다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[안다만_제도]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[인도]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.638">country</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[있으며,--속한다.--제도에]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--down--NP_MOD--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1222">
+		<sent><![CDATA[아키타_현 센보쿠 시 일대의 다자와_호를 둘러싼 지역과, 다마가와 강 유역에 형성된 다키가에리 계곡 일대를 영역으로 하고 있다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[다자와_호]]></sbj_text>
+			<arg_type weight="0.68">Place</arg_type>
+			<arg_type weight="0.50">NaturalPlace</arg_type>
+			<arg_type weight="1.01">BodyOfWater</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[아키타_현]]></obj_text>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.414">country</mln_predict>
+		<cnn_predict conf="0.479">region</cnn_predict>
+		<gsdp>(NP_OBJ)--down--NP_MOD--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[일대의--시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

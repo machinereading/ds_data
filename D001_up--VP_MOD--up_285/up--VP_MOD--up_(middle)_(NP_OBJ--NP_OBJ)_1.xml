@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP_MOD--up--(NP_OBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3838">
+		<sent><![CDATA[내전에서 국민당은 패배하고, 공산당은 1949년 10월 마오쩌둥을 주석으로 하는 중화인민공화국을 수립하였다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[마오쩌둥]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+			<arg_type weight="0.68">Politician</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="을">
+			<obj_text><![CDATA[중화인민공화국]]></obj_text>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.530">deathPlace</mln_predict>
+		<cnn_predict conf="0.691">deathPlace</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP_MOD--up--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

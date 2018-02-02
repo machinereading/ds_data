@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(VP)--up--(VP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2852">
+		<sent><![CDATA[《위험한_관계_(1988년_영화)》. 스티븐 프리어스 감독. 글렌 클로스, 존 말코비치, 미셸_파이퍼 출연. 햄프턴의 연극에 의한 것이다.]]></sent>
+		<sbj label="VP" josa="">
+			<sbj_text><![CDATA[위험한_관계_(1988년_영화)]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="VP" josa="">
+			<obj_text><![CDATA[미셸_파이퍼]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.856">starring</mln_predict>
+		<cnn_predict conf="0.787">starring</cnn_predict>
+		<gsdp>(VP)--up--(VP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

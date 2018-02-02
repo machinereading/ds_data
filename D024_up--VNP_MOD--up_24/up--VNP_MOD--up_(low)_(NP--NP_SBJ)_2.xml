@@ -1,0 +1,38 @@
+<sentence_list>
+	<dependency>(NP)--up--VNP_MOD--up--(NP_SBJ)</dependency>
+	<total>2</total>
+	<sent_item id="M_D711">
+		<sent><![CDATA[퍼시픽_리그 우승 팀인 홋카이도_닛폰햄_파이터스가 총 5차례의 접전을 펼친 끝에 센트럴 리그 우승팀 주니치 드래건스를 누르고 4승 1패의 성적을 기록, 1962년 일본 시리즈 이후 44년 만에 2번째 우승을 차지했다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[퍼시픽_리그]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="-0.11">Organisation</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[홋카이도_닛폰햄_파이터스]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.465">league</mln_predict>
+		<cnn_predict conf="0.724">team</cnn_predict>
+		<gsdp>(NP)--up--VNP_MOD--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[팀인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2509">
+		<sent><![CDATA[퍼시픽_리그 우승 팀인 홋카이도_닛폰햄_파이터스가 총 7차례의 접전을 펼친 끝에 센트럴 리그 우승팀 한신 타이거스를 누르고 4승 1무 2패의 성적을 기록, 창단 이후 첫 우승을 차지했다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[퍼시픽_리그]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="-0.11">Organisation</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[홋카이도_닛폰햄_파이터스]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.460">position</mln_predict>
+		<cnn_predict conf="0.717">team</cnn_predict>
+		<gsdp>(NP)--up--VNP_MOD--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[팀인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

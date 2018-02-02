@@ -1,0 +1,154 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--DP--down--NP--down--(NP)</dependency>
+	<total>10</total>
+	<sent_item id="M_D616">
+		<sent><![CDATA[요코보리 역은 일본 아키타 현 유자와_시에 위치한 동일본 여객철도 오우 본선의 철도역이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[유자와_시]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[일본]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.995">country</mln_predict>
+		<cnn_predict conf="0.886">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--DP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[현--아키타]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D536">
+		<sent><![CDATA[미와 역은 일본 나라 현 사쿠라이_시에 있는 서일본 여객철도의 철도역이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[사쿠라이_시]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[일본]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.740">country</mln_predict>
+		<cnn_predict conf="0.792">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--DP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[현--나라]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D931">
+		<sent><![CDATA[시마다 역은 일본 시즈오카 현 시마다_시에 있는 도카이 여객철도의 철도역이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[시마다_시]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[일본]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.985">country</mln_predict>
+		<cnn_predict conf="0.947">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--DP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[현--시즈오카]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1000">
+		<sent><![CDATA[고스고 역은 일본 미야기 현 시로이시_시에 있는 동일본 여객철도 도호쿠 본선의 철도역이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[시로이시_시]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[일본]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.862">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--DP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[현--미야기]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D151">
+		<sent><![CDATA[미나미요시다 역은 일본 니가타 현 쓰바메_시에 위치한 동일본 여객철도 에치고 선의 철도역이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[쓰바메_시]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[일본]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.912">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--DP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[현--니가타]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D76">
+		<sent><![CDATA[소마 역은 일본 후쿠시마 현 소마_시에 있는, 동일본 여객철도의 철도역이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[소마_시]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[일본]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.849">country</mln_predict>
+		<cnn_predict conf="0.885">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--DP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[현--후쿠시마]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D836">
+		<sent><![CDATA[군마야와타 역은 일본 군마 현 다카사키_시에 있는 동일본 여객철도 신에쓰 본선의 철도역이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[다카사키_시]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[일본]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.846">country</mln_predict>
+		<cnn_predict conf="0.846">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--DP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[현--군마]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D413">
+		<sent><![CDATA[야나기타 역은 일본 아키타 현 요코테_시에 위치한 동일본 여객철도 오우 본선의 철도역이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[요코테_시]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[일본]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.947">country</mln_predict>
+		<cnn_predict conf="0.899">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--DP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[현--아키타]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D671">
+		<sent><![CDATA[구비키오노 역은 일본 니가타 현 이토이가와_시에 위치한 서일본 여객철도 오이토 선의 철도역이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[이토이가와_시]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[일본]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.947">country</mln_predict>
+		<cnn_predict conf="0.935">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--DP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[현--니가타]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D790">
+		<sent><![CDATA[마에야마 역은 일본 아키타 현 기타아키타_시에 위치한 동일본 여객철도 오우 본선의 철도역이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[기타아키타_시]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[일본]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.891">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--DP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[현--아키타]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--down--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3077">
+		<sent><![CDATA[미드필더: 최진호, 최진수_(축구_선수) (FC_안양), 이용래, 김호남]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[최진수_(축구_선수)]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[FC_안양]]></obj_text>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.413">team</mln_predict>
+		<cnn_predict conf="0.535">team</cnn_predict>
+		<gsdp>(NP)--up--NP--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[김호남]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

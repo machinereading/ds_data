@@ -1,0 +1,42 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--(NP_AJT)</dependency>
+	<total>2</total>
+	<sent_item id="M_D898">
+		<sent><![CDATA[김현아, 펜타곤_(음악_그룹)의 멤버 후이, 이던으로 구성되어있다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[펜타곤_(음악_그룹)]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="">
+			<obj_text><![CDATA[후이]]></obj_text>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.795">currentMember</mln_predict>
+		<cnn_predict conf="0.465">currentMember</cnn_predict>
+		<gsdp>(NP_CNJ)--up--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2331">
+		<sent><![CDATA[독립운동가 겸 언론인 서재필, 갑신정변 때 사형당한 서재창과는 사돈간으로, 이들의 생가 형 서재춘의 손자 서두원은 김재순의 사위였다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[서재필]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+			<arg_type weight="-0.02">Person</arg_type>
+			<arg_type weight="-0.41">MilitaryPerson</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="는">
+			<obj_text><![CDATA[서재창]]></obj_text>
+			<arg_type weight="0.94">Agent</arg_type>
+			<arg_type weight="0.92">Person</arg_type>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.760">relative</mln_predict>
+		<cnn_predict conf="0.637">relative</cnn_predict>
+		<gsdp>(NP_CNJ)--up--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

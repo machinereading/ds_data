@@ -1,0 +1,134 @@
+<sentence_list>
+	<dependency>(NP)--down--(NP_CNJ)</dependency>
+	<total>7</total>
+	<sent_item id="M_D1814">
+		<sent><![CDATA[할머니: 안동김씨(安東金氏, 1800년? - 1900년 10월, 아버지 윤영렬, 큰아버지 윤웅렬 형제의 생모)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[윤웅렬]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+			<arg_type weight="-0.02">Person</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[윤영렬]]></obj_text>
+			<arg_type weight="0.94">Agent</arg_type>
+			<arg_type weight="0.92">Person</arg_type>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.996">relative</mln_predict>
+		<cnn_predict conf="0.655">relative</cnn_predict>
+		<gsdp>(NP)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D929">
+		<sent><![CDATA[그리고 이카키나과를 미분류 목이나 가리야목과 가까운 과로 파악했다, 펜난티아과, 스테모누루스과(감탕나무목) 그리고 카르디옵테리스과. 이카키나과는 현재 31속 내지 34속 사이에 150종 이상을 포함하고 있다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[카르디옵테리스과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[감탕나무목]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="0.173">class</mln_predict>
+		<cnn_predict conf="0.389">order</cnn_predict>
+		<gsdp>(NP)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1278">
+		<sent><![CDATA[이복 숙부 : 윤발, 윤치호, 윤보선, 윤치영, 윤일선 등의 선조]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[윤일선]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+			<arg_type weight="-0.02">Person</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[윤치호]]></obj_text>
+			<arg_type weight="0.94">Agent</arg_type>
+			<arg_type weight="0.92">Person</arg_type>
+			<arg_type weight="1.52">Politician</arg_type>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.998">relative</mln_predict>
+		<cnn_predict conf="0.862">relative</cnn_predict>
+		<gsdp>(NP)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3097">
+		<sent><![CDATA[윤보선의 당숙 윤치호, 아버지 윤치소, 백부 윤치오 등은 이승만과 인연이 있었는데, 그가 상하이를 떠나 영국으로 유학한 뒤에야 이승만에 대한 부정적인 시선을 거두게 된다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[윤치오]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[윤치호]]></obj_text>
+			<arg_type weight="0.94">Agent</arg_type>
+			<arg_type weight="0.92">Person</arg_type>
+			<arg_type weight="1.52">Politician</arg_type>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.903">relative</mln_predict>
+		<cnn_predict conf="0.517">relative</cnn_predict>
+		<gsdp>(NP)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D297">
+		<sent><![CDATA[증조부 윤취동이 아산에 대농토를 마련했고, 할아버지 윤영렬, 종조부 윤웅렬 형제가 무관이 되면서 가세를 일으켰다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[윤웅렬]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+			<arg_type weight="-0.02">Person</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[윤영렬]]></obj_text>
+			<arg_type weight="0.94">Agent</arg_type>
+			<arg_type weight="0.92">Person</arg_type>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.991">relative</mln_predict>
+		<cnn_predict conf="0.826">relative</cnn_predict>
+		<gsdp>(NP)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3499">
+		<sent><![CDATA[목관악기: 피콜로2, 플루트2, 오보에2, 잉글리시 호른, E플랫 클라리넷, 클라리넷2, 베이스 클라리넷, 바순3, 콘트라바순]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[바순]]></sbj_text>
+			<arg_type weight="3.03">Device</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="에">
+			<obj_text><![CDATA[오보에]]></obj_text>
+			<arg_type weight="1.14">Device</arg_type>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.720">related</mln_predict>
+		<cnn_predict conf="0.470">related</cnn_predict>
+		<gsdp>(NP)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1304">
+		<sent><![CDATA[금관악기: 호른4, 트럼펫3, 코넷2, 트롬본3, 튜바]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[트롬본]]></sbj_text>
+			<arg_type weight="3.03">Device</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[트럼펫]]></obj_text>
+			<arg_type weight="1.14">Device</arg_type>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.917">related</mln_predict>
+		<cnn_predict conf="0.258">currentMember</cnn_predict>
+		<gsdp>(NP)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

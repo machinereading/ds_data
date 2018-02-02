@@ -1,0 +1,97 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP--down--(NP_SBJ)</dependency>
+	<total>5</total>
+	<sent_item id="M_D1501">
+		<sent><![CDATA[롯데 자이언츠는 그의 영입으로, 선발과 중간이 모두 가능한 투수를 보강하게 되었고, 두산_베어스은 이에 반대급부로 고원준을 데려와, 20대 후반의 젊은 투수를 영입할 수 있게 되었다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[고원준]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="은">
+			<obj_text><![CDATA[두산_베어스]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.507">club</mln_predict>
+		<cnn_predict conf="0.484">team</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[데려와,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3924">
+		<sent><![CDATA[FC 지롱댕 드 보르도에서 지네딘 지단을 영입한 유벤투스_FC는 아탈란타 BC에서 파올로_몬테로를 영입하고, 크리스티안 비에리와 니콜라 아모루소와 같은 젊은 선수를 데려온다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[파올로_몬테로]]></sbj_text>
+		</sbj>
+		<obj label="NP_SBJ" josa="는">
+			<obj_text><![CDATA[유벤투스_FC]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.894">club</mln_predict>
+		<cnn_predict conf="0.629">team</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[영입하고,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1794">
+		<sent><![CDATA[그리고 뒤를 이은 다윗이 다윗의_이민족_정벌을 하여 암몬인들은 크게 패했고 후에 아람들과 동맹을 맺고 다윗에게 반란을 일으켰으나 도리어 다시 정벌당했다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[다윗의_이민족_정벌]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[다윗]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.899">commander</mln_predict>
+		<cnn_predict conf="0.843">commander</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[하여]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1239">
+		<sent><![CDATA[2008-09 시즌에, FC_바르셀로나는 팀의 레전드이던 주제프_과르디올라를 신규 감독으로 내정하였으며, 스페인 축구 역사상 첫 트레블을 달성하였다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[주제프_과르디올라]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="는">
+			<obj_text><![CDATA[FC_바르셀로나]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="1.000">team</mln_predict>
+		<cnn_predict conf="0.659">team</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[내정하였으며,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1686">
+		<sent><![CDATA[무라트 1세의 아들 바예지드_1세는 1396년에 불가리아 북부에서 니코폴리스_전투를 벌여, 이 전투에서 헝가리 왕국을 필두로 한 십자군을 격파, 오히려 영토를 더 크게 넓혔다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[니코폴리스_전투]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="는">
+			<obj_text><![CDATA[바예지드_1세]]></obj_text>
+			<arg_type weight="0.34">Agent</arg_type>
+			<arg_type weight="0.86">Person</arg_type>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.963">commander</mln_predict>
+		<cnn_predict conf="0.370">commander</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[벌여,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

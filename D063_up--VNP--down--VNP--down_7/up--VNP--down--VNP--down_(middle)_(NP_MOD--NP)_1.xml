@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP--down--VNP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3089">
+		<sent><![CDATA[남안동 나들목은 경상북도 안동시 일직면 조탑리와 국곡리에 걸쳐 있는 중앙고속도로의 21번 교차로이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[중앙고속도로]]></sbj_text>
+			<arg_type weight="0.34">Place</arg_type>
+			<arg_type weight="0.55">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.75">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[안동시]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.672">city</mln_predict>
+		<cnn_predict conf="0.867">city</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VNP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[교차로이다.--일직면]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

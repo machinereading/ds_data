@@ -1,0 +1,25 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--AP--down--NP_AJT--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3257">
+		<sent><![CDATA[1995년에 V6_(음악_그룹)의 사카모토_마사유키 등과 함께 쟈니즈 Sr.로서 활약해, 1996년까지 히카루겐지·SMAP·V6·KinKi Kids의 백 댄서를 맡았다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[V6_(음악_그룹)]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[사카모토_마사유키]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="1.000">currentMember</mln_predict>
+		<cnn_predict conf="0.532">currentMember</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--AP--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[활약해,--함께--등과]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

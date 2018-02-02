@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP_INT)--up--VP--down--NP_OBJ--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3558">
+		<sent><![CDATA[그런 다음 핑크니는 브랜디와인_전투, 저먼타운 전투에서 조지_워싱턴의 부관을 맡으며, 참전하였다.]]></sent>
+		<sbj label="NP_INT" josa="">
+			<sbj_text><![CDATA[브랜디와인_전투]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[조지_워싱턴]]></obj_text>
+			<arg_type weight="0.34">Agent</arg_type>
+			<arg_type weight="0.86">Person</arg_type>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="1.000">commander</mln_predict>
+		<cnn_predict conf="0.695">commander</cnn_predict>
+		<gsdp>(NP_INT)--up--VP--down--NP_OBJ--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[맡으며,--부관을]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

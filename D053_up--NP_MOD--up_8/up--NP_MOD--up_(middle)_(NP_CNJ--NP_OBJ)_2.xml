@@ -1,0 +1,44 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP_MOD--up--(NP_OBJ)</dependency>
+	<total>2</total>
+	<sent_item id="M_D2617">
+		<sent><![CDATA[2010년 12월 12일, 델라스는 또다른 그리스 축구 국가대표팀의 UEFA 유로 2004 우승 주역인 니코스_다비자스와 스틸리아노스 베네티디스의 라리사_FC를 상대로 2년만에 복귀한 그리스 리그에서 득점했다.]]></sent>
+		<sbj label="NP_CNJ" josa="와">
+			<sbj_text><![CDATA[니코스_다비자스]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="를">
+			<obj_text><![CDATA[라리사_FC]]></obj_text>
+			<arg_type weight="0.14">Agent</arg_type>
+			<arg_type weight="0.35">Organisation</arg_type>
+			<arg_type weight="0.72">SportsTeam</arg_type>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.985">club</mln_predict>
+		<cnn_predict conf="0.618">team</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_MOD--up--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[베네티디스의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3620">
+		<sent><![CDATA[성충이 된 잠자리는 나비, 등에, 멸구, 꿀벌, 끝검은매미충, 모기, 파리등의 작은 곤충들을 가시가 많아 덫처럼 사용할 수 있는 다리로 사냥하여 잡아먹는데, 자신들끼리 잡아먹기도 한다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[꿀벌]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="을">
+			<obj_text><![CDATA[곤충]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="0.648">order</mln_predict>
+		<cnn_predict conf="0.499">class</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_MOD--up--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[파리등의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

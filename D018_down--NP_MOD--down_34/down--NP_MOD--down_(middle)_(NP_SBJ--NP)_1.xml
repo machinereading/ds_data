@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--NP_MOD--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2414">
+		<sent><![CDATA[이 세계 기록은 1976년 캐나다 토론토의 CN_타워가 13m 더 높이 지음으로써 끝나게 되었다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[CN_타워]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.92">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[캐나다]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.576">location</mln_predict>
+		<cnn_predict conf="0.339">location</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[토론토의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

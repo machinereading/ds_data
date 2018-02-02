@@ -1,0 +1,41 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--(VNP)</dependency>
+	<total>2</total>
+	<sent_item id="M_D2071">
+		<sent><![CDATA[닭은 닭목 꿩과의 새이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[꿩과]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="VNP" josa="">
+			<obj_text><![CDATA[새]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="0.252">artist</mln_predict>
+		<cnn_predict conf="0.577">class</cnn_predict>
+		<gsdp>(NP_MOD)--up--(VNP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1948">
+		<sent><![CDATA[대한민국의 KIA_타이거즈 야구 선수 이범석_(1985년).]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[이범석_(1985년)]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="VNP" josa="">
+			<obj_text><![CDATA[KIA_타이거즈]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.705">team</mln_predict>
+		<cnn_predict conf="0.574">team</cnn_predict>
+		<gsdp>(NP_MOD)--up--(VNP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

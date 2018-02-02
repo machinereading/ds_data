@@ -1,0 +1,55 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP--up--(NP_SBJ)</dependency>
+	<total>3</total>
+	<sent_item id="M_D54">
+		<sent><![CDATA[1763년 페르시아 잔드_왕조의 지배자 카림_칸이 영국 동인도 회사로부터 기지와 무역 사무소에 대한 권리를 획득했으며 18세기 말까지 영국 해군 기지가 이 곳에 들어섰다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[잔드_왕조]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[카림_칸]]></obj_text>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.512">country</mln_predict>
+		<cnn_predict conf="0.357">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[지배자]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2558">
+		<sent><![CDATA[에도_막부의 마지막 쇼군 도쿠가와_요시노부는 이 가문의 출신이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[에도_막부]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="는">
+			<obj_text><![CDATA[도쿠가와_요시노부]]></obj_text>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.396">leaderName</mln_predict>
+		<cnn_predict conf="0.607">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[쇼군]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3823">
+		<sent><![CDATA[후에 임진왜란때의 장군 원균은 그의 외4대손이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[임진왜란]]></sbj_text>
+		</sbj>
+		<obj label="NP_SBJ" josa="은">
+			<obj_text><![CDATA[원균]]></obj_text>
+			<arg_type weight="0.34">Agent</arg_type>
+			<arg_type weight="0.86">Person</arg_type>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.215">starring</mln_predict>
+		<cnn_predict conf="0.401">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[장군]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

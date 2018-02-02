@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP_MOD--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2416">
+		<sent><![CDATA[《에린 침략의 서》는 파크트나의 치세가 율리우스 카이사르와 그나이우스_폼페이우스_마그누스가 카이사르의_내전을 벌이던 때 및 이집트의 클레오파트라 7세의 치세와 동시기라고 서술한다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[카이사르의_내전]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[그나이우스_폼페이우스_마그누스]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.796">commander</mln_predict>
+		<cnn_predict conf="0.330">commander</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[벌이던]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

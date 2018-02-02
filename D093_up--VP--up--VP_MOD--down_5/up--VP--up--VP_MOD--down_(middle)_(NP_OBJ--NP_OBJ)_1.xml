@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP--up--VP_MOD--down--(NP_OBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D748">
+		<sent><![CDATA[또한 71호선의 71은 홀수로 남북노선으로 지정되어있지만 대도시인 루이빌과 신시내티, 클리블랜드를 이어 오하이오_주를 가로지르는 동서노선 역할의 비중도 크다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[클리블랜드]]></sbj_text>
+			<arg_type weight="0.68">Place</arg_type>
+			<arg_type weight="1.40">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="를">
+			<obj_text><![CDATA[오하이오_주]]></obj_text>
+			<arg_type weight="0.18">Place</arg_type>
+			<arg_type weight="0.24">PopulatedPlace</arg_type>
+			<arg_type weight="2.12">Region</arg_type>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.519">location</mln_predict>
+		<cnn_predict conf="0.445">location</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--up--VP_MOD--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[이어--가로지르는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

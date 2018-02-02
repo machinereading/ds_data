@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1507">
+		<sent><![CDATA[피그미바위왈라비는 캥거루과에 속하는 바위왈라비속의 아주 작은 유대류의 일종이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[바위왈라비속]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[유대류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.511">class</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

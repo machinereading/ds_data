@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP)--down--VP_MOD--down--NP_OBJ--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D416">
+		<sent><![CDATA[런승만 - 이승만 전 대통령을 조롱하는 말. 한국_전쟁이 일어나자마자 이승만이 국민을 두고 피신한 것을 빗대는 말이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[한국_전쟁]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[이승만]]></obj_text>
+			<arg_type weight="0.34">Agent</arg_type>
+			<arg_type weight="0.86">Person</arg_type>
+			<arg_type weight="1.20">Politician</arg_type>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.944">commander</mln_predict>
+		<cnn_predict conf="0.640">deathPlace</cnn_predict>
+		<gsdp>(NP)--down--VP_MOD--down--NP_OBJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[조롱하는--대통령을]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

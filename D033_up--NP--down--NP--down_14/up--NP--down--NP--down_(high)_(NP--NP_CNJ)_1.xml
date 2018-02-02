@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--down--NP--down--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2212">
+		<sent><![CDATA[《태극기_휘날리며》, 2004 - 장동건, 원빈, 이은주 등]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[태극기_휘날리며]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[원빈]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.855">starring</mln_predict>
+		<cnn_predict conf="0.966">starring</cnn_predict>
+		<gsdp>(NP)--up--NP--down--NP--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[등--이은주]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

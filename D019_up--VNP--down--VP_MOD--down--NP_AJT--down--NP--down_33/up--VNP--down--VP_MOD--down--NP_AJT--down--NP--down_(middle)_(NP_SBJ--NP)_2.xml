@@ -1,0 +1,42 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_D339">
+		<sent><![CDATA[종로5가역은 서울특별시 종로구 종로_(서울)에 위치한 서울 지하철 1호선의 전철역이다.]]></sent>
+		<sbj label="NP_SBJ" josa="은">
+			<sbj_text><![CDATA[종로_(서울)]]></sbj_text>
+			<arg_type weight="0.34">Place</arg_type>
+			<arg_type weight="0.55">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.75">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[서울특별시]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.584">location</mln_predict>
+		<cnn_predict conf="0.372">location</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[전철역이다.--위치한--종로_(서울)에--종로구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3219">
+		<sent><![CDATA[부산역은 부산광역시 동구 중앙대로_(부산)에 있는 경부선의 철도역이자 종점이다.]]></sent>
+		<sbj label="NP_SBJ" josa="은">
+			<sbj_text><![CDATA[중앙대로_(부산)]]></sbj_text>
+			<arg_type weight="0.34">Place</arg_type>
+			<arg_type weight="0.55">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.75">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[부산광역시]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.653">owner</mln_predict>
+		<cnn_predict conf="0.435">routeStart</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[철도역이자--있는--중앙대로_(부산)에--동구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

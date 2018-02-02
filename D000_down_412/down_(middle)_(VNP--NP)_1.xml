@@ -1,0 +1,20 @@
+<sentence_list>
+	<dependency>(VNP)--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D422">
+		<sent><![CDATA[2015년 네이버_TV캐스트 웹 드라마 《도전에_반하다》 ... 기여운 역]]></sent>
+		<sbj label="VNP" josa="에">
+			<sbj_text><![CDATA[도전에_반하다]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[네이버_TV캐스트]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.632">channel</mln_predict>
+		<cnn_predict conf="0.542">starring</cnn_predict>
+		<gsdp>(VNP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

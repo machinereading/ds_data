@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(VP)--up--NP--down--X--down--(NP_PRN)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2189">
+		<sent><![CDATA[《학교_다녀오겠습니다》 (2014년 · 2015년, JTBC) - 고정 출연]]></sent>
+		<sbj label="VP" josa="">
+			<sbj_text><![CDATA[학교_다녀오겠습니다]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_PRN" josa="">
+			<obj_text><![CDATA[JTBC]]></obj_text>
+			<arg_type weight="0.32">Agent</arg_type>
+			<arg_type weight="1.24">Organisation</arg_type>
+			<arg_type weight="6.41">Company</arg_type>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.945">channel</mln_predict>
+		<cnn_predict conf="0.767">channel</cnn_predict>
+		<gsdp>(VP)--up--NP--down--X--down--(NP_PRN)</gsdp>
+		<gsdp_lemma><![CDATA[출연---]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

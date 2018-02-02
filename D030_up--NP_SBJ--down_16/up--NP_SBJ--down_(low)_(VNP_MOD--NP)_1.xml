@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(VNP_MOD)--up--NP_SBJ--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3619">
+		<sent><![CDATA[킨디, 파라비, 이븐 시나, 이븐_루시드라는 이슬람_철학 사람들이 이슬람교의 문맥 안에서 그리스 철학을 다시 해석했다.]]></sent>
+		<sbj label="VNP_MOD" josa="">
+			<sbj_text><![CDATA[이븐_루시드]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[이슬람_철학]]></obj_text>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.136">related</mln_predict>
+		<cnn_predict conf="0.181">related</cnn_predict>
+		<gsdp>(VNP_MOD)--up--NP_SBJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[사람들이]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,40 @@
+<sentence_list>
+	<dependency>(VNP)--down--NP--down--(NP_MOD)</dependency>
+	<total>2</total>
+	<sent_item id="M_D3706">
+		<sent><![CDATA[그의 아들은 SK_와이번스의 외야수 정의윤이다.]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[정의윤]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[SK_와이번스]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.903">team</mln_predict>
+		<cnn_predict conf="0.586">team</cnn_predict>
+		<gsdp>(VNP)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[외야수]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D518">
+		<sent><![CDATA[외삼촌은 전 KIA_타이거즈의 선수 이종범이고, 외사촌동생은 넥센 히어로즈 외야수 이정후이다.]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[이종범]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[KIA_타이거즈]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.605">birthPlace</mln_predict>
+		<cnn_predict conf="0.558">position</cnn_predict>
+		<gsdp>(VNP)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[선수]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

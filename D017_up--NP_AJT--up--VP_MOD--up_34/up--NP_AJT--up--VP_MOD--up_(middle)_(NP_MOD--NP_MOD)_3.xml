@@ -1,0 +1,61 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP_AJT--up--VP_MOD--up--(NP_MOD)</dependency>
+	<total>3</total>
+	<sent_item id="M_D883">
+		<sent><![CDATA[땅코뿔새류는 파랑새목 또는 코뿔새목의 땅코뿔새과에 속하는 새의 총칭이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[코뿔새목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[새]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="0.990">order</mln_predict>
+		<cnn_predict conf="0.708">class</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[땅코뿔새과에--속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3805">
+		<sent><![CDATA[샬러쥐땃쥐는 땃쥐목의 땃쥐류에 속하는 포유류의 일종이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[땃쥐목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[포유류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.738">class</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[땃쥐류에--속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3422">
+		<sent><![CDATA[바다쇠오리류 또는 작은바다오리류는 도요목의 바다쇠오리과에 속하는 바다새 새의 총칭이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[도요목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[새]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.560">class</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[바다쇠오리과에--속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

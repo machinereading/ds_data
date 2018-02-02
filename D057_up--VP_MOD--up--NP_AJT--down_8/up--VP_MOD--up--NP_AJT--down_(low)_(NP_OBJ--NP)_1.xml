@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP_MOD--up--NP_AJT--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D196">
+		<sent><![CDATA[퐁뇌프는 센_강을 가로지르는 프랑스 파리 시에 서있는 가장 오래된 다리이다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[센_강]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[프랑스]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.475">location</mln_predict>
+		<cnn_predict conf="0.643">country</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP_MOD--up--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[가로지르는--시에]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

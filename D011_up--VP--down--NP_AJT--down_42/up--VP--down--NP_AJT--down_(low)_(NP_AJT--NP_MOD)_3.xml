@@ -1,0 +1,53 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_MOD)</dependency>
+	<total>3</total>
+	<sent_item id="M_D705">
+		<sent><![CDATA[마데이라 포도주는 포르투갈의 포도주로, 마데이라_제도에서 생산된다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[마데이라_제도]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[포르투갈]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.199">location</mln_predict>
+		<cnn_predict conf="0.610">country</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[생산된다.--포도주로,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1051">
+		<sent><![CDATA[마이카고 항공는 터키의 화물 항공사로 본사는 터키 이스탄불에 위치해 있으며 2004년에 설립했다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[이스탄불]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[터키]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.437">city</mln_predict>
+		<cnn_predict conf="0.669">location</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[위치해--항공사로]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D976">
+		<sent><![CDATA[더반은 남아프리카_공화국의 항구도시로, 인구가 요하네스버그,프리토리아에 이어 세번째로 많은 도시이며 도시권으로는 요하네스버그,케이프타운에 이은 세번째이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[프리토리아]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[남아프리카_공화국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.311">region</mln_predict>
+		<cnn_predict conf="0.405">location</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[이어--항구도시로,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

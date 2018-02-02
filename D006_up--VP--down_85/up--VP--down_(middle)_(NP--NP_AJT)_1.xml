@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP)--up--VP--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1069">
+		<sent><![CDATA[바나나와 극락조화(극락조화과), 식용의 생강와 같이, 원예용과 경제적으로 중요한 식물이 포함된 생강목에 속한다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[극락조화과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[생강목]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.503">order</cnn_predict>
+		<gsdp>(NP)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[속한다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,382 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</dependency>
+	<total>20</total>
+	<sent_item id="M_D1408">
+		<sent><![CDATA[그 후, 1962년 프로보에 위치한 브리검영_대학교에서 정치학 학사를, 64년 피츠버그 대학교에서 공공국제학 석사를, 그리고 73년 워싱턴 대학교에서 또 다른 석사학위와 박사학위를 취득하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[브리검영_대학교]]></sbj_text>
+			<arg_type weight="-0.23">Agent</arg_type>
+			<arg_type weight="0.35">Organisation</arg_type>
+			<arg_type weight="2.11">EducationalInstitution</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[프로보]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.829">city</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[위치한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2391">
+		<sent><![CDATA[준결승전은 2002년 4월 3일 이란 테헤란에 있는 아자디_스타디움에서 열렸다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[아자디_스타디움]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[테헤란]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.619">location</mln_predict>
+		<cnn_predict conf="0.800">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[있는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2311">
+		<sent><![CDATA[하노버는 현재 3._리가에 속한 아르미니아_빌레펠트와도 친선 관계를 맺고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="도">
+			<sbj_text><![CDATA[아르미니아_빌레펠트]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[3._리가]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.329">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[속한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1795">
+		<sent><![CDATA[2019년 세계 육상 선수권 대회는 2019년 9월 28일부터 10월 6일까지 카타르의 수도 도하에 위치한 칼리파_국제경기장에서 개최될 예정이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[칼리파_국제경기장]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[도하]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.395">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[위치한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2574">
+		<sent><![CDATA[우크라이나 축구 국가대표팀의 가장 중요한 경기들은 FC 디나모 키예프의 홈 경기장이기도 한 키예프에 있는 올림피스키_경기장에서 열린다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[올림피스키_경기장]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[키예프]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.686">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[있는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2112">
+		<sent><![CDATA[하워드는 준비 1루수로서 피츠버그에 있는 PNC_파크에서 열린 자신의 첫 올스타 경기로 임명되었다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[PNC_파크]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[피츠버그]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.956">location</mln_predict>
+		<cnn_predict conf="0.497">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[있는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1971">
+		<sent><![CDATA[엠레 잔은 주로 바이에른 레기오날리가에 속한 FC_바이에른_뮌헨_II에서 미드필더로 활약한다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[FC_바이에른_뮌헨_II]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[레기오날리가]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.361">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[속한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D709">
+		<sent><![CDATA[3, 4위전은 1999년 4월 30일 이란 테헤란에 있는 아자디_스타디움에서 열렸다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[아자디_스타디움]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[테헤란]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.711">location</mln_predict>
+		<cnn_predict conf="0.792">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[있는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2588">
+		<sent><![CDATA[2012 UEFA 챔피언스리그 결승전은 2012년 5월 19일 독일 뮌헨에 위치한 알리안츠_아레나에서 열린 축구 경기이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[알리안츠_아레나]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[뮌헨]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.918">location</mln_predict>
+		<cnn_predict conf="0.885">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[위치한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D102">
+		<sent><![CDATA[그는 2001-02시즌 그의 발전을 계속하였고, 수비 라인의 주전 선수가 되어 당시 팀의 주장이자 프랑스_축구_국가대표팀에서 활약하던 마르셀_드사이와 짝을 이뤘다.]]></sent>
+		<sbj label="NP_AJT" josa="와">
+			<sbj_text><![CDATA[마르셀_드사이]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[프랑스_축구_국가대표팀]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.724">team</mln_predict>
+		<cnn_predict conf="0.662">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[활약하던]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1360">
+		<sent><![CDATA[. 제노아는 2년뒤 같은 대회 결승전 장소 스위스 베른에 있는 방크도르프_경기장에서 칼초 카타니아를 2-0으로 이겨 우승 트로피를 차지했다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[방크도르프_경기장]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[베른]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.636">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[있는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1579">
+		<sent><![CDATA[한스 알베르트는 그의 아버지의 발자취에 따라 스위스 취리히에 있는 취리히_연방_공과대학교에서 공부하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[취리히_연방_공과대학교]]></sbj_text>
+			<arg_type weight="-0.23">Agent</arg_type>
+			<arg_type weight="0.35">Organisation</arg_type>
+			<arg_type weight="2.11">EducationalInstitution</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[취리히]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.263">deathPlace</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[있는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D816">
+		<sent><![CDATA[하지만 2010년에 외야수로 활약한 손아섭과 전준우에 주전 경쟁에서 밀려나 1군에 단 2경기에만 출장하였고 주로 2군에서만 활약했다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[전준우]]></sbj_text>
+			<arg_type weight="0.28">Agent</arg_type>
+			<arg_type weight="0.36">Person</arg_type>
+			<arg_type weight="1.04">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="로">
+			<obj_text><![CDATA[외야수]]></obj_text>
+		</obj>
+		<gold>position</gold>
+		<mln_predict conf="1.000">team</mln_predict>
+		<cnn_predict conf="0.767">position</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[활약한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1107">
+		<sent><![CDATA[바이에른은 이 시즌에 트레블 달성을 목표로 삼았으나, 마드리드의 에스타디오_산티아고_베르나베우에서 벌어진 2010_UEFA_챔피언스리그_결승전에서 FC 인테르나치오날레 밀라노를 상대하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[2010_UEFA_챔피언스리그_결승전]]></sbj_text>
+			<arg_type weight="0.15">Event</arg_type>
+			<arg_type weight="0.15">SocietalEvent</arg_type>
+			<arg_type weight="0.66">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[에스타디오_산티아고_베르나베우]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="-0.63">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.54">SportFacility</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.900">location</mln_predict>
+		<cnn_predict conf="0.309">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[벌어진]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2002">
+		<sent><![CDATA[또한 고분_천황원년에 일어난 진신의_난때에는 나가토쿠의 동생 오토모노 마쿠타 ・ 후케이 형제가 병사를 거느리고 공을 세웠다.]]></sent>
+		<sbj label="NP_AJT" josa="는">
+			<sbj_text><![CDATA[진신의_난]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[고분_천황]]></obj_text>
+			<arg_type weight="0.34">Agent</arg_type>
+			<arg_type weight="0.86">Person</arg_type>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.997">commander</mln_predict>
+		<cnn_predict conf="0.481">commander</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[일어난]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1147">
+		<sent><![CDATA[그 다음날, 인테르나치오날레는 모나코의 스타드_루이_II에서 열린 UEFA_슈퍼컵_2010에서 UEFA 유로파리그 2009-10를 우승한 아틀레티코 마드리드에게 패하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[UEFA_슈퍼컵_2010]]></sbj_text>
+			<arg_type weight="0.15">Event</arg_type>
+			<arg_type weight="0.15">SocietalEvent</arg_type>
+			<arg_type weight="0.66">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[스타드_루이_II]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="-0.63">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.54">SportFacility</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.625">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[열린]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2051">
+		<sent><![CDATA[결승전은 네덜란드 암스테르담에 위치한 암스테르담_아레나에서 열렸는데 레알 마드리드 CF가 유벤투스 FC를 1 대 0으로 이기면서 1962년 이후 32년 만에 일곱번째 우승 트로피를 들어올렸다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[암스테르담_아레나]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[암스테르담]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.636">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[위치한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1931">
+		<sent><![CDATA[멀티 플레이어 1인칭_슈팅_게임으로 민 리가 개발했던 《카운터-스트라이크》처럼 테러리스트 팀과 대-테러리스트 팀으러 나뉘어 구분하여 플레이할 수 있는 비슷한 시스템을 갖추고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="처럼">
+			<sbj_text><![CDATA[카운터-스트라이크]]></sbj_text>
+			<arg_type weight="0.93">Work</arg_type>
+			<arg_type weight="2.51">Software</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="으로">
+			<obj_text><![CDATA[1인칭_슈팅_게임]]></obj_text>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.976">genre</mln_predict>
+		<cnn_predict conf="0.351">starring</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개발했던]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2403">
+		<sent><![CDATA[〈Shut Up〉은 2016년 7월 1일에 공개된 노래로, 대한민국의 방송국 한국방송공사(KBS_2TV)에서 금요일 밤 11시에 방송되는 텔레비전 프로그램 《언니들의_슬램덩크》에서 두번째 꿈인 민효린의 걸 그룹 도전으로 결성된 언니쓰가 부른 것이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[언니들의_슬램덩크]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[KBS_2TV]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.478">channel</mln_predict>
+		<cnn_predict conf="0.412">channel</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[방송되는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3041">
+		<sent><![CDATA[FC_서울에서 같이 뛰었던 하대성과 다시 만나게 되었다.]]></sent>
+		<sbj label="NP_AJT" josa="과">
+			<sbj_text><![CDATA[하대성]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[FC_서울]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="1.000">team</mln_predict>
+		<cnn_predict conf="0.307">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[뛰었던]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

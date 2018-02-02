@@ -1,0 +1,61 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP--down--NP_AJT--down--(NP_MOD)</dependency>
+	<total>3</total>
+	<sent_item id="M_D3229">
+		<sent><![CDATA[2008-09 시즌 맨체스터_유나이티드_FC와의 UEFA 챔피언스리그 결승전에서 네마냐_비디치를 제치고 결승골을 득점, FC 바르셀로나의 챔피언스리그 우승과 트레블 달성을 견인하였다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[네마냐_비디치]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[맨체스터_유나이티드_FC]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="1.000">club</mln_predict>
+		<cnn_predict conf="0.835">team</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[제치고--결승전에서]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D679">
+		<sent><![CDATA[어치속은 까마귓과에 속하는 참새목의 새들로 어치를 포함한다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[어치]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[참새목]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.588">order</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[포함한다.--새들로]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3640">
+		<sent><![CDATA[애니메이션의 무대는 가고시마_현의 외딴 섬으로, 天神子島는 아마미오_섬을 모델로 하고있다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[아마미오_섬]]></sbj_text>
+			<arg_type weight="0.68">Place</arg_type>
+			<arg_type weight="1.40">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[가고시마_현]]></obj_text>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.885">region</mln_predict>
+		<cnn_predict conf="0.425">location</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[하고있다.--섬으로,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

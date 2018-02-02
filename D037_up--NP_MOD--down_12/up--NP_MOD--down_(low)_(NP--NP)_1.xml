@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_MOD--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1099">
+		<sent><![CDATA[가리바사와 역은 일본 아오모리_현 히가시쓰가루 군 히라나이 정에 위치한 아오이모리_철도 아오이모리 철도 아오이모리 철도선의 철도역이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[아오이모리_철도]]></sbj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="1.12">Organisation</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[아오모리_현]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.814">owner</mln_predict>
+		<cnn_predict conf="0.383">location</cnn_predict>
+		<gsdp>(NP)--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[철도선의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,344 @@
+<sentence_list>
+	<dependency>(NP)--down--NP--down--(NP)</dependency>
+	<total>21</total>
+	<sent_item id="M_D783">
+		<sent><![CDATA[동원과학기술대학교는 대한민국 경상남도 양산시 명곡로 321에 위치한 사립대한민국의 전문대학이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[양산시]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.972">country</mln_predict>
+		<cnn_predict conf="0.889">country</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[경상남도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D406">
+		<sent><![CDATA[운연차량사업소는 대한민국 인천광역시 남동구 운연동에 있는 인천교통공사 인천 도시철도 2호선의 차량기지이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[남동구]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.184">country</mln_predict>
+		<cnn_predict conf="0.424">location</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[인천광역시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D870">
+		<sent><![CDATA[황선홍 (黃善洪, 1968년 7월 14일, 대한민국 충청남도 예산군 ~ )은 대한민국의 전 축구 선수 및 축구 지도자이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[예산군]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.826">country</mln_predict>
+		<cnn_predict conf="0.852">country</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[충청남도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D621">
+		<sent><![CDATA[애플 아이폰 6 플러스는 페가트론과 폭스콘이 제조하고, 애플이 설계, 판매하는 IOS 패블릿폰으로, 2014년 9월 9일 아이폰 6와 함께 미국 캘리포니아 샌프란시스코 모스코니 센터에서 발표했다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[샌프란시스코]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[미국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.995">country</mln_predict>
+		<cnn_predict conf="0.356">largestCity</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[캘리포니아]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D18">
+		<sent><![CDATA[포항공항은 대한민국 경상북도 포항시 남구 동해면 도구리에 있는 공항이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[포항시]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.960">country</mln_predict>
+		<cnn_predict conf="0.642">country</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[경상북도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1042">
+		<sent><![CDATA[FC 바이에른 뮌헨 e. V.은 바이에른 주의 주도인 뮌헨을 연고로 하는 독일의 축구 클럽이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[뮌헨]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[독일]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.225">region</mln_predict>
+		<cnn_predict conf="0.373">country</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[뮌헨]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D269">
+		<sent><![CDATA[주남저수지는 대한민국 경상남도 창원시 의창구 동읍에 있는 약 180만평 넓이의 저수지이자 철새도래지이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[창원시]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.881">country</mln_predict>
+		<cnn_predict conf="0.765">country</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[경상남도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D356">
+		<sent><![CDATA[미국 여성 R&B 보컬 음악 그룹 더_로네츠와 캐나다 남성 싱어송라이터 겸 뮤지컬 배우 앤디 킴 등이 그녀의 영향을 받았다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[더_로네츠]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.13">Organisation</arg_type>
+			<arg_type weight="0.76">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[R&B]]></obj_text>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.315">currentMember</mln_predict>
+		<cnn_predict conf="0.268">currentMember</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[여성]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3099">
+		<sent><![CDATA[2003년 11월 9일 충청북도 충주시(시장 이시종) 명예시민]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[이시종]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[충청북도]]></obj_text>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.525">birthPlace</mln_predict>
+		<cnn_predict conf="0.446">city</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[충주시(시장]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D626">
+		<sent><![CDATA[김천역은 대한민국 경상북도 김천시 김천로에 있는 경부선의 철도역이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[김천시]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.834">country</mln_predict>
+		<cnn_predict conf="0.874">country</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[경상북도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3432">
+		<sent><![CDATA[한강대로는 서울특별시 용산구 한강대교 북단사거리에서 중구 서울역까지를 잇는 총 연장 4.2 km 왕복 10차로의 도로이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[한강대교]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="-0.11">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.23">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[서울특별시]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.486">city</mln_predict>
+		<cnn_predict conf="0.552">city</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[용산구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D9">
+		<sent><![CDATA[송정공원역은 대한민국 광주광역시 광산구 송정동에 있는 광주 도시철도 1호선의 지하철역이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[광산구]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.426">country</mln_predict>
+		<cnn_predict conf="0.631">country</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[광주광역시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D179">
+		<sent><![CDATA[이동항은 대한민국 부산광역시 기장군 일광면 이천리에 있는 어항이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[기장군]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.706">country</mln_predict>
+		<cnn_predict conf="0.778">country</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[부산광역시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D808">
+		<sent><![CDATA["Caryocar barbinerve" Miq. (브라질의 바이아_주)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[바이아_주]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[브라질]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.070">deathPlace</mln_predict>
+		<cnn_predict conf="0.702">country</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[barbinerve"]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D578">
+		<sent><![CDATA[소감도는 조선민주주의인민공화국 평안북도 곽산군 천대리에 위치한 섬이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[곽산군]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조선민주주의인민공화국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.693">country</mln_predict>
+		<cnn_predict conf="0.802">country</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[평안북도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D263">
+		<sent><![CDATA[망우선은 대한민국 서울특별시 중랑구 상봉동의 망우역과 노원구 월계3동의 광운대역을 연결하는 철도 노선이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[중랑구]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.945">country</mln_predict>
+		<cnn_predict conf="0.592">country</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[서울특별시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D690">
+		<sent><![CDATA[지방도 제1115호선은 대한민국 제주특별자치도 제주시 한경면 용당 교차로와 서귀포시 상효동까지 이어지는 제주특별자치도의 대한민국의 지방도이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[제주시]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.530">country</mln_predict>
+		<cnn_predict conf="0.691">country</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[제주특별자치도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1050">
+		<sent><![CDATA[수북정은 대한민국 충청남도 부여군 규암면 규암리, 자온대 위에 건립된 정자이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[부여군]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.411">country</mln_predict>
+		<cnn_predict conf="0.848">country</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[충청남도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3768">
+		<sent><![CDATA[551년 신라 제24대 진흥왕 때 남천주로 군주를 두었다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[진흥왕]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[신라]]></obj_text>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.687">birthPlace</mln_predict>
+		<cnn_predict conf="0.841">deathPlace</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[제24대]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D80">
+		<sent><![CDATA[남천역은 대한민국 부산광역시 수영구 수영로에 있는 부산 도시철도 2호선의 전철역이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[수영구]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.795">country</mln_predict>
+		<cnn_predict conf="0.668">country</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[부산광역시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D4012">
+		<sent><![CDATA[동해 삼화사 철조노사나불좌상는 강원도 동해시 삼화사 대웅전에 있는 통일신라 시대의 철불이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[삼화사]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="-0.11">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.19">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[강원도]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.789">location</mln_predict>
+		<cnn_predict conf="0.333">location</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[동해시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

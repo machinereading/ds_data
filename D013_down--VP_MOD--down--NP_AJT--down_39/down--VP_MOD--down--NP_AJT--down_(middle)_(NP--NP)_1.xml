@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP)--down--VP_MOD--down--NP_AJT--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2207">
+		<sent><![CDATA[버찌는 검거나 붉은빛을 띤 핵과의 하나로, 장미목 벚나무속에 딸린 벚나무·신양벚나무·양벚나무·왕벚나무 등 여러 식물의 열매를 구분하지 않고 아울러 이르는 말이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[왕벚나무]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[장미목]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.307">order</cnn_predict>
+		<gsdp>(NP)--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[딸린--벚나무속에]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

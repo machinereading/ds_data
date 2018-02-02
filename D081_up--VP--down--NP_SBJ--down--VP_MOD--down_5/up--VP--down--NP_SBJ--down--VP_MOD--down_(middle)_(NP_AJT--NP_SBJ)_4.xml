@@ -1,0 +1,72 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--NP_SBJ--down--VP_MOD--down--(NP_SBJ)</dependency>
+	<total>4</total>
+	<sent_item id="M_D1324">
+		<sent><![CDATA[1388년 최영과 우왕이 계획한 요동 정벌이 이성계가 주도한 위화도_회군으로 무산되고, 우왕이 폐위당하였으며, 그의 아들인 창왕이 왕위에 올랐다.]]></sent>
+		<sbj label="NP_AJT" josa="으로">
+			<sbj_text><![CDATA[위화도_회군]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[우왕]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.805">commander</mln_predict>
+		<cnn_predict conf="0.553">deathPlace</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_SBJ--down--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[무산되고,--정벌이--계획한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1286">
+		<sent><![CDATA[662년 방효태가 이끈 당나라군은 연개소문이 이끈 고구려군과의 사수_전투에서 패배하여 몰살되었다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[사수_전투]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[방효태]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="1.000">commander</mln_predict>
+		<cnn_predict conf="0.932">commander</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_SBJ--down--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[패배하여--당나라군은--이끈]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2100">
+		<sent><![CDATA[저먼타운_전투에서 존_설리반이 지휘하는 우익과 거리가 너무 떨어져 전투에 제시간에 닿지 못했다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[저먼타운_전투]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[존_설리반]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.851">commander</mln_predict>
+		<cnn_predict conf="0.772">commander</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_SBJ--down--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[떨어져--거리가--지휘하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3441">
+		<sent><![CDATA[아마 기원전 274년으로 추정하며 그 당시는 집정관 마니우스_쿠리우스_덴타투스가 이끄는 로마 군대가 피로스를 베네벤툼_전투에서 격파했을때다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[베네벤툼_전투]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[마니우스_쿠리우스_덴타투스]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="1.000">commander</mln_predict>
+		<cnn_predict conf="0.590">commander</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_SBJ--down--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[격파했을때다.--군대가--이끄는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

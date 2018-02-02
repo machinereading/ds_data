@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_MOD--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3330">
+		<sent><![CDATA[이 작품은 후에 2006년 방송된 일본방송협회의 연속_TV_소설 《순정 반짝》의 원안이 됐다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[연속_TV_소설]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[일본방송협회]]></obj_text>
+			<arg_type weight="0.32">Agent</arg_type>
+			<arg_type weight="1.24">Organisation</arg_type>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.571">channel</mln_predict>
+		<cnn_predict conf="0.362">channel</cnn_predict>
+		<gsdp>(NP)--up--NP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[반짝》의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

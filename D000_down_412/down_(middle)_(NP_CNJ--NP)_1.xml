@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2897">
+		<sent><![CDATA[생육신 성담수와 성담년의 외조카이며 성삼문의 7촌 외조카는 조선 중종 때의 훈구파 영의정 이기_(1476년)였다.]]></sent>
+		<sbj label="NP_CNJ" josa="와">
+			<sbj_text><![CDATA[성담수]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[이기_(1476년)]]></obj_text>
+			<arg_type weight="0.94">Agent</arg_type>
+			<arg_type weight="0.92">Person</arg_type>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.135">currentMember</mln_predict>
+		<cnn_predict conf="0.752">relative</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

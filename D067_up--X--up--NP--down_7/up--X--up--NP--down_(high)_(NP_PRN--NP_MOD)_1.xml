@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP_PRN)--up--X--up--NP--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1544">
+		<sent><![CDATA["Love_Letter_(빅스의_노래)" - 빅스_(음악_그룹)의 노래]]></sent>
+		<sbj label="NP_PRN" josa="">
+			<sbj_text><![CDATA[Love_Letter_(빅스의_노래)]]></sbj_text>
+			<arg_type weight="0.55">Work</arg_type>
+			<arg_type weight="2.57">MusicalWork</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[빅스_(음악_그룹)]]></obj_text>
+			<arg_type weight="0.48">Agent</arg_type>
+			<arg_type weight="0.43">Organisation</arg_type>
+			<arg_type weight="2.38">Group</arg_type>
+		</obj>
+		<gold>artist</gold>
+		<mln_predict conf="1.000">artist</mln_predict>
+		<cnn_predict conf="0.629">artist</cnn_predict>
+		<gsdp>(NP_PRN)--up--X--up--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[---노래]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

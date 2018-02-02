@@ -1,0 +1,42 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP--down--VNP--down--(NP_SBJ)</dependency>
+	<total>2</total>
+	<sent_item id="M_D3308">
+		<sent><![CDATA[그는 이종학_(1361년)의 아버지이고 박상충의 손윗처남이며 박은의 외숙부이고 고려 말 삼은의 한 사람이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[박상충]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+			<arg_type weight="-0.02">Person</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="는">
+			<obj_text><![CDATA[이종학_(1361년)]]></obj_text>
+			<arg_type weight="0.94">Agent</arg_type>
+			<arg_type weight="0.92">Person</arg_type>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.922">relative</mln_predict>
+		<cnn_predict conf="0.493">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VNP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[손윗처남이며--아버지이고]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3975">
+		<sent><![CDATA[본관은 우봉 이씨이며 경성부 출생으로 사학자 이병도의 아들이며 대한제국 육군 무관 조성근_(1876년)의 외손자이자 분자생물학자 이기령과 농화학자 이춘녕의 아우이고 핵물리학자 이동녕의 형이며 서양화가 장욱진의 손아랫처남이자 농화학자 조백현의 생질이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[이병도]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+			<arg_type weight="-0.02">Person</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="은">
+			<obj_text><![CDATA[조성근_(1876년)]]></obj_text>
+			<arg_type weight="0.94">Agent</arg_type>
+			<arg_type weight="0.92">Person</arg_type>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.971">relative</mln_predict>
+		<cnn_predict conf="0.611">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VNP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[아들이며--이씨이며]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

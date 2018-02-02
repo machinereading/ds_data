@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP_MOD--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D74">
+		<sent><![CDATA[국가두마는 1993년 보리스_옐친이 1993년_러시아_체제_위기를 일으킨 뒤 소비에트 러시아를 해체하고 만든 것이다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[1993년_러시아_체제_위기]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[보리스_옐친]]></obj_text>
+			<arg_type weight="0.34">Agent</arg_type>
+			<arg_type weight="0.86">Person</arg_type>
+			<arg_type weight="1.20">Politician</arg_type>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.927">commander</mln_predict>
+		<cnn_predict conf="0.432">deathPlace</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[일으킨]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

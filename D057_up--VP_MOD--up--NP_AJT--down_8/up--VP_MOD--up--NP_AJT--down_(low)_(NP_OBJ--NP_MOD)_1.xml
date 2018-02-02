@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP_MOD--up--NP_AJT--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3882">
+		<sent><![CDATA[니혼바시 다리는 1603년 에도_막부를 연 도쿠가와_이에야스의 전국 도로 정비 계획에 따라 만들어져 고카이도의 기점으로 삼았다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[에도_막부]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[도쿠가와_이에야스]]></obj_text>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.852">country</mln_predict>
+		<cnn_predict conf="0.630">deathPlace</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP_MOD--up--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[연--계획에]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

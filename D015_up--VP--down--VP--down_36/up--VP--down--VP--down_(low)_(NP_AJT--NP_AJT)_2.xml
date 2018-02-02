@@ -1,0 +1,40 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--VP--down--(NP_AJT)</dependency>
+	<total>2</total>
+	<sent_item id="M_D1859">
+		<sent><![CDATA[김영환은 1991년 조선민주주의인민공화국에 밀입국해 주석 김일성과 두 차례 면담했지만, 이후 조선민주주의인민공화국의 실상을 알게 됐다고 주장하면서 전향한 뒤에 조선민주주의인민공화국의 탈북자 운동가가 된다.]]></sent>
+		<sbj label="NP_AJT" josa="과">
+			<sbj_text><![CDATA[김일성]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+			<arg_type weight="0.34">Politician</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[조선민주주의인민공화국]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.642">deathPlace</mln_predict>
+		<cnn_predict conf="0.801">deathPlace</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[면담했지만,--밀입국해]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3297">
+		<sent><![CDATA[이후 수원_삼성_블루윙즈전에도 선발 출전하였으나, 결정적인 실수로 권창훈에게 결정적인 실점의 빌미를 제공하였고, 그 뒤 주전에서 밀려 교체 명단에 주로 이름을 올렸다.]]></sent>
+		<sbj label="NP_AJT" josa="에게">
+			<sbj_text><![CDATA[권창훈]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="도">
+			<obj_text><![CDATA[수원_삼성_블루윙즈]]></obj_text>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.315">team</mln_predict>
+		<cnn_predict conf="0.746">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[제공하였고,--출전하였으나,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

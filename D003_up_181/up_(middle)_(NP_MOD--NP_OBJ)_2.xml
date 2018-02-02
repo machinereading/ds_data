@@ -1,0 +1,46 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--(NP_OBJ)</dependency>
+	<total>2</total>
+	<sent_item id="M_D1153">
+		<sent><![CDATA[사키는 1987-88 시즌 디에고_마라도나의 SSC_나폴리를 제치고 우승을 차지하였다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[디에고_마라도나]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="를">
+			<obj_text><![CDATA[SSC_나폴리]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.995">team</mln_predict>
+		<cnn_predict conf="0.749">team</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2125">
+		<sent><![CDATA[2라운드에서 매버릭스는 크리스_웨버의 새크라멘토_킹스를 만났다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[크리스_웨버]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="를">
+			<obj_text><![CDATA[새크라멘토_킹스]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.862">team</mln_predict>
+		<cnn_predict conf="0.400">team</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

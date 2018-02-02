@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--down--NP--down--NP--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D290">
+		<sent><![CDATA[뭄바이 FC, 인도의 최대 도시 마하라슈트라 주 뭄바이를 연고로 하는 축구 클럽으로, 현재 I-리그에서 활동하고 있다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[뭄바이]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[인도]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.927">region</mln_predict>
+		<cnn_predict conf="0.726">largestCity</cnn_predict>
+		<gsdp>(NP_OBJ)--down--NP--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[주--도시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

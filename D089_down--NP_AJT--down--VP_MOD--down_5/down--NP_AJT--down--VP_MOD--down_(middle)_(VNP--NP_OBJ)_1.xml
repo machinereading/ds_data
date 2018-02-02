@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(VNP)--down--NP_AJT--down--VP_MOD--down--(NP_OBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1277">
+		<sent><![CDATA[뉴블레 현은 칠레 비오비오_주를 구성하는 4개의 현 가운데 하나로 현도는 치얀이며 면적은 13,178.5㎢, 인구는 460,113명, 인구 밀도는 35명/㎢이다.]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[치얀]]></sbj_text>
+			<arg_type weight="0.68">Place</arg_type>
+			<arg_type weight="1.40">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="를">
+			<obj_text><![CDATA[비오비오_주]]></obj_text>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.626">region</mln_predict>
+		<cnn_predict conf="0.558">country</cnn_predict>
+		<gsdp>(VNP)--down--NP_AJT--down--VP_MOD--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[하나로--구성하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

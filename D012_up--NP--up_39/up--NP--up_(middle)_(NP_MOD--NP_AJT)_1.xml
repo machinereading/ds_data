@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP--up--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3127">
+		<sent><![CDATA[1631년 무굴_제국의 황제 샤_자한에 의해 지어졌다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[무굴_제국]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[샤_자한]]></obj_text>
+			<arg_type weight="0.04">Agent</arg_type>
+			<arg_type weight="0.54">Person</arg_type>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="1.000">leaderName</mln_predict>
+		<cnn_predict conf="0.768">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[황제]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

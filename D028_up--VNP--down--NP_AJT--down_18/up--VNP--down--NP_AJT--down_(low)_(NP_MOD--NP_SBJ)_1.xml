@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP--down--NP_AJT--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3369">
+		<sent><![CDATA[삼척역은 강원도_(남) 삼척시에 위치한 삼척선의 철도역으로, 삼척선의 종착역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[삼척선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.23">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.28">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="은">
+			<obj_text><![CDATA[강원도_(남)]]></obj_text>
+		</obj>
+		<gold>routeEnd</gold>
+		<mln_predict conf="0.628">routeEnd</mln_predict>
+		<cnn_predict conf="0.313">location</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_AJT--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[종착역이다.--철도역으로,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

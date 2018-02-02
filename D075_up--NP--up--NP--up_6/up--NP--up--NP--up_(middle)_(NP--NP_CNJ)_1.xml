@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--up--NP--up--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2079">
+		<sent><![CDATA[김병수 감독 부임이후 대구_FC로부터 공격적 풀백 이준희_(축구_선수)가 영입되었다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[이준희_(축구_선수)]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="로부터">
+			<obj_text><![CDATA[대구_FC]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.871">team</mln_predict>
+		<cnn_predict conf="0.609">team</cnn_predict>
+		<gsdp>(NP)--up--NP--up--NP--up--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[감독--부임이후]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

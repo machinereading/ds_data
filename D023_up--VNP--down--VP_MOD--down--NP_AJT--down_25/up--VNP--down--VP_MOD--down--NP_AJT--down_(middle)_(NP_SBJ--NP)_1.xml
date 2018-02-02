@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VNP--down--VP_MOD--down--NP_AJT--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D328">
+		<sent><![CDATA[《각시탈_(드라마)》은 한국방송공사 KBS 제2TV에서 방영한 수목드라마다.]]></sent>
+		<sbj label="NP_SBJ" josa="은">
+			<sbj_text><![CDATA[각시탈_(드라마)]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+			<arg_type weight="-0.03">MusicalWork</arg_type>
+			<arg_type weight="1.11">Album</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[한국방송공사]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.715">channel</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VNP--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[수목드라마다.--방영한--제2TV에서]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

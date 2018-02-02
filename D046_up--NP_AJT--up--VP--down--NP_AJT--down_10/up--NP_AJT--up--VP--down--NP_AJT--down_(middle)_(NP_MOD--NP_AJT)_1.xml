@@ -1,0 +1,20 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP_AJT--up--VP--down--NP_AJT--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3879">
+		<sent><![CDATA[《이소라의_프로포즈》의 후속 프로그램으로, KBS_2TV에서 매주 금요일 밤 12시 15분에 방송되었다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[이소라의_프로포즈]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[KBS_2TV]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.404">channel</mln_predict>
+		<cnn_predict conf="0.925">channel</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP--down--NP_AJT--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[프로그램으로,--방송되었다.--15분에]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

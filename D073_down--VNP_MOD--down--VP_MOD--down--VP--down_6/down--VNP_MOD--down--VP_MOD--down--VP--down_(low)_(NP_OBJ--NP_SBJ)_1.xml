@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--down--VNP_MOD--down--VP_MOD--down--VP--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3918">
+		<sent><![CDATA[암트랙이 소유하고 있는 철도 노선인 뉴헤이번_스프링필드_선을 따라 운행한다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[뉴헤이번_스프링필드_선]]></sbj_text>
+			<arg_type weight="0.08">Place</arg_type>
+			<arg_type weight="0.28">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.20">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[암트랙]]></obj_text>
+			<arg_type weight="-1.09">Agent</arg_type>
+			<arg_type weight="-0.90">Organisation</arg_type>
+		</obj>
+		<gold>operator</gold>
+		<mln_predict conf="0.323">owner</mln_predict>
+		<cnn_predict conf="0.392">location</cnn_predict>
+		<gsdp>(NP_OBJ)--down--VNP_MOD--down--VP_MOD--down--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[노선인--있는--소유하고]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP)--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3613">
+		<sent><![CDATA[도쿄_도 아라카와 구 출신. 오빠와 언니(카메이_에리, 전 모닝구무스메)가 있다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[카메이_에리]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+			<arg_type weight="0.86">Artist</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="도">
+			<obj_text><![CDATA[도쿄_도]]></obj_text>
+			<arg_type weight="0.23">Place</arg_type>
+			<arg_type weight="0.25">PopulatedPlace</arg_type>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.333">birthPlace</mln_predict>
+		<cnn_predict conf="0.237">currentMember</cnn_predict>
+		<gsdp>(NP)--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

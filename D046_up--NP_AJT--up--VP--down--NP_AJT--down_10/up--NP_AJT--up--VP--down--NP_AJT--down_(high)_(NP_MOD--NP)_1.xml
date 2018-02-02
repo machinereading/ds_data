@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP_AJT--up--VP--down--NP_AJT--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D439">
+		<sent><![CDATA[1812년_전쟁의 발발로 모로는 제임스_매디슨 대통령으로부터 미국 군대의 사령관직을 제의받았다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[1812년_전쟁]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[제임스_매디슨]]></obj_text>
+			<arg_type weight="0.34">Agent</arg_type>
+			<arg_type weight="0.86">Person</arg_type>
+			<arg_type weight="1.20">Politician</arg_type>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="1.000">commander</mln_predict>
+		<cnn_predict conf="0.624">commander</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[발발로--제의받았다.--대통령으로부터]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

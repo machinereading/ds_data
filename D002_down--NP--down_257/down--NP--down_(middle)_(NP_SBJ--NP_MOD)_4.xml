@@ -1,0 +1,85 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--NP--down--(NP_MOD)</dependency>
+	<total>4</total>
+	<sent_item id="M_D2086">
+		<sent><![CDATA[그 다음 시즌, 메네즈는 국가 프로축구 선수 연맹 UNFP 수상 후보로 선정되었으나, 최종적으로 이 상은 FC_낭트의 미드필더 제레미_툴랄랑이 가져갔다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[제레미_툴랄랑]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[FC_낭트]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.659">team</mln_predict>
+		<cnn_predict conf="0.635">team</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[미드필더]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3570">
+		<sent><![CDATA[게릭의 2,130 경기 연속 출장 기록은 볼티모어_오리올스의 내야수 칼_립켄_주니어가 1995년 9월 6일 그 기록을 경신하기 전까지 꽤나 오랫동안 유지되었다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[칼_립켄_주니어]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[볼티모어_오리올스]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.585">team</mln_predict>
+		<cnn_predict conf="0.493">position</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[내야수]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3508">
+		<sent><![CDATA[중원의 파나요티스 코네가 초반에 부상 당하면서, 올림피아코스_FC의 신예 미드필더 안드레아스_사마리스가 투입되었고, 그는 코트디부아르의 백패스 실수를 이용해 첫 국제경기 득점에 성공했다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[안드레아스_사마리스]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[올림피아코스_FC]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.654">club</mln_predict>
+		<cnn_predict conf="0.701">team</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[미드필더]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1805">
+		<sent><![CDATA[여름 이적시장의 첫번째 영입 신호탄으로 일본 J2리그 도쿄_베르디의 수비수 고경준이 결정되었다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[고경준]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[도쿄_베르디]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.776">team</mln_predict>
+		<cnn_predict conf="0.472">team</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[수비수]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

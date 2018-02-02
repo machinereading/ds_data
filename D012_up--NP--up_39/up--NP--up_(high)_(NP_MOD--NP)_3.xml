@@ -1,0 +1,67 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP--up--(NP)</dependency>
+	<total>3</total>
+	<sent_item id="M_D3482">
+		<sent><![CDATA[음악 그룹 오마이걸의 멤버 지호]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[오마이걸]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[지호]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.946">currentMember</mln_predict>
+		<cnn_predict conf="0.853">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[멤버]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1597">
+		<sent><![CDATA[중간 중간에 칸다 카즈미와 그녀의 가족들, 학교 선생님들, 마야의 교실에 출연 중인 일본 인기 아이돌 그룹 EXILE의 보컬 2명(ATSUSHI, TAKAHIRO)이 등장하기도 한다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[EXILE]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[ATSUSHI]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.950">currentMember</mln_predict>
+		<cnn_predict conf="0.819">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[보컬]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3233">
+		<sent><![CDATA[음악 그룹 러블리즈의 멤버 이미주]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[러블리즈]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[이미주]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="1.000">currentMember</mln_predict>
+		<cnn_predict conf="0.883">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[멤버]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

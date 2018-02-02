@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--NP_SBJ--down--(VP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2655">
+		<sent><![CDATA[당시 후한 황제 헌제는 192년 동탁이 죽은 뒤 이각, 곽사, 장제_(후한), 번조 등 동탁의 4잔당이 반란을 일으켜 사도 왕윤을 죽이고 권력을 장악하고 있었다.]]></sent>
+		<sbj label="NP_AJT" josa="">
+			<sbj_text><![CDATA[장제_(후한)]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+		</sbj>
+		<obj label="VP_MOD" josa="">
+			<obj_text><![CDATA[후한]]></obj_text>
+			<arg_type weight="-0.16">Place</arg_type>
+			<arg_type weight="-0.11">PopulatedPlace</arg_type>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.432">birthPlace</mln_predict>
+		<cnn_predict conf="0.836">deathPlace</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_SBJ--down--(VP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[일으켜--헌제는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

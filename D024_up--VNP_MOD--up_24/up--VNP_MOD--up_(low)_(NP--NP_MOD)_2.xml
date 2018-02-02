@@ -1,0 +1,36 @@
+<sentence_list>
+	<dependency>(NP)--up--VNP_MOD--up--(NP_MOD)</dependency>
+	<total>2</total>
+	<sent_item id="M_D3578">
+		<sent><![CDATA[마쓰다이라/도쿠가와 노부야스는 센고쿠 시대부터 아즈치모모야마 시대까지의 무장으로, 에도_막부초대 쇼군인 도쿠가와_이에야스의 적장자이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[에도_막부]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[도쿠가와_이에야스]]></obj_text>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.696">leaderName</mln_predict>
+		<cnn_predict conf="0.550">deathPlace</cnn_predict>
+		<gsdp>(NP)--up--VNP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[쇼군인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2928">
+		<sent><![CDATA[뉘른베르크 재판에서는 범죄 사실에 대한 명백한 증거와 아우슈비츠_강제_수용소 소장이었던 루돌프_회스의 증언에도 불구하고 자신의 혐의를 부인했으며, 심지어 진술서 등 관련 서류에 서명조차 하기를 거부했다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[아우슈비츠_강제_수용소]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[루돌프_회스]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.078">largestCity</mln_predict>
+		<cnn_predict conf="0.315">deathPlace</cnn_predict>
+		<gsdp>(NP)--up--VNP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[소장이었던]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

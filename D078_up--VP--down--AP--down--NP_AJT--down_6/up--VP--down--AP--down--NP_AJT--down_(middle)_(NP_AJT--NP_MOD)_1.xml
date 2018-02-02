@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--AP--down--NP_AJT--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3457">
+		<sent><![CDATA[이후 청산리_전투에서 김좌진의 북로군정서군과 함께 일본군을 대파하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[청산리_전투]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[김좌진]]></obj_text>
+			<arg_type weight="0.34">Agent</arg_type>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.761">commander</mln_predict>
+		<cnn_predict conf="0.851">commander</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--AP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[대파하였다.--함께--북로군정서군과]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,25 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--NP--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2913">
+		<sent><![CDATA[대한민국 여성 그룹 미쓰에이의 민_(가수).]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[미쓰에이]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[민_(가수)]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.863">currentMember</mln_predict>
+		<cnn_predict conf="0.790">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[그룹--여성]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

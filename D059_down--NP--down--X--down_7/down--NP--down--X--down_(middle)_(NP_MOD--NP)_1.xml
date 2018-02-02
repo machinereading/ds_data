@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--NP--down--X--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1871">
+		<sent><![CDATA[미나미욧카이치 역은 일본 미에 현 욧카이치 시에 있는 도카이_여객철도 · 일본화물철도 간사이_본선의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[간사이_본선]]></sbj_text>
+			<arg_type weight="0.08">Place</arg_type>
+			<arg_type weight="0.17">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.15">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[도카이_여객철도]]></obj_text>
+			<arg_type weight="0.81">Agent</arg_type>
+			<arg_type weight="1.05">Organisation</arg_type>
+		</obj>
+		<gold>owner</gold>
+		<mln_predict conf="0.890">operator</mln_predict>
+		<cnn_predict conf="0.536">operator</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--X--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[일본화물철도--·]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

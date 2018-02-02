@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--down--VNP_MOD--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3669">
+		<sent><![CDATA[나이앤틱은 증강현실 모바일 게임인 인그레스와 포켓몬 고의 개발사로 잘 알려져 있다.]]></sent>
+		<sbj label="NP_CNJ" josa="와">
+			<sbj_text><![CDATA[인그레스]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[증강현실]]></obj_text>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.292">genre</mln_predict>
+		<cnn_predict conf="0.315">genre</cnn_predict>
+		<gsdp>(NP_CNJ)--down--VNP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[게임인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

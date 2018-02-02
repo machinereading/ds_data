@@ -1,0 +1,25 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_AJT--up--VP--down--NP_AJT--down--(NP_OBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2912">
+		<sent><![CDATA[이러한 역사적인 승리 후 며칠 지나지 않은 2009년 5월 6일, 바르셀로나는 UEFA_챔피언스리그_2008-09 준결승전 2차전에서 첼시_FC를 상대로 경기를 가졌다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[UEFA_챔피언스리그_2008-09]]></sbj_text>
+			<arg_type weight="0.47">Event</arg_type>
+			<arg_type weight="0.47">SocietalEvent</arg_type>
+			<arg_type weight="1.70">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="를">
+			<obj_text><![CDATA[첼시_FC]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.915">team</mln_predict>
+		<cnn_predict conf="0.782">team</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP--down--NP_AJT--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[2차전에서--가졌다.--상대로]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

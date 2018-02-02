@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP_MOD--up--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D326">
+		<sent><![CDATA[후당의 건국자인 이존욱이 후량를 멸하면서 이무정도 그 압력에 굴복하여 나라를 924년에 이존욱에게 바쳤다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[후당]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[이존욱]]></obj_text>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.161">region</mln_predict>
+		<cnn_predict conf="0.637">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP_MOD--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[건국자인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

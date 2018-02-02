@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(VNP)--down--VP_MOD--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1263">
+		<sent><![CDATA[《12년만의 재회: 달래 된, 장국》은 JTBC에서 방송된 JTBC_주말연속극이다.]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[JTBC_주말연속극]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[JTBC]]></obj_text>
+			<arg_type weight="0.32">Agent</arg_type>
+			<arg_type weight="1.24">Organisation</arg_type>
+			<arg_type weight="6.41">Company</arg_type>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.737">channel</cnn_predict>
+		<gsdp>(VNP)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[방송된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

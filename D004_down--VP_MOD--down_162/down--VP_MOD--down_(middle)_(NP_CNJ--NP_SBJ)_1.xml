@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--down--VP_MOD--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2109">
+		<sent><![CDATA[1471년 이반_3세가 이끄는 모스크바_대공국과 노브고로드 공국 사이에 셸론 전투가 벌어졌다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[모스크바_대공국]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[이반_3세]]></obj_text>
+			<arg_type weight="0.04">Agent</arg_type>
+			<arg_type weight="0.54">Person</arg_type>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.483">leaderName</mln_predict>
+		<cnn_predict conf="0.473">deathPlace</cnn_predict>
+		<gsdp>(NP_CNJ)--down--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[이끄는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

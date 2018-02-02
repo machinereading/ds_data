@@ -1,0 +1,245 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--NP--down--(NP_MOD)</dependency>
+	<total>13</total>
+	<sent_item id="M_D466">
+		<sent><![CDATA[이 문서에서는 대한민국의 방송사 문화방송의 예능 프로그램 《무한도전》의 2015년 에피소드 목록을 나열한다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[무한도전]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[문화방송]]></obj_text>
+			<arg_type weight="0.32">Agent</arg_type>
+			<arg_type weight="1.24">Organisation</arg_type>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.819">channel</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[프로그램]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D306">
+		<sent><![CDATA[〈DAHLIA〉는 엑스_재팬의 앨범 DAHLIA의 발매 이전 싱글로 발매되었다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[DAHLIA]]></sbj_text>
+			<arg_type weight="0.55">Work</arg_type>
+			<arg_type weight="2.57">MusicalWork</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[엑스_재팬]]></obj_text>
+		</obj>
+		<gold>artist</gold>
+		<mln_predict conf="0.666">artist</mln_predict>
+		<cnn_predict conf="0.767">artist</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[앨범]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1968">
+		<sent><![CDATA[이 문서에서는 대한민국의 방송사 문화방송의 예능 프로그램 《무한도전》의 2014년 에피소드 목록을 나열한다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[무한도전]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[문화방송]]></obj_text>
+			<arg_type weight="0.32">Agent</arg_type>
+			<arg_type weight="1.24">Organisation</arg_type>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.815">channel</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[프로그램]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1189">
+		<sent><![CDATA[《토요일! 토요일은 가수다》는 대한민국의 방송사 문화방송의 예능 프로그램 《무한도전》의 특별 기획전으로 2014년에 기획된 특집으로, 토토가라고 부르기도 한다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[무한도전]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[문화방송]]></obj_text>
+			<arg_type weight="0.32">Agent</arg_type>
+			<arg_type weight="1.24">Organisation</arg_type>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.998">channel</mln_predict>
+		<cnn_predict conf="0.674">channel</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[프로그램]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D521">
+		<sent><![CDATA[잔루카 카프라리는 현재 세리에_A의 클럽 UC_삼프도리아의 축구선수이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[UC_삼프도리아]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[세리에_A]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">league</mln_predict>
+		<cnn_predict conf="0.757">league</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[클럽]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2380">
+		<sent><![CDATA[덕종은 청나라의 제11대 황제 광서제의 묘호이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[광서제]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[청나라]]></obj_text>
+			<arg_type weight="0.23">Place</arg_type>
+			<arg_type weight="0.25">PopulatedPlace</arg_type>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.714">deathPlace</mln_predict>
+		<cnn_predict conf="0.938">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[황제]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1095">
+		<sent><![CDATA[슈투트가르트 키커스는 1899년 9월 21일에 창단된 독일 바덴뷔르템베르크_주의 도시 슈투트가르트의 축구 클럽으로, 현재 3. 리가 리그에서 활동하고 있다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[슈투트가르트]]></sbj_text>
+			<arg_type weight="0.68">Place</arg_type>
+			<arg_type weight="1.40">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[바덴뷔르템베르크_주]]></obj_text>
+			<arg_type weight="0.18">Place</arg_type>
+			<arg_type weight="0.24">PopulatedPlace</arg_type>
+			<arg_type weight="2.12">Region</arg_type>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="1.000">region</mln_predict>
+		<cnn_predict conf="0.423">location</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[도시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1495">
+		<sent><![CDATA[한국방송공사의 드라마 제빵왕_김탁구의 촬영지로 유명하다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[제빵왕_김탁구]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[한국방송공사]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.513">channel</mln_predict>
+		<cnn_predict conf="0.390">channel</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[드라마]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1287">
+		<sent><![CDATA[덕비는 청나라의 제4대 황제 강희제의 황후 효공인황후의 별칭이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[강희제]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[청나라]]></obj_text>
+			<arg_type weight="0.23">Place</arg_type>
+			<arg_type weight="0.25">PopulatedPlace</arg_type>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.504">deathPlace</mln_predict>
+		<cnn_predict conf="0.921">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[황제]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1830">
+		<sent><![CDATA[이 음반이 발매되기 전에 싱글 2장 〈일부와 전부/Dive〉와 〈My Lonely Town〉이 발매됐는데, 〈일부와 전부〉는 후지_TV의 드라마 《버저_비트》의 주제가로 사용됐고, 〈Dive〉는 스즈키 스위프트의 광고 곡으로 사용됐다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[버저_비트]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[후지_TV]]></obj_text>
+			<arg_type weight="0.32">Agent</arg_type>
+			<arg_type weight="1.24">Organisation</arg_type>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.287">artist</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[드라마]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2870">
+		<sent><![CDATA[콘텐토의 부모는 이탈리아 나폴리 출신으로, 그의 이름은 SSC_나폴리의 슈퍼스타 디에고_마라도나의 이름을 딴 것이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[디에고_마라도나]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[SSC_나폴리]]></obj_text>
+			<arg_type weight="0.14">Agent</arg_type>
+			<arg_type weight="0.35">Organisation</arg_type>
+			<arg_type weight="0.72">SportsTeam</arg_type>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.960">team</mln_predict>
+		<cnn_predict conf="0.389">team</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[슈퍼스타]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3726">
+		<sent><![CDATA[이 문서에서는 대한민국의 방송사 문화방송의 예능 프로그램 《무한도전》의 2009년 에피소드 목록을 나열한다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[무한도전]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[문화방송]]></obj_text>
+			<arg_type weight="0.32">Agent</arg_type>
+			<arg_type weight="1.24">Organisation</arg_type>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.826">channel</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[프로그램]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D735">
+		<sent><![CDATA[중원에서 어린 나이답지 않은 노련한 조율을 선보여 아스널_FC의 감독 아르센_벵거의 두터운 신임을 받았다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[아르센_벵거]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[아스널_FC]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.860">team</mln_predict>
+		<cnn_predict conf="0.500">team</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[감독]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

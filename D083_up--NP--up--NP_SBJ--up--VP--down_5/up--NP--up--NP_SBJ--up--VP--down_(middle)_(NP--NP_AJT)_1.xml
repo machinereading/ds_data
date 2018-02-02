@@ -1,0 +1,25 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--up--NP_SBJ--up--VP--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3866">
+		<sent><![CDATA[2015년 4월 2일에 오송역에서 광주송정역 구간의 호남고속선 1단계 공사가 완공되어 용산역에서 광주송정역까지 1시간 30분대에 이용이 가능하다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[호남고속선]]></sbj_text>
+			<arg_type weight="0.23">Place</arg_type>
+			<arg_type weight="0.41">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.48">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[오송역]]></obj_text>
+			<arg_type weight="0.38">Place</arg_type>
+			<arg_type weight="1.15">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.18">Infrastructure</arg_type>
+		</obj>
+		<gold>routeStart</gold>
+		<mln_predict conf="0.708">routeEnd</mln_predict>
+		<cnn_predict conf="0.410">routeStart</cnn_predict>
+		<gsdp>(NP)--up--NP--up--NP_SBJ--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[1단계--공사가--완공되어]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(VP)--up--VP--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2370">
+		<sent><![CDATA[이때만 해도 부산은 부산_아이파크였으나, 2개월 뒤 현대산업개발로 매각되어 부산 아이콘스로 구단명이 변경되었다.]]></sent>
+		<sbj label="VP" josa="">
+			<sbj_text><![CDATA[부산_아이파크]]></sbj_text>
+		</sbj>
+		<obj label="NP_AJT" josa="로">
+			<obj_text><![CDATA[현대산업개발]]></obj_text>
+			<arg_type weight="0.81">Agent</arg_type>
+			<arg_type weight="1.05">Organisation</arg_type>
+		</obj>
+		<gold>owner</gold>
+		<mln_predict conf="0.319">team</mln_predict>
+		<cnn_predict conf="0.491">team</cnn_predict>
+		<gsdp>(VP)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[매각되어]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

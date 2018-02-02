@@ -1,0 +1,62 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--(NP_MOD)</dependency>
+	<total>3</total>
+	<sent_item id="M_D2895">
+		<sent><![CDATA[배우 하정우, 차현우의 아버지이다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[하정우]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+			<arg_type weight="-0.02">Person</arg_type>
+			<arg_type weight="-0.22">Artist</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[차현우]]></obj_text>
+			<arg_type weight="0.94">Agent</arg_type>
+			<arg_type weight="0.92">Person</arg_type>
+			<arg_type weight="-0.29">Artist</arg_type>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.636">relative</mln_predict>
+		<cnn_predict conf="0.592">starring</cnn_predict>
+		<gsdp>(NP_CNJ)--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1787">
+		<sent><![CDATA[장남 : 윤방: 윤덕영, 윤택영의 선조]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[윤덕영]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[윤택영]]></obj_text>
+			<arg_type weight="0.94">Agent</arg_type>
+			<arg_type weight="0.92">Person</arg_type>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.338">relative</mln_predict>
+		<cnn_predict conf="0.608">relative</cnn_predict>
+		<gsdp>(NP_CNJ)--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D213">
+		<sent><![CDATA[서자 윤발은 후에 조선 말의 군부대신 윤웅렬과 육군참장 윤영렬의 증조 할아버지이자, 독립운동가 윤치호, 대한민국의 내무부장관, 서울시장 윤치영, 4대 대통령 윤보선, 한국의 초기 병리학자이자 해부학자인 윤일선의 선조가 된다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[윤웅렬]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+			<arg_type weight="-0.02">Person</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[윤영렬]]></obj_text>
+			<arg_type weight="0.94">Agent</arg_type>
+			<arg_type weight="0.92">Person</arg_type>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.992">relative</mln_predict>
+		<cnn_predict conf="0.478">relative</cnn_predict>
+		<gsdp>(NP_CNJ)--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

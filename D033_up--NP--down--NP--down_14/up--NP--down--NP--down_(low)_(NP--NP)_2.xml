@@ -1,0 +1,40 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--down--NP--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_D1272">
+		<sent><![CDATA[사돈 : 前 대통령 해위 윤보선, 대한민국 제4대 대통령]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[윤보선]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+			<arg_type weight="0.34">Politician</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.998">birthPlace</mln_predict>
+		<cnn_predict conf="0.636">deathPlace</cnn_predict>
+		<gsdp>(NP)--up--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[대통령--제4대]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2151">
+		<sent><![CDATA[4. 벽라춘; 녹차; 장쑤_성 수저우 오현 타이_호 동정산]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[타이_호]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="-0.29">NaturalPlace</arg_type>
+			<arg_type weight="0.12">BodyOfWater</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[장쑤_성]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.180">city</mln_predict>
+		<cnn_predict conf="0.281">location</cnn_predict>
+		<gsdp>(NP)--up--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[동정산--수저우]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,50 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP_AJT--down--VP_MOD--down--(NP_AJT)</dependency>
+	<total>2</total>
+	<sent_item id="M_D271">
+		<sent><![CDATA[비야레알 CF의 파브리시오 콜로치니, 리버_플레이트에서 뛰던 하비에르 마스체라노와 루초_곤살레스, VfL 볼프스부르크에서 뛰던 안드레스 달레산드로, FC 바르셀로나의 하비에르 사비올라 등 23세 이하의 인재들이 엄청 많았다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[루초_곤살레스]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[리버_플레이트]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="1.000">team</mln_predict>
+		<cnn_predict conf="0.491">team</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[볼프스부르크에서--뛰던]]></gsdp_lemma>
+		<comment>의존구조가 잘못됨
+			governing noun : 
+			'마스체라노와', 가 conjunction 때문에 dependency가 실패.
+			Entity Type이 강한 영향
+			Dependency가 잘 되면 "에서-뛰던"이 clue.
+			ner이랑 dbpedia ontology entity linking 같이 사용</comment>
+	</sent_item>
+	<sent_item id="M_D2865">
+		<sent><![CDATA[또한 필립스는 미국 조지아 주 애틀랜타에 있는 필립스_아레나과 전통적으로 국가 농구 리그로 알려진 오스트레일리아에서 열리는 "필립스 챔피언십" 프리미너 농구 리그의 명명권을 소유하고 있다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[필립스_아레나]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[애틀랜타]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.859">location</mln_predict>
+		<cnn_predict conf="0.437">location</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[오스트레일리아에서--있는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

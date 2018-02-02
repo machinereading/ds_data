@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP--up--NP_AJT--up--VP--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1561">
+		<sent><![CDATA[그는 선수 시절, 1995년 노르웨이 올해의 미드필더로 선정되었고, 올보르_BK와 FC 쾨벤하운 소속으로 덴마크_수페르리가 우승을 하였다.]]></sent>
+		<sbj label="NP_CNJ" josa="와">
+			<sbj_text><![CDATA[올보르_BK]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[덴마크_수페르리가]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.448">location</mln_predict>
+		<cnn_predict conf="0.335">team</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP--up--NP_AJT--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[쾨벤하운--소속으로--하였다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

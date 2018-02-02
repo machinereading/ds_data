@@ -1,0 +1,184 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--(NP_MOD)</dependency>
+	<total>9</total>
+	<sent_item id="M_D2029">
+		<sent><![CDATA[2013 한국프로야구에서 두산_베어스의 홍상삼이 프로야구 역사상 처음으로 두 경기 연속 끝내기 홈런 허용투수가 되는 불명예를 안았다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[홍상삼]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[두산_베어스]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.343">team</mln_predict>
+		<cnn_predict conf="0.789">team</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3569">
+		<sent><![CDATA[가마쿠라 막부를 타도하고, 고다이고_천황의 겐무_신정이 시작되자, 기타바타케 지카후사는 정계에 복귀한다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[겐무_신정]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[고다이고_천황]]></obj_text>
+			<arg_type weight="0.04">Agent</arg_type>
+			<arg_type weight="0.54">Person</arg_type>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.199">leaderName</mln_predict>
+		<cnn_predict conf="0.439">deathPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D889">
+		<sent><![CDATA[(그 해 리버풀_FC의 스티븐_제라드가 그 상을 탔다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[스티븐_제라드]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[리버풀_FC]]></obj_text>
+			<arg_type weight="0.14">Agent</arg_type>
+			<arg_type weight="0.35">Organisation</arg_type>
+			<arg_type weight="0.72">SportsTeam</arg_type>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.851">team</mln_predict>
+		<cnn_predict conf="0.596">team</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3037">
+		<sent><![CDATA[그는 그 클럽에서 5년을 뛰었고, 2003-04 시즌의 중반부에 프리메라리가의 비야레알_CF가 2천 8백만 유로를 지불하여 그를 영입하였다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[비야레알_CF]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[프리메라리가]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.594">league</mln_predict>
+		<cnn_predict conf="0.601">team</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D197">
+		<sent><![CDATA[아디다스 축구화의 대표적인 선수로는 바르셀로나 FC 의 리오넬 메시와 아스널_FC의 메수트_외질이 있다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[메수트_외질]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[아스널_FC]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.686">team</mln_predict>
+		<cnn_predict conf="0.627">team</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1803">
+		<sent><![CDATA[디에고 베날리오가 현재 국가대표팀의 주전 골키퍼를 맡고 있으며, 그와 FC_바젤의 얀_조머가 백업 골키퍼 자리를 두고 경합하고 있다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[얀_조머]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[FC_바젤]]></obj_text>
+			<arg_type weight="0.14">Agent</arg_type>
+			<arg_type weight="0.35">Organisation</arg_type>
+			<arg_type weight="0.72">SportsTeam</arg_type>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.829">team</mln_predict>
+		<cnn_predict conf="0.401">team</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2875">
+		<sent><![CDATA[이 경기에 출전한 모든 프랑스의 스트라이커들이 득점자 명단에 이름을 올렸다: 루이 사아, 티에리 앙리, 니콜라 아넬카, 그리고 유벤투스_FC의 다비드_트레제게가 골을 기록하였고, 후자의 선수는 2번 골을 넣었다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[다비드_트레제게]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[유벤투스_FC]]></obj_text>
+			<arg_type weight="0.14">Agent</arg_type>
+			<arg_type weight="0.35">Organisation</arg_type>
+			<arg_type weight="0.72">SportsTeam</arg_type>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.892">team</mln_predict>
+		<cnn_predict conf="0.800">team</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3064">
+		<sent><![CDATA[이후 2011년 3월에 있었던 리투아니아 축구 국가대표팀와의 유로 2012 예선경기에 선발로 출전하는 등 본선 스쿼드에 포함될 것으로 예상되었으나, 부상으로 결국 낙마하고 대신 아틀레티코_마드리드의 후안_프란시스코_토레스이 선발되었다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[후안_프란시스코_토레스]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[아틀레티코_마드리드]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.587">club</mln_predict>
+		<cnn_predict conf="0.638">team</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3322">
+		<sent><![CDATA[우랄 항공 러시아의 항공사로 허브 공항은 예카테린부르크의 콜초보_공항이 있다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[콜초보_공항]]></sbj_text>
+			<arg_type weight="0.34">Place</arg_type>
+			<arg_type weight="0.55">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.75">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[예카테린부르크]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.763">location</mln_predict>
+		<cnn_predict conf="0.549">location</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

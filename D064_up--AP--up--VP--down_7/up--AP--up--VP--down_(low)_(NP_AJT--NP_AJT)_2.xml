@@ -1,0 +1,37 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--AP--up--VP--down--(NP_AJT)</dependency>
+	<total>2</total>
+	<sent_item id="M_D4000">
+		<sent><![CDATA[장바티스트 라신은 프랑스의 극작가로, 몰리에르, 피에르_코르네유와 함께 17세기 프랑스의 3대 극작가 중 하나로 여겨진다.]]></sent>
+		<sbj label="NP_AJT" josa="와">
+			<sbj_text><![CDATA[피에르_코르네유]]></sbj_text>
+		</sbj>
+		<obj label="NP_AJT" josa="로">
+			<obj_text><![CDATA[극작가]]></obj_text>
+		</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.273">nationality</mln_predict>
+		<cnn_predict conf="0.431">occupation</cnn_predict>
+		<gsdp>(NP_AJT)--up--AP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[함께--여겨진다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D382">
+		<sent><![CDATA[FC_서울에 2000년 7월 히카르두_캄푸스_다_코스타와 같이 입단하여 K리그 2000 한 시즌 동안 시즌 통산 33경기 9득점-0도움의 기록을 남겼다.]]></sent>
+		<sbj label="NP_AJT" josa="와">
+			<sbj_text><![CDATA[히카르두_캄푸스_다_코스타]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[FC_서울]]></obj_text>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.486">team</mln_predict>
+		<cnn_predict conf="0.738">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--AP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[같이--입단하여]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

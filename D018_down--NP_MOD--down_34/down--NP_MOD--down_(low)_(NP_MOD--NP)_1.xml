@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--NP_MOD--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2815">
+		<sent><![CDATA[뮤지엄 역은 캐나다 온타리오_주 토론토의 지하철 1호선 영-유니버시티_선의 역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[영-유니버시티_선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[온타리오_주]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.449">location</mln_predict>
+		<cnn_predict conf="0.635">location</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[토론토의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

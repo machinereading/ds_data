@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--NP_SBJ--down--(DP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1945">
+		<sent><![CDATA[이 부대는 경기도 부천군 용유면 무의도(현 인천광역시 중구_(인천광역시) 무의동) 실미도에 있었다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[실미도]]></sbj_text>
+			<arg_type weight="0.68">Place</arg_type>
+			<arg_type weight="1.40">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="DP" josa="">
+			<obj_text><![CDATA[중구_(인천광역시)]]></obj_text>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.442">region</mln_predict>
+		<cnn_predict conf="0.449">location</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_SBJ--down--(DP)</gsdp>
+		<gsdp_lemma><![CDATA[있었다.--부대는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

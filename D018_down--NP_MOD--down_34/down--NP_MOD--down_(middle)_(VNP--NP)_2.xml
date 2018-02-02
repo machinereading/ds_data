@@ -1,0 +1,41 @@
+<sentence_list>
+	<dependency>(VNP)--down--NP_MOD--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_D2797">
+		<sent><![CDATA[현재 유럽에서 가장 높은 마천루는 러시아 모스크바의 페더레이션_타워이다.]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[페더레이션_타워]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.92">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[러시아]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.791">location</mln_predict>
+		<cnn_predict conf="0.404">country</cnn_predict>
+		<gsdp>(VNP)--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[모스크바의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2721">
+		<sent><![CDATA[몰몬제비나비는 나비목 호랑나비과의 나비이다.]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[나비]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[나비목]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="0.473">order</mln_predict>
+		<cnn_predict conf="0.534">order</cnn_predict>
+		<gsdp>(VNP)--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[호랑나비과의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

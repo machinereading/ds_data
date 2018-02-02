@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--VP_MOD--down--NP_OBJ--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D144">
+		<sent><![CDATA[나정교는 대한민국의 경상북도 경주시 황남동을 연결하는 총길이 180m, 형산강의 다리이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[형산강]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.27">NaturalPlace</arg_type>
+			<arg_type weight="0.60">BodyOfWater</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.488">country</mln_predict>
+		<cnn_predict conf="0.754">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_OBJ--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[연결하는--황남동을]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

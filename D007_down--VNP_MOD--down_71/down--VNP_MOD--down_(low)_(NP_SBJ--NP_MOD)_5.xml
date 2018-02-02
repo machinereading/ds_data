@@ -1,0 +1,88 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--VNP_MOD--down--(NP_MOD)</dependency>
+	<total>5</total>
+	<sent_item id="M_D739">
+		<sent><![CDATA[《삼학사전》은 1671년 조선의 유학자인 송시열이 편찬한 삼학사의 전기문으로 국립중앙박물관에 소장되어 있다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[송시열]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[조선]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.132">nationality</mln_predict>
+		<cnn_predict conf="0.806">deathPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[유학자인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1445">
+		<sent><![CDATA[무쌍 시리즈는 일본의 게임 회사인 코에이가 발매한 액션 게임 작품군이다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[코에이]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[일본]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.277">country</mln_predict>
+		<cnn_predict conf="0.304">birthPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[회사인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1381">
+		<sent><![CDATA[2009년에 버크셔_해서웨이의 CEO인 워렌_버핏이 전 지분을 인수를 발표했다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[워렌_버핏]]></sbj_text>
+			<arg_type weight="0.49">Agent</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[버크셔_해서웨이]]></obj_text>
+			<arg_type weight="-0.23">Agent</arg_type>
+			<arg_type weight="0.14">Organisation</arg_type>
+		</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.200">channel</mln_predict>
+		<cnn_predict conf="0.217">location</cnn_predict>
+		<gsdp>(NP_SBJ)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[CEO인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D470">
+		<sent><![CDATA[1933년부터 1945년까지 나치_독일의 독재자였던 아돌프_히틀러는 드랑 나흐 오스텐이라 부르는 동방진출계획을 제창하여 동부에 독일 식민지를 세우고자 했다.]]></sent>
+		<sbj label="NP_SBJ" josa="는">
+			<sbj_text><![CDATA[아돌프_히틀러]]></sbj_text>
+			<arg_type weight="-0.05">Agent</arg_type>
+			<arg_type weight="-0.30">Person</arg_type>
+			<arg_type weight="0.36">Politician</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[나치_독일]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.607">birthPlace</mln_predict>
+		<cnn_predict conf="0.620">deathPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[독재자였던]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D4037">
+		<sent><![CDATA[또한 <시티 라이트> 개봉날에는 미국의 학자인 알베르트_아인슈타인도 참가하였다.]]></sent>
+		<sbj label="NP_SBJ" josa="도">
+			<sbj_text><![CDATA[알베르트_아인슈타인]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[미국]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.226">birthPlace</mln_predict>
+		<cnn_predict conf="0.399">birthPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[학자인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

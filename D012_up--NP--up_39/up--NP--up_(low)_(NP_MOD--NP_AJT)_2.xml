@@ -1,0 +1,38 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP--up--(NP_AJT)</dependency>
+	<total>2</total>
+	<sent_item id="M_D4016">
+		<sent><![CDATA[교황 스테파노 2세는 롬바르드족에게 위협받지 않으려고 중립을 선언하였지만 실제로는 프랑크_왕국의 국왕 피핀_3세에게 지켜달라고 호소하였다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[프랑크_왕국]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에게">
+			<obj_text><![CDATA[피핀_3세]]></obj_text>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.400">leaderName</mln_predict>
+		<cnn_predict conf="0.661">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[국왕]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2192">
+		<sent><![CDATA[노론의 거두 김상로, 김재로의 종5대손이자 김종수_(1728년)의 종증손이었다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[김종수_(1728년)]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+			<arg_type weight="-0.02">Person</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="로">
+			<obj_text><![CDATA[김상로]]></obj_text>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.320">birthPlace</mln_predict>
+		<cnn_predict conf="0.502">relative</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[거두]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

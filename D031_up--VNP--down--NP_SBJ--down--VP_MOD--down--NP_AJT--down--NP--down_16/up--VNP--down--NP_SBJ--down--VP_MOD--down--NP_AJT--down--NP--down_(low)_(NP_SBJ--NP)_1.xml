@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VNP--down--NP_SBJ--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2941">
+		<sent><![CDATA[아쓰가 역은 일본 홋카이도 사루 군 히다카_정_(홋카이도)에 위치한 홋카이도 여객철도 히다카 본선의 철도역이다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[히다카_정_(홋카이도)]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[홋카이도]]></obj_text>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.639">region</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VNP--down--NP_SBJ--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[철도역이다.--여객철도--위치한--히다카_정_(홋카이도)에--군]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--down--VP_MOD--down--NP_AJT--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2638">
+		<sent><![CDATA[무산역은 조선민주주의인민공화국 함경북도 무산군 무산읍에 위치한 무산선과 백무선의 철도역이다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[무산선]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[무산군]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.421">location</cnn_predict>
+		<gsdp>(NP_CNJ)--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[위치한--무산읍에]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

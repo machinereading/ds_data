@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--NP_AJT--down--(DP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3994">
+		<sent><![CDATA[그 이후 렙셰츠는 수학으로 분야를 옮겨서, 매사추세츠 주 우스터_(매사추세츠_주)에 위치한 클라크_대학교에서 대수 기하학분야에서 박사학위를 받았다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[클라크_대학교]]></sbj_text>
+			<arg_type weight="-0.23">Agent</arg_type>
+			<arg_type weight="0.35">Organisation</arg_type>
+			<arg_type weight="2.11">EducationalInstitution</arg_type>
+		</sbj>
+		<obj label="DP" josa="">
+			<obj_text><![CDATA[우스터_(매사추세츠_주)]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.705">owner</mln_predict>
+		<cnn_predict conf="0.414">city</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(DP)</gsdp>
+		<gsdp_lemma><![CDATA[받았다.--이후]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3505">
+		<sent><![CDATA[고속도로는 목포시와 서울특별시을 연결하는 서해안고속도로, 무안군과 광주광역시, 광주광역시와 대구광역시를 연결하는 무안광주고속도로와 광주대구고속도로, 영암군과 부산광역시을 연결하는 남해고속도로, 순천시_(전라남도)과 완주군를 연결하는 순천완주고속도로, 순천시과 논산시을 연결하는 호남고속도로, 고창과 담양을 연결하는 고창담양고속도로가 있다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[남해고속도로]]></sbj_text>
+			<arg_type weight="0.34">Place</arg_type>
+			<arg_type weight="0.55">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.75">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="는">
+			<obj_text><![CDATA[순천시_(전라남도)]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.714">city</mln_predict>
+		<cnn_predict conf="0.445">city</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[있다.--서해안고속도로,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

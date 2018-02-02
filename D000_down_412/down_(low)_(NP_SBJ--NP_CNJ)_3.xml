@@ -1,0 +1,53 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--(NP_CNJ)</dependency>
+	<total>3</total>
+	<sent_item id="M_D3715">
+		<sent><![CDATA[이 지역의 주민인 한티인과 만시인은 핀우그리아계 민족이다.]]></sent>
+		<sbj label="NP_SBJ" josa="은">
+			<sbj_text><![CDATA[만시인]]></sbj_text>
+		</sbj>
+		<obj label="NP_CNJ" josa="과">
+			<obj_text><![CDATA[한티인]]></obj_text>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.139">country</mln_predict>
+		<cnn_predict conf="0.139">related</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D590">
+		<sent><![CDATA[현에는 143만 명의 한족과 25000명의 후이족이 거주한다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[후이족]]></sbj_text>
+		</sbj>
+		<obj label="NP_CNJ" josa="과">
+			<obj_text><![CDATA[한족]]></obj_text>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.277">country</mln_predict>
+		<cnn_predict conf="0.509">related</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D658">
+		<sent><![CDATA[자매로는 쌍둥이인 애슐리_올슨과 동생 엘리자베스_올슨이 있다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[엘리자베스_올슨]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+			<arg_type weight="-0.02">Person</arg_type>
+			<arg_type weight="-0.22">Artist</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="과">
+			<obj_text><![CDATA[애슐리_올슨]]></obj_text>
+			<arg_type weight="0.94">Agent</arg_type>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.278">relative</mln_predict>
+		<cnn_predict conf="0.381">relative</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

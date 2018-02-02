@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--NP_CNJ--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D4082">
+		<sent><![CDATA[손자 : 윤세겸, 윤치호의 5대조, 윤보선, 윤일선의 6대조]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[윤일선]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+			<arg_type weight="-0.02">Person</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[윤치호]]></obj_text>
+			<arg_type weight="0.94">Agent</arg_type>
+			<arg_type weight="0.92">Person</arg_type>
+			<arg_type weight="1.52">Politician</arg_type>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="1.000">relative</mln_predict>
+		<cnn_predict conf="0.750">relative</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP_CNJ--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[5대조,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

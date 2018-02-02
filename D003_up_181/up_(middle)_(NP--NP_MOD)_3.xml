@@ -1,0 +1,59 @@
+<sentence_list>
+	<dependency>(NP)--up--(NP_MOD)</dependency>
+	<total>3</total>
+	<sent_item id="M_D3148">
+		<sent><![CDATA[미국 넷플릭스의 드라마 《마르코_폴로_(드라마)》의 주인공 마르코 폴로를 연기했다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[마르코_폴로_(드라마)]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[넷플릭스]]></obj_text>
+			<arg_type weight="0.32">Agent</arg_type>
+			<arg_type weight="1.24">Organisation</arg_type>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.739">channel</mln_predict>
+		<cnn_predict conf="0.632">starring</cnn_predict>
+		<gsdp>(NP)--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3493">
+		<sent><![CDATA[루이장은 상파울루 FC, 산투스_FC, SE 파우메이라스와 SC 코린치앙스 파울리스타라는 캄페오나투_브라질레이루_세리이_A의 4대 클럽에서 모두 뛰어 본 몇 안되는 선수 중에 하나다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[산투스_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[캄페오나투_브라질레이루_세리이_A]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">position</mln_predict>
+		<cnn_predict conf="0.330">team</cnn_predict>
+		<gsdp>(NP)--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D745">
+		<sent><![CDATA[옹정은 청나라 세종 옹정제의 연호로 1723년에서 1735년까지 13년간 쓰였다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[청나라]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[옹정제]]></obj_text>
+			<arg_type weight="0.04">Agent</arg_type>
+			<arg_type weight="0.54">Person</arg_type>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.407">leaderName</mln_predict>
+		<cnn_predict conf="0.908">deathPlace</cnn_predict>
+		<gsdp>(NP)--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

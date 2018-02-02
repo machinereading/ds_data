@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_AJT--up--VP_MOD--down--(NP_OBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2585">
+		<sent><![CDATA[구의 명칭은 1232년 고려-몽골_전쟁 당시 고려의 승려 김윤후가 몽골 제국의 장군 살리타를 저격했던 장소인 처인성, 즉 처인현에서 따와 명명하였다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[고려-몽골_전쟁]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="를">
+			<obj_text><![CDATA[살리타]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.955">commander</mln_predict>
+		<cnn_predict conf="0.393">commander</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP_MOD--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[당시--저격했던]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

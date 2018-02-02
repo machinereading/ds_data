@@ -1,0 +1,46 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP--up--NP_AJT--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_D502">
+		<sent><![CDATA[홀리데이 쾌속 오쿠타마 호는 동일본 여객철도 주오 본선(주오_쾌속선)의 신주쿠 역(상행선은 도쿄_역까지 운행함)에서 오메 선의 오쿠타마 역까지 운행하는 홀리데이 쾌속 열차이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[주오_쾌속선]]></sbj_text>
+			<arg_type weight="0.23">Place</arg_type>
+			<arg_type weight="0.41">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.48">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="까지">
+			<obj_text><![CDATA[도쿄_역]]></obj_text>
+			<arg_type weight="0.38">Place</arg_type>
+			<arg_type weight="1.15">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.18">Infrastructure</arg_type>
+		</obj>
+		<gold>routeStart</gold>
+		<mln_predict conf="0.881">routeEnd</mln_predict>
+		<cnn_predict conf="0.356">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[역(상행선은--운행함)에서]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2213">
+		<sent><![CDATA[홀리데이 쾌속 오쿠타마 호는 동일본 여객철도 주오_본선의 신주쿠 역(상행선은 도쿄_역까지 운행함)에서 오메 선의 오쿠타마 역까지 운행하는 홀리데이 쾌속 열차이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[주오_본선]]></sbj_text>
+			<arg_type weight="0.23">Place</arg_type>
+			<arg_type weight="0.41">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.48">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="까지">
+			<obj_text><![CDATA[도쿄_역]]></obj_text>
+			<arg_type weight="0.38">Place</arg_type>
+			<arg_type weight="1.15">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.18">Infrastructure</arg_type>
+		</obj>
+		<gold>routeStart</gold>
+		<mln_predict conf="0.886">routeStart</mln_predict>
+		<cnn_predict conf="0.349">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[역(상행선은--운행함)에서]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP_OBJ--up--VP--down--NP_AJT--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D239">
+		<sent><![CDATA[주부 지방은 일본의 지방 구분으로, 혼슈의 중앙부를 말한다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[혼슈]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[일본]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.271">country</mln_predict>
+		<cnn_predict conf="0.753">country</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_OBJ--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[중앙부를--말한다.--구분으로,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

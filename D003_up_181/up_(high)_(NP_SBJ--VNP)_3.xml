@@ -1,0 +1,66 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--(VNP)</dependency>
+	<total>3</total>
+	<sent_item id="M_D1082">
+		<sent><![CDATA[동생은 E-girls, Happiness_(음악_그룹)의 후지이_카렌. 오빠는 자니스WEST의 후지이 류세이.]]></sent>
+		<sbj label="NP_SBJ" josa="은">
+			<sbj_text><![CDATA[Happiness_(음악_그룹)]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="VNP" josa="">
+			<obj_text><![CDATA[후지이_카렌]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="1.000">currentMember</mln_predict>
+		<cnn_predict conf="0.355">currentMember</cnn_predict>
+		<gsdp>(NP_SBJ)--up--(VNP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D49">
+		<sent><![CDATA[그는 얼터너티브_록 밴드 뮤즈_(밴드)에서 활동하고 있다.]]></sent>
+		<sbj label="NP_SBJ" josa="는">
+			<sbj_text><![CDATA[뮤즈_(밴드)]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.13">Organisation</arg_type>
+			<arg_type weight="0.76">Group</arg_type>
+		</sbj>
+		<obj label="VNP" josa="">
+			<obj_text><![CDATA[얼터너티브_록]]></obj_text>
+			<arg_type weight="2.32">TopicalConcept</arg_type>
+			<arg_type weight="2.32">Genre</arg_type>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.962">genre</mln_predict>
+		<cnn_predict conf="0.461">genre</cnn_predict>
+		<gsdp>(NP_SBJ)--up--(VNP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2616">
+		<sent><![CDATA[장남은 음악 그룹 엠파이어_(음악_그룹)의 멤버인 루민이다.]]></sent>
+		<sbj label="NP_SBJ" josa="은">
+			<sbj_text><![CDATA[엠파이어_(음악_그룹)]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="VNP" josa="">
+			<obj_text><![CDATA[루민]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="1.000">currentMember</mln_predict>
+		<cnn_predict conf="0.530">currentMember</cnn_predict>
+		<gsdp>(NP_SBJ)--up--(VNP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

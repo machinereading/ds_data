@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--down--NP_OBJ--down--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1961">
+		<sent><![CDATA[한화_이글스는 박성호, 이종환_(1986년), 임준섭을 받았다.]]></sent>
+		<sbj label="NP_SBJ" josa="는">
+			<sbj_text><![CDATA[이종환_(1986년)]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[한화_이글스]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.403">team</mln_predict>
+		<cnn_predict conf="0.616">team</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--NP_OBJ--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[받았다.--임준섭을]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

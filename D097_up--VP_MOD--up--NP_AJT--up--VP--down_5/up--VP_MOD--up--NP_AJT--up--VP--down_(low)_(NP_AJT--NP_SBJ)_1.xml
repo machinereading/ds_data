@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP_MOD--up--NP_AJT--up--VP--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2131">
+		<sent><![CDATA[907년, 당나라가 멸망한 후, 그 뒤를 이은 후량_(오대)의 개국 황제인 후량 태조 주전충은 당시 그의 신하였던 왕용을 조왕에 책봉하였다.]]></sent>
+		<sbj label="NP_AJT" josa="">
+			<sbj_text><![CDATA[후량_(오대)]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="은">
+			<obj_text><![CDATA[주전충]]></obj_text>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.292">leaderName</mln_predict>
+		<cnn_predict conf="0.797">deathPlace</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_AJT--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[멸망한--후,--책봉하였다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

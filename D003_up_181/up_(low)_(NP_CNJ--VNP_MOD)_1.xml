@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--(VNP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3766">
+		<sent><![CDATA[그 외 아시리아인, 우크라이나인, 그리스인, 쿠르드인, 조지아인, 벨라루스인 등이 소수 거주한다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[우크라이나인]]></sbj_text>
+		</sbj>
+		<obj label="VNP_MOD" josa="">
+			<obj_text><![CDATA[벨라루스인]]></obj_text>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.936">related</mln_predict>
+		<cnn_predict conf="0.964">related</cnn_predict>
+		<gsdp>(NP_CNJ)--up--(VNP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP_AJT--down--VP_MOD--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D840">
+		<sent><![CDATA[한나라는 전한_고제이 기원전 202년에 건국한 전한과 기원후 25년에 후한 광무제가 건국한 후한으로 구별한다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[전한]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[전한_고제]]></obj_text>
+			<arg_type weight="0.04">Agent</arg_type>
+			<arg_type weight="0.54">Person</arg_type>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.891">leaderName</mln_predict>
+		<cnn_predict conf="0.686">deathPlace</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--down--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[후한으로--건국한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

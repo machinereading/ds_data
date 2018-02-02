@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--VP_MOD--down--NP_AJT--down--NP--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1881">
+		<sent><![CDATA[인천아시안 게임의 개·폐회식 등은 인천광역시 서구 연희동 일원에 위치한 인천아시아드주경기장에서 진행되었다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[인천아시아드주경기장]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[인천광역시]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.735">city</mln_predict>
+		<cnn_predict conf="0.668">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--NP_AJT--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[위치한--일원에--연희동--서구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

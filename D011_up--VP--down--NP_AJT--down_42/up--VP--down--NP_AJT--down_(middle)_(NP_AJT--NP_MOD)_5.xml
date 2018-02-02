@@ -1,0 +1,98 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_MOD)</dependency>
+	<total>5</total>
+	<sent_item id="M_D1345">
+		<sent><![CDATA[마티아스 베시노 팔레로는 세리에_A의 ACF 피오렌티나에서 엠폴리_FC로 임대되어 뛰는 우루과이의 축구 선수이다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[엠폴리_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[세리에_A]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.830">league</mln_predict>
+		<cnn_predict conf="0.520">league</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[임대되어--피오렌티나에서]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1585">
+		<sent><![CDATA[남부화물기지선은 경기도 의왕시의 의왕역에서 오봉역까지를 잇는 총연장 3.0 km 인 한국철도공사의 철도 노선으로 1982년에 개통되었다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[의왕역]]></sbj_text>
+			<arg_type weight="0.09">Place</arg_type>
+			<arg_type weight="0.31">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.42">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[한국철도공사]]></obj_text>
+			<arg_type weight="0.25">Agent</arg_type>
+			<arg_type weight="0.55">Organisation</arg_type>
+		</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.338">routeEnd</mln_predict>
+		<cnn_predict conf="0.316">routeStart</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[개통되었다.--노선으로]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1468">
+		<sent><![CDATA[포스트 시즌에서는 탬파베이 레이스와의 디비전 시리즈 2차전에서 첫 등판을 했지만 에번 롱고리아로부터 3점 홈런을 허용했고 디트로이트_타이거스와의 리그 챔피언십 시리즈 3차전에서도 미겔_카브레라에 홈런을 허용했다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[미겔_카브레라]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[디트로이트_타이거스]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="1.000">team</mln_predict>
+		<cnn_predict conf="0.683">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[허용했다.--3차전에서도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3052">
+		<sent><![CDATA[호베르트 케네지는 브라질의 축구 선수로, 현재 잉글랜드 프리미어리그의 첼시 FC에서 왓퍼드_FC로 임대되어 활동하고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[왓퍼드_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[프리미어리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.979">league</mln_predict>
+		<cnn_predict conf="0.685">league</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[임대되어--FC에서]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D759">
+		<sent><![CDATA[7년 연속으로 결승전이 로마의 스타디오_올림피코_(로마)에서 열렸다.]]></sent>
+		<sbj label="NP_AJT" josa="">
+			<sbj_text><![CDATA[스타디오_올림피코_(로마)]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[로마]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.966">location</mln_predict>
+		<cnn_predict conf="0.639">location</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[열렸다.--스타디오_올림피코_(로마)에서]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

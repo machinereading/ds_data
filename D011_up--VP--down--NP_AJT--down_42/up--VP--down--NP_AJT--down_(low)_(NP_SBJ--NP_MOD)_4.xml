@@ -1,0 +1,72 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--down--NP_AJT--down--(NP_MOD)</dependency>
+	<total>4</total>
+	<sent_item id="M_D1368">
+		<sent><![CDATA[또한, 스티브_잡스가 1985년 애플 퇴사 후 설립한 NeXT의 창립 직원으로 크리에이티브 디렉터로 재직했다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[스티브_잡스]]></sbj_text>
+			<arg_type weight="0.49">Agent</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[NeXT]]></obj_text>
+			<arg_type weight="-0.23">Agent</arg_type>
+			<arg_type weight="0.14">Organisation</arg_type>
+		</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.174">team</mln_predict>
+		<cnn_predict conf="0.130">location</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[재직했다.--직원으로]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1450">
+		<sent><![CDATA[바레스 사라반드 는 미국의 음반사로 유니버설_뮤직_그룹이 배포를 맡고 있다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[유니버설_뮤직_그룹]]></sbj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="1.12">Organisation</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[미국]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.555">country</mln_predict>
+		<cnn_predict conf="0.299">birthPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[맡고--음반사로]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1624">
+		<sent><![CDATA[인민대회당은 톈안먼_광장의 서쪽에 위치해 있다.]]></sent>
+		<sbj label="NP_SBJ" josa="은">
+			<sbj_text><![CDATA[인민대회당]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[톈안먼_광장]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.524">country</mln_predict>
+		<cnn_predict conf="0.198">location</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[위치해--서쪽에]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1984">
+		<sent><![CDATA[이란 아스맘 항공은 이란의 항공사로 테헤란 이맘 호메이니 국제공항, 테헤란 메흐라바드_국제공항이 허브 공항으로 1958년에 설립되었다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[메흐라바드_국제공항]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[이란]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.377">location</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[설립되었다.--항공사로]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(VNP)--down--VP_MOD--down--NP_AJT--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1441">
+		<sent><![CDATA[하와이는 본래 독립국가로서 1782년에 카메하메하_1세 이후 왕조 체계가 유지되던 독립국가(하와이_왕국)였다.]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[하와이_왕국]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[카메하메하_1세]]></obj_text>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.139">region</mln_predict>
+		<cnn_predict conf="0.527">deathPlace</cnn_predict>
+		<gsdp>(VNP)--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[유지되던--이후]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

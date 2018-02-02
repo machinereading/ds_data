@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--down--NP--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3747">
+		<sent><![CDATA[스위스의 수학자 레온하르트 오일러의 이름을 따 오일러의 수로도 불리며, 로그 계산법을 도입한 스코틀랜드의 수학자 존_네이피어를 기려 네이피어 상수라고도 한다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[존_네이피어]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[스코틀랜드]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.331">birthPlace</mln_predict>
+		<cnn_predict conf="0.400">birthPlace</cnn_predict>
+		<gsdp>(NP_OBJ)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[수학자]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

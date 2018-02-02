@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP)--up--VNP_MOD--up--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3829">
+		<sent><![CDATA[기원전 57년 율리우스 카이사르의 갈리아_전쟁때 카이사르의 유능한 부하 장군인 푸블리우스_크라수스에 의해 정복되어 로마 공화정에 복속되었고 인질을 로마에 바쳤다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[갈리아_전쟁]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[푸블리우스_크라수스]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.952">commander</mln_predict>
+		<cnn_predict conf="0.675">commander</cnn_predict>
+		<gsdp>(NP)--up--VNP_MOD--up--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[장군인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

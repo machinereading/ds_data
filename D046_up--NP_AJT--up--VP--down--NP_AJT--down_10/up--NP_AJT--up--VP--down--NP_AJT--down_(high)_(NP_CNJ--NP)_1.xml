@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP_AJT--up--VP--down--NP_AJT--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1721">
+		<sent><![CDATA[슬래이어는 미국 스래시_메탈 밴드로 1981년 탐 아라야, 제프 한네만, 케리_킹, 데이브 롬바르도에 의하여 결성되었다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[케리_킹]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.11">Person</arg_type>
+			<arg_type weight="0.43">Artist</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[스래시_메탈]]></obj_text>
+			<arg_type weight="2.32">TopicalConcept</arg_type>
+			<arg_type weight="2.32">Genre</arg_type>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.687">birthPlace</mln_predict>
+		<cnn_predict conf="0.238">genre</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--up--VP--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[롬바르도에--의하여--밴드로]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

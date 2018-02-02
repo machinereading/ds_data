@@ -1,0 +1,397 @@
+<sentence_list>
+	<dependency>(NP)--down--(NP_MOD)</dependency>
+	<total>22</total>
+	<sent_item id="M_D3379">
+		<sent><![CDATA[나마프얄 화산은 아이슬란드의 크라플라_산 바로 밑에 있는 화산 지대로, 화산 활동이 매우 활발하다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[크라플라_산]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="2.09">NaturalPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[아이슬란드]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.949">locatedInArea</mln_predict>
+		<cnn_predict conf="0.742">country</cnn_predict>
+		<gsdp>(NP)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3509">
+		<sent><![CDATA[77. 1월 13일: 앨버타_주의 에드먼턴]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[에드먼턴]]></sbj_text>
+			<arg_type weight="0.68">Place</arg_type>
+			<arg_type weight="1.40">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[앨버타_주]]></obj_text>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.342">country</mln_predict>
+		<cnn_predict conf="0.371">location</cnn_predict>
+		<gsdp>(NP)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D171">
+		<sent><![CDATA[마르코 혼파이 파비안 데 라 모라 는 멕시코의 축구 선수로, 현재 푸스발-분데스리가의 아인트라흐트_프랑크푸르트 소속이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[아인트라흐트_프랑크푸르트]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[푸스발-분데스리가]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.587">position</mln_predict>
+		<cnn_predict conf="0.654">league</cnn_predict>
+		<gsdp>(NP)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D967">
+		<sent><![CDATA[2015년 4월 14일, 그는 알바로 모라타를 걸고 넘어뜨려 페널티킥을 헌납했고, 아르투로 비달이 주자로 나서 골망을 가르면서, 모나코는 유벤투스_FC와의 UEFA_챔피언스리그_2014-15 8강 1차전에서 패했다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[UEFA_챔피언스리그_2014-15]]></sbj_text>
+			<arg_type weight="0.47">Event</arg_type>
+			<arg_type weight="0.47">SocietalEvent</arg_type>
+			<arg_type weight="1.70">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[유벤투스_FC]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="1.000">team</mln_predict>
+		<cnn_predict conf="0.662">team</cnn_predict>
+		<gsdp>(NP)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3916">
+		<sent><![CDATA[대표작으로는 《파워 퍼프걸》, 《덱스터의 실험실》, 《죠니 브라보》, 《카우 앤 치킨》, 《겁쟁이 강아지 커리지》, 《》과 폭스_방송의 《패밀리_가이》 등이 있다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[패밀리_가이]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[폭스_방송]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.122">country</mln_predict>
+		<cnn_predict conf="0.591">starring</cnn_predict>
+		<gsdp>(NP)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3870">
+		<sent><![CDATA[4월 27일 : 하시바 히데요시, 빗추 다카마쓰 성 부근에서 시미즈_무네하루의 군대와 교전(빗추_다카마쓰_성_전투).]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[빗추_다카마쓰_성_전투]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[시미즈_무네하루]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.620">commander</mln_predict>
+		<cnn_predict conf="0.416">commander</cnn_predict>
+		<gsdp>(NP)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3478">
+		<sent><![CDATA[2006년에는 영화 《아랑》에 단역으로 출연하여 무명으로서 연기 데뷔를 하였으며 2007년에는 코미디TV의 《애완남_키우기_나는_펫》 시즌 1에 주인공인 청미의 여자 후배로 몇 차례 출연하기도 하였다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[애완남_키우기_나는_펫]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[코미디TV]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.433">channel</mln_predict>
+		<cnn_predict conf="0.913">starring</cnn_predict>
+		<gsdp>(NP)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3151">
+		<sent><![CDATA[크리스티안 푸흐스 오스트리아의 축구 선수로, 현재 프리미어리그의 레스터_시티_FC 소속 수비수이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[레스터_시티_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[프리미어리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.987">position</mln_predict>
+		<cnn_predict conf="0.638">league</cnn_predict>
+		<gsdp>(NP)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1073">
+		<sent><![CDATA[2004년 1월 13일, 메사는 멕시코에서 미국의 조지_W._부시 대통령과 회담하기까지 했다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[조지_W._부시]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+			<arg_type weight="0.68">Politician</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[미국]]></obj_text>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.642">birthPlace</mln_predict>
+		<cnn_predict conf="0.489">deathPlace</cnn_predict>
+		<gsdp>(NP)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2747">
+		<sent><![CDATA[현재 V리그_1의 하노이_T&T_FC에서 활약하고 있다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[하노이_T&T_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[V리그_1]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.235">league</mln_predict>
+		<cnn_predict conf="0.461">league</cnn_predict>
+		<gsdp>(NP)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D138">
+		<sent><![CDATA[대한민국에서 트럭의 차종기호는 처음에는 7, 8이었으나, 1996년부터는 80~97이며, 승합차의 밴 모델(현대_스타렉스, 현대 쏠라티, 한국GM 다마스)도 여기에 속한다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[현대_스타렉스]]></sbj_text>
+			<arg_type weight="2.01">MeanOfTransportation</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[승합차]]></obj_text>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="0.711">order</mln_predict>
+		<cnn_predict conf="0.284">location</cnn_predict>
+		<gsdp>(NP)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D624">
+		<sent><![CDATA[이후 1879년 여름, 캐나다 몬트리올의 맥길_대학교 학생이었던 W. 로버트슨이 영국에서 필드하키 경기를 자세히 관찰하고 귀국한 뒤 동료였던 R. F. 스미스와 의논하여 필드하키와 럭비의 조합이라는 아이디어를 바탕으로 아이스하키의 규칙을 고안하였다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[맥길_대학교]]></sbj_text>
+			<arg_type weight="-0.23">Agent</arg_type>
+			<arg_type weight="0.35">Organisation</arg_type>
+			<arg_type weight="2.11">EducationalInstitution</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[몬트리올]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.537">city</mln_predict>
+		<cnn_predict conf="0.308">location</cnn_predict>
+		<gsdp>(NP)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D249">
+		<sent><![CDATA[지미 헨드릭스의 〈Purple Haze〉또는 레드_제플린의 〈Stairway_to_Heaven〉등 다른 음악가의 유명곡을 독특하게 편곡하여 원곡과 전혀 동 떨어진 연주를 하기도 했다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[Stairway_to_Heaven]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[레드_제플린]]></obj_text>
+			<arg_type weight="0.48">Agent</arg_type>
+			<arg_type weight="0.43">Organisation</arg_type>
+			<arg_type weight="2.38">Group</arg_type>
+		</obj>
+		<gold>artist</gold>
+		<mln_predict conf="0.424">artist</mln_predict>
+		<cnn_predict conf="0.526">currentMember</cnn_predict>
+		<gsdp>(NP)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2252">
+		<sent><![CDATA[2011년 6월 29일, 울산_현대_축구단와의 리그컵_2011 8강전 경기에서 전반 20분 팀의 선제골이자 자신의 프로 데뷔골을 터뜨렸다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[리그컵_2011]]></sbj_text>
+			<arg_type weight="0.47">Event</arg_type>
+			<arg_type weight="0.47">SocietalEvent</arg_type>
+			<arg_type weight="1.70">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[울산_현대_축구단]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.392">location</mln_predict>
+		<cnn_predict conf="0.809">team</cnn_predict>
+		<gsdp>(NP)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3778">
+		<sent><![CDATA[뉴스와 교양을 함께 다루고 있어, KBS 1TV의 《KBS 뉴스광장》과 KBS_2TV의 《생방송_아침이_좋다》와 《KBS 8 아침 뉴스타임》, 그리고 MBC의 《MBC 뉴스투데이》와 동시간대에 경쟁하고 있다.]]></sent>
+		<sbj label="NP" josa="와">
+			<sbj_text><![CDATA[생방송_아침이_좋다]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[KBS_2TV]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.633">country</mln_predict>
+		<cnn_predict conf="0.574">channel</cnn_predict>
+		<gsdp>(NP)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1658">
+		<sent><![CDATA[시즌 첫 퇴장 : 선덜랜드_AFC의 리_캐터몰]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[리_캐터몰]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[선덜랜드_AFC]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.972">team</mln_predict>
+		<cnn_predict conf="0.623">team</cnn_predict>
+		<gsdp>(NP)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1673">
+		<sent><![CDATA[브래들리 조지프 "브래드" 데이비스 는 미국의 축구 선수로, 현재 메이저_리그_사커의 휴스턴_다이너모 소속이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[휴스턴_다이너모]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[메이저_리그_사커]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.641">league</mln_predict>
+		<cnn_predict conf="0.226">location</cnn_predict>
+		<gsdp>(NP)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2137">
+		<sent><![CDATA[로케 산타 크루스는 파라과이의 축구 선수로, 현재 파라과이 파라과이_프리메라_디비시온의 클루브_올림피아 소속이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[클루브_올림피아]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[파라과이_프리메라_디비시온]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.691">position</mln_predict>
+		<cnn_predict conf="0.399">league</cnn_predict>
+		<gsdp>(NP)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2711">
+		<sent><![CDATA[독립 전쟁 당시 그는 앙카라의 터키_대국민의회 의원이기도 하였다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[터키_대국민의회]]></sbj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="1.12">Organisation</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[앙카라]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.569">location</mln_predict>
+		<cnn_predict conf="0.549">largestCity</cnn_predict>
+		<gsdp>(NP)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D633">
+		<sent><![CDATA[카툰_네트워크의 텔레비전 애니메이션 《어드벤처_타임》 스토리보드 제작에 다섯 시즌부터 참여하고 있다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[어드벤처_타임]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+			<arg_type weight="0.00">Film</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[카툰_네트워크]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.589">genre</mln_predict>
+		<cnn_predict conf="0.364">channel</cnn_predict>
+		<gsdp>(NP)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1716">
+		<sent><![CDATA[유리 발렌티노비치 지르코프는 러시아의 축구 선수로 현재 러시아_프리미어리그의 FC_제니트_상트페테르부르크 소속이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[FC_제니트_상트페테르부르크]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[러시아_프리미어리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.713">league</mln_predict>
+		<cnn_predict conf="0.812">league</cnn_predict>
+		<gsdp>(NP)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1398">
+		<sent><![CDATA[이드리스 카를로스 카메니 는 카메룬 선수로 현재 프리메라리가의 말라가_CF 소속이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[말라가_CF]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[프리메라리가]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.757">league</mln_predict>
+		<cnn_predict conf="0.545">league</cnn_predict>
+		<gsdp>(NP)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

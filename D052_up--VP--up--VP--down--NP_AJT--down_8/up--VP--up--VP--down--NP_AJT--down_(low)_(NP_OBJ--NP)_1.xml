@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP--up--VP--down--NP_AJT--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D613">
+		<sent><![CDATA[하 수상은 2012년 싱글음반 《시절이_하_수상하니》를 발매하며 5인조 블루스음악 그룹으로 데뷔하였지만, 멤버인 민경환과 김택형이 탈퇴하며 3인조로 개편하였다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[시절이_하_수상하니]]></sbj_text>
+			<arg_type weight="0.93">Work</arg_type>
+			<arg_type weight="0.30">MusicalWork</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[블루스]]></obj_text>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.349">genre</mln_predict>
+		<cnn_predict conf="0.324">artist</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--up--VP--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[발매하며--데뷔하였지만,--그룹으로]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

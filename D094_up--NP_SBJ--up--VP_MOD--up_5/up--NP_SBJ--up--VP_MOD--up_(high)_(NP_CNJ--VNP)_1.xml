@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP_SBJ--up--VP_MOD--up--(VNP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D4077">
+		<sent><![CDATA[너바나는 1987년에 워싱턴 주 애버든에서 보컬 겸 기타리스트 커트_코베인과 베이시스트 크리스 노보셀릭이 결성한 미국의 얼터너티브_록 밴드다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[커트_코베인]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.11">Person</arg_type>
+			<arg_type weight="0.43">Artist</arg_type>
+		</sbj>
+		<obj label="VNP" josa="">
+			<obj_text><![CDATA[얼터너티브_록]]></obj_text>
+			<arg_type weight="2.32">TopicalConcept</arg_type>
+			<arg_type weight="2.32">Genre</arg_type>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="1.000">genre</mln_predict>
+		<cnn_predict conf="0.495">currentMember</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_SBJ--up--VP_MOD--up--(VNP)</gsdp>
+		<gsdp_lemma><![CDATA[노보셀릭이--결성한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,104 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--down--(NP)</dependency>
+	<total>6</total>
+	<sent_item id="M_D277">
+		<sent><![CDATA[1990년 MBC 2부작드라마 《두_권의_일기》 ... 미희 역]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[두_권의_일기]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[MBC]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.177">channel</mln_predict>
+		<cnn_predict conf="0.926">channel</cnn_predict>
+		<gsdp>(NP)--up--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[...]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3892">
+		<sent><![CDATA[일본화물철도: 오후나 역 - 즈시_역간 8.4 km]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[즈시_역]]></sbj_text>
+			<arg_type weight="0.09">Place</arg_type>
+			<arg_type weight="0.31">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.42">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[일본화물철도]]></obj_text>
+			<arg_type weight="0.25">Agent</arg_type>
+			<arg_type weight="0.55">Organisation</arg_type>
+		</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.248">owningOrganisation</mln_predict>
+		<cnn_predict conf="0.270">routeStart</cnn_predict>
+		<gsdp>(NP)--up--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[km]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1223">
+		<sent><![CDATA[《임꺽정_(드라마)》 (SBS. 1996년, 배우:태민영)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[임꺽정_(드라마)]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[SBS]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.541">channel</mln_predict>
+		<cnn_predict conf="0.524">channel</cnn_predict>
+		<gsdp>(NP)--up--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[배우:태민영)]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1361">
+		<sent><![CDATA[2007년 MBC_TV 일일시트콤 《김치_치즈_스마일》 ... 엄기준 역]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[김치_치즈_스마일]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[MBC_TV]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.444">channel</mln_predict>
+		<cnn_predict conf="0.981">channel</cnn_predict>
+		<gsdp>(NP)--up--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[...]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D4070">
+		<sent><![CDATA[《김수로_(드라마)》(MBC, 2010년~2010년, 배우:이필모, 신동기)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[김수로_(드라마)]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[MBC]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.745">channel</mln_predict>
+		<cnn_predict conf="0.760">channel</cnn_predict>
+		<gsdp>(NP)--up--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[신동기)]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2742">
+		<sent><![CDATA[《임진왜란_(드라마)》(MBC_TV, 1985년~1986년, 배우: 김현직)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[임진왜란_(드라마)]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[MBC_TV]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.652">channel</cnn_predict>
+		<gsdp>(NP)--up--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[김현직)]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

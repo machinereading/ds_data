@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--VP_MOD--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D462">
+		<sent><![CDATA[동일본_여객철도가 관할하는 난부_선이 지난다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[난부_선]]></sbj_text>
+			<arg_type weight="0.08">Place</arg_type>
+			<arg_type weight="0.17">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.15">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[동일본_여객철도]]></obj_text>
+		</obj>
+		<gold>owner</gold>
+		<mln_predict conf="1.000">operator</mln_predict>
+		<cnn_predict conf="0.611">operator</cnn_predict>
+		<gsdp>(NP_SBJ)--down--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[관할하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

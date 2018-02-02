@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP)--up--(VNP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D949">
+		<sent><![CDATA[친정 조카손자: 쉬사오슝(許紹雄, 1948년 1월 2일 홍콩 출생. 홍콩의 영화_배우.)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[쉬사오슝]]></sbj_text>
+			<arg_type weight="0.49">Agent</arg_type>
+			<arg_type weight="0.51">Person</arg_type>
+			<arg_type weight="1.48">Artist</arg_type>
+		</sbj>
+		<obj label="VNP" josa="">
+			<obj_text><![CDATA[영화_배우]]></obj_text>
+		</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.966">occupation</mln_predict>
+		<cnn_predict conf="0.758">occupation</cnn_predict>
+		<gsdp>(NP)--up--(VNP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

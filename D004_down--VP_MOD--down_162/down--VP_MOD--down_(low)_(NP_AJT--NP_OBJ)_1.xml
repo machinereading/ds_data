@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--VP_MOD--down--(NP_OBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3816">
+		<sent><![CDATA[보아는 2011년 12월 4일부터 SBS 《K팝 스타》에 출연했는데, YG를 대표하는 양현석, JYP_엔터테인먼트를 대표하는 박진영과 함께 SM 엔터테인먼트을 대표하는 심사위원으로 2012년 4월까지 방송되었다.]]></sent>
+		<sbj label="NP_AJT" josa="과">
+			<sbj_text><![CDATA[박진영]]></sbj_text>
+			<arg_type weight="-0.12">Agent</arg_type>
+			<arg_type weight="-0.12">Person</arg_type>
+			<arg_type weight="0.73">Artist</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="를">
+			<obj_text><![CDATA[JYP_엔터테인먼트]]></obj_text>
+			<arg_type weight="0.25">Agent</arg_type>
+			<arg_type weight="0.55">Organisation</arg_type>
+		</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.685">occupation</mln_predict>
+		<cnn_predict conf="0.547">starring</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[대표하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

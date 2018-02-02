@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP_MOD--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D494">
+		<sent><![CDATA[가덕도동은 가덕도와 그 부속도서, 부산신항을 관할하는 부산광역시 강서구의 행정동이다.]]></sent>
+		<sbj label="NP_CNJ" josa="와">
+			<sbj_text><![CDATA[가덕도]]></sbj_text>
+			<arg_type weight="0.68">Place</arg_type>
+			<arg_type weight="1.40">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[부산광역시]]></obj_text>
+			<arg_type weight="0.18">Place</arg_type>
+			<arg_type weight="0.24">PopulatedPlace</arg_type>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.489">region</mln_predict>
+		<cnn_predict conf="0.264">location</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[강서구의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--down--VNP_MOD--down--NP_MOD--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2188">
+		<sent><![CDATA[일명 비요크 스토커로도 알려져 있으며 아이슬란드 출신의 가수인 비요크를 살해하려 하였다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[비요크]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+			<arg_type weight="0.86">Artist</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[아이슬란드]]></obj_text>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="1.000">birthPlace</mln_predict>
+		<cnn_predict conf="0.589">birthPlace</cnn_predict>
+		<gsdp>(NP_OBJ)--down--VNP_MOD--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[가수인--출신의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

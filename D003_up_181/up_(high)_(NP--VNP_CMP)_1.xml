@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP)--up--(VNP_CMP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3033">
+		<sent><![CDATA[가장 좋아하는 앨범은 2112,Angel Dust, 1984, Master of Puppets, Houses_of_the_Holy (레드_제플린)라고 한다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[Houses_of_the_Holy]]></sbj_text>
+			<arg_type weight="0.55">Work</arg_type>
+			<arg_type weight="2.57">MusicalWork</arg_type>
+		</sbj>
+		<obj label="VNP_CMP" josa="라고">
+			<obj_text><![CDATA[레드_제플린]]></obj_text>
+			<arg_type weight="0.48">Agent</arg_type>
+			<arg_type weight="0.43">Organisation</arg_type>
+			<arg_type weight="2.38">Group</arg_type>
+		</obj>
+		<gold>artist</gold>
+		<mln_predict conf="0.351">artist</mln_predict>
+		<cnn_predict conf="0.498">currentMember</cnn_predict>
+		<gsdp>(NP)--up--(VNP_CMP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

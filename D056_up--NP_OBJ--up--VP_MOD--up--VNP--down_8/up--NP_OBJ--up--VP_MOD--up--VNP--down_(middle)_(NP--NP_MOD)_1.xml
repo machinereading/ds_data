@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_OBJ--up--VP_MOD--up--VNP--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2475">
+		<sent><![CDATA[세이칸 연락선은 1908년부터 1988년까지 일본의 아오모리 현 아오모리 역과 홋카이도 하코다테_역 사이를 연결하던 일본국유철도·홋카이도_여객철도의 항로이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[하코다테_역]]></sbj_text>
+			<arg_type weight="0.09">Place</arg_type>
+			<arg_type weight="0.31">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.42">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[홋카이도_여객철도]]></obj_text>
+			<arg_type weight="0.25">Agent</arg_type>
+			<arg_type weight="0.55">Organisation</arg_type>
+		</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.358">owningOrganisation</mln_predict>
+		<cnn_predict conf="0.406">operator</cnn_predict>
+		<gsdp>(NP)--up--NP_OBJ--up--VP_MOD--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[사이를--연결하던--항로이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

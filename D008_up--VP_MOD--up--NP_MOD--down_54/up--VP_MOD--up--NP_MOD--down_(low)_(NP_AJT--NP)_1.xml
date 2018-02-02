@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1999">
+		<sent><![CDATA[피레노모나스과는 피레노모나스목에 속하는 은편모조류 과의 일종이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[피레노모나스목]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[은편모조류]]></obj_text>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.480">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--과의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

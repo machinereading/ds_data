@@ -1,0 +1,55 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</dependency>
+	<total>3</total>
+	<sent_item id="M_D2800">
+		<sent><![CDATA[하루타 역은 일본 아이치_현 나고야 시 나카가와 구에 있는 도카이_여객철도 간사이 본선의 철도역이다.]]></sent>
+		<sbj label="NP_SBJ" josa="도">
+			<sbj_text><![CDATA[도카이_여객철도]]></sbj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="1.12">Organisation</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[아이치_현]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">routeStart</mln_predict>
+		<cnn_predict conf="0.332">operator</cnn_predict>
+		<gsdp>(NP_SBJ)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[있는--구에--시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1086">
+		<sent><![CDATA[우토마 역은 일본 홋카이도 사마니 군 사마니 정에 위치한 홋카이도_여객철도 히다카 본선의 철도역이다.]]></sent>
+		<sbj label="NP_SBJ" josa="도">
+			<sbj_text><![CDATA[홋카이도_여객철도]]></sbj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="1.12">Organisation</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[홋카이도]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">routeStart</mln_predict>
+		<cnn_predict conf="0.588">operator</cnn_predict>
+		<gsdp>(NP_SBJ)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[위치한--정에--군]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2630">
+		<sent><![CDATA[미카와토고 역은 일본 아이치_현 신시로 시에 위치한 도카이_여객철도 이다 선의 철도역이다.]]></sent>
+		<sbj label="NP_SBJ" josa="도">
+			<sbj_text><![CDATA[도카이_여객철도]]></sbj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="1.12">Organisation</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[아이치_현]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.642">routeStart</mln_predict>
+		<cnn_predict conf="0.454">operator</cnn_predict>
+		<gsdp>(NP_SBJ)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[위치한--시에--신시로]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

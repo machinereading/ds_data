@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--(VP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3806">
+		<sent><![CDATA[2014년 SBS TV 《일요일이_좋다 - 룸메이트_(텔레비전_프로그램)》]]></sent>
+		<sbj label="NP_AJT" josa="">
+			<sbj_text><![CDATA[룸메이트_(텔레비전_프로그램)]]></sbj_text>
+			<arg_type weight="0.09">Work</arg_type>
+		</sbj>
+		<obj label="VP" josa="">
+			<obj_text><![CDATA[일요일이_좋다]]></obj_text>
+			<arg_type weight="2.62">Work</arg_type>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.379">related</mln_predict>
+		<cnn_predict conf="0.689">channel</cnn_predict>
+		<gsdp>(NP_AJT)--up--(VP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

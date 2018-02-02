@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D560">
+		<sent><![CDATA[서대구화물역은 대한민국 대구광역시 서구_(대구광역시) 상중이동에 있는 경부선 화물 전용역이다.]]></sent>
+		<sbj label="NP_SBJ" josa="은">
+			<sbj_text><![CDATA[서구_(대구광역시)]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.249">location</mln_predict>
+		<cnn_predict conf="0.723">country</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[전용역이다.--있는--상중이동에--서구_(대구광역시)--대구광역시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

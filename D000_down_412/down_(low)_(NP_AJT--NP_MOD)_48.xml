@@ -1,0 +1,782 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--(NP_MOD)</dependency>
+	<total>48</total>
+	<sent_item id="M_D256">
+		<sent><![CDATA[버커빗서 빙하는 남극의 리빙스턴_섬에 있는 빙하이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[리빙스턴_섬]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[남극]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.306">location</mln_predict>
+		<cnn_predict conf="0.631">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D813">
+		<sent><![CDATA[소말리아 수도인 모가디슈를 비롯해 하르게이사, 보사소, 그리고 에티오피아의 하라르로부터 750km 떨어져 있다.]]></sent>
+		<sbj label="NP_AJT" josa="로부터">
+			<sbj_text><![CDATA[하라르]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[에티오피아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.644">country</mln_predict>
+		<cnn_predict conf="0.426">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1052">
+		<sent><![CDATA[ECO는 이란의 테헤란에 본부를 두고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[테헤란]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[이란]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.590">region</mln_predict>
+		<cnn_predict conf="0.489">largestCity</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1209">
+		<sent><![CDATA[2014년 7월, 워너 브라더스는 영국의 리브즈든_스튜디오에서 촬영되는 것이 발표되었다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[리브즈든_스튜디오]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[영국]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.153">occupation</mln_predict>
+		<cnn_predict conf="0.356">birthPlace</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D843">
+		<sent><![CDATA[3·4위전은 카타르의 도하에서 열렸다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[도하]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[카타르]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.729">country</mln_predict>
+		<cnn_predict conf="0.459">largestCity</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1353">
+		<sent><![CDATA[하와이 주는 태평양의 하와이_제도에 위치하고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[하와이_제도]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[태평양]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.229">location</mln_predict>
+		<cnn_predict conf="0.382">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D449">
+		<sent><![CDATA[치체로바는 아르메니아의 예레반에서 태어났고 그 다음에 소련이 해체될때 러시아 벨라야 칼리트바로 이주했다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[예레반]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[아르메니아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.896">region</mln_predict>
+		<cnn_predict conf="0.432">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D754">
+		<sent><![CDATA[소더비스는 1744년 3월 11일에 영국의 런던에서 샤무엘 베이커에 의해 창립된 상장 경매 회사이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[런던]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[영국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.782">country</mln_predict>
+		<cnn_predict conf="0.392">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D517">
+		<sent><![CDATA[2010년 5월 7일 ~ 5월 23일 독일의 겔젠키르헨·만하임·쾰른에서 열렸다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[겔젠키르헨]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[독일]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.866">country</mln_predict>
+		<cnn_predict conf="0.404">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2931">
+		<sent><![CDATA[제주항공 502편 활주로 이탈사고는 제주항공의 봄바디어 Q시리즈 항공기가 2007년 8월 12일 대한민국 부산광역시의 김해국제공항에 착륙 후, 주기장으로 이동하던 도중 강풍으로 인해 활주로를 이탈한 사고이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[김해국제공항]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[부산광역시]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.873">city</mln_predict>
+		<cnn_predict conf="0.661">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D21">
+		<sent><![CDATA[텔레비전 화면을 녹화·재생하는 비디오 녹화기는 원래 네덜란드의 필립스사에 의해 1960년대 말에 처음 개발되었다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[필립스]]></sbj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="1.12">Organisation</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[네덜란드]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.208">birthPlace</mln_predict>
+		<cnn_predict conf="0.308">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D200">
+		<sent><![CDATA[결승전은 카타르의 도하에서 열렸다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[도하]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[카타르]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.898">country</mln_predict>
+		<cnn_predict conf="0.613">largestCity</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D493">
+		<sent><![CDATA[의회는 워싱턴_D.C.의 미국_의회의사당에서 열린다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[미국_의회의사당]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[워싱턴_D.C.]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.288">location</mln_predict>
+		<cnn_predict conf="0.484">largestCity</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D55">
+		<sent><![CDATA[같은 해 10월에는 우즈베키스탄의 타슈켄트에서 열린 아시아 하계 바이애슬론 선수권 대회에 참가하여 집단 출발 6km 부문에서 러시아의 드미트리 니카포로프의 뒤를 이어 2위를 기록했다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[타슈켄트]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[우즈베키스탄]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.739">country</mln_predict>
+		<cnn_predict conf="0.479">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1574">
+		<sent><![CDATA[도요토미_히데요시의 조선 출병(임진왜란)에도 참가했다.]]></sent>
+		<sbj label="NP_AJT" josa="도">
+			<sbj_text><![CDATA[임진왜란]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[도요토미_히데요시]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.203">location</mln_predict>
+		<cnn_predict conf="0.479">deathPlace</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D632">
+		<sent><![CDATA[이 도시의 파이프라인 수송은 키르쿠크에서 수송되고 터키의 제이한까지 다다른다.]]></sent>
+		<sbj label="NP_AJT" josa="까지">
+			<sbj_text><![CDATA[제이한]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[터키]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.093">city</mln_predict>
+		<cnn_predict conf="0.528">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D366">
+		<sent><![CDATA[인도네시아의 파푸아바랏_주에 속한다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[파푸아바랏_주]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[인도네시아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.647">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D611">
+		<sent><![CDATA[조선로동당 제4차 대표자회는 2012년 4월 11일에 조선민주주의인민공화국의 평양직할시에서 열린 조선로동당의 대표자 회의다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[평양직할시]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[조선민주주의인민공화국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.254">region</mln_predict>
+		<cnn_predict conf="0.371">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D986">
+		<sent><![CDATA[에스타디오 올림피코 데 라 카르투하 또는 에스타디오 올림피코 데 세비야는 스페인의 세비야에 위치한 다목적 경기장이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[세비야]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[스페인]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.837">region</mln_predict>
+		<cnn_predict conf="0.493">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2157">
+		<sent><![CDATA[보비 롭슨은 1933년 2월 18일 잉글랜드의 더럼_주에서 광부의 아들로 태어났다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[더럼_주]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[잉글랜드]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.264">birthPlace</mln_predict>
+		<cnn_predict conf="0.474">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3556">
+		<sent><![CDATA[음력 10월에 왕녀를 신라의 진흥왕에게 시집보냈다.]]></sent>
+		<sbj label="NP_AJT" josa="에게">
+			<sbj_text><![CDATA[진흥왕]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[신라]]></obj_text>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.646">birthPlace</mln_predict>
+		<cnn_predict conf="0.844">deathPlace</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2016">
+		<sent><![CDATA[그가 쓴 〈동인론시〉 35수는 신라의 최치원으로부터 그 당시까지의 시인들의 작품을 평가해 놓은 대표적인 평론집이라 할 수 있다.]]></sent>
+		<sbj label="NP_AJT" josa="으로부터">
+			<sbj_text><![CDATA[최치원]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[신라]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.416">birthPlace</mln_predict>
+		<cnn_predict conf="0.523">deathPlace</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3390">
+		<sent><![CDATA[BEC 테로에서 9경기에 출전한 후 이듬 해 K리그_챌린지의 수원_FC로 이적하였다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[수원_FC]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[K리그_챌린지]]></obj_text>
+		</obj>
+		<gold>position</gold>
+		<mln_predict conf="1.000">league</mln_predict>
+		<cnn_predict conf="0.538">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D737">
+		<sent><![CDATA[2015년 2월 대한민국 K리그_챌린지의 강원_FC로 임대 이적하였다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[강원_FC]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[K리그_챌린지]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.520">team</mln_predict>
+		<cnn_predict conf="0.803">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3614">
+		<sent><![CDATA[게다가 고베 시내 및 아카시 역 부근까지 서일본_여객철도의 산요_본선과 완전하게 병행하고 있는 것부터, 고베·아카시 시내에서는 산요 전철선보다 빠르고, 단거리에서는 운임도 싼JR선에 승객이 빼앗기고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="과">
+			<sbj_text><![CDATA[산요_본선]]></sbj_text>
+			<arg_type weight="0.08">Place</arg_type>
+			<arg_type weight="0.28">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.20">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[서일본_여객철도]]></obj_text>
+		</obj>
+		<gold>operator</gold>
+		<mln_predict conf="0.889">operator</mln_predict>
+		<cnn_predict conf="0.596">owningOrganisation</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D495">
+		<sent><![CDATA[뉴델리 국제 영화제는 인도의 뉴델리에서 개최되는 영화제이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[뉴델리]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[인도]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.860">country</mln_predict>
+		<cnn_predict conf="0.857">largestCity</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2663">
+		<sent><![CDATA[차범근의 아들 차두리 또한 대한민국 축구 국가대표팀 축구 선수로 2002년 FIFA 월드컵, 2010년 FIFA 월드컵에 출전한 것 외에도 셀틱 FC에서 활동하였고 현재는 K리그_클래식의 FC_서울에서 뛰고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[FC_서울]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[K리그_클래식]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.556">position</mln_predict>
+		<cnn_predict conf="0.582">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D501">
+		<sent><![CDATA[그가 태어나고 얼마 후 그의 가족은 그의 부친이 음악 공부를 하던 오스트리아의 잘츠부르크로 이사했고, 그와 그의 모친은 그의 조부모가 거주하던 스위스의 졸로투른 주로 이사했다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[잘츠부르크]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[오스트리아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.239">country</mln_predict>
+		<cnn_predict conf="0.313">deathPlace</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1004">
+		<sent><![CDATA[2월과 3월에는 레바논의 베이루트에서 백향목 혁명을, 4월에는 교황 요한 바오로 2세 서거 후의 모습과 영국 웨일스 공 찰스 부부의 결혼식을 취재하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[베이루트]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[레바논]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.367">region</mln_predict>
+		<cnn_predict conf="0.294">deathPlace</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3586">
+		<sent><![CDATA[인도네시아의 에곤_산에도 있으며, 산타아나 화산의 것은다.]]></sent>
+		<sbj label="NP_AJT" josa="도">
+			<sbj_text><![CDATA[에곤_산]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[인도네시아]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.279">country</mln_predict>
+		<cnn_predict conf="0.632">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1922">
+		<sent><![CDATA[카페 플로리안은 이탈리아의 도시 베네치아의 산마르코_광장에 위치한 카페로 광장의 남쪽에 위치한 프로쿠라티에 누오베라고 불리는 건물에 자리하고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[산마르코_광장]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[베네치아]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.356">location</mln_predict>
+		<cnn_predict conf="0.190">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2458">
+		<sent><![CDATA[1988년 1988년 하계 올림픽에서는 김재엽, 안병근과 함께 유력한 우승 후보로 거론되었으나 1회전에서 1980년 하계 올림픽 금메달리스트인 벨기에의 로베르트_판_데_발레에게 가로누르기 한판패하여 초반 탈락하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에게">
+			<sbj_text><![CDATA[로베르트_판_데_발레]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[벨기에]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.103">country</mln_predict>
+		<cnn_predict conf="0.427">birthPlace</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1763">
+		<sent><![CDATA[갈라파고스_제도의 페르난디나_섬에서만 발견되며, "N. indefessus narboroughi"와 함께 서식지를 공유한다.]]></sent>
+		<sbj label="NP_AJT" josa="만">
+			<sbj_text><![CDATA[페르난디나_섬]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[갈라파고스_제도]]></obj_text>
+			<arg_type weight="0.05">Place</arg_type>
+			<arg_type weight="0.12">PopulatedPlace</arg_type>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.268">location</mln_predict>
+		<cnn_predict conf="0.255">order</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D5">
+		<sent><![CDATA[근세에 이르러 조선의 허준에 의해 집대성된 동의보감은 한국뿐만 아니라 중국과 일본에서도 중요한 의학서적으로 취급되었다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[허준]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[조선]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.261">deathPlace</mln_predict>
+		<cnn_predict conf="0.761">deathPlace</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2892">
+		<sent><![CDATA[레이캬네스 화산은 아이슬란드의 레이캬네스_반도에 위치한 활화산이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[레이캬네스_반도]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[아이슬란드]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.241">location</mln_predict>
+		<cnn_predict conf="0.845">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D251">
+		<sent><![CDATA[이라라트는 아르메니아의 아라라트_주에 위치한 도시로 예레반에서 북서쪽으로 42km 정도 떨어진 곳에 위치한다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[아라라트_주]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[아르메니아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.958">location</mln_predict>
+		<cnn_predict conf="0.482">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3189">
+		<sent><![CDATA[2016년 K리그_클래식의 제주_유나이티드_FC로 이적하였다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[제주_유나이티드_FC]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[K리그_클래식]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.920">league</mln_predict>
+		<cnn_predict conf="0.756">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3743">
+		<sent><![CDATA[K리그_클래식의 광주_FC에서 공격수로 뛴 적 있으며, K리그 등록명은 질베르토이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[광주_FC]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[K리그_클래식]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.823">position</mln_predict>
+		<cnn_predict conf="0.604">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1978">
+		<sent><![CDATA[현재 K리그_챌린지의 서울_이랜드_FC에서 뛰고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[서울_이랜드_FC]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[K리그_챌린지]]></obj_text>
+		</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.979">position</mln_predict>
+		<cnn_predict conf="0.904">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2023">
+		<sent><![CDATA[원래는 콘스탄티노플 경마장 건물에 있던 것으로, 현재는 베네치아의 산마르코_대성당에 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[산마르코_대성당]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[베네치아]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.318">location</mln_predict>
+		<cnn_predict conf="0.331">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D654">
+		<sent><![CDATA[원래는 말레이시아의 쿠알라룸푸르에 있는 페트로나스 타워보다 3m가 낮아서 첨탑으로 페트로나스 타워보다 더 높게 지어져 그 상태에서 개막하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[쿠알라룸푸르]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[말레이시아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.471">region</mln_predict>
+		<cnn_predict conf="0.736">largestCity</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2999">
+		<sent><![CDATA[약 13만 통의 응모작 중에서 스가와라 후사코의 것이 채택되었으며, 이 인물은 당시 홋카이도의 야쿠모_정에 거주하던 여고생이었다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[야쿠모_정]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[홋카이도]]></obj_text>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.379">country</mln_predict>
+		<cnn_predict conf="0.500">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D794">
+		<sent><![CDATA[1886년 5월 1일 미국의 시카고에서는 메이 데이를 맞아 8만여명의 노동자들이 8시간 노동제를 요구하는 시위를 벌이다 진압 경찰의 총격을 받았다.]]></sent>
+		<sbj label="NP_AJT" josa="는">
+			<sbj_text><![CDATA[시카고]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[미국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.999">country</mln_predict>
+		<cnn_predict conf="0.269">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3291">
+		<sent><![CDATA[이탈리아 사르데냐의 누오로 출신으로, 시리구는 FBC 우니오네 베네치아의 유소년팀에서 축구 를 시작하였다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[누오로]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[사르데냐]]></obj_text>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.350">region</mln_predict>
+		<cnn_predict conf="0.283">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D25">
+		<sent><![CDATA[바가나 산은 파푸아뉴기니의 부건빌_섬에 위치한 화산으로, 성층 화산이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[부건빌_섬]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[파푸아뉴기니]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.294">location</mln_predict>
+		<cnn_predict conf="0.765">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1474">
+		<sent><![CDATA[에어프랑스 358편 추락 사고는 2005년 8월 2일 캐나다의 토론토_피어슨_국제공항에서 일어난 항공기 사고이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[토론토_피어슨_국제공항]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[캐나다]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.339">location</mln_predict>
+		<cnn_predict conf="0.761">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D362">
+		<sent><![CDATA[본부는 오스트리아의 빈에 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[빈]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[오스트리아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.330">region</mln_predict>
+		<cnn_predict conf="0.671">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D132">
+		<sent><![CDATA[한민족공동체통일방안은 1989년 9월 11일 대한민국의 대한민국_국회에서 노태우 대통령 특별선언을 통해 발표되었다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[대한민국_국회]]></sbj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="1.12">Organisation</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.421">location</mln_predict>
+		<cnn_predict conf="0.526">deathPlace</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2333">
+		<sent><![CDATA[이복 형인 윤치영과는 나이차이가 37세, 첫째 이복형 윤치오와는 66세의 나이차이가 난다.]]></sent>
+		<sbj label="NP_AJT" josa="는">
+			<sbj_text><![CDATA[윤치오]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="는">
+			<obj_text><![CDATA[윤치영]]></obj_text>
+			<arg_type weight="0.94">Agent</arg_type>
+			<arg_type weight="0.92">Person</arg_type>
+			<arg_type weight="1.52">Politician</arg_type>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.996">relative</mln_predict>
+		<cnn_predict conf="0.621">relative</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[난다.--37세,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

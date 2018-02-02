@@ -1,0 +1,220 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</dependency>
+	<total>11</total>
+	<sent_item id="M_D1101">
+		<sent><![CDATA[1906년 하계 올림픽 조정은 그리스 아테네에서 개최된 1906년_중간_올림픽의 경기 종목이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[1906년_중간_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[아테네]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.989">location</mln_predict>
+		<cnn_predict conf="0.509">location</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3095">
+		<sent><![CDATA[1904년 하계 올림픽 육상은 미국 세인트루이스에서 개최된 1904년_하계_올림픽의 경기 종목이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[1904년_하계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[세인트루이스]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.996">city</mln_predict>
+		<cnn_predict conf="0.543">location</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D402">
+		<sent><![CDATA[1990년이 되어서야 어릴 적 포항_스틸러스에서 인연을 맺었던 최순호의 도움으로 수술을 받을 수 있었다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[최순호]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[포항_스틸러스]]></obj_text>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.499">birthPlace</mln_predict>
+		<cnn_predict conf="0.478">team</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[맺었던]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1426">
+		<sent><![CDATA[1906년 하계 올림픽 사이클은 그리스 아테네에서 개최된 1906년_중간_올림픽의 경기 종목이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[1906년_중간_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[아테네]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.916">location</mln_predict>
+		<cnn_predict conf="0.558">location</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2417">
+		<sent><![CDATA[1904년 하계 올림픽 수영은 미국 세인트루이스에서 개최된 1904년_하계_올림픽의 경기 종목이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[1904년_하계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[세인트루이스]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.971">city</mln_predict>
+		<cnn_predict conf="0.569">location</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3828">
+		<sent><![CDATA[2014년 동계 올림픽 아이스하키는 러시아 소치에서 개최된 2014년_동계_올림픽의 경기 종목이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[2014년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[소치]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.575">location</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1839">
+		<sent><![CDATA[1906년 하계 올림픽 체조는 그리스 아테네에서 개최된 1906년_중간_올림픽의 경기 종목이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[1906년_중간_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[아테네]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.522">location</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1536">
+		<sent><![CDATA[1920년 하계 올림픽 양궁은 벨기에 안트베르펜에서 개최된 1920년_하계_올림픽의 경기 종목이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[1920년_하계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[안트베르펜]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.610">location</mln_predict>
+		<cnn_predict conf="0.563">location</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2020">
+		<sent><![CDATA[1906년 하계 올림픽 레슬링은 그리스 아테네에서 개최된 1906년_중간_올림픽의 경기 종목이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[1906년_중간_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[아테네]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.532">location</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3656">
+		<sent><![CDATA[1908년 하계 올림픽 다이빙은 영국 런던에서 개최된 1908년_하계_올림픽의 경기 종목이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[1908년_하계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[런던]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.521">city</mln_predict>
+		<cnn_predict conf="0.698">location</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3731">
+		<sent><![CDATA[2014년 동계 올림픽 피겨스케이팅은 러시아 소치에서 개최된 2014년_동계_올림픽의 경기 종목이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[2014년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[소치]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.606">location</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

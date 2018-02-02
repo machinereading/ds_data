@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--VNP--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1997">
+		<sent><![CDATA[영화_감독은 이마무라_쇼헤이, 주연은 오가타 켄이다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[이마무라_쇼헤이]]></sbj_text>
+			<arg_type weight="0.49">Agent</arg_type>
+			<arg_type weight="0.51">Person</arg_type>
+			<arg_type weight="1.48">Artist</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="은">
+			<obj_text><![CDATA[영화_감독]]></obj_text>
+		</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.365">occupation</cnn_predict>
+		<gsdp>(NP_CNJ)--up--VNP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[켄이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

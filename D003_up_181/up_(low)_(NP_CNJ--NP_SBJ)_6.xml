@@ -1,0 +1,96 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--(NP_SBJ)</dependency>
+	<total>6</total>
+	<sent_item id="M_D2922">
+		<sent><![CDATA[714년에 무어인(베르베르인과 아랍인)가 이베리아 반도에 침입하면서 발렌시아는 싸움없이 항복하였다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[베르베르인]]></sbj_text>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[아랍인]]></obj_text>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.343">channel</mln_predict>
+		<cnn_predict conf="0.230">deathPlace</cnn_predict>
+		<gsdp>(NP_CNJ)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D149">
+		<sent><![CDATA[카미실리는 민족적으로 뒤섞인 도시로서, 아랍인, 아시리아인, 쿠르드인, 아르메니아인이 거주한다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[아시리아인]]></sbj_text>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[아르메니아인]]></obj_text>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.601">related</mln_predict>
+		<cnn_predict conf="0.719">related</cnn_predict>
+		<gsdp>(NP_CNJ)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2253">
+		<sent><![CDATA[보이보디나: 현재의 세르비아, 크로아티아에 해당하며 세르비아인, 크로아티아인이 다수를 차지하는 지역이다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[세르비아인]]></sbj_text>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[크로아티아인]]></obj_text>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.177">channel</mln_predict>
+		<cnn_predict conf="0.398">related</cnn_predict>
+		<gsdp>(NP_CNJ)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1781">
+		<sent><![CDATA[대부분의 서슬라브족들과 우크라이나인, 벨라루스인의 일부, 크로아티아인과 슬로베니아인은 가톨릭을 믿는다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[크로아티아인]]></sbj_text>
+		</sbj>
+		<obj label="NP_SBJ" josa="은">
+			<obj_text><![CDATA[슬로베니아인]]></obj_text>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.590">related</mln_predict>
+		<cnn_predict conf="0.340">related</cnn_predict>
+		<gsdp>(NP_CNJ)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2235">
+		<sent><![CDATA[영의정 윤두수와 해원부원군 윤근수는 이복 삼촌들이었다.]]></sent>
+		<sbj label="NP_CNJ" josa="와">
+			<sbj_text><![CDATA[윤두수]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="는">
+			<obj_text><![CDATA[윤근수]]></obj_text>
+			<arg_type weight="0.94">Agent</arg_type>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.904">relative</mln_predict>
+		<cnn_predict conf="0.938">relative</cnn_predict>
+		<gsdp>(NP_CNJ)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1906">
+		<sent><![CDATA[인구는 약 850명이며 러시아인과 우크라이나인이 대부분을 차지한다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[러시아인]]></sbj_text>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[우크라이나인]]></obj_text>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.517">related</mln_predict>
+		<cnn_predict conf="0.826">related</cnn_predict>
+		<gsdp>(NP_CNJ)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,38 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--down--NP_AJT--down--NP--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_D1173">
+		<sent><![CDATA[시조 망절일랑은 1942년 경상남도 창원군 진해읍에서 일본인 경찰관 아미키리 요시우에몬과 한국인 여성 양두연 사이에 외아들로 태어났다.]]></sent>
+		<sbj label="NP_SBJ" josa="은">
+			<sbj_text><![CDATA[망절일랑]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[경상남도]]></obj_text>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.586">birthPlace</mln_predict>
+		<cnn_predict conf="0.153">deathPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[태어났다.--진해읍에서--창원군]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2098">
+		<sent><![CDATA[19세기를 배경으로 1820년대 미국 서부 야생에서 사냥꾼 '휴 글래스'(레오나르도_디카프리오)는 회색 곰의 습격을 받는다.]]></sent>
+		<sbj label="NP_SBJ" josa="는">
+			<sbj_text><![CDATA[레오나르도_디카프리오]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+			<arg_type weight="0.21">Artist</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[미국]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.412">occupation</mln_predict>
+		<cnn_predict conf="0.435">country</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[받는다.--야생에서--서부]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

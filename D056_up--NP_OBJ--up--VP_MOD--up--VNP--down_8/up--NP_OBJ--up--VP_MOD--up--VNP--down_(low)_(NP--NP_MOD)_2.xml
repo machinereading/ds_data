@@ -1,0 +1,39 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_OBJ--up--VP_MOD--up--VNP--down--(NP_MOD)</dependency>
+	<total>2</total>
+	<sent_item id="M_D3795">
+		<sent><![CDATA[나라 선은 일본 교토 부 기즈가와 시의 기즈 역에서 교토 부 교토 시 시모교 구의 교토_역 간을 잇는 서일본_여객철도의 철도 노선이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[교토_역]]></sbj_text>
+			<arg_type weight="0.09">Place</arg_type>
+			<arg_type weight="0.31">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.42">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[서일본_여객철도]]></obj_text>
+		</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.428">owningOrganisation</mln_predict>
+		<cnn_predict conf="0.961">owningOrganisation</cnn_predict>
+		<gsdp>(NP)--up--NP_OBJ--up--VP_MOD--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[간을--잇는--노선이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2746">
+		<sent><![CDATA[고담은 DC 코믹스에서 발행한 만화 배트맨 시리즈를 원작으로 한 미국의 드라마이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[배트맨]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[미국]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.290">nationality</mln_predict>
+		<cnn_predict conf="0.273">birthPlace</cnn_predict>
+		<gsdp>(NP)--up--NP_OBJ--up--VP_MOD--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[시리즈를--한--드라마이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,82 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--(NP_CNJ)</dependency>
+	<total>4</total>
+	<sent_item id="M_D1941">
+		<sent><![CDATA[허균, 허난설헌과도 친족관계이기도 했다.]]></sent>
+		<sbj label="NP_AJT" josa="도">
+			<sbj_text><![CDATA[허난설헌]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+			<arg_type weight="-0.02">Person</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[허균]]></obj_text>
+			<arg_type weight="0.94">Agent</arg_type>
+			<arg_type weight="0.92">Person</arg_type>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.161">relative</mln_predict>
+		<cnn_predict conf="0.741">relative</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2619">
+		<sent><![CDATA[다우니는 미국 뉴욕_주, 맨해튼에서 1남 1녀 중 둘째로 태어났다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[맨해튼]]></sbj_text>
+			<arg_type weight="0.68">Place</arg_type>
+			<arg_type weight="1.40">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[뉴욕_주]]></obj_text>
+			<arg_type weight="0.18">Place</arg_type>
+			<arg_type weight="0.24">PopulatedPlace</arg_type>
+			<arg_type weight="2.12">Region</arg_type>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="1.000">region</mln_predict>
+		<cnn_predict conf="0.498">largestCity</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3719">
+		<sent><![CDATA[덴버 대학교는 콜로라도_주, 덴버에 있는 남녀공학 4년제 대학교이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[덴버]]></sbj_text>
+			<arg_type weight="0.68">Place</arg_type>
+			<arg_type weight="1.40">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[콜로라도_주]]></obj_text>
+			<arg_type weight="0.18">Place</arg_type>
+			<arg_type weight="0.24">PopulatedPlace</arg_type>
+			<arg_type weight="2.12">Region</arg_type>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.970">region</mln_predict>
+		<cnn_predict conf="0.318">largestCity</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3755">
+		<sent><![CDATA[갈라파고스가마우지는 사다새목과 사다새과에 속하는 곳 가마우지종이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[사다새과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="과">
+			<obj_text><![CDATA[사다새목]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.517">order</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

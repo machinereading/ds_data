@@ -1,0 +1,61 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--up--VP--up--VP--down--(NP_AJT)</dependency>
+	<total>3</total>
+	<sent_item id="M_D652">
+		<sent><![CDATA[남편 조지_H._W._부시가 1992년 재선에 실패하자, 부부는 1993년 은퇴하여 텍사스_주로 돌아왔다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[조지_H._W._부시]]></sbj_text>
+			<arg_type weight="-0.58">Agent</arg_type>
+			<arg_type weight="-0.46">Person</arg_type>
+			<arg_type weight="0.08">Politician</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="로">
+			<obj_text><![CDATA[텍사스_주]]></obj_text>
+			<arg_type weight="0.18">Place</arg_type>
+			<arg_type weight="0.24">PopulatedPlace</arg_type>
+			<arg_type weight="2.12">Region</arg_type>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.503">deathPlace</mln_predict>
+		<cnn_predict conf="0.329">largestCity</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--up--VP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[실패하자,--은퇴하여--돌아왔다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2613">
+		<sent><![CDATA[2009년 WBC가 끝나고 박진만의 부상 등으로 박기혁이 공백을 메웠으나 길게 볼 선수는 아니었고 최정이 대체 유격수로 나섰으나 최악의 수비실력을 보여주며 차기 국가대표 유격수 부재에 대한 한국 언론들의 질문이 거셌다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[박기혁]]></sbj_text>
+			<arg_type weight="0.28">Agent</arg_type>
+			<arg_type weight="0.36">Person</arg_type>
+			<arg_type weight="1.04">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="로">
+			<obj_text><![CDATA[유격수]]></obj_text>
+		</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.711">position</mln_predict>
+		<cnn_predict conf="0.567">position</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--up--VP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[메웠으나--아니었고--나섰으나]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3449">
+		<sent><![CDATA[그가 이적하기 전 히어로즈의 1루는 이숭용과 장영석, 오재일, 조중근이 번갈아 맡았으나, 트레이드로 영입한 그가 1루수로 완전히 정착했다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[조중근]]></sbj_text>
+			<arg_type weight="0.28">Agent</arg_type>
+			<arg_type weight="0.36">Person</arg_type>
+			<arg_type weight="1.04">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="로">
+			<obj_text><![CDATA[1루수]]></obj_text>
+		</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.711">position</mln_predict>
+		<cnn_predict conf="0.510">position</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--up--VP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[번갈아--맡았으나,--정착했다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

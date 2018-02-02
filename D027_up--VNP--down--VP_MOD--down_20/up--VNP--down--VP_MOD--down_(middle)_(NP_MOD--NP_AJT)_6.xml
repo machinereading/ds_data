@@ -1,0 +1,122 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP--down--VP_MOD--down--(NP_AJT)</dependency>
+	<total>6</total>
+	<sent_item id="M_D1694">
+		<sent><![CDATA[UEFA 유로 2012 결승전은 2012년 7월 1일에 우크라이나 키예프의 올림피스키_경기장에서 개최된 UEFA_유로_2012의 결승전이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[UEFA_유로_2012]]></sbj_text>
+			<arg_type weight="0.15">Event</arg_type>
+			<arg_type weight="0.15">SocietalEvent</arg_type>
+			<arg_type weight="0.66">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[올림피스키_경기장]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="-0.63">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.54">SportFacility</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.857">location</mln_predict>
+		<cnn_predict conf="0.482">location</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[결승전이다.--개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D851">
+		<sent><![CDATA[서인도제도매너티는 바다소목에 속하는 매너티의 일종이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[매너티]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[바다소목]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.614">order</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[일종이다.--속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D4034">
+		<sent><![CDATA[아프리카매너티 또는 서아프리카매너티는 바다소목에 속하는 매너티의 일종이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[매너티]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[바다소목]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.624">order</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[일종이다.--속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3884">
+		<sent><![CDATA[가수이자 배우로 활동하는 엄정화의 남동생이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[엄정화]]></sbj_text>
+			<arg_type weight="0.49">Agent</arg_type>
+			<arg_type weight="0.51">Person</arg_type>
+			<arg_type weight="1.48">Artist</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="로">
+			<obj_text><![CDATA[배우]]></obj_text>
+		</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.984">occupation</mln_predict>
+		<cnn_predict conf="0.967">occupation</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[남동생이다.--활동하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2066">
+		<sent><![CDATA[UEFA 유로 1988 결승전은 1988년 6월 25일에 서독 뮌헨의 뮌헨_올림픽_스타디움에서 개최된 UEFA_유로_1988의 결승전이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[UEFA_유로_1988]]></sbj_text>
+			<arg_type weight="0.15">Event</arg_type>
+			<arg_type weight="0.15">SocietalEvent</arg_type>
+			<arg_type weight="0.66">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[뮌헨_올림픽_스타디움]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="-0.63">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.54">SportFacility</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.780">location</mln_predict>
+		<cnn_predict conf="0.541">location</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[결승전이다.--개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1562">
+		<sent><![CDATA[TJB 뉴스는 대전광역시·충청남도·세종특별자치시에서 평일 오전 10시 40분에 방송되는 대전방송의 오전 시간대 뉴스 프로그램이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[대전방송]]></sbj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="1.12">Organisation</arg_type>
+			<arg_type weight="1.28">Company</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[대전광역시]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.883">location</mln_predict>
+		<cnn_predict conf="0.701">location</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[프로그램이다.--방송되는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

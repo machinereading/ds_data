@@ -1,0 +1,78 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--down--NP--down--(NP)</dependency>
+	<total>4</total>
+	<sent_item id="M_D3577">
+		<sent><![CDATA[2014년 9월 1일, 와리스는 터키 쉬페르리그 클럽 트라브존스포르와 €5.5M짜리 4년 계약을 체결했다.]]></sent>
+		<sbj label="NP_CNJ" josa="와">
+			<sbj_text><![CDATA[트라브존스포르]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[쉬페르리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.740">league</mln_predict>
+		<cnn_predict conf="0.407">league</cnn_predict>
+		<gsdp>(NP_CNJ)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[클럽]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3690">
+		<sent><![CDATA[2006년 10월 1일 현대 유니콘스전에서 47세이브를 기록, 일본 프로 야구 센트럴 리그 한신_타이거스 소속 후지카와_규지와 주니치 드래건스 소속 이와세 히토키가 공동으로 가지고 있던 아시아 통산 최다 세이브 기록인 46세이브를 경신하였다.]]></sent>
+		<sbj label="NP_CNJ" josa="와">
+			<sbj_text><![CDATA[후지카와_규지]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[한신_타이거스]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.857">team</mln_predict>
+		<cnn_predict conf="0.405">team</cnn_predict>
+		<gsdp>(NP_CNJ)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[소속]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D202">
+		<sent><![CDATA[리옹 만은 지중해의 만으로 프랑스 남부 랑그도크루시용과 프로방스에 접한 바다이다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[랑그도크루시용]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+			<arg_type weight="0.97">Region</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[프랑스]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.816">country</cnn_predict>
+		<gsdp>(NP_CNJ)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[남부]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1451">
+		<sent><![CDATA[31일 브라질 브라질리아에서 열린 제34차 세계유산위원회 회의에서 대한민국 경상북도 안동 하회마을과 경주 양동마을이 유네스코 세계문화유산으로 등재되었다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[하회마을]]></sbj_text>
+			<arg_type weight="0.68">Place</arg_type>
+			<arg_type weight="1.40">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[경상북도]]></obj_text>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.366">region</mln_predict>
+		<cnn_predict conf="0.480">location</cnn_predict>
+		<gsdp>(NP_CNJ)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[안동]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

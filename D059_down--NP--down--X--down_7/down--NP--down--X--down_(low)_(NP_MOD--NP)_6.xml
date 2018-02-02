@@ -1,0 +1,118 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--NP--down--X--down--(NP)</dependency>
+	<total>6</total>
+	<sent_item id="M_D1773">
+		<sent><![CDATA[마쓰야마 역은 일본 에히메 현 마쓰야마 시에 있는 시코쿠_여객철도 · 일본화물철도 요산_선의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[요산_선]]></sbj_text>
+			<arg_type weight="0.08">Place</arg_type>
+			<arg_type weight="0.28">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.20">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[시코쿠_여객철도]]></obj_text>
+			<arg_type weight="-1.09">Agent</arg_type>
+			<arg_type weight="-0.90">Organisation</arg_type>
+		</obj>
+		<gold>operator</gold>
+		<mln_predict conf="0.761">operator</mln_predict>
+		<cnn_predict conf="0.498">operator</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--X--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[일본화물철도--·]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3353">
+		<sent><![CDATA[나요로 역은 일본 홋카이도 나요로 시에 있는 홋카이도_여객철도 · 일본화물철도 소야_본선의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[소야_본선]]></sbj_text>
+			<arg_type weight="0.08">Place</arg_type>
+			<arg_type weight="0.28">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.20">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[홋카이도_여객철도]]></obj_text>
+			<arg_type weight="-1.09">Agent</arg_type>
+			<arg_type weight="-0.90">Organisation</arg_type>
+		</obj>
+		<gold>operator</gold>
+		<mln_predict conf="0.986">operator</mln_predict>
+		<cnn_predict conf="0.646">operator</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--X--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[일본화물철도--·]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D651">
+		<sent><![CDATA[오카미 역은 일본 시마네 현 하마다 시에 있는 서일본_여객철도 · 일본화물철도 산인_본선의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[산인_본선]]></sbj_text>
+			<arg_type weight="0.08">Place</arg_type>
+			<arg_type weight="0.17">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.15">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[서일본_여객철도]]></obj_text>
+		</obj>
+		<gold>owner</gold>
+		<mln_predict conf="0.747">operator</mln_predict>
+		<cnn_predict conf="0.601">operator</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--X--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[일본화물철도--·]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D627">
+		<sent><![CDATA[하나마키쿠코 역은 일본 이와테 현 하나마키 시에 있는 동일본_여객철도 · 일본화물철도 도호쿠_본선의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[도호쿠_본선]]></sbj_text>
+			<arg_type weight="0.08">Place</arg_type>
+			<arg_type weight="0.17">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.15">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[동일본_여객철도]]></obj_text>
+		</obj>
+		<gold>owner</gold>
+		<mln_predict conf="0.979">operator</mln_predict>
+		<cnn_predict conf="0.586">operator</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--X--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[일본화물철도--·]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2839">
+		<sent><![CDATA[안나카 역은 일본 군마 현 안나카 시에 있는 동일본_여객철도 · 일본화물철도 신에쓰_본선의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[신에쓰_본선]]></sbj_text>
+			<arg_type weight="0.08">Place</arg_type>
+			<arg_type weight="0.17">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.15">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[동일본_여객철도]]></obj_text>
+		</obj>
+		<gold>owner</gold>
+		<mln_predict conf="0.958">operator</mln_predict>
+		<cnn_predict conf="0.635">operator</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--X--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[일본화물철도--·]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3200">
+		<sent><![CDATA[히가시무로란 역은 일본 홋카이도 무로란 시에 위치한 홋카이도_여객철도 · 일본화물철도 무로란_본선의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[무로란_본선]]></sbj_text>
+			<arg_type weight="0.08">Place</arg_type>
+			<arg_type weight="0.28">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.20">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[홋카이도_여객철도]]></obj_text>
+			<arg_type weight="-1.09">Agent</arg_type>
+			<arg_type weight="-0.90">Organisation</arg_type>
+		</obj>
+		<gold>operator</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.750">operator</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--X--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[일본화물철도--·]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

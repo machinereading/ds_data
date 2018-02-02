@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP--up--(NP_OBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1049">
+		<sent><![CDATA[프랑스는 사태 개선을 위해서 베트남 민주공화국의 호찌민 대신 베트남의 교섭 대표를 요구해 최종적으로 홍콩에 망명하고 있던 응우옌_왕조의 마지막 황제 바오다이를 베트남국의 원수로 옹립하기로 했다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[응우옌_왕조]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="를">
+			<obj_text><![CDATA[바오다이]]></obj_text>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.969">leaderName</mln_predict>
+		<cnn_predict conf="0.731">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[황제]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

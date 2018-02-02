@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP_AJT--up--VP_MOD--down--(NP_SBJ)</dependency>
+	<total>2</total>
+	<sent_item id="M_D2500">
+		<sent><![CDATA[강마에는 TV 드라마《베토벤_바이러스》의 등장인물로서, 배우 김명민이 연기한 세계적인 서양 고전 음악 지휘자이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[베토벤_바이러스]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[김명민]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="1.000">starring</mln_predict>
+		<cnn_predict conf="0.953">starring</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[등장인물로서,--연기한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2110">
+		<sent><![CDATA[〈A Day in the Life〉는 영국의 록 밴드 비틀즈가 자신들의 1967년도 음반 《Sgt._Pepper's_Lonely_Hearts_Club_Band》의 마지막 트랙으로서 담은 노래다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[Sgt._Pepper's_Lonely_Hearts_Club_Band]]></sbj_text>
+			<arg_type weight="0.55">Work</arg_type>
+			<arg_type weight="2.57">MusicalWork</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[비틀즈]]></obj_text>
+			<arg_type weight="0.48">Agent</arg_type>
+			<arg_type weight="0.43">Organisation</arg_type>
+			<arg_type weight="2.38">Group</arg_type>
+		</obj>
+		<gold>artist</gold>
+		<mln_predict conf="0.936">artist</mln_predict>
+		<cnn_predict conf="0.469">artist</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[트랙으로서--담은]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,73 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP_MOD--up--(VNP)</dependency>
+	<total>4</total>
+	<sent_item id="M_D648">
+		<sent><![CDATA[《유지니아》는 온다_리쿠가 집필한 일본의 추리_소설이다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[온다_리쿠]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.11">Person</arg_type>
+		</sbj>
+		<obj label="VNP" josa="">
+			<obj_text><![CDATA[추리_소설]]></obj_text>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.812">occupation</mln_predict>
+		<cnn_predict conf="0.393">starring</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP_MOD--up--(VNP)</gsdp>
+		<gsdp_lemma><![CDATA[집필한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2621">
+		<sent><![CDATA[《방과 후》는 일본의 작가 히가시노_게이고가 지은 장편 추리_소설이다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[히가시노_게이고]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.11">Person</arg_type>
+		</sbj>
+		<obj label="VNP" josa="">
+			<obj_text><![CDATA[추리_소설]]></obj_text>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.590">occupation</mln_predict>
+		<cnn_predict conf="0.366">starring</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP_MOD--up--(VNP)</gsdp>
+		<gsdp_lemma><![CDATA[지은]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1706">
+		<sent><![CDATA[《상록수》는 작가 심훈이 1935년에 발표한 장편 소설이다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[심훈]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.11">Person</arg_type>
+		</sbj>
+		<obj label="VNP" josa="">
+			<obj_text><![CDATA[소설]]></obj_text>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.507">occupation</mln_predict>
+		<cnn_predict conf="0.500">starring</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP_MOD--up--(VNP)</gsdp>
+		<gsdp_lemma><![CDATA[발표한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D644">
+		<sent><![CDATA[에비타는 앤드루 로이드 웨버가 곡을 쓰고 팀_라이스가 가사를 쓴 뮤지컬이다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[팀_라이스]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.11">Person</arg_type>
+			<arg_type weight="0.43">Artist</arg_type>
+		</sbj>
+		<obj label="VNP" josa="">
+			<obj_text><![CDATA[뮤지컬]]></obj_text>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.583">genre</mln_predict>
+		<cnn_predict conf="0.389">genre</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP_MOD--up--(VNP)</gsdp>
+		<gsdp_lemma><![CDATA[쓴]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

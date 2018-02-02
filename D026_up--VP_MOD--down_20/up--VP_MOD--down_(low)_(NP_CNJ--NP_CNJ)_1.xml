@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--VP_MOD--down--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3637">
+		<sent><![CDATA[패닝 가의 조상은 아일랜드인, 잉글랜드인, 독일인, 프랑스인이다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[아일랜드인]]></sbj_text>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[잉글랜드인]]></obj_text>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.070">deathPlace</mln_predict>
+		<cnn_predict conf="0.469">related</cnn_predict>
+		<gsdp>(NP_CNJ)--up--VP_MOD--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[독일인,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

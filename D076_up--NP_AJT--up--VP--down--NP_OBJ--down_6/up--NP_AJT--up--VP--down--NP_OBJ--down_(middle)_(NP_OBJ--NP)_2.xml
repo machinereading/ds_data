@@ -1,0 +1,40 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--NP_AJT--up--VP--down--NP_OBJ--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_D3404">
+		<sent><![CDATA[2009년 3월 8일, 펠루소는 AC_밀란을 상대로 세리에_A 데뷔전을 치뤘다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[AC_밀란]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[세리에_A]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.750">league</mln_predict>
+		<cnn_predict conf="0.511">league</cnn_predict>
+		<gsdp>(NP_OBJ)--up--NP_AJT--up--VP--down--NP_OBJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[상대로--치뤘다.--데뷔전을]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1925">
+		<sent><![CDATA[2007년 4월, 그는 IF 엘프스보리 시절 외레브로_SK를 상대로 알스벤스칸 1호골을 득점하였다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[외레브로_SK]]></sbj_text>
+			<arg_type weight="0.28">Agent</arg_type>
+			<arg_type weight="0.34">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[알스벤스칸]]></obj_text>
+		</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.461">league</mln_predict>
+		<cnn_predict conf="0.707">team</cnn_predict>
+		<gsdp>(NP_OBJ)--up--NP_AJT--up--VP--down--NP_OBJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[상대로--득점하였다.--1호골을]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

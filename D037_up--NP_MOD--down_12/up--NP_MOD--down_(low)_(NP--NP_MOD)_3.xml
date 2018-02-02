@@ -1,0 +1,49 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_MOD--down--(NP_MOD)</dependency>
+	<total>3</total>
+	<sent_item id="M_D385">
+		<sent><![CDATA[김태연은 대한민국의 서울특별시 출신의 배우다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[서울특별시]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.535">deathPlace</mln_predict>
+		<cnn_predict conf="0.694">country</cnn_predict>
+		<gsdp>(NP)--up--NP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[출신의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D546">
+		<sent><![CDATA[경암동은 대한민국의 전라북도 군산시의 동이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[전라북도]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.224">country</mln_predict>
+		<cnn_predict conf="0.892">country</cnn_predict>
+		<gsdp>(NP)--up--NP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[군산시의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D714">
+		<sent><![CDATA[흥남동은 대한민국의 전라북도 군산시의 동이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[전라북도]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.237">country</mln_predict>
+		<cnn_predict conf="0.896">country</cnn_predict>
+		<gsdp>(NP)--up--NP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[군산시의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

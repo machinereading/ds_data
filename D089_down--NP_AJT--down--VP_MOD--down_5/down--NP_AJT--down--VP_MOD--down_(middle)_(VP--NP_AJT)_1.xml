@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(VP)--down--NP_AJT--down--VP_MOD--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1417">
+		<sent><![CDATA[1848년 미국 대통령 선거는 1848년 미국에서 치러진 미국 대통령 선거로, 휘그당의 재커리_테일러 후보가 당선되었다]]></sent>
+		<sbj label="VP" josa="">
+			<sbj_text><![CDATA[재커리_테일러]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+			<arg_type weight="0.68">Politician</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[미국]]></obj_text>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="1.000">birthPlace</mln_predict>
+		<cnn_predict conf="0.386">birthPlace</cnn_predict>
+		<gsdp>(VP)--down--NP_AJT--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[선거로,--치러진]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

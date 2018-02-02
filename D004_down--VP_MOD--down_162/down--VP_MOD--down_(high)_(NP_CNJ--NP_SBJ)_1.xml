@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--down--VP_MOD--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1354">
+		<sent><![CDATA[영화배우로서 활동하기도 하였으며 대표작으로는 이소룡이 주연으로 나온 사망유희, 이소룡 - 전사의 여행와 액션 진기명기, 에어플레인이 있다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[사망유희]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[이소룡]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="1.000">starring</mln_predict>
+		<cnn_predict conf="0.638">starring</cnn_predict>
+		<gsdp>(NP_CNJ)--down--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[나온]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

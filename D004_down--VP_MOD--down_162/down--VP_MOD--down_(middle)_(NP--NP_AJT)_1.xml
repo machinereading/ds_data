@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP)--down--VP_MOD--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2486">
+		<sent><![CDATA[이는 SM_엔터테인먼트에서 2009년 9월 데뷔한 f와 이전의 소녀시대 이후 5년 만에 선보이는 걸그룹이자, 4인조로 구성된 걸그룹이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[소녀시대]]></sbj_text>
+			<arg_type weight="-0.12">Agent</arg_type>
+			<arg_type weight="0.10">Organisation</arg_type>
+			<arg_type weight="1.11">Group</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[SM_엔터테인먼트]]></obj_text>
+			<arg_type weight="0.25">Agent</arg_type>
+			<arg_type weight="0.55">Organisation</arg_type>
+		</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.223">genre</mln_predict>
+		<cnn_predict conf="0.316">owningOrganisation</cnn_predict>
+		<gsdp>(NP)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[데뷔한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

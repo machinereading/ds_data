@@ -1,0 +1,129 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--NP--down--(NP)</dependency>
+	<total>7</total>
+	<sent_item id="M_D2700">
+		<sent><![CDATA[주로 축구 경기장으로 사용되고 있으며 J리그_디비전_1 클럽 가와사키_프론탈레의 홈 구장으로 사용되고 있다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[가와사키_프론탈레]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[J리그_디비전_1]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.969">location</mln_predict>
+		<cnn_predict conf="0.380">location</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[클럽]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3333">
+		<sent><![CDATA[이후에는 156km를 기록하며, 2017년 롯데_자이언츠 1차지명자 윤성빈의 153km를 경신하였다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[윤성빈]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[롯데_자이언츠]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.720">team</mln_predict>
+		<cnn_predict conf="0.511">team</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[1차지명자]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1443">
+		<sent><![CDATA[실제 볼은 포수 옆 그라운드를 맞고 한화_이글스 포수 신경현의 목 부분으로 튀었다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[신경현]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[한화_이글스]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.751">team</mln_predict>
+		<cnn_predict conf="0.503">position</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[포수]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D704">
+		<sent><![CDATA[홍성 신경리 마애여래입상은 충청남도 홍성군 용봉산의 바위에 새겨진, 고려시대의 마애불 입상이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[용봉산]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="2.09">NaturalPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[충청남도]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.503">locatedInArea</mln_predict>
+		<cnn_predict conf="0.431">locatedInArea</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[홍성군]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D833">
+		<sent><![CDATA[일란성 쌍둥이 JYJ의 멤버 김준수_(1986년) 한서고등학교 시절 투수로 활동했었지만 현재는 활동하지 않는다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[JYJ]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[김준수_(1986년)]]></obj_text>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.344">currentMember</mln_predict>
+		<cnn_predict conf="0.357">position</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[쌍둥이]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D299">
+		<sent><![CDATA[《내 아버지로부터의 꿈》은 제44대 미국 대통령 버락_오바마의 자서전이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[버락_오바마]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+			<arg_type weight="0.68">Politician</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[미국]]></obj_text>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.578">birthPlace</mln_predict>
+		<cnn_predict conf="0.480">birthPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[대통령]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D128">
+		<sent><![CDATA[무한도전: 문화방송 인기 예능 프로그램 무한도전의 멤버들을 소재로 한 캐릭터. 전진과 하하는 현재 판매하고 있지 않다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[무한도전]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[문화방송]]></obj_text>
+			<arg_type weight="0.32">Agent</arg_type>
+			<arg_type weight="1.24">Organisation</arg_type>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.998">channel</mln_predict>
+		<cnn_predict conf="0.416">channel</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[프로그램]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

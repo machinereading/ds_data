@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--up--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D509">
+		<sent><![CDATA[1375년 명나라 황제 홍무제는 이곳에 위청 유라는 불리는 우체국을 건설했다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[명나라]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="는">
+			<obj_text><![CDATA[홍무제]]></obj_text>
+			<arg_type weight="0.04">Agent</arg_type>
+			<arg_type weight="0.54">Person</arg_type>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="1.000">leaderName</mln_predict>
+		<cnn_predict conf="0.869">deathPlace</cnn_predict>
+		<gsdp>(NP)--up--NP--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[황제]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

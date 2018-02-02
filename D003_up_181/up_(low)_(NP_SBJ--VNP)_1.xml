@@ -1,0 +1,20 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--(VNP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3105">
+		<sent><![CDATA[《애자_언니_민자》는 SBS에서 방송된 텔레비전 텔레비전_드라마이다.]]></sent>
+		<sbj label="NP_SBJ" josa="는">
+			<sbj_text><![CDATA[애자_언니_민자]]></sbj_text>
+			<arg_type weight="0.93">Work</arg_type>
+		</sbj>
+		<obj label="VNP" josa="">
+			<obj_text><![CDATA[텔레비전_드라마]]></obj_text>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.346">channel</mln_predict>
+		<cnn_predict conf="0.578">channel</cnn_predict>
+		<gsdp>(NP_SBJ)--up--(VNP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

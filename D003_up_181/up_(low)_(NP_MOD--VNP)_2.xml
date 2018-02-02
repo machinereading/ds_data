@@ -1,0 +1,38 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--(VNP)</dependency>
+	<total>2</total>
+	<sent_item id="M_D1467">
+		<sent><![CDATA[금수회의록은 1908년년에 나온 안국선의 소설이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[안국선]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.11">Person</arg_type>
+		</sbj>
+		<obj label="VNP" josa="">
+			<obj_text><![CDATA[소설]]></obj_text>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.218">occupation</mln_predict>
+		<cnn_predict conf="0.236">occupation</cnn_predict>
+		<gsdp>(NP_MOD)--up--(VNP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2326">
+		<sent><![CDATA[《용의자 X의 헌신》은 히가시노_게이고의 추리_소설이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[히가시노_게이고]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.11">Person</arg_type>
+		</sbj>
+		<obj label="VNP" josa="">
+			<obj_text><![CDATA[추리_소설]]></obj_text>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.255">occupation</mln_predict>
+		<cnn_predict conf="0.163">genre</cnn_predict>
+		<gsdp>(NP_MOD)--up--(VNP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

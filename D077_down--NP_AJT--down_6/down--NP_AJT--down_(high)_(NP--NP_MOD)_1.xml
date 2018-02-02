@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP)--down--NP_AJT--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3412">
+		<sent><![CDATA["It Will Rain"은 미국의 가수 브루노_마스의 노래로, "Doo-Wops_&_Hooligans"에 수록되어 있다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[Doo-Wops_&_Hooligans]]></sbj_text>
+			<arg_type weight="0.55">Work</arg_type>
+			<arg_type weight="2.57">MusicalWork</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[브루노_마스]]></obj_text>
+			<arg_type weight="0.48">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+			<arg_type weight="1.03">Artist</arg_type>
+		</obj>
+		<gold>artist</gold>
+		<mln_predict conf="0.995">artist</mln_predict>
+		<cnn_predict conf="0.554">artist</cnn_predict>
+		<gsdp>(NP)--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[노래로,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

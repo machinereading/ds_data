@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--(VP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3856">
+		<sent><![CDATA[2016년 구단 테스트를 거쳐K리그_챌린지의 서울_이랜드_FC에 입단하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[서울_이랜드_FC]]></sbj_text>
+		</sbj>
+		<obj label="VP_MOD" josa="의">
+			<obj_text><![CDATA[K리그_챌린지]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.924">position</mln_predict>
+		<cnn_predict conf="0.739">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(VP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

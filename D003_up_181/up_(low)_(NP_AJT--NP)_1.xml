@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1572">
+		<sent><![CDATA[G5 (징쿤_고속공로) 베이징 시 ~ 윈난 성 쿤밍_시]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[징쿤_고속공로]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.23">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.28">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[쿤밍_시]]></obj_text>
+		</obj>
+		<gold>routeEnd</gold>
+		<mln_predict conf="0.571">routeEnd</mln_predict>
+		<cnn_predict conf="0.420">largestCity</cnn_predict>
+		<gsdp>(NP_AJT)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

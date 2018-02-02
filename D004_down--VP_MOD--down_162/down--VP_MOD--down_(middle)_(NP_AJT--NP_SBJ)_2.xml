@@ -1,0 +1,44 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--VP_MOD--down--(NP_SBJ)</dependency>
+	<total>2</total>
+	<sent_item id="M_D3772">
+		<sent><![CDATA[미즈호는 2011년부터 서일본 여객철도, 큐슈여객철도가 운영하는 산요 신칸센, 큐슈신칸센에서 운행개시된 고속열차이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[큐슈신칸센]]></sbj_text>
+			<arg_type weight="0.08">Place</arg_type>
+			<arg_type weight="0.17">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.15">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[큐슈여객철도]]></obj_text>
+			<arg_type weight="0.81">Agent</arg_type>
+			<arg_type weight="1.05">Organisation</arg_type>
+		</obj>
+		<gold>owner</gold>
+		<mln_predict conf="0.909">operator</mln_predict>
+		<cnn_predict conf="0.372">routeStart</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[운영하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1625">
+		<sent><![CDATA[사쿠라는 2011년부터 서일본 여객철도, 큐슈여객철도가 운영하는 산요 신칸센, 큐슈신칸센에서 운행개시된 고속열차이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[큐슈신칸센]]></sbj_text>
+			<arg_type weight="0.08">Place</arg_type>
+			<arg_type weight="0.17">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.15">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[큐슈여객철도]]></obj_text>
+			<arg_type weight="0.81">Agent</arg_type>
+			<arg_type weight="1.05">Organisation</arg_type>
+		</obj>
+		<gold>owner</gold>
+		<mln_predict conf="0.899">operator</mln_predict>
+		<cnn_predict conf="0.402">routeStart</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[운영하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--down--VP--down--NP_AJT--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1249">
+		<sent><![CDATA[1282년 앙주 왕가의 왕 카를로_1세의 독재에 저항해 시칠리아_만종_사건이 일어났다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[시칠리아_만종_사건]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[카를로_1세]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.125">country</mln_predict>
+		<cnn_predict conf="0.616">deathPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[일어났다.--저항해--독재에]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,139 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--NP--down--(NP)</dependency>
+	<total>8</total>
+	<sent_item id="M_D139">
+		<sent><![CDATA[마스우라 역은 일본 홋카이도 아바시리 시에 위치한 홋카이도 여객철도 센모_본선의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[센모_본선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[일본]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">routeStart</mln_predict>
+		<cnn_predict conf="0.626">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[위치한--시에--아바시리--홋카이도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D903">
+		<sent><![CDATA[경화역은 경상남도 창원시 진해구 경화동에 위치하는 한국철도공사 진해선의 역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[진해선]]></sbj_text>
+			<arg_type weight="0.23">Place</arg_type>
+			<arg_type weight="0.41">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.48">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[경상남도]]></obj_text>
+		</obj>
+		<gold>routeStart</gold>
+		<mln_predict conf="0.670">routeStart</mln_predict>
+		<cnn_predict conf="0.515">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[위치하는--경화동에--진해구--창원시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1027">
+		<sent><![CDATA[가나야마 역은 일본 홋카이도 소라치 군 미나미후라노 정에 있는 홋카이도 여객철도 네무로_본선의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[네무로_본선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[홋카이도]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.355">location</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[있는--정에--군--소라치]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D500">
+		<sent><![CDATA[청평역은 경기도 가평군 청평면 청평리에 있는 경춘선의 전철역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[경춘선]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[경기도]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.410">location</mln_predict>
+		<cnn_predict conf="0.554">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[있는--청평리에--청평면--가평군]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3469">
+		<sent><![CDATA[불정역은 경상북도 문경시 불정동 418번지에 있던 문경선의 역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[문경선]]></sbj_text>
+			<arg_type weight="0.23">Place</arg_type>
+			<arg_type weight="0.41">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.48">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[경상북도]]></obj_text>
+		</obj>
+		<gold>routeStart</gold>
+		<mln_predict conf="0.444">city</mln_predict>
+		<cnn_predict conf="0.262">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[있던--418번지에--불정동--문경시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2236">
+		<sent><![CDATA[화본역은 경상북도 군위군 산성면 화본리에 위치한 중앙선의 역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[중앙선]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[경상북도]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.578">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[위치한--화본리에--산성면--군위군]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2013">
+		<sent><![CDATA[히가시쇼로 신호장은 일본 홋카이도 시라누카 군 시라누카 정에 있는 홋카이도 여객철도 네무로_본선의 신호장이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[네무로_본선]]></sbj_text>
+			<arg_type weight="0.23">Place</arg_type>
+			<arg_type weight="0.41">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.48">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[홋카이도]]></obj_text>
+		</obj>
+		<gold>routeStart</gold>
+		<mln_predict conf="0.998">routeEnd</mln_predict>
+		<cnn_predict conf="0.310">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[있는--정에--군--시라누카]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2084">
+		<sent><![CDATA[핫사무미나미 역은 일본 홋카이도 삿포로 시 니시 구에 위치한 삿포로_시영_지하철의 역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[삿포로_시영_지하철]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[홋카이도]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.556">routeStart</mln_predict>
+		<cnn_predict conf="0.598">region</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[위치한--구에--시--삿포로]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

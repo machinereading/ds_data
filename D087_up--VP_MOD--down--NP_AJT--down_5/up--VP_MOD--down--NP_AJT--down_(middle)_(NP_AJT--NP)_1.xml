@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP_MOD--down--NP_AJT--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D830">
+		<sent><![CDATA[오치아이 미치히사는 전국 시대의 다케다 가문을 섬겼던 사무라이로, 특히 다케다_가쓰요리 지휘하에 나가시노_전투에 참전했을 때의 행적으로 알려져 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[나가시노_전투]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[다케다_가쓰요리]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.793">commander</mln_predict>
+		<cnn_predict conf="0.614">commander</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[참전했을--지휘하에]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

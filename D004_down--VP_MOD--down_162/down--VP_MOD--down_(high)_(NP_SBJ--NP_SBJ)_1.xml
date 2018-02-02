@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--VP_MOD--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3524">
+		<sent><![CDATA[에반 백스터 역을 맡은 스티브_커렐이 주연으로 출연한 후속작 《에반_올마이티》는 2007년에 개봉하였다.]]></sent>
+		<sbj label="NP_SBJ" josa="는">
+			<sbj_text><![CDATA[에반_올마이티]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[스티브_커렐]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="1.000">starring</mln_predict>
+		<cnn_predict conf="0.962">starring</cnn_predict>
+		<gsdp>(NP_SBJ)--down--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[출연한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

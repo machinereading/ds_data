@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--NP_SBJ--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D557">
+		<sent><![CDATA[20세기 초 로마는 영국의 수도 런던과 비슷하게 매우 많은 중소 클럽이 있었다.]]></sent>
+		<sbj label="NP_AJT" josa="과">
+			<sbj_text><![CDATA[런던]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[영국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.798">country</mln_predict>
+		<cnn_predict conf="0.266">country</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_SBJ--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[있었다.--수도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

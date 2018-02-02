@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP)--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D994">
+		<sent><![CDATA[그러나 비엣민은 새로운 정부로 인정받지 못하고 바오_다이 황제가 추대되었다(베트남_제국). 1950년에 바오 다이 황제는 사이공을 수도로 삼았었다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[베트남_제국]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[바오_다이]]></obj_text>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.374">region</mln_predict>
+		<cnn_predict conf="0.687">deathPlace</cnn_predict>
+		<gsdp>(NP)--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

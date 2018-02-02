@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1600">
+		<sent><![CDATA[로퀜스는 제리케이와 메익센스로 구성된 힙합 듀오이다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[메익센스]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.11">Person</arg_type>
+			<arg_type weight="0.43">Artist</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[힙합]]></obj_text>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.842">birthPlace</mln_predict>
+		<cnn_predict conf="0.488">genre</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[구성된--듀오이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

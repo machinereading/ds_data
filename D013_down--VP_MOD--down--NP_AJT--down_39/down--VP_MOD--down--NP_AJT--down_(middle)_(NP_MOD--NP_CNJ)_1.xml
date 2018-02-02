@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D4045">
+		<sent><![CDATA[Boom Boom Pow는 윌 아이 앰, 애플딥, 타부, 퍼기로 구성된 그룹 블랙_아이드_피스의 노래이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[블랙_아이드_피스]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[애플딥]]></obj_text>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.510">currentMember</mln_predict>
+		<cnn_predict conf="0.598">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[구성된--퍼기로]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

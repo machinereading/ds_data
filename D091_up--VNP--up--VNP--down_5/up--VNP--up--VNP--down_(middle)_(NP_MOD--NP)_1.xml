@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP--up--VNP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3345">
+		<sent><![CDATA[건흥은 중국 서진서진_민제의 연호이자 서진의 마지막 연호이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[서진]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[서진_민제]]></obj_text>
+			<arg_type weight="0.04">Agent</arg_type>
+			<arg_type weight="0.54">Person</arg_type>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.991">leaderName</mln_predict>
+		<cnn_predict conf="0.793">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[연호이자--연호이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

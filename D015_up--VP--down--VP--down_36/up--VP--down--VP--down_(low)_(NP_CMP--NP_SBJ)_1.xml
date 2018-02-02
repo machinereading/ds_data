@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP_CMP)--up--VP--down--VP--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1325">
+		<sent><![CDATA[옛 SV 아우스트리아 잘츠부르크는 1933년에 창단된 축구 클럽이며 2005년 오스트리아의 음료 회사 레드불이 클럽을 인수하면서 클럽 명칭 또한 FC_레드불_잘츠부르크가 되었다.]]></sent>
+		<sbj label="NP_CMP" josa="가">
+			<sbj_text><![CDATA[FC_레드불_잘츠부르크]]></sbj_text>
+			<arg_type weight="-0.60">Agent</arg_type>
+			<arg_type weight="-0.18">Organisation</arg_type>
+			<arg_type weight="-1.66">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[레드불]]></obj_text>
+			<arg_type weight="-0.03">Food</arg_type>
+		</obj>
+		<gold>owner</gold>
+		<mln_predict conf="0.456">location</mln_predict>
+		<cnn_predict conf="0.400">location</cnn_predict>
+		<gsdp>(NP_CMP)--up--VP--down--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[되었다.--인수하면서]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

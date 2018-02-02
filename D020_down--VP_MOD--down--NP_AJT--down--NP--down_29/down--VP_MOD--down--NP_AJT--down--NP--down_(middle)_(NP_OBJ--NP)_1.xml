@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2933">
+		<sent><![CDATA[2012 - 2013 시즌에 이어 2013 - 2014 시즌 장충체육관 리모델링 공사 연장으로 인해 한해 더 임시로 연고지를 옮겨 충청남도 아산시 온양동에 위치한 아산이순신빙상장실내체육관을 홈 구장으로 사용했다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[이순신빙상장실내체육관]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[충청남도]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.808">location</cnn_predict>
+		<gsdp>(NP_OBJ)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[위치한--온양동에--아산시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

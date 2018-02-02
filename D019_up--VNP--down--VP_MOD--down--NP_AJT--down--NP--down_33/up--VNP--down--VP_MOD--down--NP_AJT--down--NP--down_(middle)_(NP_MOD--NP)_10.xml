@@ -1,0 +1,199 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</dependency>
+	<total>10</total>
+	<sent_item id="M_D3960">
+		<sent><![CDATA[각산역은 대한민국 대구광역시 동구 안심로에 있는 대구_도시철도_1호선의 전철역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[대구_도시철도_1호선]]></sbj_text>
+			<arg_type weight="0.23">Place</arg_type>
+			<arg_type weight="0.41">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.48">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대구광역시]]></obj_text>
+			<arg_type weight="0.38">Place</arg_type>
+			<arg_type weight="0.22">PopulatedPlace</arg_type>
+		</obj>
+		<gold>routeStart</gold>
+		<mln_predict conf="1.000">routeStart</mln_predict>
+		<cnn_predict conf="0.464">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[전철역이다.--있는--안심로에--동구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2314">
+		<sent><![CDATA[학동·증심사입구역은 대한민국 광주광역시 동구 학동에 있는 광주_도시철도_1호선의 지하철역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[광주_도시철도_1호선]]></sbj_text>
+			<arg_type weight="0.23">Place</arg_type>
+			<arg_type weight="0.41">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.48">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[광주광역시]]></obj_text>
+			<arg_type weight="0.38">Place</arg_type>
+			<arg_type weight="0.22">PopulatedPlace</arg_type>
+		</obj>
+		<gold>routeStart</gold>
+		<mln_predict conf="0.854">routeStart</mln_predict>
+		<cnn_predict conf="0.436">location</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[지하철역이다.--있는--학동에--동구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2123">
+		<sent><![CDATA[장산역은 대한민국 부산광역시 해운대구 좌동에 있는 부산_도시철도_2호선의 지하철역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[부산_도시철도_2호선]]></sbj_text>
+			<arg_type weight="0.23">Place</arg_type>
+			<arg_type weight="0.41">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.48">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[부산광역시]]></obj_text>
+			<arg_type weight="0.38">Place</arg_type>
+			<arg_type weight="0.22">PopulatedPlace</arg_type>
+		</obj>
+		<gold>routeStart</gold>
+		<mln_predict conf="0.988">location</mln_predict>
+		<cnn_predict conf="0.523">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[지하철역이다.--있는--좌동에--해운대구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2707">
+		<sent><![CDATA[공항역은 대한민국 광주광역시 광산구 신흥동에 있는 광주_도시철도_1호선의 지하철역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[광주_도시철도_1호선]]></sbj_text>
+			<arg_type weight="0.23">Place</arg_type>
+			<arg_type weight="0.41">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.48">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[광주광역시]]></obj_text>
+			<arg_type weight="0.38">Place</arg_type>
+			<arg_type weight="0.22">PopulatedPlace</arg_type>
+		</obj>
+		<gold>routeStart</gold>
+		<mln_predict conf="1.000">routeStart</mln_predict>
+		<cnn_predict conf="0.493">location</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[지하철역이다.--있는--신흥동에--광산구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3660">
+		<sent><![CDATA[경희대학교의료원은 서울특별시 동대문구 회기동에 위치한 경희대학교의 부속 병원이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[경희대학교]]></sbj_text>
+			<arg_type weight="-0.23">Agent</arg_type>
+			<arg_type weight="0.35">Organisation</arg_type>
+			<arg_type weight="2.11">EducationalInstitution</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[서울특별시]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.630">city</mln_predict>
+		<cnn_predict conf="0.620">city</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[병원이다.--위치한--회기동에--동대문구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1610">
+		<sent><![CDATA[주례역은 대한민국 부산광역시 사상구 주례동에 있는 부산_도시철도_2호선의 지하철역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[부산_도시철도_2호선]]></sbj_text>
+			<arg_type weight="0.23">Place</arg_type>
+			<arg_type weight="0.41">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.48">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[부산광역시]]></obj_text>
+			<arg_type weight="0.38">Place</arg_type>
+			<arg_type weight="0.22">PopulatedPlace</arg_type>
+		</obj>
+		<gold>routeStart</gold>
+		<mln_predict conf="0.899">location</mln_predict>
+		<cnn_predict conf="0.445">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[지하철역이다.--있는--주례동에--사상구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D662">
+		<sent><![CDATA[범일역은 부산광역시 동구 범일동에 있는 부산_도시철도_1호선의 전철역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[부산_도시철도_1호선]]></sbj_text>
+			<arg_type weight="0.23">Place</arg_type>
+			<arg_type weight="0.41">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.48">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[부산광역시]]></obj_text>
+			<arg_type weight="0.38">Place</arg_type>
+			<arg_type weight="0.22">PopulatedPlace</arg_type>
+		</obj>
+		<gold>routeStart</gold>
+		<mln_predict conf="1.000">routeStart</mln_predict>
+		<cnn_predict conf="0.559">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[전철역이다.--있는--범일동에--동구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2255">
+		<sent><![CDATA[기흥 나들목은 경기도 용인시 기흥구 기흥동에 설치된 경부고속도로의 43번 나들목이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[경부고속도로]]></sbj_text>
+			<arg_type weight="0.34">Place</arg_type>
+			<arg_type weight="0.55">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.75">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[용인시]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.689">routeStart</mln_predict>
+		<cnn_predict conf="0.598">city</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[나들목이다.--설치된--기흥동에--기흥구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1402">
+		<sent><![CDATA[섬진강휴게소는 전라남도 광양시 진월면 신아리에 위치한 남해고속도로의 휴게소이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[남해고속도로]]></sbj_text>
+			<arg_type weight="0.34">Place</arg_type>
+			<arg_type weight="0.55">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.75">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[광양시]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.459">city</mln_predict>
+		<cnn_predict conf="0.462">city</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[휴게소이다.--위치한--신아리에--진월면]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1545">
+		<sent><![CDATA[귤현기지사업소는 대한민국 인천광역시 계양구 귤현동에 있는 인천교통공사의 차량기지이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[인천교통공사]]></sbj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="1.12">Organisation</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[인천광역시]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.984">location</mln_predict>
+		<cnn_predict conf="0.394">location</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[차량기지이다.--있는--귤현동에--계양구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

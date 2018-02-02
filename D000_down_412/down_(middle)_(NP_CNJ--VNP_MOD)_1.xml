@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--down--(VNP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3253">
+		<sent><![CDATA[C.F.F.P.를 떠난 후, 메네즈는 또다른 파리 지역의 클럽이자 프랑스_축구_국가대표팀인 파트리스_에브라와 지미 브리앙을 배출한 CSF 브레티니에 합류하였다.]]></sent>
+		<sbj label="NP_CNJ" josa="와">
+			<sbj_text><![CDATA[파트리스_에브라]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="VNP_MOD" josa="">
+			<obj_text><![CDATA[프랑스_축구_국가대표팀]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.337">team</mln_predict>
+		<cnn_predict conf="0.585">team</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(VNP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

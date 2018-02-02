@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1439">
+		<sent><![CDATA[《럭키_세븐_(드라마)》: (1월 16일 ~ 3월 19일, 주연: 마츠모토_준)]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[럭키_세븐_(드라마)]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[마츠모토_준]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="1.000">starring</mln_predict>
+		<cnn_predict conf="0.977">starring</cnn_predict>
+		<gsdp>(NP_CNJ)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

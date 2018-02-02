@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP_AJT--up--VP_MOD--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2684">
+		<sent><![CDATA[JR 고베 선은, 서일본_여객철도 도카이도_본선의 오사카 역부터 고베 역 간 및 산요 본선의 고베 역부터 히메지 역 간을 부르는 운행 계통이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[도카이도_본선]]></sbj_text>
+			<arg_type weight="0.08">Place</arg_type>
+			<arg_type weight="0.17">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.15">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="도">
+			<obj_text><![CDATA[서일본_여객철도]]></obj_text>
+		</obj>
+		<gold>owner</gold>
+		<mln_predict conf="0.571">routeStart</mln_predict>
+		<cnn_predict conf="0.535">operator</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[역부터--부르는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

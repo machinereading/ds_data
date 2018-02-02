@@ -1,0 +1,42 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--(NP_AJT)</dependency>
+	<total>2</total>
+	<sent_item id="M_D1704">
+		<sent><![CDATA[이어 1976년 열차로 통학하는 청소년들의 사랑과 우정을 그린 《진짜_진짜_잊지마》에서, 청순한 여고생 주인공으로 이덕화와 열연해 함께 스타덤에 올랐다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[진짜_진짜_잊지마]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="와">
+			<obj_text><![CDATA[이덕화]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="1.000">starring</mln_predict>
+		<cnn_predict conf="0.716">starring</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[열연해]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1394">
+		<sent><![CDATA[2016년, KBS 2TV 드라마 《태양의_후예》에서 송중기와 호흡을 맞추었다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[태양의_후예]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="와">
+			<obj_text><![CDATA[송중기]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="1.000">starring</mln_predict>
+		<cnn_predict conf="0.949">starring</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[맞추었다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

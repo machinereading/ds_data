@@ -1,0 +1,413 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--down--(NP_AJT)</dependency>
+	<total>21</total>
+	<sent_item id="M_D2722">
+		<sent><![CDATA[이와 같은 구조의 역은 서울메트로 서울 지하철 3호선, 서울 지하철 4호선 환승역 충무로역이 있다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[충무로역]]></sbj_text>
+			<arg_type weight="0.09">Place</arg_type>
+			<arg_type weight="0.31">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.42">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="로">
+			<obj_text><![CDATA[서울메트로]]></obj_text>
+			<arg_type weight="0.25">Agent</arg_type>
+			<arg_type weight="0.55">Organisation</arg_type>
+		</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.274">location</mln_predict>
+		<cnn_predict conf="0.460">routeStart</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[있다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D167">
+		<sent><![CDATA[친형인 하대성은 FC_서울에서 뛰고 있다.]]></sent>
+		<sbj label="NP_SBJ" josa="은">
+			<sbj_text><![CDATA[하대성]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[FC_서울]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="1.000">team</mln_predict>
+		<cnn_predict conf="0.399">league</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[뛰고]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1214">
+		<sent><![CDATA[맨유의 유스 선수 출신으로 예전에는 데이비드_베컴이 레알_마드리드_CF로 이적하자 알렉스 퍼거슨 감독에게서 베컴은 떠났지만 우리에게는 플레처가 있다라는 말도 듣기는 했었다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[데이비드_베컴]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="로">
+			<obj_text><![CDATA[레알_마드리드_CF]]></obj_text>
+			<arg_type weight="0.14">Agent</arg_type>
+			<arg_type weight="0.35">Organisation</arg_type>
+			<arg_type weight="0.72">SportsTeam</arg_type>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.846">team</mln_predict>
+		<cnn_predict conf="0.677">team</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[이적하자]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3340">
+		<sent><![CDATA[2010년에는 수원 FC와 수원시시설관리공단_여자_축구단가 각각 내서널리그와 WK리그에서 우승하면서 각 리그에서 최고의 축구단을 보유한 진정한 축구 수도로 변모하였다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[수원시시설관리공단_여자_축구단]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[WK리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.387">league</mln_predict>
+		<cnn_predict conf="0.425">team</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[우승하면서]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D394">
+		<sent><![CDATA[)이며, 그의 동생인 호나탄_도스_산토스는 FC_바르셀로나에서 축구 선수로 뛰고 있다.]]></sent>
+		<sbj label="NP_SBJ" josa="는">
+			<sbj_text><![CDATA[호나탄_도스_산토스]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[FC_바르셀로나]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.618">position</mln_predict>
+		<cnn_predict conf="0.498">team</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[뛰고]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2891">
+		<sent><![CDATA[북아메리카를 제외했을 때 세계에서 가장 높은 빌딩이었으며, 1987년 싱가포르에 OUB 센터가, 1990년 홍콩에 중국은행_타워가 건설되기 전까지는 아시아에서 제일 높은 빌딩이었다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[중국은행_타워]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.92">Building</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[홍콩]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.893">location</mln_predict>
+		<cnn_predict conf="0.646">location</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[건설되기]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D176">
+		<sent><![CDATA[K리그 2010을 앞두고 안토니우_호제리우_시우바_올리베이라가 경남_FC에서 이적했고, 전남의 유소년 출신인 지동원이 프로 계약을 체결하면서 화려한 공격진을 갖추게 되었다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[안토니우_호제리우_시우바_올리베이라]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[경남_FC]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.936">team</mln_predict>
+		<cnn_predict conf="0.680">team</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[이적했고,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D471">
+		<sent><![CDATA[소집 해제 전 서산시에 한화 이글스 훈련장인 서산야구장이 개설되자 개인 훈련을 위해 2013년 2월에는 충청남도교육청에서 서산초등학교로 복무지를 변경하였다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[서산야구장]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[서산시]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.373">location</mln_predict>
+		<cnn_predict conf="0.300">location</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개설되자]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3150">
+		<sent><![CDATA[도밍게스는 2007년 러시아 시즌을 앞두고 FC 제니트 상트페테르부르크로 €7M에 이적하였고, 러시아 프리미어리그 최고 이적료 기록을 세웠으나, 2008년에 다니_미겔이 FC_디나모_모스크바에서 FC 제니트 상트페테르부르크로 €30M에 이적하면서 1년만에 최고 이적료 기록이 깨졌다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[다니_미겔]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[FC_디나모_모스크바]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="1.000">team</mln_predict>
+		<cnn_predict conf="0.474">team</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[이적하면서]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1604">
+		<sent><![CDATA[주전 선수들이었던 즐라탄 이브라히모비치와 치아구 시우바가 파리 생제르맹 FC로 이적했고, 젠나로_가투소는 스위스의 FC_시옹으로 이적했다.]]></sent>
+		<sbj label="NP_SBJ" josa="는">
+			<sbj_text><![CDATA[젠나로_가투소]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="으로">
+			<obj_text><![CDATA[FC_시옹]]></obj_text>
+			<arg_type weight="0.14">Agent</arg_type>
+			<arg_type weight="0.35">Organisation</arg_type>
+			<arg_type weight="0.72">SportsTeam</arg_type>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.945">team</mln_predict>
+		<cnn_predict conf="0.344">team</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[이적했다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1727">
+		<sent><![CDATA[랭스를 연고로 하는 스타드_드_랭스는 프랑스 축구의 최상위 리그인 리그_1에서 활약하고 있다.]]></sent>
+		<sbj label="NP_SBJ" josa="는">
+			<sbj_text><![CDATA[스타드_드_랭스]]></sbj_text>
+			<arg_type weight="0.28">Agent</arg_type>
+			<arg_type weight="0.34">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[리그_1]]></obj_text>
+		</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.763">position</mln_predict>
+		<cnn_predict conf="0.545">league</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[활약하고]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2344">
+		<sent><![CDATA[2010년에 하와이 파이브-오의 하와이_파이브-0이 같은 방송사인 CBS_(미국_방송사)에서 방영을 시작하여 현재 시즌 1이 끝났다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[하와이_파이브-0]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[CBS_(미국_방송사)]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.221">genre</mln_predict>
+		<cnn_predict conf="0.139">location</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[시작하여]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1100">
+		<sent><![CDATA[《유리구두》는 SBS에서 2002년 3월 2일부터 2002년 7월 28일까지 방영되었는데 KBS 1TV 제국의 아침에 맞서기 위해 SBS가 98년 삼김시대_(드라마) 이후 4년 만에 부활시킨 주말 특별기획 드라마다.]]></sent>
+		<sbj label="NP_SBJ" josa="는">
+			<sbj_text><![CDATA[삼김시대_(드라마)]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[SBS]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.937">channel</mln_predict>
+		<cnn_predict conf="0.688">channel</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[방영되었는데]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2181">
+		<sent><![CDATA[전라선은 익산역에서 분기하여 순천역을 거쳐 여수엑스포역으로 연결된다.]]></sent>
+		<sbj label="NP_SBJ" josa="은">
+			<sbj_text><![CDATA[전라선]]></sbj_text>
+			<arg_type weight="0.23">Place</arg_type>
+			<arg_type weight="0.41">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.48">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[익산역]]></obj_text>
+			<arg_type weight="0.38">Place</arg_type>
+			<arg_type weight="1.15">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.18">Infrastructure</arg_type>
+		</obj>
+		<gold>routeStart</gold>
+		<mln_predict conf="0.671">routeEnd</mln_predict>
+		<cnn_predict conf="0.541">routeStart</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[분기하여]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2983">
+		<sent><![CDATA[당시 왓퍼드_FC에는 뛰어난 유망주인 애슐리_영이 뛰고 있었고 아뫼르 부아자도 그 중 하나였다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[애슐리_영]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="는">
+			<obj_text><![CDATA[왓퍼드_FC]]></obj_text>
+			<arg_type weight="0.14">Agent</arg_type>
+			<arg_type weight="0.35">Organisation</arg_type>
+			<arg_type weight="0.72">SportsTeam</arg_type>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="1.000">team</mln_predict>
+		<cnn_predict conf="0.243">team</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[뛰고]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3318">
+		<sent><![CDATA[8월 31일, 호비뉴가 맨체스터_시티_FC로 이적해 공석이 된 10번을 본래 23번이었던 베슬레이 스네이더르가 달게 되면서, 그도 등번호를 19번에서 자신이 선호하는 23번으로 변경했다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[호비뉴]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="로">
+			<obj_text><![CDATA[맨체스터_시티_FC]]></obj_text>
+			<arg_type weight="0.14">Agent</arg_type>
+			<arg_type weight="0.35">Organisation</arg_type>
+			<arg_type weight="0.72">SportsTeam</arg_type>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="1.000">team</mln_predict>
+		<cnn_predict conf="0.626">team</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[이적해]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3977">
+		<sent><![CDATA[일부 경부선, 경전선, 동해선 한국고속철도는 행신역이나 인천국제공항역까지 연장 운행한다.]]></sent>
+		<sbj label="NP_SBJ" josa="는">
+			<sbj_text><![CDATA[한국고속철도]]></sbj_text>
+			<arg_type weight="0.23">Place</arg_type>
+			<arg_type weight="0.41">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.48">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="까지">
+			<obj_text><![CDATA[인천국제공항역]]></obj_text>
+			<arg_type weight="0.38">Place</arg_type>
+			<arg_type weight="1.15">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.18">Infrastructure</arg_type>
+		</obj>
+		<gold>routeStart</gold>
+		<mln_predict conf="0.993">routeEnd</mln_predict>
+		<cnn_predict conf="0.448">routeStart</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[운행한다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2720">
+		<sent><![CDATA[2008년 2월에 개최된 1회 대회에서는 MLS컵 우승 팀인 휴스턴 다이너모와 J리그 컵 우승 팀인 감바 오사카가 참가하였고, A리그에서는 준우승 팀 시드니_FC가 참가하였다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[시드니_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="는">
+			<obj_text><![CDATA[A리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.854">league</mln_predict>
+		<cnn_predict conf="0.575">team</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[참가하였다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3780">
+		<sent><![CDATA[루카_토니 역시도 새로운 세리에 A 승격팀인 엘라스_베로나_FC로 떠났다.]]></sent>
+		<sbj label="NP_SBJ" josa="">
+			<sbj_text><![CDATA[루카_토니]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="로">
+			<obj_text><![CDATA[엘라스_베로나_FC]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.800">team</mln_predict>
+		<cnn_predict conf="0.370">team</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[떠났다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2039">
+		<sent><![CDATA[2010-11 시즌에는 팀의 중심이었던 다비드 비야와 다비드_실바가 각각 FC 바르셀로나와 맨체스터_시티_FC로 매각되었다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[다비드_실바]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="로">
+			<obj_text><![CDATA[맨체스터_시티_FC]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.985">team</mln_predict>
+		<cnn_predict conf="0.552">team</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[매각되었다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3840">
+		<sent><![CDATA[한편 주축 공격수 김신욱이 전북_현대_모터스으로 이적하였고 김신욱의 공백을 메우기 위해 국가대표 공격수 이정협과 박성호를 영입했다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[김신욱]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="으로">
+			<obj_text><![CDATA[전북_현대_모터스]]></obj_text>
+			<arg_type weight="0.14">Agent</arg_type>
+			<arg_type weight="0.35">Organisation</arg_type>
+			<arg_type weight="0.72">SportsTeam</arg_type>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.855">team</mln_predict>
+		<cnn_predict conf="0.626">team</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[이적하였고]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

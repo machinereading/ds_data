@@ -1,0 +1,91 @@
+<sentence_list>
+	<dependency>(NP)--down--NP--down--NP--down--(NP)</dependency>
+	<total>5</total>
+	<sent_item id="M_D1231">
+		<sent><![CDATA[제17회 세계잼버리는 1991년 8월 8일부터 8월 16일까지 대한민국 강원도 고성군 설악산 주변에서 열린 세계잼버리이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[설악산]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="2.09">NaturalPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.687">country</mln_predict>
+		<cnn_predict conf="0.579">country</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[고성군--강원도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D317">
+		<sent><![CDATA[1989년 한국방송공사 텔레비전 드라마 《무풍지대》]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[무풍지대]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[한국방송공사]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.740">channel</mln_predict>
+		<cnn_predict conf="0.963">channel</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[드라마--텔레비전]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D519">
+		<sent><![CDATA[처용암은 울산광역시 남구 황성동 외황강 하구에 떠있는 바위섬이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[외황강]]></sbj_text>
+			<arg_type weight="0.34">Place</arg_type>
+			<arg_type weight="0.58">NaturalPlace</arg_type>
+			<arg_type weight="1.06">BodyOfWater</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[울산광역시]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.488">city</mln_predict>
+		<cnn_predict conf="0.250">city</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[황성동--남구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3969">
+		<sent><![CDATA[2016년 MBC 주말 특별기획 《옥중화》 ... 오종금 역]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[옥중화]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[MBC]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.232">channel</mln_predict>
+		<cnn_predict conf="0.976">channel</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[특별기획--주말]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D469">
+		<sent><![CDATA[헌팅턴 블리자드/텍사스 와일드캐터스는 미국 웨스트버지니아 주 헌팅턴/텍사스_주 보몬트을 연고지로 하는 1993년부터 2008년까지 ECHL 소속되었던 아이스 하키팀이면, 2005~2006시즌에는 허리케인 리타로 인해 리그에 참가하지 못했다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[텍사스_주]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+			<arg_type weight="0.97">Region</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[미국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.594">region</mln_predict>
+		<cnn_predict conf="0.544">country</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--웨스트버지니아]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

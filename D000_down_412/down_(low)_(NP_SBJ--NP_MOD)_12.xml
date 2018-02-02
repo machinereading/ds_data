@@ -1,0 +1,210 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--(NP_MOD)</dependency>
+	<total>12</total>
+	<sent_item id="M_D1519">
+		<sent><![CDATA[10000m 결승전에서 4600m 지점에 핀란드의 라세_비렌이 넘어졌을 때 9명의 선수들이 세계 기록 아래로 달리고 있었으며 가무디를 그의 정상에 넘어뜨리는 원인이 되었다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[라세_비렌]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[핀란드]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.082">deathPlace</mln_predict>
+		<cnn_predict conf="0.274">birthPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1880">
+		<sent><![CDATA[한편 시즌 중반 인천 유나이티드 FC에서 이적한 전남_드래곤즈의 김치우는 생애 처음으로 대회 MVP에 선정되었다.]]></sent>
+		<sbj label="NP_SBJ" josa="는">
+			<sbj_text><![CDATA[김치우]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[전남_드래곤즈]]></obj_text>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.632">team</mln_predict>
+		<cnn_predict conf="0.602">team</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2491">
+		<sent><![CDATA[알포르스-팔렌 행렬은 오스트리아의 카를 테오도어 팔렌이 1902년에 도입하였고, 이후 핀란드의 라르스_알포르스가 재발견하였다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[라르스_알포르스]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[핀란드]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.089">location</mln_predict>
+		<cnn_predict conf="0.425">birthPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3058">
+		<sent><![CDATA[《아스테릭스》는 프랑스의 르네_고시니가 쓰고 알베르 우데르조가 그린 만화로, 1959년 10월 29일 프랑스의 만화 잡지 삘로뜨에 처음 발표되었다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[르네_고시니]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[프랑스]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.282">birthPlace</mln_predict>
+		<cnn_predict conf="0.429">birthPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D363">
+		<sent><![CDATA[MVP는 전남 드래곤즈의 김효일이, 득점상은 3골을 넣은 대구_FC의 장남석이 받았다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[장남석]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[대구_FC]]></obj_text>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.182">birthPlace</mln_predict>
+		<cnn_predict conf="0.510">team</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2920">
+		<sent><![CDATA[이마티닙 또는 상품명 글리벡은 스위스의 노바티스사가 개발한 만성 골수성 백혈병 치료제이다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[노바티스]]></sbj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="1.12">Organisation</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[스위스]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.583">location</mln_predict>
+		<cnn_predict conf="0.306">country</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3360">
+		<sent><![CDATA[세상무난사는 중화인민공화국의 마오쩌둥이 쓴 시 《重上井岡山》의 마지막 구절이다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[마오쩌둥]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+			<arg_type weight="0.34">Politician</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[중화인민공화국]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.445">deathPlace</mln_predict>
+		<cnn_predict conf="0.444">deathPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2138">
+		<sent><![CDATA[스마트는 스위스의 스와치 그룹과 독일의 다임러_AG가 합작으로 1994년 독일 바덴뷔르템베르크 주지방의 뵈블링엔에 설립한 고급 자동차 브랜드이다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[다임러_AG]]></sbj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="1.12">Organisation</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[독일]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.339">country</mln_predict>
+		<cnn_predict conf="0.461">location</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D418">
+		<sent><![CDATA[1차 투표에서 미국의 시카고가 탈락하고 2차 투표에서 일본의 도쿄 도가 탈락했으며, 최종 투표에서 브라질의 리우데자네이루가 스페인의 마드리드를 제치고 개최지로 선정되었다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[리우데자네이루]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[브라질]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.551">region</mln_predict>
+		<cnn_predict conf="0.301">country</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1950">
+		<sent><![CDATA[국제 공항은 타이베이 시 근교의 타이완 타오위안 국제공항과 가오슝_시의 가오슝_국제공항이 있다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[가오슝_국제공항]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[가오슝_시]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.453">location</mln_predict>
+		<cnn_predict conf="0.635">location</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3958">
+		<sent><![CDATA[비슷한 시기에 미국의 헨리_키신저가 비밀리에 베이징을 방문해서 저우언라이와 회담을 가졌고, 1972년 2월 21일 미국 대통령 리처드 닉슨과 중화인민공화국의 최고 지도자 마오쩌둥 간의 정상 회담이 이뤄진 이후부터 중화민국은 국제사회에서 비주류로 물러나고 중화인민공화국에게 밀리게 되었다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[헨리_키신저]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+			<arg_type weight="0.34">Politician</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[미국]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.410">deathPlace</mln_predict>
+		<cnn_predict conf="0.476">deathPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2759">
+		<sent><![CDATA[1973년 6·23 선언에서 대한민국의 박정희는 유엔 동시 가입을 주장했다.]]></sent>
+		<sbj label="NP_SBJ" josa="는">
+			<sbj_text><![CDATA[박정희]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+			<arg_type weight="0.34">Politician</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.688">deathPlace</mln_predict>
+		<cnn_predict conf="0.506">deathPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,61 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP_AJT--up--VP--down--(NP_AJT)</dependency>
+	<total>3</total>
+	<sent_item id="M_D3793">
+		<sent><![CDATA[칸나바로는 1993년 3월 7일, 3-4로 패한 유벤투스_FC와의 토리노 원정 경기에서 세리에_A 신고식을 치렀다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[유벤투스_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="">
+			<obj_text><![CDATA[세리에_A]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.810">league</mln_predict>
+		<cnn_predict conf="0.401">team</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[경기에서--치렀다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2532">
+		<sent><![CDATA[그러나 포칼 4강에서 FC_샬케_04에게 라울_곤살레스의 결승골로 1대0으로 패했고, 챔피언스리그 16강에서는 인테르나치오날레에게 원정다득점 우선 원칙에 밀려 탈락했다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[라울_곤살레스]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에게">
+			<obj_text><![CDATA[FC_샬케_04]]></obj_text>
+			<arg_type weight="0.14">Agent</arg_type>
+			<arg_type weight="0.35">Organisation</arg_type>
+			<arg_type weight="0.72">SportsTeam</arg_type>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.950">team</mln_predict>
+		<cnn_predict conf="0.860">team</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[결승골로--패했고,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2436">
+		<sent><![CDATA[2008년 상반기에 경남 FC로 이적하여 리그컵 2008 1경기에 출장하였으나, 반 시즌 만에 박윤화와의 맞트레이드 형식으로 포항_스틸러스로 다시 복귀하였다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[박윤화]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="로">
+			<obj_text><![CDATA[포항_스틸러스]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.767">club</mln_predict>
+		<cnn_predict conf="0.760">team</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[형식으로--복귀하였다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

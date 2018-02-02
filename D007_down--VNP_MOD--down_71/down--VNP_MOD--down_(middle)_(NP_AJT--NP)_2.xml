@@ -1,0 +1,40 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--VNP_MOD--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_D3487">
+		<sent><![CDATA[키어런 웨스트우드는 풋볼_리그_챔피언십 소속 팀인 셰필드_웬즈데이_FC에서 주전 골키퍼로 활약하고 있는 아일랜드의 축구 선수이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[셰필드_웬즈데이_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[풋볼_리그_챔피언십]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.906">position</mln_predict>
+		<cnn_predict conf="0.493">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--VNP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[팀인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D921">
+		<sent><![CDATA[2016년 11월 26일에 MBC 마이 리틀 텔레비전에서 팀 동료인 김영남과 FC_안양 소속인 안진범과 함께 이천수의 명품 축구 레슨 편에 출연하였다.]]></sent>
+		<sbj label="NP_AJT" josa="과">
+			<sbj_text><![CDATA[안진범]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[FC_안양]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.212">team</mln_predict>
+		<cnn_predict conf="0.337">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--VNP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[소속인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

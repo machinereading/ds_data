@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3396">
+		<sent><![CDATA[1910년부터 1918년까지 히바_칸국은 아스판디야로프_칸이 지배하고 있었다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[아스판디야로프_칸]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="은">
+			<obj_text><![CDATA[히바_칸국]]></obj_text>
+			<arg_type weight="0.23">Place</arg_type>
+			<arg_type weight="0.25">PopulatedPlace</arg_type>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.739">birthPlace</mln_predict>
+		<cnn_predict conf="0.486">deathPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[지배하고]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

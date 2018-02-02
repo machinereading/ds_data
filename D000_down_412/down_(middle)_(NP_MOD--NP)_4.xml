@@ -1,0 +1,74 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--(NP)</dependency>
+	<total>4</total>
+	<sent_item id="M_D2288">
+		<sent><![CDATA[아래는 KBS_2TV 《영상앨범_산》의 방영 목록이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[영상앨범_산]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[KBS_2TV]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.568">channel</mln_predict>
+		<cnn_predict conf="0.963">channel</cnn_predict>
+		<gsdp>(NP_MOD)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2992">
+		<sent><![CDATA[〈포켓몬 심포닉 메들리〉는 TV_도쿄계 《포켓몬스터_AG》의 오프닝 테마이고, 〈GLORY DAY〉은 엔딩 테마이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[포켓몬스터_AG]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[TV_도쿄]]></obj_text>
+			<arg_type weight="0.32">Agent</arg_type>
+			<arg_type weight="1.24">Organisation</arg_type>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.126">channel</mln_predict>
+		<cnn_predict conf="0.245">channel</cnn_predict>
+		<gsdp>(NP_MOD)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1708">
+		<sent><![CDATA[콜린 파월은 1937년 4월 5일 미국 뉴욕_주 뉴욕 맨해튼의 할렘 모닝사이드 애버뉴에서 자메이카 이민자 부모 밑에서 태어났다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[맨해튼]]></sbj_text>
+			<arg_type weight="0.68">Place</arg_type>
+			<arg_type weight="1.40">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[뉴욕_주]]></obj_text>
+			<arg_type weight="0.18">Place</arg_type>
+			<arg_type weight="0.24">PopulatedPlace</arg_type>
+			<arg_type weight="2.12">Region</arg_type>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="1.000">region</mln_predict>
+		<cnn_predict conf="0.436">largestCity</cnn_predict>
+		<gsdp>(NP_MOD)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3740">
+		<sent><![CDATA[지상에 내려온 선녀 모녀가 겪게 되는 다양한 일화를 담았으며, 제작은 MBC_TV 시트콤 《안녕,_프란체스카》의 제작진이 담당하였다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[안녕,_프란체스카]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[MBC_TV]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.608">channel</mln_predict>
+		<cnn_predict conf="0.565">channel</cnn_predict>
+		<gsdp>(NP_MOD)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

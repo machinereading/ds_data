@@ -1,0 +1,38 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--NP_AJT--down--VP_MOD--down--(NP_SBJ)</dependency>
+	<total>2</total>
+	<sent_item id="M_D3522">
+		<sent><![CDATA[얼마전 종영된 TV 프로그램, 무릎팍도사에서는 강호동이 색동저고리 위에 배자를 입은 모습으로 등장하기도 하였다.]]></sent>
+		<sbj label="NP_AJT" josa="는">
+			<sbj_text><![CDATA[무릎팍도사]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[강호동]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.422">starring</mln_predict>
+		<cnn_predict conf="0.583">starring</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[등장하기도--모습으로--입은]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3133">
+		<sent><![CDATA[막부 말기에 일어난 보신_전쟁에서 후쿠시마 번은 오우에쓰 열번동맹에 가담해 사쓰마 번과 조슈_번이 중심이 된 신정부군과 싸웠다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[보신_전쟁]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[조슈_번]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.992">commander</mln_predict>
+		<cnn_predict conf="0.802">commander</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[싸웠다.--신정부군과--된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

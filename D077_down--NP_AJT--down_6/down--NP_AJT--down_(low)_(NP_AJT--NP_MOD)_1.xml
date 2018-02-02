@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--NP_AJT--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D349">
+		<sent><![CDATA[갤럭시 항공은 2005년에 설립되어 2008년에 파산된 일본의 화물 항공사로 허브 공항은 도쿄_국제공항으로 본사는 일본 도쿄 도 오타 구 ARC 빌딩 에 위치해 있다.]]></sent>
+		<sbj label="NP_AJT" josa="으로">
+			<sbj_text><![CDATA[도쿄_국제공항]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[일본]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.891">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[항공사로]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

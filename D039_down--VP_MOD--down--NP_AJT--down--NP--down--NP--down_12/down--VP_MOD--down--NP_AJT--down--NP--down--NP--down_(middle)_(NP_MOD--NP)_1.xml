@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3674">
+		<sent><![CDATA[서부간선도로는 서울특별시 금천구 금천 나들목에서 마포구 사천교 교차로를 잇는 국도_제1호선의 일부 구간이자 서울특별시의 주요 간선 도로 중 하나이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[국도_제1호선]]></sbj_text>
+			<arg_type weight="0.34">Place</arg_type>
+			<arg_type weight="0.55">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.75">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[서울특별시]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.427">city</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_AJT--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[잇는--나들목에서--금천--금천구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

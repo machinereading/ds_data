@@ -1,0 +1,72 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--down--(NP)</dependency>
+	<total>4</total>
+	<sent_item id="M_D2195">
+		<sent><![CDATA[2011년 3월 31일, 김동률, 이적, 체리필터 등이 소속된 음반 기획사 뮤직팜과 3년 간의 전속 계약을 체결하였다 데뷔를 준비하던 중 KBS_2TV 《유희열의_스케치북》- 더 만지다에 잠시 고정 출연했다.]]></sent>
+		<sbj label="NP_OBJ" josa="">
+			<sbj_text><![CDATA[유희열의_스케치북]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[KBS_2TV]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.166">channel</mln_predict>
+		<cnn_predict conf="0.525">channel</cnn_predict>
+		<gsdp>(NP_OBJ)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment>NP-down-NP,Entity범위문제,출연했다 라는 Main Verb가 영향, 개체 Type이 강한 영향</comment>
+	</sent_item>
+	<sent_item id="M_D3910">
+		<sent><![CDATA[2005년에는 MBC_TV 텔레비전 드라마 《내_이름은_김삼순》을 통해 대한민국에서 배우로 데뷔하였다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[내_이름은_김삼순]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[MBC_TV]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.840">channel</mln_predict>
+		<cnn_predict conf="0.757">channel</cnn_predict>
+		<gsdp>(NP_OBJ)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D995">
+		<sent><![CDATA[그 후, 6월 13일 엠넷 《엠카운트다운》를 통해 공식적으로 데뷔했다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[엠카운트다운]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[엠넷]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.473">channel</mln_predict>
+		<cnn_predict conf="0.330">artist</cnn_predict>
+		<gsdp>(NP_OBJ)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2454">
+		<sent><![CDATA[파크 가는 미국 뉴욕_주 뉴욕 맨해튼을 남북으로 종단하는 폭 43m의 애버뉴이다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[맨해튼]]></sbj_text>
+			<arg_type weight="0.68">Place</arg_type>
+			<arg_type weight="1.40">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[뉴욕_주]]></obj_text>
+			<arg_type weight="0.18">Place</arg_type>
+			<arg_type weight="0.24">PopulatedPlace</arg_type>
+			<arg_type weight="2.12">Region</arg_type>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.999">region</mln_predict>
+		<cnn_predict conf="0.472">largestCity</cnn_predict>
+		<gsdp>(NP_OBJ)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--VNP_MOD--down--NP_MOD--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D881">
+		<sent><![CDATA[작곡가로서 활동할 때는 구레타 가루호라는 예명을 사용하는 데 이 이름은 스웨덴 출신의 미국의 배우인 그레타_가르보의 이름에서 따온 것이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[그레타_가르보]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+			<arg_type weight="0.86">Artist</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[스웨덴]]></obj_text>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.969">birthPlace</mln_predict>
+		<cnn_predict conf="0.407">birthPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[배우인--출신의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP--down--NP_SBJ--down--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2764">
+		<sent><![CDATA[하라주쿠 역은 일본 도쿄_도 시부야 구에 있는 동일본 여객철도 야마노테_선의 역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[야마노테_선]]></sbj_text>
+		</sbj>
+		<obj label="NP_CNJ" josa="도">
+			<obj_text><![CDATA[도쿄_도]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.987">routeStart</mln_predict>
+		<cnn_predict conf="0.507">location</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_SBJ--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[역이다.--여객철도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

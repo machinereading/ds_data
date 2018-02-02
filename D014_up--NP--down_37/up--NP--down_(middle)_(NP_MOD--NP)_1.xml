@@ -1,17 +1,22 @@
 <sentence_list>
 	<dependency>(NP_MOD)--up--NP--down--(NP)</dependency>
 	<total>1</total>
-	<sent_item id="M_T2249" total_morp="33" total_word="14">
-		<sent>그 다음 경기는 3-0으로 이긴 스포르팅_히혼과의 프리메라리가 프리메라리가 2009-10이었고, 이 경기에서 한 골을 득점하였다.</sent>
-		<sbj type="OGG_SPORTS" weight="1.89" label="NP_MOD" josa="의">스포르팅_히혼</sbj>
-		<obj type="OGG_SPORTS" weight="0.70" label="NP" josa="">프리메라리가</obj>
-		<gold>league</gold>
-		<mln_predict conf="0.590">league</mln_predict>
-		<cnn_predict conf="0.693">league</cnn_predict>
+	<sent_item id="M_D1691">
+		<sent><![CDATA[이후 주전으로 활약하며 알아인_FC의 UAE_아라비안_걸프_리그 2014-15시즌 우승에 크게 기여하였다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[알아인_FC]]></sbj_text>
+			<arg_type weight="0.28">Agent</arg_type>
+			<arg_type weight="0.34">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[UAE_아라비안_걸프_리그]]></obj_text>
+		</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.876">position</mln_predict>
+		<cnn_predict conf="0.364">team</cnn_predict>
 		<gsdp>(NP_MOD)--up--NP--down--(NP)</gsdp>
-		<gsdp_lemma>프리메라리가</gsdp_lemma>
-		<head>득점하였다.</head>
-		<cluster>29</cluster>
+		<gsdp_lemma><![CDATA[2014-15시즌]]></gsdp_lemma>
 		<comment></comment>
 	</sent_item>
 </sentence_list>

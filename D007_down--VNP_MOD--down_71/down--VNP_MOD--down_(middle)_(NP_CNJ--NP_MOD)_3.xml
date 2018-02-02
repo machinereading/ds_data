@@ -1,0 +1,59 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--down--VNP_MOD--down--(NP_MOD)</dependency>
+	<total>3</total>
+	<sent_item id="M_D2860">
+		<sent><![CDATA[스타디오 주세페 메아차는 이탈리아 세리에_A의 명문 클럽인 FC_인테르나치오날레_밀라노와 AC 밀란의 홈구장이다.]]></sent>
+		<sbj label="NP_CNJ" josa="와">
+			<sbj_text><![CDATA[FC_인테르나치오날레_밀라노]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[세리에_A]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.759">league</mln_predict>
+		<cnn_predict conf="0.330">league</cnn_predict>
+		<gsdp>(NP_CNJ)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[클럽인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D4050">
+		<sent><![CDATA[대타와 외야의 수비 요원으로 기용되는 일이 많았지만 2006년 시즌 중반에 1루수의 주전이었던 구리하라_겐타, 외야수인 시마 시게노부의 전력 이탈도 있으면서 주로 1루에서의 선발 출전하는 일이 많아졌다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[구리하라_겐타]]></sbj_text>
+			<arg_type weight="0.28">Agent</arg_type>
+			<arg_type weight="0.36">Person</arg_type>
+			<arg_type weight="1.04">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[1루수]]></obj_text>
+		</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.368">team</mln_predict>
+		<cnn_predict conf="0.602">position</cnn_predict>
+		<gsdp>(NP_CNJ)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[주전이었던]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2564">
+		<sent><![CDATA[그러나 최근 과테말라로부터 수집한 표본의 분자생물학적 연구 결과에 의해, 후에르테아목의 아프리카 분류군인 게라르디나속과 자매군 관계에 있는 것으로 밝혀졌다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[게라르디나속]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[후에르테아목]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="0.997">class</mln_predict>
+		<cnn_predict conf="0.543">order</cnn_predict>
+		<gsdp>(NP_CNJ)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[분류군인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

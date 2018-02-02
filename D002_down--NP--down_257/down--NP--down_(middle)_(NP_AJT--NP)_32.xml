@@ -1,0 +1,593 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--NP--down--(NP)</dependency>
+	<total>32</total>
+	<sent_item id="M_D641">
+		<sent><![CDATA[대공원역은 대한민국 대구광역시 수성구 달구벌대로에 있는 대구 도시철도 2호선의 전철역이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[달구벌대로]]></sbj_text>
+			<arg_type weight="0.34">Place</arg_type>
+			<arg_type weight="0.55">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.75">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대구광역시]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.972">location</mln_predict>
+		<cnn_predict conf="0.461">routeStart</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[수성구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3881">
+		<sent><![CDATA[1972년 치좀은 민주당 대통령선거 경선 후보 출마를 선언하여 152명 대의원의 득표를 얻지만 결국은 사우스다코타_주 대표 조지_맥거번에 패배한다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[조지_맥거번]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[사우스다코타_주]]></obj_text>
+			<arg_type weight="0.18">Place</arg_type>
+			<arg_type weight="0.24">PopulatedPlace</arg_type>
+			<arg_type weight="2.12">Region</arg_type>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.478">birthPlace</mln_predict>
+		<cnn_predict conf="0.337">deathPlace</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[대표]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2633">
+		<sent><![CDATA[부산 범어사 당간지주는 부산광역시 금정구 범어사에 있는 당간지주이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[범어사]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="-0.11">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.19">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[부산광역시]]></obj_text>
+			<arg_type weight="0.05">Place</arg_type>
+			<arg_type weight="0.12">PopulatedPlace</arg_type>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.995">location</mln_predict>
+		<cnn_predict conf="0.431">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[금정구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3606">
+		<sent><![CDATA[감삼역은 대한민국 대구광역시 달서구 달구벌대로에 있는 대구 도시철도 2호선의 전철역이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[달구벌대로]]></sbj_text>
+			<arg_type weight="0.34">Place</arg_type>
+			<arg_type weight="0.55">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.75">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대구광역시]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.997">location</mln_predict>
+		<cnn_predict conf="0.501">routeStart</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[달서구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D540">
+		<sent><![CDATA[2015년 6월, KBS_2TV 드라마 《프로듀사》에서 김수현이 연기한 백승찬의 방송국 입사 동기 주종현 역할을 맡았다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[프로듀사]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[KBS_2TV]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.599">channel</mln_predict>
+		<cnn_predict conf="0.599">channel</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[드라마]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D330">
+		<sent><![CDATA[외국인전용 임대아파트는 대한민국 서울특별시 용산구 용산국제업무지구에 들어설 건물이었다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[용산국제업무지구]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.92">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[서울특별시]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.768">location</mln_predict>
+		<cnn_predict conf="0.761">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[용산구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3765">
+		<sent><![CDATA[운서동은 인천광역시 중구 영종도에 있는 법정동이자 행정동이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[영종도]]></sbj_text>
+			<arg_type weight="0.68">Place</arg_type>
+			<arg_type weight="1.40">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[인천광역시]]></obj_text>
+			<arg_type weight="0.18">Place</arg_type>
+			<arg_type weight="0.24">PopulatedPlace</arg_type>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.454">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[중구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1370">
+		<sent><![CDATA[대구광역시 중구 달구벌대로 2085에 있다.]]></sent>
+		<sbj label="NP_AJT" josa="대로">
+			<sbj_text><![CDATA[달구벌대로]]></sbj_text>
+			<arg_type weight="0.34">Place</arg_type>
+			<arg_type weight="0.55">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.75">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대구광역시]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.280">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[중구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1991">
+		<sent><![CDATA[하우스턴 가는 미국 뉴욕_주 뉴욕 맨해튼에 있는 거리이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[맨해튼]]></sbj_text>
+			<arg_type weight="0.68">Place</arg_type>
+			<arg_type weight="1.40">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[뉴욕_주]]></obj_text>
+			<arg_type weight="0.18">Place</arg_type>
+			<arg_type weight="0.24">PopulatedPlace</arg_type>
+			<arg_type weight="2.12">Region</arg_type>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.994">region</mln_predict>
+		<cnn_predict conf="0.597">largestCity</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[뉴욕]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1798">
+		<sent><![CDATA[부산아쿠아리움은 부산광역시 해운대구 해운대해변로 266에 위치한 해양동물원이다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[해운대해변로]]></sbj_text>
+			<arg_type weight="0.34">Place</arg_type>
+			<arg_type weight="0.55">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.75">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[부산광역시]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.578">city</mln_predict>
+		<cnn_predict conf="0.341">city</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[해운대구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3076">
+		<sent><![CDATA[앞서 유진은 KBS 2TV 드라마 《제빵왕 김탁구》, 《KBS 드라마 스페셜》, 문화방송 드라마 《백년의_유산》에 이어 《우리가 사랑할 수 있을까》까지 4번 연속으로 시청자들과 공감했다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[백년의_유산]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[문화방송]]></obj_text>
+			<arg_type weight="0.32">Agent</arg_type>
+			<arg_type weight="1.24">Organisation</arg_type>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.943">channel</mln_predict>
+		<cnn_predict conf="0.495">starring</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[드라마]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2328">
+		<sent><![CDATA[낙가산은 인천광역시 강화군 석모도에 있는 산이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[석모도]]></sbj_text>
+			<arg_type weight="0.68">Place</arg_type>
+			<arg_type weight="1.40">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[인천광역시]]></obj_text>
+			<arg_type weight="0.18">Place</arg_type>
+			<arg_type weight="0.24">PopulatedPlace</arg_type>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.470">locatedInArea</mln_predict>
+		<cnn_predict conf="0.375">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[강화군]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D569">
+		<sent><![CDATA[대구 파계사 건칠관음보살좌상 및 복장유물은 대구광역시 동구 파계사에 있는 조선시대의 보살상이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[파계사]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="-0.11">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.19">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대구광역시]]></obj_text>
+			<arg_type weight="0.05">Place</arg_type>
+			<arg_type weight="0.12">PopulatedPlace</arg_type>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.895">location</mln_predict>
+		<cnn_predict conf="0.478">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[동구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D112">
+		<sent><![CDATA[2016년 11월 16일부터 방송 된 SBS_TV 드라마 《푸른_바다의_전설》에서 살아남기 위해서 인간과는 다른 특별한 능력을 갖게 된 인어 역으로 출연했다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[푸른_바다의_전설]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[SBS_TV]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.904">channel</mln_predict>
+		<cnn_predict conf="0.646">starring</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[드라마]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2807">
+		<sent><![CDATA[1990년 MBC 드라마 《여자는_무엇으로_사는가》로 데뷔했다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[여자는_무엇으로_사는가]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[MBC]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.938">channel</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[드라마]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3531">
+		<sent><![CDATA[범어사 비로자나불회도는 부산광역시 금정구 범어사에 보존되어 있는 그림으로, 비로자나불을 중심으로 여러 보살들과 제자상들을 그린 불화이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[범어사]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="-0.11">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.19">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[부산광역시]]></obj_text>
+			<arg_type weight="0.05">Place</arg_type>
+			<arg_type weight="0.12">PopulatedPlace</arg_type>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.980">location</mln_predict>
+		<cnn_predict conf="0.526">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[금정구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2535">
+		<sent><![CDATA[경대병원역은 대한민국 대구광역시 중구 달구벌대로에 있는 대구 도시철도 2호선의 전철역이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[달구벌대로]]></sbj_text>
+			<arg_type weight="0.34">Place</arg_type>
+			<arg_type weight="0.55">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.75">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대구광역시]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.406">routeStart</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[중구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D696">
+		<sent><![CDATA[서울서부시외버스터미널은 서울특별시 은평구 통일로 757에서 신성교통 · 신성여객이 운영했던 버스 터미널이었다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[통일로]]></sbj_text>
+			<arg_type weight="0.34">Place</arg_type>
+			<arg_type weight="0.55">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.75">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[서울특별시]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.337">operator</mln_predict>
+		<cnn_predict conf="0.495">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[은평구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1300">
+		<sent><![CDATA[대방광원각수다라요의경_권상2의2,_권하3의1~3의2는 서울특별시 종로구 국립고궁박물관에 있는 조선시대의 불경이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[국립고궁박물관]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.92">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[서울특별시]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.834">location</mln_predict>
+		<cnn_predict conf="0.522">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[종로구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2482">
+		<sent><![CDATA[방이역은 서울특별시 송파구 양재대로에 있는 서울 지하철 5호선 마천지선 전철역이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[양재대로]]></sbj_text>
+			<arg_type weight="0.34">Place</arg_type>
+			<arg_type weight="0.55">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.75">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[서울특별시]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.482">location</mln_predict>
+		<cnn_predict conf="0.320">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[송파구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D777">
+		<sent><![CDATA[덜루스는 미국 동남부 조지아_주에 있는 도시이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[조지아_주]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+			<arg_type weight="0.97">Region</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[미국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.443">country</mln_predict>
+		<cnn_predict conf="0.899">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[동남부]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D476">
+		<sent><![CDATA[목동아이스링크는 서울특별시 양천구 안양천로 939에 위치한 아이스링크이다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[안양천로]]></sbj_text>
+			<arg_type weight="0.34">Place</arg_type>
+			<arg_type weight="0.55">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.75">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[서울특별시]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.299">city</mln_predict>
+		<cnn_predict conf="0.414">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[양천구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D957">
+		<sent><![CDATA[긴발가락개구리과는 개구리목 신와아목 청개구리상과에 속하는 대형 양서류 과이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[청개구리상과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[개구리목]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.810">order</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[신와아목]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D839">
+		<sent><![CDATA[유진은 미국 서북부 오리건_주에 있는 도시이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[오리건_주]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+			<arg_type weight="0.97">Region</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[미국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.843">country</mln_predict>
+		<cnn_predict conf="0.856">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[서북부]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1629">
+		<sent><![CDATA[2016년, KBS_2TV 드라마 《태양의_후예》에서 송중기와 호흡을 맞추었다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[태양의_후예]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[KBS_2TV]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.754">channel</mln_predict>
+		<cnn_predict conf="0.817">channel</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[드라마]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1483">
+		<sent><![CDATA[금동여래입상은 서울특별시 용산구 삼성미술관_리움에 있는, 남북국 시대 신라의 금동 여래 불상이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[삼성미술관_리움]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.92">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[서울특별시]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.985">location</mln_predict>
+		<cnn_predict conf="0.479">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[용산구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D242">
+		<sent><![CDATA[이광사 초상은 서울특별시 용산구 국립중앙박물관에 있는 조선시대의 초상화이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[국립중앙박물관]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.92">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[서울특별시]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.557">locatedInArea</mln_predict>
+		<cnn_predict conf="0.556">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[용산구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2766">
+		<sent><![CDATA[메트로폴리탄 오페라 극장은 미국 뉴욕_주 뉴욕 맨해튼에 위치한 오페라 극장이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[맨해튼]]></sbj_text>
+			<arg_type weight="0.68">Place</arg_type>
+			<arg_type weight="1.40">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[뉴욕_주]]></obj_text>
+			<arg_type weight="0.18">Place</arg_type>
+			<arg_type weight="0.24">PopulatedPlace</arg_type>
+			<arg_type weight="2.12">Region</arg_type>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="1.000">region</mln_predict>
+		<cnn_predict conf="0.537">largestCity</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[뉴욕]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3303">
+		<sent><![CDATA[이런 활약을 바탕으로 그는 2003년 7월 잉글랜드 프리미어리그 팀 맨체스터_유나이티드_FC로 이적한 그는 이적한 즉시 주전으로 기용되어, 알렉스 퍼거슨 감독에게 깊은 인상을 심어주었다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[맨체스터_유나이티드_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[프리미어리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.504">position</mln_predict>
+		<cnn_predict conf="0.579">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[팀]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D942">
+		<sent><![CDATA[주소 : 서울특별시 종로구 새문안로 92, 신문로1가 광화문오피시아빌딩 1612호]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[새문안로]]></sbj_text>
+			<arg_type weight="0.34">Place</arg_type>
+			<arg_type weight="0.55">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.75">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[서울특별시]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.275">city</mln_predict>
+		<cnn_predict conf="0.566">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[종로구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2869">
+		<sent><![CDATA[청도는 제주특별자치도 제주시 추자군도에 있는 섬이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[추자군도]]></sbj_text>
+			<arg_type weight="0.68">Place</arg_type>
+			<arg_type weight="1.40">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="도">
+			<obj_text><![CDATA[제주특별자치도]]></obj_text>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.755">region</mln_predict>
+		<cnn_predict conf="0.233">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[제주시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1395">
+		<sent><![CDATA[산타 키아라 성당은 이탈리아 캄파니아_주 나폴리 현 나폴리에 있는 대성당이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[나폴리]]></sbj_text>
+			<arg_type weight="0.68">Place</arg_type>
+			<arg_type weight="1.40">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[캄파니아_주]]></obj_text>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.717">region</mln_predict>
+		<cnn_predict conf="0.596">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[나폴리]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

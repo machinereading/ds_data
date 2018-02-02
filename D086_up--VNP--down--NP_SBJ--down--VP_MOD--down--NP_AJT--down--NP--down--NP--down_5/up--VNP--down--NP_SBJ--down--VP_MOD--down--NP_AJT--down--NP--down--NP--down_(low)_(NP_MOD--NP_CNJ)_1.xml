@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP--down--NP_SBJ--down--VP_MOD--down--NP_AJT--down--NP--down--NP--down--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1570">
+		<sent><![CDATA[가미메나 역은 일본 홋카이도 이소야 군 란코시 정에 있었던 일본국유철도 하코다테_본선의 철도역이었다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[하코다테_본선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[홋카이도]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">routeStart</mln_predict>
+		<cnn_predict conf="0.478">operator</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_SBJ--down--VP_MOD--down--NP_AJT--down--NP--down--NP--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[철도역이었다.--일본국유철도--있었던--정에--군--이소야]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--down--VP--down--(NP_OBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1144">
+		<sent><![CDATA[2014년 중순 이랜드그룹이 신생 프로축구단 창단을 선언하고 서울_이랜드_FC를 창단하여 K리그_챌린지_2015부터는 11개 구단 체제로 확대 운영되게 되었다.]]></sent>
+		<sbj label="NP_SBJ" josa="는">
+			<sbj_text><![CDATA[K리그_챌린지_2015]]></sbj_text>
+			<arg_type weight="0.47">Event</arg_type>
+			<arg_type weight="0.47">SocietalEvent</arg_type>
+			<arg_type weight="1.70">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="를">
+			<obj_text><![CDATA[서울_이랜드_FC]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.705">team</mln_predict>
+		<cnn_predict conf="0.408">position</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--VP--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[운영되게--창단하여]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

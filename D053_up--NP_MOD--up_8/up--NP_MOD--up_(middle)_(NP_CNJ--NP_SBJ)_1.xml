@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP_MOD--up--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2289">
+		<sent><![CDATA[지역에 따라 중국장님두더지, 히말라야마르모트 그리고 털북숭이멧토끼 및 그 외 알티콜라속, 비단털쥐과, 소나무쥐속의 소형 설치류등이 주요 먹잇감이 된다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[비단털쥐과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[설치류]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="0.813">class</mln_predict>
+		<cnn_predict conf="0.518">order</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_MOD--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[소나무쥐속의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

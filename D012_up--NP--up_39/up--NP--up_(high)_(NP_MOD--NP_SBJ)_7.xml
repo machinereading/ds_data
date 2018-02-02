@@ -1,0 +1,151 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP--up--(NP_SBJ)</dependency>
+	<total>7</total>
+	<sent_item id="M_D3062">
+		<sent><![CDATA[신해철의 고스트스테이션은 록 밴드 N.EX.T의 리드보컬 신해철이 진행을 맡고 있던 라디오 프로그램이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[N.EX.T]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[신해철]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.797">currentMember</mln_predict>
+		<cnn_predict conf="0.492">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[리드보컬]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1617">
+		<sent><![CDATA[트랙 9번 Walkin'을 접한 롤링_스톤스의 보컬 믹_재거는 "아일랜드에서 휴가를 보내고 있는 것처럼 느낌이 좋은 곡"이라고 칭찬했다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[롤링_스톤스]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="는">
+			<obj_text><![CDATA[믹_재거]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.915">currentMember</mln_predict>
+		<cnn_predict conf="0.464">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[보컬]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2351">
+		<sent><![CDATA[이번 앨범 프로듀싱으로는 티아라 전 앨범을 걸쳐 한번도 참여하지 않은 라이언 전이 참여하였고 보컬 코칭으로는 브라운_아이드_걸스의 메인보컬 제아가 참여하였다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[브라운_아이드_걸스]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[제아]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.996">currentMember</mln_predict>
+		<cnn_predict conf="0.714">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[메인보컬]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2618">
+		<sent><![CDATA[1987년에는 메탈리카의 기타리스트 커크_해밋이 ESP에서 자신의 기타를 주문제작했다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[메탈리카]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[커크_해밋]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="1.000">currentMember</mln_predict>
+		<cnn_predict conf="0.644">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[기타리스트]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3223">
+		<sent><![CDATA[2010년 6월 15일 2AM의 멤버 조권이 삼성전자 중국지사에서 제작하고 페이, 지아, 수지가 출연한 광고형 뮤직 비디오 "Love Again"을 트위터에 공개하였는데 조회수가 10만건이 넘으며 화제를 모았다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[2AM]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[조권]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="1.000">currentMember</mln_predict>
+		<cnn_predict conf="0.649">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[멤버]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3373">
+		<sent><![CDATA[""Locked Away""는 버진 아일랜드의 송라이터 듀오 록 시티의 노래로, 마룬_5의 보컬리스트 애덤_리바인이 피처링하였다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[마룬_5]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[애덤_리바인]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="1.000">currentMember</mln_predict>
+		<cnn_predict conf="0.753">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[보컬리스트]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2367">
+		<sent><![CDATA["예수보다 유명하다" 또는 "예수보다 크다"는 영국의 록 밴드 비틀즈의 멤버 존_레논이 1966년에 한 문제 발언이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[비틀즈]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[존_레논]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="1.000">currentMember</mln_predict>
+		<cnn_predict conf="0.554">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[멤버]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,54 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--down--(NP_CNJ)</dependency>
+	<total>3</total>
+	<sent_item id="M_D2240">
+		<sent><![CDATA[미드필더: 이근호, 황진성_(축구_선수) (포항_스틸러스), 하대성, 마우리시오 몰리나]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[황진성_(축구_선수)]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[포항_스틸러스]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.384">team</mln_predict>
+		<cnn_predict conf="0.545">team</cnn_predict>
+		<gsdp>(NP)--up--NP--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[몰리나]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1490">
+		<sent><![CDATA[《인현왕후_(드라마)》 (MBC, 1988년~1988년, 배우:이묵원)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[인현왕후_(드라마)]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[MBC]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.703">channel</mln_predict>
+		<cnn_predict conf="0.722">channel</cnn_predict>
+		<gsdp>(NP)--up--NP--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[배우:이묵원)]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2411">
+		<sent><![CDATA[《왕과_나_(드라마)》 (SBS, 2007년~2008년 배우:오수민)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[왕과_나_(드라마)]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[SBS]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.879">channel</mln_predict>
+		<cnn_predict conf="0.666">channel</cnn_predict>
+		<gsdp>(NP)--up--NP--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[배우:오수민)]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

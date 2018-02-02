@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--down--(NP_OBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2801">
+		<sent><![CDATA[본래 이 차량은 2006년 12월 15일 수도권_전철_1호선이 소요산역까지 연장 운행하고 수도권 전철 중앙선이 개통함에 따라 전동차의 추가 도입 필요성에 의하여 도입된 차량이다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[수도권_전철_1호선]]></sbj_text>
+		</sbj>
+		<obj label="NP_OBJ" josa="까지">
+			<obj_text><![CDATA[소요산역]]></obj_text>
+			<arg_type weight="0.38">Place</arg_type>
+			<arg_type weight="1.15">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.18">Infrastructure</arg_type>
+		</obj>
+		<gold>routeStart</gold>
+		<mln_predict conf="0.946">routeEnd</mln_predict>
+		<cnn_predict conf="0.495">routeStart</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[운행하고]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

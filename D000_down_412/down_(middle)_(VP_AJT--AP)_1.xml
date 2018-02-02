@@ -1,0 +1,20 @@
+<sentence_list>
+	<dependency>(VP_AJT)--down--(AP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D106">
+		<sent><![CDATA[권상우는 대전에서 태어나 2001년 MBC_TV 드라마 《맛있는_청혼》으로 데뷔하였다.]]></sent>
+		<sbj label="VP_AJT" josa="으로">
+			<sbj_text><![CDATA[맛있는_청혼]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="AP" josa="">
+			<obj_text><![CDATA[MBC_TV]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.472">channel</mln_predict>
+		<cnn_predict conf="0.869">channel</cnn_predict>
+		<gsdp>(VP_AJT)--down--(AP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

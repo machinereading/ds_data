@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3972">
+		<sent><![CDATA[화왕산 억새태우기는 경상남도 창녕군 옥천리에 있는 화왕산에서 정월대보름을 맞아 달집살기, 억새 태우기 등을 하며 소원을 비는 행사였다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[화왕산]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="2.09">NaturalPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[경상남도]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.494">locatedInArea</mln_predict>
+		<cnn_predict conf="0.360">locatedInArea</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[있는--옥천리에--창녕군]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

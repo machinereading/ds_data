@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(AP)--up--VP_MOD--up--VNP--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D686">
+		<sent><![CDATA[아코 선은 일본 효고 현 아이오이 시에 있는 아이오이_역_(효고_현)에서 오카야마 현 오카야마 시 나카 구에 있는 히가시오카야마 역까지를 잇는 서일본_여객철도의 철도 노선이다.]]></sent>
+		<sbj label="AP" josa="">
+			<sbj_text><![CDATA[아이오이_역_(효고_현)]]></sbj_text>
+			<arg_type weight="0.09">Place</arg_type>
+			<arg_type weight="0.31">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.42">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[서일본_여객철도]]></obj_text>
+		</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.861">owningOrganisation</mln_predict>
+		<cnn_predict conf="0.956">owningOrganisation</cnn_predict>
+		<gsdp>(AP)--up--VP_MOD--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[잇는--노선이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

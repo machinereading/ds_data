@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP_SBJ--down--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1769">
+		<sent><![CDATA[목관 5중주는 플루트, 클라리넷, 오보에, 바순, 호른이 합주하는 형태를 일컫는다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[클라리넷]]></sbj_text>
+			<arg_type weight="3.03">Device</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[오보에]]></obj_text>
+			<arg_type weight="1.14">Device</arg_type>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.993">related</mln_predict>
+		<cnn_predict conf="0.709">related</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_SBJ--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[호른이]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

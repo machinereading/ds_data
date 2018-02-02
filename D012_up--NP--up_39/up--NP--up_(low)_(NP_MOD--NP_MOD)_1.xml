@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP--up--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3913">
+		<sent><![CDATA[순명효황후의 친정은 윤훤의 형 윤방의 후손이고, 윤치호, 윤보선 등은 윤훤의 둘째 형 윤흔의 후손들로 먼 일가였다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[윤훤]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+			<arg_type weight="-0.02">Person</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[윤방]]></obj_text>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.668">relative</mln_predict>
+		<cnn_predict conf="0.772">relative</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[형]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

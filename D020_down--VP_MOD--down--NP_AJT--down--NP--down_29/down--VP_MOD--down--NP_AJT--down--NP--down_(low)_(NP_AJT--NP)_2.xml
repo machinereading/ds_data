@@ -1,0 +1,40 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_D1015">
+		<sent><![CDATA[그는 두 번의 UEFA 챔피언스리그 결승전에서 득점한 첫 선수로도 기록되었는데, 생드니 스타드 드 프랑스에서 벌어진 발렌시아 CF와의 2000 UEFA 챔피언스리그 결승전과 글래스고 햄던 파크에서 벌어진 바이어 04 레버쿠젠과의 2002_UEFA_챔피언스리그_결승전에 골을 기록했다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[2002_UEFA_챔피언스리그_결승전]]></sbj_text>
+			<arg_type weight="0.15">Event</arg_type>
+			<arg_type weight="0.15">SocietalEvent</arg_type>
+			<arg_type weight="0.66">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[글래스고]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.561">team</mln_predict>
+		<cnn_predict conf="0.481">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[벌어진--파크에서--햄던]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1303">
+		<sent><![CDATA[제3호위대군은 교토_부 마이즈루 시에 위치한 마이즈루_기지에 있는 해상자위대 호위함대 예하 호위대군이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[마이즈루_기지]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[교토_부]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.487">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[위치한--시에--마이즈루]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

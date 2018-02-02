@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP--down--VP--down--(NP_OBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2873">
+		<sent><![CDATA[동년 7월 서경원은 비밀리에 조선민주주의인민공화국을 방문해 주석 김일성을 만났다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[김일성]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+			<arg_type weight="0.68">Politician</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="을">
+			<obj_text><![CDATA[조선민주주의인민공화국]]></obj_text>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.812">birthPlace</mln_predict>
+		<cnn_predict conf="0.665">deathPlace</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--VP--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[만났다.--방문해]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

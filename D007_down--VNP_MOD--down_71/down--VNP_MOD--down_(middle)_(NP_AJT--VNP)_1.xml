@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--VNP_MOD--down--(VNP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3068">
+		<sent><![CDATA[이듬해인 2004년 3월 27일 세이부 돔에서 열린 원정 개막전 클린업 타자로 선발 출장, 상대 투수는 사이타마 세이부 라이온스의 대표적인 에이스 투수이자 ‘괴물 투수’인 마쓰자카_다이스케로부터 2루타를 기록했다.]]></sent>
+		<sbj label="NP_AJT" josa="로부터">
+			<sbj_text><![CDATA[마쓰자카_다이스케]]></sbj_text>
+			<arg_type weight="0.28">Agent</arg_type>
+			<arg_type weight="0.36">Person</arg_type>
+			<arg_type weight="1.04">Athlete</arg_type>
+		</sbj>
+		<obj label="VNP" josa="">
+			<obj_text><![CDATA[투수]]></obj_text>
+		</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.992">team</mln_predict>
+		<cnn_predict conf="0.669">position</cnn_predict>
+		<gsdp>(NP_AJT)--down--VNP_MOD--down--(VNP)</gsdp>
+		<gsdp_lemma><![CDATA[투수’인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

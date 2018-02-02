@@ -1,0 +1,65 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--(NP_MOD)</dependency>
+	<total>3</total>
+	<sent_item id="M_D3579">
+		<sent><![CDATA[스페인은 이후 6월 29일에 독일_축구_국가대표팀과의 UEFA_유로_2008_결승전에서 1-0으로 이겨 우승을 거두었다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[UEFA_유로_2008_결승전]]></sbj_text>
+			<arg_type weight="0.47">Event</arg_type>
+			<arg_type weight="0.47">SocietalEvent</arg_type>
+			<arg_type weight="1.70">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[독일_축구_국가대표팀]]></obj_text>
+			<arg_type weight="0.98">Event</arg_type>
+			<arg_type weight="0.98">SocietalEvent</arg_type>
+			<arg_type weight="1.30">SportsEvent</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.997">team</mln_predict>
+		<cnn_predict conf="0.707">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D953">
+		<sent><![CDATA[이는 빌보드 200에서 가장 많은 판매량을 기록한 K-pop 음반이자 역대 최고 순위로, 이전의 빅뱅의 EP 음반 "Alive"과 소녀시대-태티서의 EP 음반 "Twinkle"에 이은 기록이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[Twinkle]]></sbj_text>
+			<arg_type weight="0.55">Work</arg_type>
+			<arg_type weight="2.57">MusicalWork</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[소녀시대-태티서]]></obj_text>
+			<arg_type weight="0.48">Agent</arg_type>
+			<arg_type weight="0.43">Organisation</arg_type>
+			<arg_type weight="2.38">Group</arg_type>
+		</obj>
+		<gold>artist</gold>
+		<mln_predict conf="0.994">artist</mln_predict>
+		<cnn_predict conf="0.275">artist</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3201">
+		<sent><![CDATA[2001년 TV 방송사인 VH1에서는 이 음반을 3위, 또한 롤링 스톤에서 발표한 역사상 가장 위대한 500개의 음반 순위에서는 비틀즈의 《Sgt._Pepper's_Lonely_Hearts_Club_Band》에 이어 2위에 올랐다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[Sgt._Pepper's_Lonely_Hearts_Club_Band]]></sbj_text>
+			<arg_type weight="0.55">Work</arg_type>
+			<arg_type weight="2.57">MusicalWork</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[비틀즈]]></obj_text>
+			<arg_type weight="0.48">Agent</arg_type>
+			<arg_type weight="0.43">Organisation</arg_type>
+			<arg_type weight="2.38">Group</arg_type>
+		</obj>
+		<gold>artist</gold>
+		<mln_predict conf="0.939">artist</mln_predict>
+		<cnn_predict conf="0.320">genre</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,41 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--down--VNP_MOD--down--(NP_MOD)</dependency>
+	<total>2</total>
+	<sent_item id="M_D710">
+		<sent><![CDATA[2014년 3월 29일부터 MBC_스포츠플러스의 야구 하이라이트 프로그램인 베이스볼_투나잇을 진행하고 있다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[베이스볼_투나잇]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[MBC_스포츠플러스]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.289">location</cnn_predict>
+		<gsdp>(NP_OBJ)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[프로그램인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2552">
+		<sent><![CDATA[5월 15일 볼턴_원더러스_FC의 감독이었던 샘_앨러다이스를 선임하였는데, 이것은 프레디 셰퍼드가 단장으로서 한 마지막 행보였다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[샘_앨러다이스]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[볼턴_원더러스_FC]]></obj_text>
+			<arg_type weight="0.14">Agent</arg_type>
+			<arg_type weight="0.35">Organisation</arg_type>
+			<arg_type weight="0.72">SportsTeam</arg_type>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.927">team</mln_predict>
+		<cnn_predict conf="0.503">team</cnn_predict>
+		<gsdp>(NP_OBJ)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[감독이었던]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

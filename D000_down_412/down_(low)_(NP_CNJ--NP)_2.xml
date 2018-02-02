@@ -1,0 +1,36 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_D879">
+		<sent><![CDATA[다만 프랑스인들이 새 영토를 자주 침범했기 때문에, 1516년에 마누엘 1세와 포르투갈 의회가 포르투갈령 아소르스_제도와 마데이라 제도에 카피타니아를 만들고 두 해마다 함대를 보내 정찰한 바 있으며, 브라질에도 정찰대가 네 번 다녀갔다.]]></sent>
+		<sbj label="NP_CNJ" josa="와">
+			<sbj_text><![CDATA[아소르스_제도]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[포르투갈]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.273">country</mln_predict>
+		<cnn_predict conf="0.310">country</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2768">
+		<sent><![CDATA[제너럴 모터스는 1990년 부터 일본(닛산, 토요타_자동차)과 독일에서 미국으로 수입되는 소형차에 대항하기 위해 새턴 상표로 자동차를 생산하기 시작했다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[토요타_자동차]]></sbj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="1.12">Organisation</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[일본]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.255">location</mln_predict>
+		<cnn_predict conf="0.608">location</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

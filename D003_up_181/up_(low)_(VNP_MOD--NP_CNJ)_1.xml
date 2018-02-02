@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(VNP_MOD)--up--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2537">
+		<sent><![CDATA[2014년 11월 일본_프로_야구팀인 요미우리_자이언츠와 1년 연봉 70만 달러로 계약하여 입단했다.]]></sent>
+		<sbj label="VNP_MOD" josa="">
+			<sbj_text><![CDATA[일본_프로_야구]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="-0.11">Organisation</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="와">
+			<obj_text><![CDATA[요미우리_자이언츠]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.321">location</mln_predict>
+		<cnn_predict conf="0.379">position</cnn_predict>
+		<gsdp>(VNP_MOD)--up--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--down--(VNP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2901">
+		<sent><![CDATA[이 상은 야구 명예의 전당에 헌액된 투수인 사이_영을 기리기 위해 1956년 커미셔너 포드 프릭에 의해 만들어졌다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[사이_영]]></sbj_text>
+			<arg_type weight="0.28">Agent</arg_type>
+			<arg_type weight="0.36">Person</arg_type>
+			<arg_type weight="1.04">Athlete</arg_type>
+		</sbj>
+		<obj label="VNP_MOD" josa="">
+			<obj_text><![CDATA[투수]]></obj_text>
+		</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.395">birthPlace</mln_predict>
+		<cnn_predict conf="0.609">position</cnn_predict>
+		<gsdp>(NP_OBJ)--down--(VNP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

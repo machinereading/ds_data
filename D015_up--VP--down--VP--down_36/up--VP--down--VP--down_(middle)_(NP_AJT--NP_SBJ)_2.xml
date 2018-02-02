@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--VP--down--(NP_SBJ)</dependency>
+	<total>2</total>
+	<sent_item id="M_D4091">
+		<sent><![CDATA[5월 20일 장도영이 내각수반이 되면서 박정희는 군사혁명위원회 의장에 취임하여 혁명위원회를 국가재건최고회의로 개편한다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[국가재건최고회의]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="는">
+			<obj_text><![CDATA[박정희]]></obj_text>
+			<arg_type weight="0.04">Agent</arg_type>
+			<arg_type weight="0.54">Person</arg_type>
+			<arg_type weight="0.37">Politician</arg_type>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.629">leaderName</mln_predict>
+		<cnn_predict conf="0.773">deathPlace</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[개편한다.--취임하여]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D684">
+		<sent><![CDATA[대나라 왕으로 봉해진 시기에는 이설이 있어서, 《사기》의 오왕비열전과 고조본기에서는 전한_고제가 흉노와 싸워 백등산_포위전에서 곤궁에 처했다가 겨우 빠져나오고서, 고제 7년에 대나라 왕으로 봉했다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[백등산_포위전]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[전한_고제]]></obj_text>
+			<arg_type weight="0.34">Agent</arg_type>
+			<arg_type weight="0.86">Person</arg_type>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.961">commander</mln_predict>
+		<cnn_predict conf="0.321">commander</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[처했다가--싸워]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

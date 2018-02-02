@@ -1,0 +1,163 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--VNP_MOD--down--(NP_MOD)</dependency>
+	<total>9</total>
+	<sent_item id="M_D2906">
+		<sent><![CDATA[음바예 바바카르 니앙은 현재 프리미어리그의 구단인 왓퍼드_FC에서 활약하고 있는 프랑스의 축구 선수이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[왓퍼드_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[프리미어리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.966">league</mln_predict>
+		<cnn_predict conf="0.649">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[구단인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1953">
+		<sent><![CDATA[2010년 6월 제노아 CFC에서 이적해 현재 러시아_프리미어리그의 명문 클럽인 FC_제니트_상트페테르부르크에서 뛰고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[FC_제니트_상트페테르부르크]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[러시아_프리미어리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">league</mln_predict>
+		<cnn_predict conf="0.754">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[클럽인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2362">
+		<sent><![CDATA[아드리안 두미트루 포파는 풋볼_리그_챔피언십의 소속 팀인 레딩_FC에서 미드필더으로 활약하고 있는 루마니아의 축구 선수이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[레딩_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[풋볼_리그_챔피언십]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.808">position</mln_predict>
+		<cnn_predict conf="0.538">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[팀인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3581">
+		<sent><![CDATA[그러나 이듬해인 덴쇼 11년 가쓰이에는 도요토미_히데요시와의 싸움인 시즈가타케_전투에서 패하여 자결하였고, 오이치 또한 남편의 뒤를 따라 스스로 목숨을 끊었다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[시즈가타케_전투]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[도요토미_히데요시]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.387">commander</mln_predict>
+		<cnn_predict conf="0.483">commander</cnn_predict>
+		<gsdp>(NP_AJT)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[싸움인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3187">
+		<sent><![CDATA[굿모닝FM은 문화방송의 FM 음악전문 라디오 방송인 MBC_FM4U에서 아침 7시부터 오전 9시까지 방송되는 아침 정보 라디오 프로그램이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[MBC_FM4U]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[문화방송]]></obj_text>
+			<arg_type weight="0.81">Agent</arg_type>
+			<arg_type weight="1.05">Organisation</arg_type>
+		</obj>
+		<gold>owner</gold>
+		<mln_predict conf="0.662">owner</mln_predict>
+		<cnn_predict conf="0.450">channel</cnn_predict>
+		<gsdp>(NP_AJT)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[방송인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D4044">
+		<sent><![CDATA[라카완은 서네그로스_주의 주도인 바콜로드에서 북쪽으로 약 48km 떨어져있다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[바콜로드]]></sbj_text>
+			<arg_type weight="0.68">Place</arg_type>
+			<arg_type weight="1.40">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[서네그로스_주]]></obj_text>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.921">region</mln_predict>
+		<cnn_predict conf="0.239">city</cnn_predict>
+		<gsdp>(NP_AJT)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[주도인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1804">
+		<sent><![CDATA[하지만 초반에는 당시 주전 레프트백인 잉글랜드_축구_국가대표팀의 레프트백인 애슐리_콜에게 밀려 첫 시즌은 후보로 보냈다.]]></sent>
+		<sbj label="NP_AJT" josa="에게">
+			<sbj_text><![CDATA[애슐리_콜]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[잉글랜드_축구_국가대표팀]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.470">position</mln_predict>
+		<cnn_predict conf="0.712">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[레프트백인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2076">
+		<sent><![CDATA[욘 다디 뵈드바르손은 풋볼_리그_챔피언십의 소속 구단인 울버햄프턴_원더러스_FC에서 활약하고 있는 아이슬란드의 축구 선수이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[울버햄프턴_원더러스_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[풋볼_리그_챔피언십]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.586">position</mln_predict>
+		<cnn_predict conf="0.576">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[구단인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3904">
+		<sent><![CDATA[또 2003년부터는 우크라이나_프리미어리그의 클럽인 FC_드니프로_드니프로페트로우스크에서 뛰기 시작해, 266번의 경기에 나서 12골을 넣었다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[FC_드니프로_드니프로페트로우스크]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[우크라이나_프리미어리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.744">position</mln_predict>
+		<cnn_predict conf="0.341">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[클럽인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,55 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP_MOD--down--(NP_CNJ)</dependency>
+	<total>3</total>
+	<sent_item id="M_D902">
+		<sent><![CDATA[용강서원은 조선 숙종 42년에 세워졌으며, 우암 송시열, 동춘 송준길, 시남 유계, 미호 김원행, 역천 송명흠의 강학활동이 이어졌던 금산 지역의 대표적인 서원으로 발전하였다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[송시열]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[송준길]]></obj_text>
+			<arg_type weight="0.94">Agent</arg_type>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.741">relative</mln_predict>
+		<cnn_predict conf="0.794">relative</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_MOD--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[송명흠의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2905">
+		<sent><![CDATA[그의 주요 상대는 판타스틱 4였으며, 스파이더맨, 닥터 스트레인지, 어벤저스, 엑스맨, 퍼니셔, 블레이드, 아이언맨, 캡틴_아메리카 그리고 실버 서퍼등의 상대들과도 자주 싸웠다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[캡틴_아메리카]]></sbj_text>
+			<arg_type weight="-0.12">Agent</arg_type>
+			<arg_type weight="-0.12">Person</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[어벤저스]]></obj_text>
+		</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.180">genre</mln_predict>
+		<cnn_predict conf="0.290">starring</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_MOD--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[서퍼등의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2047">
+		<sent><![CDATA[이조년의 형이자 이승경의 삼촌이고, 이인임, 이인복, 이인민, 이인립의 종조부이며 이숭인의 종고조부이다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[이인임]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+			<arg_type weight="-0.02">Person</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[이인민]]></obj_text>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.192">relative</mln_predict>
+		<cnn_predict conf="0.644">relative</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_MOD--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[이인립의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

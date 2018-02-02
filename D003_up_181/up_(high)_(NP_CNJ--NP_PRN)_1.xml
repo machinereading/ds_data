@@ -1,0 +1,25 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--(NP_PRN)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3851">
+		<sent><![CDATA[아웃사이더, 소울다이브(넋업샨, 지토, 디테오)]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[소울다이브]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_PRN" josa="">
+			<obj_text><![CDATA[디테오]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="1.000">currentMember</mln_predict>
+		<cnn_predict conf="0.228">currentMember</cnn_predict>
+		<gsdp>(NP_CNJ)--up--(NP_PRN)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

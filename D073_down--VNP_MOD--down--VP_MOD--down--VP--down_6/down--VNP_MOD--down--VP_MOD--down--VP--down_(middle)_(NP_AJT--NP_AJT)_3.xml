@@ -1,0 +1,58 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--VNP_MOD--down--VP_MOD--down--VP--down--(NP_AJT)</dependency>
+	<total>3</total>
+	<sent_item id="M_D1754">
+		<sent><![CDATA[보레크 도칼은 체코의 축구 선수이며, 현재 중국_슈퍼리그에 소속되어 있는 팀인 허난_젠예에서 활약하고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[허난_젠예]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[중국_슈퍼리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.846">position</mln_predict>
+		<cnn_predict conf="0.715">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--VNP_MOD--down--VP_MOD--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[팀인--있는--소속되어]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3965">
+		<sent><![CDATA[브릴 도날드 엠볼로는 푸스발-분데스리가에 소속되어 있는 팀인 FC_샬케_04에서 활약하고 있는 스위스의 축구 선수이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[FC_샬케_04]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[푸스발-분데스리가]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.764">league</mln_predict>
+		<cnn_predict conf="0.508">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--VNP_MOD--down--VP_MOD--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[팀인--있는--소속되어]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D313">
+		<sent><![CDATA[앤드류 필립 "앤디" 킹은 프리미어리그에 소속되어 있는 구단인 레스터_시티_FC에서 활약하고 있는 웨일스의 축구 선수이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[레스터_시티_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[프리미어리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.988">position</mln_predict>
+		<cnn_predict conf="0.428">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--VNP_MOD--down--VP_MOD--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[구단인--있는--소속되어]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

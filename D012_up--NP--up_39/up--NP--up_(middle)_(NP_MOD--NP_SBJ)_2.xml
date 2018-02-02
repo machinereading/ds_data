@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP--up--(NP_SBJ)</dependency>
+	<total>2</total>
+	<sent_item id="M_D2967">
+		<sent><![CDATA[샬리마르 정원은 무굴_제국의 황제 샤_자한이 파키스탄 라호르에 지은 정원이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[무굴_제국]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[샤_자한]]></obj_text>
+			<arg_type weight="0.04">Agent</arg_type>
+			<arg_type weight="0.54">Person</arg_type>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.997">leaderName</mln_predict>
+		<cnn_predict conf="0.665">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[황제]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1236">
+		<sent><![CDATA[12월 16일, 런던에 있던 자유_프랑스의 대통령 샤를_드_골은 영국의 총리 윈스턴 처칠에게 편지를 보내 자유 프랑스의 마다가스카르 해방 작전에 대해 지원을 촉구하는 편지를 보냈다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[자유_프랑스]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="은">
+			<obj_text><![CDATA[샤를_드_골]]></obj_text>
+			<arg_type weight="0.04">Agent</arg_type>
+			<arg_type weight="0.54">Person</arg_type>
+			<arg_type weight="0.37">Politician</arg_type>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.219">leaderName</mln_predict>
+		<cnn_predict conf="0.607">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[대통령]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

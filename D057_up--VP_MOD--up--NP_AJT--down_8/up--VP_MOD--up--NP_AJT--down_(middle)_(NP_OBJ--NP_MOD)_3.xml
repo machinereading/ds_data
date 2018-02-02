@@ -1,0 +1,64 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP_MOD--up--NP_AJT--down--(NP_MOD)</dependency>
+	<total>3</total>
+	<sent_item id="M_D3004">
+		<sent><![CDATA[우암선은 부산광역시의 부산진역에서 신선대역을 연결하는 한국철도공사의 철도 노선으로, 부산항의 인입철도 기능을 하는 화물 전용 노선이다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[신선대역]]></sbj_text>
+			<arg_type weight="0.09">Place</arg_type>
+			<arg_type weight="0.31">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.42">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[한국철도공사]]></obj_text>
+			<arg_type weight="0.25">Agent</arg_type>
+			<arg_type weight="0.55">Organisation</arg_type>
+		</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.708">owningOrganisation</mln_predict>
+		<cnn_predict conf="0.299">routeStart</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP_MOD--up--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[연결하는--노선으로,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3292">
+		<sent><![CDATA[북전주선은 전라북도 전주시의 동산역과 북전주역을 연결하는 한국철도공사의 철도 노선으로, 전라선의 지선이다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[북전주역]]></sbj_text>
+			<arg_type weight="0.09">Place</arg_type>
+			<arg_type weight="0.31">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.42">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[한국철도공사]]></obj_text>
+			<arg_type weight="0.25">Agent</arg_type>
+			<arg_type weight="0.55">Organisation</arg_type>
+		</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.960">owningOrganisation</mln_predict>
+		<cnn_predict conf="0.366">routeStart</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP_MOD--up--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[연결하는--노선으로,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3661">
+		<sent><![CDATA[울산항선은 울산광역시의 태화강역에서 울산항역까지를 잇는 총연장 4.6km인 한국철도공사의 철도 노선으로, 개통 당시에는 울산선이라 불렸다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[울산항역]]></sbj_text>
+			<arg_type weight="0.09">Place</arg_type>
+			<arg_type weight="0.31">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.42">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[한국철도공사]]></obj_text>
+			<arg_type weight="0.25">Agent</arg_type>
+			<arg_type weight="0.55">Organisation</arg_type>
+		</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="1.000">owningOrganisation</mln_predict>
+		<cnn_predict conf="0.376">owningOrganisation</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP_MOD--up--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[잇는--노선으로,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

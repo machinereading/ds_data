@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--VP_MOD--down--NP_AJT--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3159">
+		<sent><![CDATA[스웨덴 왕 칼_12세의 무리한 군사정책으로 시작된 대북방_전쟁에서 핀란드의 국토는 러시아의 대대적 침공으로 일대 타격을 입었다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[대북방_전쟁]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[칼_12세]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.915">commander</mln_predict>
+		<cnn_predict conf="0.666">commander</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[시작된--군사정책으로]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,38 @@
+<sentence_list>
+	<dependency>(NP)--down--NP_CNJ--down--NP--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_D966">
+		<sent><![CDATA[천황산은 대한민국 경상남도 밀양시와 울산광역시 울주군의 경계에 있는 높이 1,189m의 산이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[울산광역시]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.765">country</mln_predict>
+		<cnn_predict conf="0.778">country</cnn_predict>
+		<gsdp>(NP)--down--NP_CNJ--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[밀양시와--경상남도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D945">
+		<sent><![CDATA[대구한의대학교은 1980년에 설립된 및 대한민국 경상북도 경산시 및 대구광역시 수성구 에 위치한 사립 종합 대학교이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[대구광역시]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.318">country</mln_predict>
+		<cnn_predict conf="0.610">country</cnn_predict>
+		<gsdp>(NP)--down--NP_CNJ--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[경산시--경상북도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

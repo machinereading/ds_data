@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP_MOD--up--(VNP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3629">
+		<sent><![CDATA[대서양수염상어는 수염상어목의 너스상어과의 상어이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[수염상어목]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="VNP" josa="">
+			<obj_text><![CDATA[상어]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="0.824">class</mln_predict>
+		<cnn_predict conf="0.512">order</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_MOD--up--(VNP)</gsdp>
+		<gsdp_lemma><![CDATA[너스상어과의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

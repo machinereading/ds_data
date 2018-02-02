@@ -1,0 +1,40 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP--down--VP_MOD--down--(NP_AJT)</dependency>
+	<total>2</total>
+	<sent_item id="M_D3202">
+		<sent><![CDATA[1900년 하계 올림픽 요트는 프랑스 파리_(도시)에서 개최된 1900년_하계_올림픽의 경기 종목이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[1900년_하계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="">
+			<obj_text><![CDATA[파리_(도시)]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.991">city</mln_predict>
+		<cnn_predict conf="0.529">location</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[종목이다.--개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3231">
+		<sent><![CDATA[《Punishment》는 2009년 3월 16일에 GMC_레코드에서 발매된 나인씬의 디지털 싱글이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[나인씬]]></sbj_text>
+			<arg_type weight="-0.12">Agent</arg_type>
+			<arg_type weight="0.10">Organisation</arg_type>
+			<arg_type weight="1.11">Group</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[GMC_레코드]]></obj_text>
+		</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.313">owningOrganisation</mln_predict>
+		<cnn_predict conf="0.649">artist</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[싱글이다.--발매된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,46 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP_MOD--up--(NP_AJT)</dependency>
+	<total>2</total>
+	<sent_item id="M_D4095">
+		<sent><![CDATA[1964년, 후에 스타 플레이어로 활약하는 프란츠 베켄바워, 제프_마이어가 있는 FC_바이에른_뮌헨에 입단하였다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[제프_마이어]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[FC_바이에른_뮌헨]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.646">team</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP_MOD--up--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[있는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1607">
+		<sent><![CDATA[그는 2006년 8월 31일 터키 쉬페르리그의 갈라타사라이 SK로 이적하였고, 2007년 5월 29일 일본 축구 국가대표팀 동료인 다카하라_나오히로가 있는 독일 분데스리가의 아인트라흐트_프랑크푸르트로 다시 이적하였다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[다카하라_나오히로]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="로">
+			<obj_text><![CDATA[아인트라흐트_프랑크푸르트]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.831">team</mln_predict>
+		<cnn_predict conf="0.342">league</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP_MOD--up--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[있는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

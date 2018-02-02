@@ -1,0 +1,42 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--(NP_SBJ)</dependency>
+	<total>2</total>
+	<sent_item id="M_D312">
+		<sent><![CDATA[동생 호아킨_피닉스와 서머_피닉스도 영화 배우로 활동하고 있다.]]></sent>
+		<sbj label="NP_CNJ" josa="와">
+			<sbj_text><![CDATA[호아킨_피닉스]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+			<arg_type weight="-0.02">Person</arg_type>
+			<arg_type weight="-0.22">Artist</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="도">
+			<obj_text><![CDATA[서머_피닉스]]></obj_text>
+			<arg_type weight="0.94">Agent</arg_type>
+			<arg_type weight="0.92">Person</arg_type>
+			<arg_type weight="-0.29">Artist</arg_type>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.622">starring</mln_predict>
+		<cnn_predict conf="0.628">starring</cnn_predict>
+		<gsdp>(NP_CNJ)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1184">
+		<sent><![CDATA[이 전투에서 포트_헨리_전투와 포트 도넬슨 전투에서 승리를 이끌었던 유능한 사령관 율리시스_그랜트가 이끄는 북군이 승리해 그랜트 장군의 유능함이 증명되었다.]]></sent>
+		<sbj label="NP_CNJ" josa="와">
+			<sbj_text><![CDATA[포트_헨리_전투]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[율리시스_그랜트]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="1.000">commander</mln_predict>
+		<cnn_predict conf="0.947">commander</cnn_predict>
+		<gsdp>(NP_CNJ)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

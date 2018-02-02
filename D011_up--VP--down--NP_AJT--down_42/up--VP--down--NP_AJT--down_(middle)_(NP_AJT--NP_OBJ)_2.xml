@@ -1,0 +1,38 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_OBJ)</dependency>
+	<total>2</total>
+	<sent_item id="M_D2717">
+		<sent><![CDATA[혼다 다다카쓰는 전국시대의 다이묘 중 한 명인, 다케다_신겐을 상대로 미카타가하라_전투에서 눈부신 활약을 했으며 궁지에 몰린 자신의 주군 도쿠가와 이에야스를 구하기도 했다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[미카타가하라_전투]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="을">
+			<obj_text><![CDATA[다케다_신겐]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.719">commander</mln_predict>
+		<cnn_predict conf="0.721">commander</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[했으며--상대로]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D848">
+		<sent><![CDATA[요새는 서기 193년 셉티미우스 세베루스가 설립하였으나, 밀비우스_다리_전투에서 콘스탄티누스 1세가 막센티우스를 상대로 승리를 거두고 나자 근위대는 폐지되고 요새는 헐려 버렸다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[밀비우스_다리_전투]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="를">
+			<obj_text><![CDATA[막센티우스]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.915">commander</mln_predict>
+		<cnn_predict conf="0.457">commander</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[거두고--상대로]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

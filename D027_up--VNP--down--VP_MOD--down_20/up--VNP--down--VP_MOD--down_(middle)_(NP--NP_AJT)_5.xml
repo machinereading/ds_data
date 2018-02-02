@@ -1,0 +1,99 @@
+<sentence_list>
+	<dependency>(NP)--up--VNP--down--VP_MOD--down--(NP_AJT)</dependency>
+	<total>5</total>
+	<sent_item id="M_D3663">
+		<sent><![CDATA[시마이티스티스과는 나비목에 속하는 이문류 나방 과이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[나방]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[나비목]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.724">order</cnn_predict>
+		<gsdp>(NP)--up--VNP--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[과이다.--속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1677">
+		<sent><![CDATA[악어도마뱀과는 뱀목에 속하는 무족도마뱀류 과이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[무족도마뱀류]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[뱀목]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.892">order</cnn_predict>
+		<gsdp>(NP)--up--VNP--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[과이다.--속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3950">
+		<sent><![CDATA[집나방상과는 나비목에 속하는 이문류 나방 상과이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[나방]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[나비목]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.791">order</cnn_predict>
+		<gsdp>(NP)--up--VNP--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[상과이다.--속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1319">
+		<sent><![CDATA[마다가스카르이구아나과는 뱀목에 속하는 이구아나류 도마뱀 과이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[도마뱀]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[뱀목]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.811">order</cnn_predict>
+		<gsdp>(NP)--up--VNP--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[과이다.--속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3618">
+		<sent><![CDATA[안경도마뱀과는 뱀목에 속하는 도마뱀 과이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[도마뱀]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[뱀목]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.847">order</cnn_predict>
+		<gsdp>(NP)--up--VNP--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[과이다.--속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

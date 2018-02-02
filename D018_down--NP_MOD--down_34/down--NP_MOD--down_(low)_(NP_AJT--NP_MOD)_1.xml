@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--NP_MOD--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D637">
+		<sent><![CDATA[8월 초순에는 제1친위 전차군, 제8 친위군, 제70군으로 이루어진 정예부대가 바르샤바의 맞은편의 비스와_강에 도달하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[비스와_강]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[바르샤바]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.302">location</mln_predict>
+		<cnn_predict conf="0.253">deathPlace</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[맞은편의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

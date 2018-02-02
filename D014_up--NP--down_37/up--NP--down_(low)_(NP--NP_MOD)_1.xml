@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D992">
+		<sent><![CDATA[남부순환도로는 대한민국의 울산광역시 남구 무거동에서 시작하여, 선암동을 거쳐 연결하는 도로이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[울산광역시]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.627">country</mln_predict>
+		<cnn_predict conf="0.820">country</cnn_predict>
+		<gsdp>(NP)--up--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[남구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

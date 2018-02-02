@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--VNP_MOD--down--VP_MOD--down--VP--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2881">
+		<sent><![CDATA[풋볼_리그_챔피언십에 참여하고 있는 클럽인 풀럼_FC의 홈구장으로 사용되고 있다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[풀럼_FC]]></sbj_text>
+			<arg_type weight="0.28">Agent</arg_type>
+			<arg_type weight="0.34">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[풋볼_리그_챔피언십]]></obj_text>
+		</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.818">league</mln_predict>
+		<cnn_predict conf="0.450">team</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--VP_MOD--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[클럽인--있는--참여하고]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

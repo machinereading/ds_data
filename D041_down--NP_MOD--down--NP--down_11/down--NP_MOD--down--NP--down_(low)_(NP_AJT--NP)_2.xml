@@ -1,0 +1,36 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--NP_MOD--down--NP--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_D66">
+		<sent><![CDATA[바치카토폴라는 세르비아 보이보디나 자치주의 북바치카_구에 위치한 도시로 면적은 596㎢, 인구는 33,321명이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[북바치카_구]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[세르비아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.425">region</mln_predict>
+		<cnn_predict conf="0.966">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_MOD--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[자치주의--보이보디나]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D217">
+		<sent><![CDATA[마르티네스는 1979년 스페인 카스티야이레온 지방의 팔렌시아에서 태어났다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[팔렌시아]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[스페인]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.609">region</mln_predict>
+		<cnn_predict conf="0.407">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_MOD--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[지방의--카스티야이레온]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

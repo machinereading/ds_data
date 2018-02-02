@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP)--down--NP_MOD--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1875">
+		<sent><![CDATA[요테이 산은 일본 홋카이도의 도야_호 북쪽에 있는 눈덮힌 성층 화산으로, 잠재적인 활화산이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[도야_호]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="-0.29">NaturalPlace</arg_type>
+			<arg_type weight="0.12">BodyOfWater</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[일본]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.686">country</mln_predict>
+		<cnn_predict conf="0.739">country</cnn_predict>
+		<gsdp>(NP)--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[홋카이도의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

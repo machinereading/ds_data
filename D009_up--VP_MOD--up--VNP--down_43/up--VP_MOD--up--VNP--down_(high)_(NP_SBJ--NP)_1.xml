@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP_MOD--up--VNP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1790">
+		<sent><![CDATA[이파네마에서 온 소녀는 브라질의 안토니우_카를루스_조빙이 1962년에 작곡한 보사노바 노래이다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[안토니우_카를루스_조빙]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.11">Person</arg_type>
+			<arg_type weight="0.43">Artist</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[보사노바]]></obj_text>
+			<arg_type weight="2.32">TopicalConcept</arg_type>
+			<arg_type weight="2.32">Genre</arg_type>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.501">genre</mln_predict>
+		<cnn_predict conf="0.297">currentMember</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP_MOD--up--VNP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[작곡한--노래이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

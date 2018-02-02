@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP_AJT--down--NP_CNJ--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D136">
+		<sent><![CDATA[타톤은 미얀마 남부, 몬_주의 도시로 테나시림 평야에 위치한다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[몬_주]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[미얀마]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.554">country</mln_predict>
+		<cnn_predict conf="0.908">country</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--down--NP_CNJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[도시로--남부,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--NP_OBJ--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3388">
+		<sent><![CDATA[반면 새로운 선수로 가장 먼저 인천_유나이티드_FC로부터 베테랑 미드필더 김태수_(축구_선수)를 영입했다.]]></sent>
+		<sbj label="NP_AJT" josa="">
+			<sbj_text><![CDATA[김태수_(축구_선수)]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="로부터">
+			<obj_text><![CDATA[인천_유나이티드_FC]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.613">club</mln_predict>
+		<cnn_predict conf="0.538">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_OBJ--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[영입했다.--김태수_(축구_선수)를]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,20 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--NP_CNJ--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2439">
+		<sent><![CDATA[목관악기: 플루트3(하나는 피콜로 겸함), 오보에3, 클라리넷3, 바순3]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[피콜로]]></sbj_text>
+			<arg_type weight="3.03">Device</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="는">
+			<obj_text><![CDATA[플루트]]></obj_text>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.805">related</mln_predict>
+		<cnn_predict conf="0.221">related</cnn_predict>
+		<gsdp>(NP_AJT)--up--NP_CNJ--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[겸함),]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

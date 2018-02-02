@@ -1,0 +1,254 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--VP--down--(NP_AJT)</dependency>
+	<total>13</total>
+	<sent_item id="M_D1851">
+		<sent><![CDATA[PSV_에인트호번에서 함께하였고, 신임 감독으로 부임한 필립_코퀴와 다시 만나게 되었다.]]></sent>
+		<sbj label="NP_AJT" josa="와">
+			<sbj_text><![CDATA[필립_코퀴]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[PSV_에인트호번]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.856">team</mln_predict>
+		<cnn_predict conf="0.580">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[만나게--함께하였고,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3812">
+		<sent><![CDATA[2006년 6월 16일, 그는 €12M의 금액에 아틀레티코_마드리드로 이적하였고, 공격수 데미스_니콜라이디스에 이어 아틀레티코에 입단한 두 번째 그리스 선수가 되었다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[데미스_니콜라이디스]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="로">
+			<obj_text><![CDATA[아틀레티코_마드리드]]></obj_text>
+			<arg_type weight="0.14">Agent</arg_type>
+			<arg_type weight="0.35">Organisation</arg_type>
+			<arg_type weight="0.72">SportsTeam</arg_type>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.964">team</mln_predict>
+		<cnn_predict conf="0.606">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[이어--이적하였고,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3213">
+		<sent><![CDATA[복시치는 20세 때, 이비차 오심이 이끄는 1990년 FIFA 월드컵 유고슬라비아_축구_국가대표팀에 발탁되었으나, 즐라트코 부요비치와 다르코_판체프에 가려져 기회를 잡지 못했다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[다르코_판체프]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[유고슬라비아_축구_국가대표팀]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.695">team</mln_predict>
+		<cnn_predict conf="0.695">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[가려져--발탁되었으나,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2669">
+		<sent><![CDATA[이는 첫 FIFA 월드컵 우승국인 우루과이_축구_국가대표팀로 부터 시작되며 우루과이의 주장인 호세_나사시에서 이름을 따 왔다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[호세_나사시]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="로">
+			<obj_text><![CDATA[우루과이_축구_국가대표팀]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.300">deathPlace</mln_predict>
+		<cnn_predict conf="0.734">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[따--시작되며]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3166">
+		<sent><![CDATA[2015년 7월 16일, 호비뉴는 같은 국적 루이스 펠리피 스콜라리가 이끄는 중국 슈퍼리그의 광저우_헝다_타오바오와 6개월 계약을 맺었고, 전 국가대표팀 동료 파울리뉴와 동행하게 되었다.]]></sent>
+		<sbj label="NP_AJT" josa="와">
+			<sbj_text><![CDATA[파울리뉴]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="와">
+			<obj_text><![CDATA[광저우_헝다_타오바오]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.958">team</mln_predict>
+		<cnn_predict conf="0.305">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[동행하게--맺었고,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D834">
+		<sent><![CDATA[2011년 수원_삼성_블루윙즈로 이적하였으나, 정성룡, 양동원에게 밀려 출전하지 못하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에게">
+			<sbj_text><![CDATA[양동원]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="로">
+			<obj_text><![CDATA[수원_삼성_블루윙즈]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.515">team</mln_predict>
+		<cnn_predict conf="0.469">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[밀려--이적하였으나,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3207">
+		<sent><![CDATA[1933년에는 이스탄불 대학교 수학과에서 잠시 재직하다 1937년 독일 괴팅겐으로 건너가 괴팅겐_대학교에서 박사 학위를 취득하고 헬무트 하세와 함께 연구하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[괴팅겐_대학교]]></sbj_text>
+			<arg_type weight="-0.23">Agent</arg_type>
+			<arg_type weight="0.35">Organisation</arg_type>
+			<arg_type weight="2.11">EducationalInstitution</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="으로">
+			<obj_text><![CDATA[괴팅겐]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.399">city</mln_predict>
+		<cnn_predict conf="0.362">city</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[취득하고--건너가]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1391">
+		<sent><![CDATA[곤충은 날개의 유무에 따라 무시아강과 유시아강으로 나뉘며 또한 유시아강은 날개가 완전히 접히지 않는 고시하강와 날개가 완전히 접히는 신시하강로 분류한다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[신시하강]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="으로">
+			<obj_text><![CDATA[유시아강]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="0.942">class</mln_predict>
+		<cnn_predict conf="0.437">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[분류한다.--나뉘며]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1472">
+		<sent><![CDATA[1999년에는 테러를 일으켜 아르가냐부통령을 죽이고, 아르헨티나로 도주해 아르헨티나 대통령인 카를로스_메넴과 친구관계를 맺게 되었다.]]></sent>
+		<sbj label="NP_AJT" josa="과">
+			<sbj_text><![CDATA[카를로스_메넴]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+			<arg_type weight="0.68">Politician</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="로">
+			<obj_text><![CDATA[아르헨티나]]></obj_text>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="1.000">birthPlace</mln_predict>
+		<cnn_predict conf="0.403">deathPlace</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[맺게--도주해]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D738">
+		<sent><![CDATA[북제는 이후 북주에 흡수되고, 북주는 왕실 외척인 수_문제에 의해 수나라로 국호를 바꾸게 된다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[수나라]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[수_문제]]></obj_text>
+			<arg_type weight="0.04">Agent</arg_type>
+			<arg_type weight="0.54">Person</arg_type>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.903">leaderName</mln_predict>
+		<cnn_predict conf="0.853">deathPlace</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[바꾸게--의해]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D936">
+		<sent><![CDATA[2008년 한남대학교를 졸업하고 내셔널리그_(대한민국)의 창원시청_축구단에 입단하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[창원시청_축구단]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="">
+			<obj_text><![CDATA[내셔널리그_(대한민국)]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.748">league</mln_predict>
+		<cnn_predict conf="0.418">league</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[입단하였다.--졸업하고]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1208">
+		<sent><![CDATA[1995년 NBA의 캐나다 진출 정책의 일환으로 토론토 랩터스와 함께 창단 되었지만, 2001년 연고지를 미국 테네시 주 멤피스_(테네시_주) (멤피스_그리즐리스)로 이전했다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[멤피스_그리즐리스]]></sbj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="1.12">Organisation</arg_type>
+			<arg_type weight="-0.63">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="">
+			<obj_text><![CDATA[멤피스_(테네시_주)]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.480">location</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[이전했다.--되었지만,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3525">
+		<sent><![CDATA[이와 동시에 기점이 대전역에서 대전조차장역으로 변경되었고 대전역-서대전역 구간이 대전선으로 변경되었다.]]></sent>
+		<sbj label="NP_AJT" josa="으로">
+			<sbj_text><![CDATA[대전선]]></sbj_text>
+			<arg_type weight="0.23">Place</arg_type>
+			<arg_type weight="0.41">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.48">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[대전역]]></obj_text>
+			<arg_type weight="0.38">Place</arg_type>
+			<arg_type weight="1.15">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.18">Infrastructure</arg_type>
+		</obj>
+		<gold>routeStart</gold>
+		<mln_predict conf="0.834">routeStart</mln_predict>
+		<cnn_predict conf="0.595">routeStart</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[변경되었다.--변경되었고]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

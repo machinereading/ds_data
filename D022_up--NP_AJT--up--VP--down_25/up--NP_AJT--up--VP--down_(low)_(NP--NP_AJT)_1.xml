@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_AJT--up--VP--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2214">
+		<sent><![CDATA[2008년 기준으로 이용객 수가 1,300만명 이상으로 브라질에서 상파울루_구아룰류스_국제공항 다음으로 많다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[상파울루_구아룰류스_국제공항]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[브라질]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.364">locatedInArea</mln_predict>
+		<cnn_predict conf="0.532">location</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[다음으로--많다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

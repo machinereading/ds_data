@@ -1,0 +1,118 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--down--(NP)</dependency>
+	<total>6</total>
+	<sent_item id="M_D682">
+		<sent><![CDATA[《인수대비_(드라마)》 (JTBC, 2011년~2012년 배우:이영후)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[인수대비_(드라마)]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[JTBC]]></obj_text>
+			<arg_type weight="0.32">Agent</arg_type>
+			<arg_type weight="1.24">Organisation</arg_type>
+			<arg_type weight="6.41">Company</arg_type>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.671">channel</cnn_predict>
+		<gsdp>(NP)--up--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[배우:이영후)]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2507">
+		<sent><![CDATA[《인수대비_(드라마)》 (JTBC, 2011년~2012년 배우:박규점)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[인수대비_(드라마)]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[JTBC]]></obj_text>
+			<arg_type weight="0.32">Agent</arg_type>
+			<arg_type weight="1.24">Organisation</arg_type>
+			<arg_type weight="6.41">Company</arg_type>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.653">channel</cnn_predict>
+		<gsdp>(NP)--up--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[배우:박규점)]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1281">
+		<sent><![CDATA[《인수대비_(드라마)》 (JTBC, 2011년~2012년 배우:맹상훈)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[인수대비_(드라마)]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[JTBC]]></obj_text>
+			<arg_type weight="0.32">Agent</arg_type>
+			<arg_type weight="1.24">Organisation</arg_type>
+			<arg_type weight="6.41">Company</arg_type>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.684">channel</cnn_predict>
+		<gsdp>(NP)--up--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[배우:맹상훈)]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D504">
+		<sent><![CDATA[《태왕사신기》 (MBC TV, 2007년~2007년, 배우:배용준, 유승호)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[태왕사신기]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[배용준]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.142">artist</mln_predict>
+		<cnn_predict conf="0.988">starring</cnn_predict>
+		<gsdp>(NP)--up--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[유승호)]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3128">
+		<sent><![CDATA[《인수대비_(드라마)》 (JTBC, 2011년~2012년 배우:박탐희)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[인수대비_(드라마)]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[JTBC]]></obj_text>
+			<arg_type weight="0.32">Agent</arg_type>
+			<arg_type weight="1.24">Organisation</arg_type>
+			<arg_type weight="6.41">Company</arg_type>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.672">channel</cnn_predict>
+		<gsdp>(NP)--up--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[배우:박탐희)]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2502">
+		<sent><![CDATA[《인수대비_(드라마)》 (JTBC, 2011년~2012년 배우:한인수)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[인수대비_(드라마)]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[JTBC]]></obj_text>
+			<arg_type weight="0.32">Agent</arg_type>
+			<arg_type weight="1.24">Organisation</arg_type>
+			<arg_type weight="6.41">Company</arg_type>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.669">channel</cnn_predict>
+		<gsdp>(NP)--up--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[배우:한인수)]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

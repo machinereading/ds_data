@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1131">
+		<sent><![CDATA[2010년 한해, 빅뱅은 개별적인 활동을 이어 나가는 동안, 11월 YG_엔터테인먼트는 지드래곤과 T.O.P이 GD&TOP라는 유닛을 결성한다고 발표했다.]]></sent>
+		<sbj label="NP" josa="이">
+			<sbj_text><![CDATA[T.O.P]]></sbj_text>
+			<arg_type weight="-0.12">Agent</arg_type>
+			<arg_type weight="-0.12">Person</arg_type>
+			<arg_type weight="0.73">Artist</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="는">
+			<obj_text><![CDATA[YG_엔터테인먼트]]></obj_text>
+			<arg_type weight="0.25">Agent</arg_type>
+			<arg_type weight="0.55">Organisation</arg_type>
+		</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.545">occupation</mln_predict>
+		<cnn_predict conf="0.536">currentMember</cnn_predict>
+		<gsdp>(NP)--up--NP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[GD]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--down--VP_MOD--down--(NP_OBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2963">
+		<sent><![CDATA[국도는 목포시와 신의주를 연결하는 국도 제1호선, 신안군과 부산광역시을 연결하는 국도_제2호선, 전라남도 중앙부분을 담당하는 국도 제13호선, 국도 제23호선등이 있다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[국도_제2호선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.23">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.28">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="을">
+			<obj_text><![CDATA[부산광역시]]></obj_text>
+			<arg_type weight="0.36">Place</arg_type>
+			<arg_type weight="-0.02">PopulatedPlace</arg_type>
+		</obj>
+		<gold>routeEnd</gold>
+		<mln_predict conf="0.681">city</mln_predict>
+		<cnn_predict conf="0.303">routeStart</cnn_predict>
+		<gsdp>(NP_CNJ)--down--VP_MOD--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[연결하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

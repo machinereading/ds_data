@@ -1,0 +1,89 @@
+<sentence_list>
+	<dependency>(NP)--up--(NP_MOD)</dependency>
+	<total>5</total>
+	<sent_item id="M_D3646">
+		<sent><![CDATA[고우석은 KBO_리그 전 KIA_타이거즈의 선수이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[KBO_리그]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="-0.11">Organisation</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[KIA_타이거즈]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.202">country</mln_predict>
+		<cnn_predict conf="0.513">team</cnn_predict>
+		<gsdp>(NP)--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2835">
+		<sent><![CDATA[김수완, 1991년 8월 6일 ~ )은 KBO_리그 전두산_베어스의 투수이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[KBO_리그]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="-0.11">Organisation</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[두산_베어스]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.209">team</mln_predict>
+		<cnn_predict conf="0.396">position</cnn_predict>
+		<gsdp>(NP)--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3518">
+		<sent><![CDATA[두두 먼터무 또는 동맹가첩목아는 오도리 만호부의 만호이자 제1대 건주좌위지휘사이며 청나라 태조 누르하치의 6대조이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[청나라]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[누르하치]]></obj_text>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.253">leaderName</mln_predict>
+		<cnn_predict conf="0.747">deathPlace</cnn_predict>
+		<gsdp>(NP)--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3961">
+		<sent><![CDATA[황수현 은 KBO_리그 전 KIA_타이거즈의 외야수이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[KBO_리그]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="-0.11">Organisation</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[KIA_타이거즈]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.213">currentMember</mln_predict>
+		<cnn_predict conf="0.533">team</cnn_predict>
+		<gsdp>(NP)--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2465">
+		<sent><![CDATA[기슈 번 초대 번주 도쿠가와 요리노부의 삼남, 에도_막부 초대 쇼군 도쿠가와_이에야스의 손자, 제8대 쇼군 도쿠가와 요시무네의 숙부이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[에도_막부]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[도쿠가와_이에야스]]></obj_text>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.948">leaderName</mln_predict>
+		<cnn_predict conf="0.678">deathPlace</cnn_predict>
+		<gsdp>(NP)--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

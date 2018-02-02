@@ -1,0 +1,114 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--(NP_SBJ)</dependency>
+	<total>6</total>
+	<sent_item id="M_D1729">
+		<sent><![CDATA[2010년 한화_이글스가 송진우_(야구인)를 새로 투수코치로 영입하였고, 친정 팀에서 잔류군 코치로 있었던 전병호가 재계약에 실패하자 친정 팀의 코치로 돌아오게 되었다.]]></sent>
+		<sbj label="NP_AJT" josa="">
+			<sbj_text><![CDATA[송진우_(야구인)]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[한화_이글스]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.917">club</mln_predict>
+		<cnn_predict conf="0.484">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[영입하였고,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2593">
+		<sent><![CDATA[그는 세비야_FC에서 라리가 1980-81에 라리가 데뷔전을 치렀는데, 시작부터 주전을 맡았다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[세비야_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[라리가]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.467">position</mln_predict>
+		<cnn_predict conf="0.711">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[치렀는데,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D96">
+		<sent><![CDATA[잔진 - MBC 무한도전에서 유재석이 전진을 잔진으로 잘못 발음하여 생긴 별명]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[무한도전]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[유재석]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.443">starring</mln_predict>
+		<cnn_predict conf="0.804">starring</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[발음하여]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1031">
+		<sent><![CDATA[승리팀인 유벤투스_FC는 UEFA_슈퍼컵_1996에서 UEFA 유로파리그 1995-96 우승팀인 파리 생제르맹과 경기를 펼쳤다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[UEFA_슈퍼컵_1996]]></sbj_text>
+			<arg_type weight="0.47">Event</arg_type>
+			<arg_type weight="0.47">SocietalEvent</arg_type>
+			<arg_type weight="1.70">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="는">
+			<obj_text><![CDATA[유벤투스_FC]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.581">team</mln_predict>
+		<cnn_predict conf="0.750">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[펼쳤다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2821">
+		<sent><![CDATA[김봉겸은 2007년에 내셔널리그_(대한민국)의 울산_현대미포조선_돌고래에 입단했다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[울산_현대미포조선_돌고래]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="은">
+			<obj_text><![CDATA[내셔널리그_(대한민국)]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.928">league</mln_predict>
+		<cnn_predict conf="0.697">league</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[입단했다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D672">
+		<sent><![CDATA[11월 1일, 그는 VfB_슈투트가르트전에서 90분에 푸스볼-분데스리가 첫골을 기록하였고, 팀은 3-1 승리를 기록하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[VfB_슈투트가르트]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[푸스볼-분데스리가]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.919">league</mln_predict>
+		<cnn_predict conf="0.624">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[기록하였고,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,149 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--(NP_SBJ)</dependency>
+	<total>8</total>
+	<sent_item id="M_D2392">
+		<sent><![CDATA[스웨덴의 칼_12세는 비록 어렸지만 대북방 전쟁 초기에 나르바_전투_(1700년)에서 눈부신 승리를 거두었다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[나르바_전투_(1700년)]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="는">
+			<obj_text><![CDATA[칼_12세]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.431">commander</mln_predict>
+		<cnn_predict conf="0.298">commander</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3249">
+		<sent><![CDATA[그리하여 전한의 고제에 이어 새로이 한나라를 창건한 후한의 후한_광무제는 세조의 묘호를 받은 것이 대표적인 사례 중 하나이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[후한]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="는">
+			<obj_text><![CDATA[후한_광무제]]></obj_text>
+			<arg_type weight="0.04">Agent</arg_type>
+			<arg_type weight="0.54">Person</arg_type>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.375">leaderName</mln_predict>
+		<cnn_predict conf="0.930">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1528">
+		<sent><![CDATA[듀란_듀란의 닉_로즈는 캐나다 전투기 조종사의 목소리를 맡았다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[듀란_듀란]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="는">
+			<obj_text><![CDATA[닉_로즈]]></obj_text>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.443">currentMember</mln_predict>
+		<cnn_predict conf="0.157">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2884">
+		<sent><![CDATA[2016년 7월 31일, 시스토는 스페인의 구단인 셀타 비고와 계약을 맺었으며, 같은 해 8월 22일 CD_레가네스와의 라리가 경기에서 첫 데뷔전을 치뤘다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[CD_레가네스]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[라리가]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.218">league</mln_predict>
+		<cnn_predict conf="0.495">team</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3639">
+		<sent><![CDATA[유리명왕 시기 중국 신나라의 왕망이 고구려를 비하하여 사용한 하구려도 기록으로 남아 있다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[신나라]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[왕망]]></obj_text>
+			<arg_type weight="0.04">Agent</arg_type>
+			<arg_type weight="0.54">Person</arg_type>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.831">leaderName</mln_predict>
+		<cnn_predict conf="0.766">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1046">
+		<sent><![CDATA[1년 후인 2002년 10월 7일, 호날두는 모레이렌스_FC와의 프리메이라리가 데뷔전에서 2골을 넣어 3-0 승리를 견인했다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[모레이렌스_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[프리메이라리가]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.416">league</mln_predict>
+		<cnn_predict conf="0.660">team</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D235">
+		<sent><![CDATA[2010년 1월 말, 마테오스는 마누엘 페예그리니 감독에 의해 데포르티보_라코루냐와의 라리가 경기를 앞두고 1군에 차출되었다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[데포르티보_라코루냐]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[라리가]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.517">position</mln_predict>
+		<cnn_predict conf="0.631">team</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3903">
+		<sent><![CDATA[2010-11 시즌에 여러 경기에서 후보 명단에 든 그는 11월 12일에 보루시아_도르트문트와의 푸스발-분데스리가 경기에서 데뷔하였다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[보루시아_도르트문트]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[푸스발-분데스리가]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.644">league</mln_predict>
+		<cnn_predict conf="0.550">team</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

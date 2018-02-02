@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP_MOD--down--NP_AJT--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1397">
+		<sent><![CDATA[《김일성 대원수 만만세》는 조선민주주의인민공화국의 노래로 김일성을 찬양하는 노래 가운데 하나이다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[김일성]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+			<arg_type weight="0.34">Politician</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[조선민주주의인민공화국]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.536">birthPlace</mln_predict>
+		<cnn_predict conf="0.441">deathPlace</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP_MOD--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[찬양하는--노래로]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

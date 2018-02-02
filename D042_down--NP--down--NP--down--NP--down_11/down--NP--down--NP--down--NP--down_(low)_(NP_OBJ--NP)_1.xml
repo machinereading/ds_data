@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--down--NP--down--NP--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D960">
+		<sent><![CDATA[PAS 이오안니나 FC 는 그리스 이피로스 주의 주도 이오안니나를 연고로 하는 프로 축구 클럽이다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[이오안니나]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[그리스]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.759">country</mln_predict>
+		<cnn_predict conf="0.737">country</cnn_predict>
+		<gsdp>(NP_OBJ)--down--NP--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주도--주의--이피로스]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

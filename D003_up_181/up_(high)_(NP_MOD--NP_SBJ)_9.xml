@@ -1,0 +1,193 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--(NP_SBJ)</dependency>
+	<total>9</total>
+	<sent_item id="M_D3742">
+		<sent><![CDATA[사회가 다시 2인제로 되어, 프로그램 개시 당시부터, 누계 햇수 10년 이상 프로그램에 출연하고 있는 A.B.C-Z의 카와이 후미토와, 2014년 4월에 데뷔한 자니스WEST의 키리야마_아키토가 맡고 있다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[자니스WEST]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[키리야마_아키토]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.938">currentMember</mln_predict>
+		<cnn_predict conf="0.275">owningOrganisation</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1164">
+		<sent><![CDATA[12월 28일에는 제아와 엠블랙의 지오가 듀엣 곡 〈니가 따끔 거려서〉를 발표했다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[엠블랙]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[지오]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="1.000">currentMember</mln_predict>
+		<cnn_predict conf="0.452">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2432">
+		<sent><![CDATA[프로그램의 진행은 샤이니의 멤버 민호가 맡았으며, 레드벨벳은 수록곡 라이브 무대, 컴백 소감, 첫 음반 소개를 비롯한 다양한 토크, 각 멤버의 개인 방송 등을 선보였다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[샤이니]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[민호]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="1.000">currentMember</mln_predict>
+		<cnn_predict conf="0.721">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1939">
+		<sent><![CDATA[데뷔 이래로 쇼글러브 엔터테인먼트에 소속되어 활동하던 DJ_DOC의 이하늘은 본격적으로 힙합 음악을 해보는 것과 동시에 그 분야의 후배를 양성하겠다는 꿈을 꾸었다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[DJ_DOC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="은">
+			<obj_text><![CDATA[이하늘]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="1.000">currentMember</mln_predict>
+		<cnn_predict conf="0.350">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2902">
+		<sent><![CDATA[TBNY라는 이름은 “TopBob N Yankie”라는 이름부터 출발하였으며 뒤에 에픽하이의 타블로가 “The Basement Noise Yellas”라는 뜻을 붙여주었다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[에픽하이]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[타블로]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.985">currentMember</mln_predict>
+		<cnn_predict conf="0.685">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2267">
+		<sent><![CDATA[특히 서울 공연에는 김희철, 성민, 동해, 샤이니의 Key, 민호, 태민, 그리고 트랙스의 김정모가 게스트로 참여해 화제가 되었다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[트랙스]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[김정모]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="1.000">currentMember</mln_predict>
+		<cnn_predict conf="0.523">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3227">
+		<sent><![CDATA[2013년 2월 19일, 다이나믹_듀오의 개코가 〈될 대로 되라고 해〉를 발매하면서 첫 주자로 나섰고, 그 이후로 얀키, 자이언티, 슈프림팀, 다이나믹 듀오의 최자 등이 이어서 곡을 발표하였다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[다이나믹_듀오]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[개코]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.978">currentMember</mln_predict>
+		<cnn_predict conf="0.527">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2019">
+		<sent><![CDATA[3월 7일 방송분에서 마르코가 천하무적 야구단 촬영 관계로 마르코의 자리는 2PM의 닉쿤이 그의 자리를 대신했다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[2PM]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[닉쿤]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.842">currentMember</mln_predict>
+		<cnn_predict conf="0.560">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1454">
+		<sent><![CDATA[뮤직 비디오는 컴퓨터 그래픽를 적극 활용하여 제작되었으며, 슈퍼주니어의 모든 멤버과 소녀시대의 윤아가 출연하였다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[소녀시대]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[윤아]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.948">currentMember</mln_predict>
+		<cnn_predict conf="0.797">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

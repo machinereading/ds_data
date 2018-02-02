@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(DP)--up--NP_AJT--up--VP--up--VP--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2304">
+		<sent><![CDATA[이 경기에서 울산은 후반 95분에 김원일_(축구_선수)에게 결승골을 헌납하였고, 결국 포항_스틸러스에게 패하여 준우승에 머물렀다.]]></sent>
+		<sbj label="DP" josa="">
+			<sbj_text><![CDATA[김원일_(축구_선수)]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에게">
+			<obj_text><![CDATA[포항_스틸러스]]></obj_text>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.767">team</mln_predict>
+		<cnn_predict conf="0.771">team</cnn_predict>
+		<gsdp>(DP)--up--NP_AJT--up--VP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[경기에서--헌납하였고,--패하여]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

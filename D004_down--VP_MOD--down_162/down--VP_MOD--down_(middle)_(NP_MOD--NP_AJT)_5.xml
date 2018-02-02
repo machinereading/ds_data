@@ -1,0 +1,95 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</dependency>
+	<total>5</total>
+	<sent_item id="M_D2259">
+		<sent><![CDATA[이시하라_카오리와 함께 하는 아이돌 듀오 유이카오리의 멤버이며, 마츠나가 마호, 노토 아리사, 이시하라 카오리로 구성된 아이돌 유닛 StylipS의 구성원이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[유이카오리]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="와">
+			<obj_text><![CDATA[이시하라_카오리]]></obj_text>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.349">currentMember</mln_predict>
+		<cnn_predict conf="0.652">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3365">
+		<sent><![CDATA[훗날 대한민국에서 제13대 대통령을 지내는 노태우의 직계 조상이기도 하다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[노태우]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+			<arg_type weight="0.68">Politician</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.945">deathPlace</mln_predict>
+		<cnn_predict conf="0.571">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[지내는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3188">
+		<sent><![CDATA[《K팝스타 5》는 K팝스타 4 후속편으로, SBS_TV에서 방영된 일요일이_좋다의 한 코너로 2015년 11월 22일부터 2016년 4월 10일까지 방송되었다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[일요일이_좋다]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[SBS_TV]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.845">channel</mln_predict>
+		<cnn_predict conf="0.776">channel</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[방영된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1768">
+		<sent><![CDATA[다음 시즌에, 제만은 AS_로마와 급성장하는 재능의 프란체스코_토티의 감독이 되면서, 로마에 머무르게 됐다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[프란체스코_토티]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="와">
+			<obj_text><![CDATA[AS_로마]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.983">team</mln_predict>
+		<cnn_predict conf="0.625">team</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[급성장하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3284">
+		<sent><![CDATA[메리어트 경영대학은 유타 주 프로보에 위치한 브리검영_대학교의 경영대학이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[브리검영_대학교]]></sbj_text>
+			<arg_type weight="-0.23">Agent</arg_type>
+			<arg_type weight="0.35">Organisation</arg_type>
+			<arg_type weight="2.11">EducationalInstitution</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[프로보]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.381">location</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[위치한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

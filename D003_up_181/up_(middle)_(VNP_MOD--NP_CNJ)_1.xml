@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(VNP_MOD)--up--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2009">
+		<sent><![CDATA[미드필더 : 박상인 (할렐루야_축구단), 이흥실, 박항서]]></sent>
+		<sbj label="VNP_MOD" josa="">
+			<sbj_text><![CDATA[박상인]]></sbj_text>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[할렐루야_축구단]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.380">club</mln_predict>
+		<cnn_predict conf="0.441">team</cnn_predict>
+		<gsdp>(VNP_MOD)--up--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,20 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D866">
+		<sent><![CDATA[《K팝스타 3》는 K팝스타 2 후속편으로, SBS_TV로 일요일이_좋다에 프로그램으로 2013년 11월 24일부터 2014년 4월 13일까지 방송되었다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[일요일이_좋다]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="로">
+			<obj_text><![CDATA[SBS_TV]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.931">channel</mln_predict>
+		<cnn_predict conf="0.666">channel</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,36 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_D892">
+		<sent><![CDATA[만주족, 나나이족, 조선족, 몽골족, 후이족, 장족, 투자족 시버족 등 8개 소수민족들이 거주하고 있다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[만주족]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[시버족]]></obj_text>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.493">related</mln_predict>
+		<cnn_predict conf="0.547">related</cnn_predict>
+		<gsdp>(NP_CNJ)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1568">
+		<sent><![CDATA[그의 가계는 조선 선조 때의 형제 정승 윤두수, 윤근수 형제의 후손으로 7대조 윤흔이 예조판서를 지내고 6대조 윤취지는 부사직을 지냈으나 증조부 대에 향반으로 몰락하였다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[윤두수]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[윤근수]]></obj_text>
+			<arg_type weight="0.94">Agent</arg_type>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.970">relative</mln_predict>
+		<cnn_predict conf="0.872">relative</cnn_predict>
+		<gsdp>(NP_CNJ)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

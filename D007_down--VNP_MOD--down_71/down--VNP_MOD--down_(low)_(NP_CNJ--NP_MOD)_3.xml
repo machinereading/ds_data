@@ -1,0 +1,57 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--down--VNP_MOD--down--(NP_MOD)</dependency>
+	<total>3</total>
+	<sent_item id="M_D4035">
+		<sent><![CDATA[셀림 2세는 오스만_제국의 10번째 술탄인 쉴레이만_1세와 그의 총비인 휴렘 술탄의 사이에서 태어난 아들이다.]]></sent>
+		<sbj label="NP_CNJ" josa="와">
+			<sbj_text><![CDATA[쉴레이만_1세]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[오스만_제국]]></obj_text>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.703">birthPlace</mln_predict>
+		<cnn_predict conf="0.552">deathPlace</cnn_predict>
+		<gsdp>(NP_CNJ)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[술탄인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D548">
+		<sent><![CDATA[첫째, 당시 미국의 대통령이던 제임스_매디슨과 그의 지지세력들이 영국에 적대적이었다는 것과, 둘째, 영국이 프랑스로 가던 미국 선박들을 나포하여 미국의 수출에 타격을 주었다는 것이다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[제임스_매디슨]]></sbj_text>
+			<arg_type weight="-0.05">Agent</arg_type>
+			<arg_type weight="-0.30">Person</arg_type>
+			<arg_type weight="0.36">Politician</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[미국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">birthPlace</mln_predict>
+		<cnn_predict conf="0.511">deathPlace</cnn_predict>
+		<gsdp>(NP_CNJ)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[대통령이던]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D444">
+		<sent><![CDATA[1993년에 캐나다의 정치인이자 지도자인 조르주에티엔_카르티에와 존 맥도널드를 기르기 위해 현재의 사명으로 변경했다.]]></sent>
+		<sbj label="NP_CNJ" josa="와">
+			<sbj_text><![CDATA[조르주에티엔_카르티에]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+			<arg_type weight="0.34">Politician</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[캐나다]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.750">deathPlace</mln_predict>
+		<cnn_predict conf="0.360">birthPlace</cnn_predict>
+		<gsdp>(NP_CNJ)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[지도자인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,57 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP_MOD--up--(NP_AJT)</dependency>
+	<total>3</total>
+	<sent_item id="M_D3155">
+		<sent><![CDATA[2014년 1월 31일에 아메바컬쳐와의 계약 만료로 인해 아메바 컬쳐를 떠난 이후, 같은 해 3월에는 박재범이 이끄는 레이블 AOMG로 이적하여 공동 대표를 맡았다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[박재범]]></sbj_text>
+			<arg_type weight="-0.12">Agent</arg_type>
+			<arg_type weight="-0.12">Person</arg_type>
+			<arg_type weight="0.73">Artist</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="로">
+			<obj_text><![CDATA[AOMG]]></obj_text>
+		</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.308">birthPlace</mln_predict>
+		<cnn_predict conf="0.251">team</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP_MOD--up--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[이끄는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3860">
+		<sent><![CDATA[《잃어버린 편지》는 이온_루카_카라지알레가 1884년에 발표한 4막 희극으로 1884년 11월 13일 국립극장에서 초연된 이후 현재까지 매년 빠지지 않고 공연되는 루마니아 최고의 희극 작품이다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[이온_루카_카라지알레]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.11">Person</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="으로">
+			<obj_text><![CDATA[희극]]></obj_text>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.457">occupation</mln_predict>
+		<cnn_predict conf="0.246">deathPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP_MOD--up--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[발표한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D907">
+		<sent><![CDATA[또한 1996년부터 2001년까지 오사마 빈라덴과 아이만_알자와히리가 이끌던 알카에다 네트워크도 아프가니스탄에서 가동되었다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[아이만_알자와히리]]></sbj_text>
+			<arg_type weight="0.49">Agent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에다">
+			<obj_text><![CDATA[알카에다]]></obj_text>
+			<arg_type weight="-0.23">Agent</arg_type>
+			<arg_type weight="0.14">Organisation</arg_type>
+		</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.319">team</mln_predict>
+		<cnn_predict conf="0.232">commander</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP_MOD--up--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[이끌던]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

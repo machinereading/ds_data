@@ -1,0 +1,114 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP_AJT--up--VP--down--(NP_SBJ)</dependency>
+	<total>6</total>
+	<sent_item id="M_D1663">
+		<sent><![CDATA[루웬조리다이커는 우간다와 콩고민주공화국 사이의 루웬조리 산에서만 발견되는 작지만 통통한 영양아과의 일종으로 소목_(동물) 소과에 속한다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[영양아과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="는">
+			<obj_text><![CDATA[소목_(동물)]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.487">class</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[일종으로--속한다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1058">
+		<sent><![CDATA[2007년 5월 19일, 그는 VfB_슈투트가르트의 주축 선수로써 푸스볼-분데스리가 우승을 거두었다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[VfB_슈투트가르트]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[푸스볼-분데스리가]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.664">position</mln_predict>
+		<cnn_predict conf="0.532">team</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[선수로써--거두었다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D740">
+		<sent><![CDATA[바이올린족은 바이올린·비올라·첼로·콘트라베이스의 4종으로 이 현악 합주는 가장 비슷한 동질의 음색과 다양한 표현력을 가지고 있다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[첼로]]></sbj_text>
+			<arg_type weight="3.03">Device</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="은">
+			<obj_text><![CDATA[바이올린족]]></obj_text>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.290">related</mln_predict>
+		<cnn_predict conf="0.308">related</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[4종으로--가지고]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1253">
+		<sent><![CDATA[그 다음 주말, 그는 산티아고 베르나베우에서 벌어진 레알_소시에다드와의 경기에서 라리가 첫 골을 기록했다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[레알_소시에다드]]></sbj_text>
+			<arg_type weight="0.28">Agent</arg_type>
+			<arg_type weight="0.34">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[라리가]]></obj_text>
+		</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.905">league</mln_predict>
+		<cnn_predict conf="0.722">team</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[경기에서--기록했다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1317">
+		<sent><![CDATA[여름 이적 시장에서 FC_바이에른_뮌헨은 FC 샬케 04의 주장 마누엘_노이어의 영입에 성공하였다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[마누엘_노이어]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="은">
+			<obj_text><![CDATA[FC_바이에른_뮌헨]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="1.000">team</mln_predict>
+		<cnn_predict conf="0.494">team</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[영입에--성공하였다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3777">
+		<sent><![CDATA[서영에게 화살을 맞고 부상을 당한 조조는 동생 조홍의 도움으로 겨우 살아나지만 서영과 또 다시 맞닥드리고 만다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[조홍]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="는">
+			<obj_text><![CDATA[조조]]></obj_text>
+			<arg_type weight="0.94">Agent</arg_type>
+			<arg_type weight="0.92">Person</arg_type>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.459">relative</mln_predict>
+		<cnn_predict conf="0.452">commander</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[도움으로--살아나지만]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

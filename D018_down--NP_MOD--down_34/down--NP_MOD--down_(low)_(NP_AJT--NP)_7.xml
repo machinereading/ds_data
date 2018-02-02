@@ -1,0 +1,114 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--NP_MOD--down--(NP)</dependency>
+	<total>7</total>
+	<sent_item id="M_D2511">
+		<sent><![CDATA[1990년 미스코리아는 1990년 5월 19일에 서울특별시 종로구의 세종문화회관에서 열린 서른네번째 미스코리아 선발대회이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[세종문화회관]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[서울특별시]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.693">location</mln_predict>
+		<cnn_predict conf="0.655">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[종로구의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D445">
+		<sent><![CDATA[생베네제 교는 프랑스 아비뇽의 론_강에 있는 석조 아치교이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[론_강]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[프랑스]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.236">locatedInArea</mln_predict>
+		<cnn_predict conf="0.627">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[아비뇽의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2773">
+		<sent><![CDATA[1986년 미스코리아는 1986년 5월 20일에 서울특별시 종로구의 세종문화회관에서 열린 서른번째 미스코리아 선발대회이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[세종문화회관]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[서울특별시]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.598">location</mln_predict>
+		<cnn_predict conf="0.675">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[종로구의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3061">
+		<sent><![CDATA[그 즈음 그는 1987년 미스 유니버스인 칠레 출신의 세실리아_볼로코와 재혼하여 화제를 모으기도 했다.]]></sent>
+		<sbj label="NP_AJT" josa="와">
+			<sbj_text><![CDATA[세실리아_볼로코]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[칠레]]></obj_text>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.772">birthPlace</mln_predict>
+		<cnn_predict conf="0.569">birthPlace</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[출신의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3463">
+		<sent><![CDATA[전철화되지 않은 선로가 이 역에서부터 동일본_여객철도 요코스카 선의 즈시_역까지 이어져 있다.]]></sent>
+		<sbj label="NP_AJT" josa="까지">
+			<sbj_text><![CDATA[즈시_역]]></sbj_text>
+			<arg_type weight="0.09">Place</arg_type>
+			<arg_type weight="0.31">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.42">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[동일본_여객철도]]></obj_text>
+		</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.571">owningOrganisation</mln_predict>
+		<cnn_predict conf="0.416">operator</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[선의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1168">
+		<sent><![CDATA[찬드라얀 1호는 인도의 달 탐사선으로, 현지 시간 2008년 10월 22일 오전 6시 22분에 인도 안드라프라데시_주 스리하리코타의 사티시_다완_우주_센터에서 자체 개발한 PSLV 로켓에 탑재되어 발사되었다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[사티시_다완_우주_센터]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[안드라프라데시_주]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.356">location</mln_predict>
+		<cnn_predict conf="0.623">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[스리하리코타의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2437">
+		<sent><![CDATA[익스피어리는 지바_현 우라야스 시의 도쿄_디즈니_리조트에 있는 쇼핑몰이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[도쿄_디즈니_리조트]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[지바_현]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.340">routeStart</mln_predict>
+		<cnn_predict conf="0.549">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[시의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP_MOD--down--NP_AJT--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1350">
+		<sent><![CDATA[FC_트벤터를 에레디비시 첫 우승으로 인도한 그는 푸스볼-분데스리가 팀의 감독직을 맡은 잉글랜드인 감독이 되었다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[FC_트벤터]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[에레디비시]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.425">league</mln_predict>
+		<cnn_predict conf="0.687">team</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[인도한--우승으로]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

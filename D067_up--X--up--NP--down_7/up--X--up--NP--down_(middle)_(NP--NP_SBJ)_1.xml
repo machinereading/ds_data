@@ -1,0 +1,20 @@
+<sentence_list>
+	<dependency>(NP)--up--X--up--NP--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1927">
+		<sent><![CDATA[《작은_아씨들_(드라마)》(SBS) - 차일도 역]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[작은_아씨들_(드라마)]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="도">
+			<obj_text><![CDATA[SBS]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.501">channel</mln_predict>
+		<cnn_predict conf="0.887">channel</cnn_predict>
+		<gsdp>(NP)--up--X--up--NP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[---역]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

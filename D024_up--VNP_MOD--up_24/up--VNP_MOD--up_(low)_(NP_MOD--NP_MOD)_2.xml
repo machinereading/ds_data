@@ -1,0 +1,38 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP_MOD--up--(NP_MOD)</dependency>
+	<total>2</total>
+	<sent_item id="M_D3312">
+		<sent><![CDATA[빨강색과 하양색은 마다가스카르의 대부분을 지배했던 메리나_왕국의 마지막 여왕이었던 라나발로나_3세의 기에 그려져 있었던 색이었다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[메리나_왕국]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[라나발로나_3세]]></obj_text>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.271">country</mln_predict>
+		<cnn_predict conf="0.350">order</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[여왕이었던]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1565">
+		<sent><![CDATA[헨리퀴스 니콜라스 "릭" 판 덴 휘르크는 네덜란드의 야구 선수로 현재 일본_프로_야구의 팀인 후쿠오카_소프트뱅크_호크스의 투수로 활약하고 있다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[일본_프로_야구]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="-0.11">Organisation</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[후쿠오카_소프트뱅크_호크스]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.756">position</mln_predict>
+		<cnn_predict conf="0.404">position</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[팀인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

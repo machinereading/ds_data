@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--up--VP--down--(NP_OBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1724">
+		<sent><![CDATA[데이비드_예이츠는 5탄과 6탄에 이어 최종편 7탄에서도 역시 영화_감독을 맡았다.]]></sent>
+		<sbj label="NP_SBJ" josa="는">
+			<sbj_text><![CDATA[데이비드_예이츠]]></sbj_text>
+		</sbj>
+		<obj label="NP_OBJ" josa="을">
+			<obj_text><![CDATA[영화_감독]]></obj_text>
+		</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.171">location</mln_predict>
+		<cnn_predict conf="0.897">occupation</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--up--VP--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[이어--맡았다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

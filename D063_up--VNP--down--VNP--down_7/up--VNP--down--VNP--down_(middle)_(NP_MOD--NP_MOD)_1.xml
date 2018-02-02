@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP--down--VNP--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1674">
+		<sent><![CDATA[음악가 코트니_러브의 어머니이며 작가 폴라_팍스의 딸이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[폴라_팍스]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[코트니_러브]]></obj_text>
+			<arg_type weight="0.94">Agent</arg_type>
+			<arg_type weight="0.92">Person</arg_type>
+			<arg_type weight="-0.29">Artist</arg_type>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.729">relative</mln_predict>
+		<cnn_predict conf="0.279">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[딸이다.--어머니이며]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

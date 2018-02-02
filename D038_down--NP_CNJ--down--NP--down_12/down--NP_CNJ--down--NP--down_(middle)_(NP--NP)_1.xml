@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP)--down--NP_CNJ--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3712">
+		<sent><![CDATA[구덕고개는 부산광역시 서구 엄광산과 구덕산 사이의 220 m의 고개로, 현재의 꽃마을에 소재한다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[구덕산]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="2.09">NaturalPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[부산광역시]]></obj_text>
+			<arg_type weight="0.05">Place</arg_type>
+			<arg_type weight="0.12">PopulatedPlace</arg_type>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.321">region</mln_predict>
+		<cnn_predict conf="0.381">city</cnn_predict>
+		<gsdp>(NP)--down--NP_CNJ--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[엄광산과--서구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

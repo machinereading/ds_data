@@ -1,0 +1,66 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--down--NP--down--NP--down--(NP)</dependency>
+	<total>4</total>
+	<sent_item id="M_D22">
+		<sent><![CDATA[그는 그들에게 스위스 프리부르 주의 프리부르_대학교를 추천했다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[프리부르_대학교]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[스위스]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.407">country</mln_predict>
+		<cnn_predict conf="0.294">country</cnn_predict>
+		<gsdp>(NP_OBJ)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주의--프리부르]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D156">
+		<sent><![CDATA[셔브루크 커네이디언스는 캐나다 퀘벡 주 셰르브루크를 연고지로 하는 1984년부터 1990년까지 아메리칸 하키 리그 소속되었던 아이스 하키팀이다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[셰르브루크]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[캐나다]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.457">country</mln_predict>
+		<cnn_predict conf="0.551">country</cnn_predict>
+		<gsdp>(NP_OBJ)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--퀘벡]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D456">
+		<sent><![CDATA[이스포르치 클루비 바이아은 브라질 바이아 주 사우바도르를 연고지로 하는 축구 클럽이다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[사우바도르]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[브라질]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.788">region</mln_predict>
+		<cnn_predict conf="0.852">country</cnn_predict>
+		<gsdp>(NP_OBJ)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--바이아]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D837">
+		<sent><![CDATA[카녜로스 데 로스모치스는 멕시코 시날로아 주 로스모치스를 연고지로 하는 프로 야구이다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[로스모치스]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[멕시코]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.647">country</mln_predict>
+		<cnn_predict conf="0.735">country</cnn_predict>
+		<gsdp>(NP_OBJ)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--시날로아]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

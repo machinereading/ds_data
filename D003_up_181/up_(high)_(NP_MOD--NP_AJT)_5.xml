@@ -1,0 +1,109 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--(NP_AJT)</dependency>
+	<total>5</total>
+	<sent_item id="M_D2566">
+		<sent><![CDATA[성대모사 개그맨 간나즈키나 요미우리 팬인 SMAP의 나카이_마사히로는 예능 프로그램에서 이 흉내를 자주하고 있다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[SMAP]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="는">
+			<obj_text><![CDATA[나카이_마사히로]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.970">currentMember</mln_predict>
+		<cnn_predict conf="0.369">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2573">
+		<sent><![CDATA[동방신기의 시아준수, 진보라, 보아, 에픽하이의 타블로로 구성되었다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[에픽하이]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="로">
+			<obj_text><![CDATA[타블로]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.943">currentMember</mln_predict>
+		<cnn_predict conf="0.801">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3820">
+		<sent><![CDATA[어렸을 때부터 일렉트로닉 음악에 관심이 많았던 심재원은 음악에 한참 빠져있었을 때, 평소 알고 지내던 에픽하이의 DJ_투컷에게 디제잉을 배우게 되면서 디제잉에 관심을 가지게 되었다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[에픽하이]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에게">
+			<obj_text><![CDATA[DJ_투컷]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="1.000">currentMember</mln_predict>
+		<cnn_predict conf="0.615">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1603">
+		<sent><![CDATA[로드스터 1호차는 록밴드 에어로스미스의 스티븐_타일러에게 인도되었다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[에어로스미스]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에게">
+			<obj_text><![CDATA[스티븐_타일러]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="1.000">currentMember</mln_predict>
+		<cnn_predict conf="0.322">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D453">
+		<sent><![CDATA[전 모닝구무스메。의 멤버 중에서는 후지모토 미키나 이시카와 리카, 개인적으로는 코코넛무스메의 나가테 아야카나 컨트리무스메의 사토다_마이와 사이가 좋다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[컨트리무스메]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="와">
+			<obj_text><![CDATA[사토다_마이]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.924">currentMember</mln_predict>
+		<cnn_predict conf="0.898">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

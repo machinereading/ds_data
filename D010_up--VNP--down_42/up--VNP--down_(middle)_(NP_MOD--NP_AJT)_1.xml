@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3517">
+		<sent><![CDATA[《슈프림 커맨더 2》는 가스 파워드 게임스가 제작하고 스퀘어 에닉스가 배급한 실시간_전략_게임으로, 《슈프림_커맨더》의 후속작이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[슈프림_커맨더]]></sbj_text>
+			<arg_type weight="0.93">Work</arg_type>
+			<arg_type weight="2.51">Software</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="으로">
+			<obj_text><![CDATA[실시간_전략_게임]]></obj_text>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.368">starring</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[후속작이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

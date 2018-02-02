@@ -1,0 +1,20 @@
+<sentence_list>
+	<dependency>(NP_PRN)--up--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3343">
+		<sent><![CDATA[《임진왜란_(드라마)》 (MBC_TV, 1985년~1986년, 배우:현석)]]></sent>
+		<sbj label="NP_PRN" josa="">
+			<sbj_text><![CDATA[임진왜란_(드라마)]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[MBC_TV]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.995">channel</mln_predict>
+		<cnn_predict conf="0.524">channel</cnn_predict>
+		<gsdp>(NP_PRN)--up--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

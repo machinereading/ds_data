@@ -1,0 +1,1596 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</dependency>
+	<total>83</total>
+	<sent_item id="M_D2337">
+		<sent><![CDATA[1928년 동계 올림픽 핀란드 선수단은 스위스 장크트모리츠에서 개최된 1928년_동계_올림픽에 참가한 올림픽 핀란드 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1928년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[장크트모리츠]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.417">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2485">
+		<sent><![CDATA[1948년 하계 올림픽 오스트리아 선수단은 영국 런던에서 개최된 1948년_하계_올림픽에 참가한 올림픽 오스트리아 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1948년_하계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[런던]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.570">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2686">
+		<sent><![CDATA[그는 싱가포르에서 열린 2010년_하계_청소년_올림픽에서 처음으로 금메달을 따냈으며, 2011년 바쿠 세계선수권대회 라이트급 인도네시아의 자이 바관에게 패했다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[2010년_하계_청소년_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[싱가포르]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.644">team</mln_predict>
+		<cnn_predict conf="0.300">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[열린]]></gsdp_lemma>
+		<comment>Sbj Entity Type 오류. 골드는 region, country가 더 적합해 보임, MLN에서 Obj Type이 Country 인데 city로 준 것이 이상해 보임,Freebase등 참조해서 sub property 관계</comment>
+	</sent_item>
+	<sent_item id="M_D2375">
+		<sent><![CDATA[1988년 동계 올림픽 멕시코 선수단은 캐나다 캘거리에서 개최된 1988년_동계_올림픽에 참가한 올림픽 멕시코 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1988년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[캘거리]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.893">location</mln_predict>
+		<cnn_predict conf="0.439">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D742">
+		<sent><![CDATA[2006년 동계 올림픽 조선민주주의인민공화국 선수단은 이탈리아 토리노에서 개최된 2006년_동계_올림픽에 참가한 올림픽 조선민주주의인민공화국 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[2006년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[토리노]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.776">location</mln_predict>
+		<cnn_predict conf="0.505">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3471">
+		<sent><![CDATA[1984년 동계 올림픽 터키 선수단은 유고슬라비아 사라예보에서 개최된 1984년_동계_올림픽에 참가한 올림픽 터키 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1984년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[사라예보]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.390">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3124">
+		<sent><![CDATA[1972년 하계 올림픽 오스트레일리아 선수단은 서독 뮌헨에서 개최된 1972년_하계_올림픽에 참가한 올림픽 오스트레일리아 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1972년_하계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[뮌헨]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.482">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D39">
+		<sent><![CDATA[1928년 동계 올림픽 스웨덴 선수단은 스위스 장크트모리츠에서 개최된 1928년_동계_올림픽에 참가한 올림픽 스웨덴 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1928년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[장크트모리츠]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.433">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2155">
+		<sent><![CDATA[2014년 동계 올림픽 루마니아의 올림픽 선수단은 러시아 소치에서 개최된 2014년_동계_올림픽에 참가한 올림픽 루마니아 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[2014년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[소치]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.479">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1675">
+		<sent><![CDATA[2014년 동계 올림픽 동티모르의 올림픽 선수단은 러시아 소치에서 개최된 2014년_동계_올림픽에 참가한 올림픽 동티모르 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[2014년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[소치]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.793">location</mln_predict>
+		<cnn_predict conf="0.484">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D6">
+		<sent><![CDATA[1972년 하계 올림픽 아르헨티나 선수단은 서독 뮌헨에서 개최된 1972년_하계_올림픽에 참가한 올림픽 아르헨티나 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1972년_하계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[뮌헨]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.585">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1538">
+		<sent><![CDATA[1992년 하계 올림픽 아메리칸사모아 선수단은 스페인 바르셀로나에서 개최된 1992년_하계_올림픽에 참가한 올림픽 아메리칸사모아 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1992년_하계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[바르셀로나]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.506">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1130">
+		<sent><![CDATA[1928년 하계 올림픽 오스트리아 선수단은 네덜란드 암스테르담에서 개최된 1928년_하계_올림픽에 참가한 올림픽 오스트리아 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1928년_하계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[암스테르담]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.490">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3102">
+		<sent><![CDATA[이탈리아 토리노에서 열린 2006년_동계_올림픽에서 1500m 금메달, 1000m·단체추발 은메달, 3000m·5000m 동메달 등 총 5개의 메달을 획득, 이 대회에서 금은동메달을 통틀어 가장 많은 개수의 메달을 획득한 선수였다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[2006년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[토리노]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.448">city</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[열린]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D168">
+		<sent><![CDATA[1988년 하계 올림픽 노르웨이 선수단은 대한민국 서울특별시에서 개최된 1988년_하계_올림픽에 참가한 올림픽 노르웨이 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1988년_하계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[서울특별시]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.754">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1778">
+		<sent><![CDATA[1972년 동계 올림픽 중화 타이베이 선수단은 일본 삿포로_시에서 개최된 1972년_동계_올림픽에 참가한 올림픽 중화민국 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1972년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[삿포로_시]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.545">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D529">
+		<sent><![CDATA[2006년 동계 올림픽 알바니아 선수단은 이탈리아 토리노에서 개최된 2006년_동계_올림픽에 참가한 올림픽 알바니아 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[2006년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[토리노]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.436">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1668">
+		<sent><![CDATA[2000년에 시드니에서 열린 2000년_하계_올림픽에서 동메달을 획득했다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[2000년_하계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[시드니]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.415">city</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[열린]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3644">
+		<sent><![CDATA[1906년 중간 올림픽 미국 선수단은 그리스 아테네에서 개최된 1906년_중간_올림픽에 참가했다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1906년_중간_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[아테네]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.907">location</mln_predict>
+		<cnn_predict conf="0.535">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D765">
+		<sent><![CDATA[그녀는 베이징에서 열린 2008년_하계_올림픽에 참가하여 개인전에서 결승에 올랐다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[2008년_하계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[베이징]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.349">city</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[열린]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3642">
+		<sent><![CDATA[이탈리아 토리노에서 열렸던 2006년_동계_올림픽에서 쇼트트트랙 5000m 계주 금메달을 기록하기도 하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[2006년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[토리노]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.364">city</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[열렸던]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1618">
+		<sent><![CDATA[그해 헬싱키에서 열린 1983년_세계_육상_선수권_대회에서 200m와 400m 릴레이 금메달과 100m 은메달을 획득하였고, 스위스 취리히에서 100m와 200m에서 각각 9.97초와 19.99초의 기록을 세워 각 종목에서 10초와 20초 아래로 달린 첫 선수가 되었다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[1983년_세계_육상_선수권_대회]]></sbj_text>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[헬싱키]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.842">location</mln_predict>
+		<cnn_predict conf="0.444">city</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[열린]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D4073">
+		<sent><![CDATA[2014년 동계 올림픽 캐나다의 올림픽 선수단은 러시아 소치에서 개최된 2014년_동계_올림픽에 참가한 올림픽 캐나다 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[2014년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[소치]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.605">location</mln_predict>
+		<cnn_predict conf="0.502">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1024">
+		<sent><![CDATA[런던에서 열린 2012년_하계_올림픽에서 구본길, 김정환, 원우영과 함께 단체전에 출전하여 금메달을 획득하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[2012년_하계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[런던]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.322">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[열린]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3526">
+		<sent><![CDATA[1976년 동계 올림픽 대한민국 선수단은 오스트리아 인스브루크에서 개최된 1976년_동계_올림픽에 참가한 올림픽 대한민국 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1976년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[인스브루크]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.479">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3218">
+		<sent><![CDATA[1952년 동계 올림픽 아르헨티나 선수단은 노르웨이 오슬로에서 개최된 1952년_동계_올림픽에 참가한 올림픽 아르헨티나 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1952년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[오슬로]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.578">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2887">
+		<sent><![CDATA[2016년 하계 올림픽 라오스 선수단은 브라질 리우데자네이루에서 열린 2016년_하계_올림픽에 참가한 올림픽 라오스 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[2016년_하계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[리우데자네이루]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.464">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[열린]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D4072">
+		<sent><![CDATA[2004년 하계 올림픽 안도라 선수단은 그리스 아테네에서 개최된 2004년_하계_올림픽에 참가한 올림픽 안도라 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[2004년_하계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[아테네]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.475">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2727">
+		<sent><![CDATA[그의 죽음은 국제 올림픽 위원회가 1967년에 의학 위원회를 설립하게 했고 프랑스의 그르노블에서 열린 1968년_동계_올림픽과 멕시코의 멕시코시티에서 열린 1968년 하계 올림픽 때 도핑검사를 하게 만들기도 했다.]]></sent>
+		<sbj label="NP_AJT" josa="과">
+			<sbj_text><![CDATA[1968년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[그르노블]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.412">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[열린]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3160">
+		<sent><![CDATA[2002년 동계 올림픽 대한민국 선수단은 미국 솔트레이크시티에서 개최된 2002년_동계_올림픽에 참가한 올림픽 대한민국 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[2002년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[솔트레이크시티]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.563">team</mln_predict>
+		<cnn_predict conf="0.488">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2202">
+		<sent><![CDATA[1972년 서독 뮌헨에서 열린 1972년_하계_올림픽에 참가, 50m 소총 복사에서 세계 신기록을 세우며 북한 출신으로는 처음으로 올림픽에서 금메달을 땄다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1972년_하계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[뮌헨]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.986">location</mln_predict>
+		<cnn_predict conf="0.373">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[열린]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3143">
+		<sent><![CDATA[2010년 하계 청소년 올림픽 알바니아 선수단은 싱가포르에서 개최된 2010년_하계_청소년_올림픽에 참가한 올림픽 알바니아 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[2010년_하계_청소년_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[싱가포르]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">team</mln_predict>
+		<cnn_predict conf="0.407">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2777">
+		<sent><![CDATA[2010년 동계 올림픽 이스라엘 선수단 캐나다 밴쿠버에서 개최된 2010년_동계_올림픽에 참가한 올림픽 이스라엘 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[2010년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[밴쿠버]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.565">location</mln_predict>
+		<cnn_predict conf="0.600">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2885">
+		<sent><![CDATA[2008년 하계 올림픽 가나 선수단은 중화인민공화국 베이징에서 개최된 2008년_하계_올림픽에 참가한 올림픽 가나 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[2008년_하계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[베이징]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.576">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3198">
+		<sent><![CDATA[1906년 중간 올림픽 캐나다 선수단은 그리스 아테네에서 개최된 1906년_중간_올림픽에 참가한 올림픽 캐나다 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1906년_중간_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[아테네]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.473">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3167">
+		<sent><![CDATA[1988년 동계 올림픽 안도라 선수단은 캐나다 캘거리에서 개최된 1988년_동계_올림픽에 참가한 올림픽 안도라 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1988년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[캘거리]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.478">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2059">
+		<sent><![CDATA[2008년에는 베이징에서 열린 2008년 하계 올림픽에 참가했고, 2012년에는 런던에서 열린 2012년_하계_올림픽에 참가했다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[2012년_하계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[런던]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.663">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[열린]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3762">
+		<sent><![CDATA[1988년 하계 올림픽 네팔 선수단은 대한민국 서울특별시에서 개최된 1988년_하계_올림픽에 참가한 올림픽 네팔 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1988년_하계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[서울특별시]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.788">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3713">
+		<sent><![CDATA[1956년 동계 올림픽 레바논 선수단은 이탈리아 코르티나담페초에서 개최된 1956년_동계_올림픽에 참가한 올림픽 레바논 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1956년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[코르티나담페초]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.347">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2628">
+		<sent><![CDATA[그는 4년 후, 국제 축구 연맹 주심이 되었고, 바르셀로나에서 열린 1992년_하계_올림픽에서 주심을 맡았다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[1992년_하계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[바르셀로나]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.999">city</mln_predict>
+		<cnn_predict conf="0.431">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[열린]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1891">
+		<sent><![CDATA[1980년 하계 올림픽 앙골라 선수단은 소비에트 연방 모스크바에서 개최된 1980년_하계_올림픽에 참가한 올림픽 앙골라 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1980년_하계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[모스크바]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.842">city</mln_predict>
+		<cnn_predict conf="0.439">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1121">
+		<sent><![CDATA[1904년 하계 올림픽 오스트레일리아 선수단은 미국 세인트루이스에서 개최된 1904년_하계_올림픽에 참가한 올림픽 오스트레일리아 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1904년_하계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[세인트루이스]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.431">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3235">
+		<sent><![CDATA[서울특별시에서 열린 1988년_하계_올림픽에 참가하였으며, 대한민국은 모나코에 대한 업무를 프랑스 주재 대사관이 겸임한다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1988년_하계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[서울특별시]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.307">largestCity</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[열린]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3409">
+		<sent><![CDATA[2010년 동계 올림픽 버뮤다 선수단은 캐나다 밴쿠버에서 개최된 2010년_동계_올림픽에 참가한 올림픽 버뮤다 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[2010년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[밴쿠버]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.568">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2276">
+		<sent><![CDATA[1928년 동계 올림픽 네덜란드 선수단은 스위스 장크트모리츠에서 개최된 1928년_동계_올림픽에 참가한 올림픽 네덜란드 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1928년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[장크트모리츠]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.420">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2652">
+		<sent><![CDATA[1984년 동계 올림픽 아르헨티나 선수단은 유고슬라비아 사라예보에서 개최된 1984년_동계_올림픽에 참가한 올림픽 아르헨티나 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1984년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[사라예보]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.397">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2513">
+		<sent><![CDATA[1976년 동계 올림픽 미국 선수단은 오스트리아 인스브루크에서 개최된 1976년_동계_올림픽에 참가한 올림픽 미국 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1976년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[인스브루크]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.509">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3617">
+		<sent><![CDATA[1964년 동계 올림픽 칠레 선수단은 오스트리아 인스브루크에서 개최된 1964년_동계_올림픽에 참가한 올림픽 칠레 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1964년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[인스브루크]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.749">location</mln_predict>
+		<cnn_predict conf="0.437">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2449">
+		<sent><![CDATA[2000년 하계 올림픽 알바니아 선수단은 오스트레일리아 시드니에서 개최된 2000년_하계_올림픽에 참가한 올림픽 알바니아 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[2000년_하계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[시드니]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.464">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2122">
+		<sent><![CDATA[자국의 솔트레이크시티에서 열린 2002년_동계_올림픽에서 당시 세계 최강이던 미셸 콴을 꺾고 금메달을 획득하여 돌풍을 일으켰다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[2002년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[솔트레이크시티]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.524">location</mln_predict>
+		<cnn_predict conf="0.289">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[열린]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2524">
+		<sent><![CDATA[시나노 공략에 많은 공을 세웠으나 다케다 신겐이 무라카미_요시키요와 싸운 우에다하라_전투에서 전사했다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[우에다하라_전투]]></sbj_text>
+		</sbj>
+		<obj label="NP_AJT" josa="와">
+			<obj_text><![CDATA[무라카미_요시키요]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.253">commander</mln_predict>
+		<cnn_predict conf="0.851">commander</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[싸운]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1431">
+		<sent><![CDATA[2014년 동계 올림픽 키르기스스탄의 올림픽 선수단은 러시아 소치에서 개최된 2014년_동계_올림픽에 참가한 올림픽 키르기스스탄 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[2014년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[소치]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.743">location</mln_predict>
+		<cnn_predict conf="0.461">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2586">
+		<sent><![CDATA[2016년 동계 청소년 올림픽의 메달 집계는 2016년 2월 12일부터 21일까지 노르웨이 릴레함메르에서 개최된 2016년_동계_청소년_올림픽에 참가했던 각국 국가 올림픽 위원회의 금메달순 목록이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[2016년_동계_청소년_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[릴레함메르]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.724">city</mln_predict>
+		<cnn_predict conf="0.658">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2279">
+		<sent><![CDATA[1924년 동계 올림픽 이탈리아 선수단은 프랑스 샤모니에서 개최된 1924년_동계_올림픽에 참가한 올림픽 이탈리아 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1924년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[샤모니]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.372">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3989">
+		<sent><![CDATA[2010년 동계 올림픽 남아프리카 공화국 선수단은 캐나다 밴쿠버에서 개최된 2010년_동계_올림픽에 참가한 올림픽 남아프리카 공화국 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[2010년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[밴쿠버]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.826">location</mln_predict>
+		<cnn_predict conf="0.617">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3448">
+		<sent><![CDATA[2010년 동계 올림픽 폴란드 선수단은 캐나다 밴쿠버에서 개최된 2010년_동계_올림픽에 참가한 올림픽 폴란드 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[2010년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[밴쿠버]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.596">team</mln_predict>
+		<cnn_predict conf="0.567">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3891">
+		<sent><![CDATA[2014년 동계 올림픽 중화인민공화국의 올림픽 선수단은 러시아 소치에서 개최된 2014년_동계_올림픽에 참가한 올림픽 중화인민공화국 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[2014년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[소치]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.548">team</mln_predict>
+		<cnn_predict conf="0.506">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3484">
+		<sent><![CDATA[1984년 미국 로스앤젤레스에서 열린 1984년_하계_올림픽 100m 경기에서 동메달을 획득하였고, 이어 400m 계주에서도 동메달을 땄다.]]></sent>
+		<sbj label="NP_AJT" josa="">
+			<sbj_text><![CDATA[1984년_하계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[로스앤젤레스]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.998">city</mln_predict>
+		<cnn_predict conf="0.435">city</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[열린]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2961">
+		<sent><![CDATA[2014년 동계 올림픽 모로코의 올림픽 선수단은 러시아 소치에서 개최된 2014년_동계_올림픽에 참가한 올림픽 모로코 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[2014년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[소치]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.528">location</mln_predict>
+		<cnn_predict conf="0.477">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1596">
+		<sent><![CDATA[실크웨이 항공은 아제르바이잔의 화물 항공사로 허브 공항은 바쿠에 위치한 헤이다르_알리예프_국제공항에 있으며 본사도 이 곳에 위치해 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[헤이다르_알리예프_국제공항]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[바쿠]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.748">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[위치한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1135">
+		<sent><![CDATA[멕시코 혁명은 1910년 멕시코에서 장기집권하던 포르피리오_디아스에 대항하여 프란시스코 I. 마데로가 반란을 일으키면서 시작된 무장 투쟁이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[포르피리오_디아스]]></sbj_text>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[멕시코]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.096">team</mln_predict>
+		<cnn_predict conf="0.388">deathPlace</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[장기집권하던]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1578">
+		<sent><![CDATA[2010년 하계 청소년 올림픽 아르메니아 선수단은 싱가포르에서 개최된 2010년_하계_청소년_올림픽에 참가한 올림픽 아르메니아 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[2010년_하계_청소년_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[싱가포르]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">team</mln_predict>
+		<cnn_predict conf="0.399">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2589">
+		<sent><![CDATA[1988년 하계 올림픽 오스트레일리아 선수단은 대한민국 서울특별시에서 개최된 1988년_하계_올림픽에 참가한 올림픽 오스트레일리아 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1988년_하계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[서울특별시]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.724">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2560">
+		<sent><![CDATA[1924년 동계 올림픽 스위스 선수단은 프랑스 샤모니에서 개최된 1924년_동계_올림픽에 참가한 올림픽 스위스 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1924년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[샤모니]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.509">city</mln_predict>
+		<cnn_predict conf="0.389">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D4088">
+		<sent><![CDATA[1998년 동계 올림픽 터키 선수단은 일본 나가노_시에서 개최된 1998년_동계_올림픽에 참가한 올림픽 터키 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1998년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[나가노_시]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.585">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2358">
+		<sent><![CDATA[1972년 동계 올림픽 리히텐슈타인 선수단은 일본 삿포로_시에서 개최된 1972년_동계_올림픽에 참가한 올림픽 리히텐슈타인 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1972년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[삿포로_시]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.519">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2292">
+		<sent><![CDATA[1972년 동계 올림픽 오스트리아 선수단은 일본 삿포로_시에서 개최된 1972년_동계_올림픽에 참가한 올림픽 오스트리아 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1972년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[삿포로_시]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.458">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2456">
+		<sent><![CDATA[1968년 동계 올림픽 몽골 선수단은 프랑스 그르노블에서 개최된 1968년_동계_올림픽에 참가한 올림픽 몽골 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1968년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[그르노블]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.369">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2580">
+		<sent><![CDATA[1904년 하계 올림픽 혼성 선수단은 미국 세인트루이스에서 개최된 1904년_하계_올림픽에 참가한 올림픽 혼성 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1904년_하계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[세인트루이스]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.413">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2795">
+		<sent><![CDATA[2006년 동계 올림픽 안도라 선수단은 이탈리아 토리노에서 개최된 2006년_동계_올림픽에 참가한 올림픽 안도라 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[2006년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[토리노]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.449">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1896">
+		<sent><![CDATA[1972년 동계 올림픽 루마니아 선수단은 일본 삿포로_시에서 개최된 1972년_동계_올림픽에 참가한 올림픽 루마니아 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1972년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[삿포로_시]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.523">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D558">
+		<sent><![CDATA[가브리엘라는 1983년 그녀가 자신의 일생을 하느님께 바치도록 하는 결정에 도움을 준 기간이었던 그리스도인 일치주간의 마지막 날인 1월 25일에 로마에 위치한 산_파올로_푸오리_레_무라_대성당에서 시복되었다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[산_파올로_푸오리_레_무라_대성당]]></sbj_text>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[로마]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.354">deathPlace</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[위치한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1075">
+		<sent><![CDATA[초마코바는 런던에서 열린 2012년_하계_올림픽에서 불가리아를 대표로 출전한 유일한 펜싱 선수였다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[2012년_하계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[런던]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.362">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[열린]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2297">
+		<sent><![CDATA[경희여고 재학 시절, 중장거리 국가대표로 선발되어 이탈리아 토리노에서 열린 2006년_동계_올림픽에 참가, 1000m·1500m 경기에 출전하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[2006년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[토리노]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.299">city</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[열린]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3790">
+		<sent><![CDATA[이 시즌에서 월드컵 대회에서 몇 차례 세계 상위권에 올랐고, 세계 스프린트 선수권 대회에서 종합 4위를 차지하여 이탈리아 토리노에서 열리는 2006년_동계_올림픽에서도 다시 메달을 기대할 수 있게 되었다.]]></sent>
+		<sbj label="NP_AJT" josa="도">
+			<sbj_text><![CDATA[2006년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[토리노]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.538">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[열리는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3730">
+		<sent><![CDATA[1992년 하계 올림픽 아루바 선수단은 스페인 바르셀로나에서 개최된 1992년_하계_올림픽에 참가한 올림픽 아루바 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1992년_하계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[바르셀로나]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.523">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3911">
+		<sent><![CDATA[2010년 동계 올림픽 에스토니아 선수단은 캐나다 밴쿠버에서 개최된 2010년_동계_올림픽에 참가한 올림픽 에스토니아 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[2010년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[밴쿠버]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.621">team</mln_predict>
+		<cnn_predict conf="0.609">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D94">
+		<sent><![CDATA[이탈리아 토리노에서 열린 2006년_동계_올림픽에서 계주 팀의 일원으로 참가하여 금메달을 획득했다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[2006년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[토리노]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.344">city</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[열린]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3026">
+		<sent><![CDATA[1988년 동계 올림픽 필리핀 선수단은 캐나다 캘거리에서 개최된 1988년_동계_올림픽에 참가한 올림픽 필리핀 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1988년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[캘거리]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.446">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3447">
+		<sent><![CDATA[2010년 동계 올림픽 몰도바 선수단은 캐나다 밴쿠버에서 개최된 2010년_동계_올림픽에 참가한 올림픽 몰도바 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[2010년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[밴쿠버]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.627">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D214">
+		<sent><![CDATA[1992년 동계 올림픽 스페인 선수단은 프랑스 알베르빌에서 개최된 1992년_동계_올림픽에 참가한 올림픽 스페인 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1992년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[알베르빌]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.870">city</mln_predict>
+		<cnn_predict conf="0.392">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3260">
+		<sent><![CDATA[1994년 동계 올림픽 버뮤다 선수단은 노르웨이 릴레함메르에서 개최된 1994년_동계_올림픽에 참가한 올림픽 버뮤다 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1994년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[릴레함메르]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.456">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3875">
+		<sent><![CDATA[2004년 하계 올림픽 키리바시 선수단은 그리스 아테네에서 개최된 2004년_하계_올림픽에 참가한 올림픽 키리바시 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[2004년_하계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[아테네]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.474">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개최된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

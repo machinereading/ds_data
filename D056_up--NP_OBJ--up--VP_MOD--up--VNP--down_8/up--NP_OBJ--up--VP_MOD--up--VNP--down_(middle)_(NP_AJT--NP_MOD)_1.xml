@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--NP_OBJ--up--VP_MOD--up--VNP--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2996">
+		<sent><![CDATA[부강화물선은 세종특별자치시의 부강역에서 부강화물역까지를 잇는 총연장 2.9km인 한국철도공사의 철도 노선이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[부강역]]></sbj_text>
+			<arg_type weight="0.09">Place</arg_type>
+			<arg_type weight="0.31">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.42">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[한국철도공사]]></obj_text>
+			<arg_type weight="0.25">Agent</arg_type>
+			<arg_type weight="0.55">Organisation</arg_type>
+		</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.992">owningOrganisation</mln_predict>
+		<cnn_predict conf="0.295">routeStart</cnn_predict>
+		<gsdp>(NP_AJT)--up--NP_OBJ--up--VP_MOD--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[부강화물역까지를--잇는--노선이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

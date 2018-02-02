@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP--down--(VNP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3254">
+		<sent><![CDATA[〈Black Night〉는 영국 하드_록 밴드 딥_퍼플의 곡이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[딥_퍼플]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.13">Organisation</arg_type>
+			<arg_type weight="0.76">Group</arg_type>
+		</sbj>
+		<obj label="VNP" josa="">
+			<obj_text><![CDATA[하드_록]]></obj_text>
+			<arg_type weight="2.32">TopicalConcept</arg_type>
+			<arg_type weight="2.32">Genre</arg_type>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="1.000">genre</mln_predict>
+		<cnn_predict conf="0.410">artist</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--(VNP)</gsdp>
+		<gsdp_lemma><![CDATA[곡이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

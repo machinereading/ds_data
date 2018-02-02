@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--down--NP--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D485">
+		<sent><![CDATA[법적 외숙부뻘: 쑹쯔원(宋子文, 1891년 12월 4일 ~ 1971년 4월 26일. 쑹칭링의 남동생. 前 중화민국 행정원 원장.)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[쑹쯔원]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+			<arg_type weight="-0.02">Person</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[쑹칭링]]></obj_text>
+			<arg_type weight="0.94">Agent</arg_type>
+			<arg_type weight="0.92">Person</arg_type>
+			<arg_type weight="1.52">Politician</arg_type>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="1.000">relative</mln_predict>
+		<cnn_predict conf="0.496">deathPlace</cnn_predict>
+		<gsdp>(NP)--up--NP--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[원장.)--남동생.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

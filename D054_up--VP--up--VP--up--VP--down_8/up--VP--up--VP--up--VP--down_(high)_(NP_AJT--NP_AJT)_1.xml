@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--up--VP--up--VP--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3374">
+		<sent><![CDATA[2017년 영화 《》에서 매기 역을 맡았으며, 2017년 영화 《미이라_(2017년_영화)》에서는 제니 홀시 역으로 출연해 톰 크루즈, 소피아_부텔라와 호흡을 맞췄다.]]></sent>
+		<sbj label="NP_AJT" josa="">
+			<sbj_text><![CDATA[미이라_(2017년_영화)]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="와">
+			<obj_text><![CDATA[소피아_부텔라]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="1.000">starring</mln_predict>
+		<cnn_predict conf="0.979">starring</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--up--VP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[맡았으며,--출연해--맞췄다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

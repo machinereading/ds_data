@@ -1,0 +1,69 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--NP_MOD--down--(NP)</dependency>
+	<total>4</total>
+	<sent_item id="M_D2228">
+		<sent><![CDATA[널리 알려진 조선민주주의인민공화국 백두산의 천지가 있지만 지반이 안정된 대한민국에는 한라산의 백록담, 물장오리오름 외에는 극히 소규모의 화구호가 몇 있을 뿐이다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[천지]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="-0.29">NaturalPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조선민주주의인민공화국]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.459">locatedInArea</mln_predict>
+		<cnn_predict conf="0.236">country</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[백두산의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3761">
+		<sent><![CDATA[2016년 K리그_클래식 소속의 FC_서울이 하프타임에 전 관중이 부르는 응원가로 활용하여 다시 한번 인기를 끌고 있으며 2016년 8월 13일 슈퍼매치에서 특별 게스트로 초청되어 라이브 공연을 하였다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[FC_서울]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[K리그_클래식]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.418">location</mln_predict>
+		<cnn_predict conf="0.288">team</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[소속의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2946">
+		<sent><![CDATA[결국 초대 회장이었던 로베르 게랭이 물러나는 계기가 되었고, 홈 네이션(잉글랜드) 출신의 대니얼_벌리_울폴이 새 회장이 된다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[대니얼_벌리_울폴]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[잉글랜드]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.546">birthPlace</mln_predict>
+		<cnn_predict conf="0.476">location</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[출신의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3020">
+		<sent><![CDATA[그 예로 자메이카 출신의 메리_시콜이 나이팅게일과 같은 시대에 활약했다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[메리_시콜]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[자메이카]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.879">birthPlace</mln_predict>
+		<cnn_predict conf="0.364">birthPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[출신의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--down--NP_AJT--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3091">
+		<sent><![CDATA["22"는 미국의 컨츄리 팝 가수 테일러_스위프트앨범 Red_(테일러_스위프트의_음반)에 수록되어 있는 노래이다.]]></sent>
+		<sbj label="NP_SBJ" josa="는">
+			<sbj_text><![CDATA[Red_(테일러_스위프트의_음반)]]></sbj_text>
+			<arg_type weight="0.55">Work</arg_type>
+			<arg_type weight="2.57">MusicalWork</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[테일러_스위프트]]></obj_text>
+			<arg_type weight="0.48">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+			<arg_type weight="1.03">Artist</arg_type>
+		</obj>
+		<gold>artist</gold>
+		<mln_predict conf="0.834">starring</mln_predict>
+		<cnn_predict conf="0.505">artist</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[수록되어--Red_(테일러_스위프트의_음반)에]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

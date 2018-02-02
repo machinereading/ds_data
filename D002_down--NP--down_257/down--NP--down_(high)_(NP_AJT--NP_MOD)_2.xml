@@ -1,0 +1,44 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--NP--down--(NP_MOD)</dependency>
+	<total>2</total>
+	<sent_item id="M_D2024">
+		<sent><![CDATA[Beyond Magnetic은 미국 헤비메탈 밴드인 메탈리카의 9번째 정규앨범 《Death_Magnetic》에 수록되지 않은 4곡의 미발표곡을 모은 EP로, 메탈리카 결성 30주년 기념공연 시점을 기해 아이튠즈를 통한 유료 다운로드 형식으로 발매했다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[Death_Magnetic]]></sbj_text>
+			<arg_type weight="0.55">Work</arg_type>
+			<arg_type weight="2.57">MusicalWork</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[메탈리카]]></obj_text>
+			<arg_type weight="0.48">Agent</arg_type>
+			<arg_type weight="0.43">Organisation</arg_type>
+			<arg_type weight="2.38">Group</arg_type>
+		</obj>
+		<gold>artist</gold>
+		<mln_predict conf="0.998">artist</mln_predict>
+		<cnn_predict conf="0.372">artist</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[정규앨범]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3458">
+		<sent><![CDATA[〈Helter Skelter〉는 1968년 발매된 비틀즈의 앨범 《The_Beatles》에 수록된 곡이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[The_Beatles]]></sbj_text>
+			<arg_type weight="0.55">Work</arg_type>
+			<arg_type weight="2.57">MusicalWork</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[비틀즈]]></obj_text>
+			<arg_type weight="0.48">Agent</arg_type>
+			<arg_type weight="0.43">Organisation</arg_type>
+			<arg_type weight="2.38">Group</arg_type>
+		</obj>
+		<gold>artist</gold>
+		<mln_predict conf="1.000">artist</mln_predict>
+		<cnn_predict conf="0.829">artist</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[앨범]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

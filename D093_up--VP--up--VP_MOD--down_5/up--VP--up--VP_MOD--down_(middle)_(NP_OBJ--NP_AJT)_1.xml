@@ -1,0 +1,25 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP--up--VP_MOD--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3354">
+		<sent><![CDATA[마르크 오버르마르스, 에마뉘엘 프티를 800만 파운드에 영입해서 FC 바르셀로나에 3200만 파운드에 판 것과 니콜라_아넬카를 50만파운드에 영입하여 2230만 파운드에 레알_마드리드_CF에 판매한 것은 유명한 사례이다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[니콜라_아넬카]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[레알_마드리드_CF]]></obj_text>
+			<arg_type weight="0.14">Agent</arg_type>
+			<arg_type weight="0.35">Organisation</arg_type>
+			<arg_type weight="0.72">SportsTeam</arg_type>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.431">team</mln_predict>
+		<cnn_predict conf="0.430">team</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--up--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[영입하여--판매한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

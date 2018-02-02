@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--NP--down--NP_MOD--down--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1779">
+		<sent><![CDATA[1998년 박신양, 김남주의 주연 드라마 《내_마음을_뺏어봐》에 출연하며 본격적으로 연기 활동을 시작했다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[내_마음을_뺏어봐]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[박신양]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.580">starring</mln_predict>
+		<cnn_predict conf="0.967">starring</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP_MOD--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[드라마--김남주의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

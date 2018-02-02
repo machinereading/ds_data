@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP)--down--NP_AJT--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3560">
+		<sent><![CDATA[도쿄_도 출신으로, 히라타 오피스 소속. 여배우 미야자키_아오이의 친오빠이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[미야자키_아오이]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+			<arg_type weight="0.86">Artist</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="도">
+			<obj_text><![CDATA[도쿄_도]]></obj_text>
+			<arg_type weight="0.23">Place</arg_type>
+			<arg_type weight="0.25">PopulatedPlace</arg_type>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.777">birthPlace</mln_predict>
+		<cnn_predict conf="0.291">location</cnn_predict>
+		<gsdp>(NP)--down--NP_AJT--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[출신으로,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

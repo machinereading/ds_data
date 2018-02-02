@@ -1,0 +1,164 @@
+<sentence_list>
+	<dependency>(NP)--down--NP--down--NP--down--(NP)</dependency>
+	<total>10</total>
+	<sent_item id="M_D922">
+		<sent><![CDATA[캘리포니아 제퍼는 미국 일리노이 주 시카고 유니언 역에서 캘리포니아 주 에머리빌 에머리빌 역까지 운행되는 장거리 열차이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[시카고]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[미국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.993">country</mln_predict>
+		<cnn_predict conf="0.525">country</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--일리노이]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D14">
+		<sent><![CDATA[웅천 안골왜성은 대한민국 경상남도 창원시 진해구 안골동 산27외에 있는 일본식 성이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[진해구]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.813">country</mln_predict>
+		<cnn_predict conf="0.891">country</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[창원시--경상남도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D157">
+		<sent><![CDATA[심플 플랜은 캐나다 퀘벡 주 몬트리올 출신의 팝 펑크 밴드이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[몬트리올]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[캐나다]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.895">country</mln_predict>
+		<cnn_predict conf="0.370">country</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--퀘벡]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D240">
+		<sent><![CDATA[주부 국제공항은 일본 아이치 현 도코나메_시 앞 이세 만의 인공섬에 만든 공항이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[도코나메_시]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[일본]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.714">country</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[현--아이치]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D10">
+		<sent><![CDATA[루디코프는 2002년 설립된 캐나다 브리티시컬럼비아 주 밴쿠버 소재 기업이었다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[밴쿠버]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[캐나다]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.964">country</mln_predict>
+		<cnn_predict conf="0.368">location</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--브리티시컬럼비아]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D298">
+		<sent><![CDATA[상무야구장은 대한민국 경기도 성남시 수정구 복정동 국군체육부대 내와 대한민국 경상북도 문경시 호계면 견탄리 국군체육부대 내에 위치한 야구장이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[수정구]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.557">country</mln_predict>
+		<cnn_predict conf="0.618">country</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[성남시--경기도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1205">
+		<sent><![CDATA[(다만, YTN 본사는 서울특별시 종로구 수송동 연합뉴스 사옥에 입주하였으나 2004년 3월 1일에 서울특별시 중구 (서울) 세종대로 17 (남대문로5가)로 이전하였고, 2014년 4월 7일에 또다시 서울특별시 마포구 상암산로 76 (상암동)으로 이전하였다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[연합뉴스]]></sbj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="1.12">Organisation</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[서울특별시]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.763">location</mln_predict>
+		<cnn_predict conf="0.799">location</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[수송동--종로구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D103">
+		<sent><![CDATA[블루워터는 미국 일리노이 주 시카고 유니언 역에서 미시간 주 포트휴런 포트휴런 역까지 운행되는 장거리 열차이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[시카고]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[미국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.524">country</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--일리노이]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D282">
+		<sent><![CDATA[컨트리 음악 명예의 전당 박물관은 ​​미국 테네시 주 내슈빌 5번로 남쪽 222에 위치한 명예의 전당이자 박물관이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[내슈빌]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[미국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.815">country</mln_predict>
+		<cnn_predict conf="0.529">country</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--테네시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D40">
+		<sent><![CDATA[네이버 그린팩토리은 대한민국 경기도 성남시 분당구 정자동에 위치한 초고층 빌딩이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[분당구]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.507">country</mln_predict>
+		<cnn_predict conf="0.557">location</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[성남시--경기도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

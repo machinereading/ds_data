@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--VP_MOD--down--NP_OBJ--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2004">
+		<sent><![CDATA[국도 제2호선 대체우회도로는 전라남도 신안군 장산면을 기점으로 하여 부산광역시 중구를 종점으로 하는 대한민국의 국도_제2호선의 국도대체우회도로이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[국도_제2호선]]></sbj_text>
+			<arg_type weight="0.34">Place</arg_type>
+			<arg_type weight="0.55">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.75">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[부산광역시]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.391">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--down--VP_MOD--down--NP_OBJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[하는--중구를]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

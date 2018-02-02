@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_SBJ--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2772">
+		<sent><![CDATA[3라운드는 2012년 K리그 참가 16팀(2013시즌 K리그_클래식 참가 14개 팀과 광주_FC, 상주 상무 축구단)이 2라운드에서 승리한 또 다른 16팀과 격돌해 16강 진출을 다투게 된다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[광주_FC]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[K리그_클래식]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.560">position</mln_predict>
+		<cnn_predict conf="0.577">team</cnn_predict>
+		<gsdp>(NP)--up--NP_SBJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[축구단)이]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

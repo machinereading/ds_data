@@ -1,0 +1,97 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--NP_CNJ--down--NP--down--(NP)</dependency>
+	<total>5</total>
+	<sent_item id="M_D2046">
+		<sent><![CDATA[갑진북정록은 대전광역시 유성구 상대동, 대전역사박물관에 있는 조선시대의 책이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[대전역사박물관]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.92">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대전광역시]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.298">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_CNJ--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[상대동,--유성구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2032">
+		<sent><![CDATA[신경행 청난공신교서 및 관련문적은 충청북도 청주시 상당구, 국립청주박물관에 있는 조선시대의 국왕문서이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[국립청주박물관]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.92">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[충청북도]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.500">locatedInArea</mln_predict>
+		<cnn_predict conf="0.337">locatedInArea</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_CNJ--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[상당구,--청주시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2430">
+		<sent><![CDATA[청자 상감‘王’명잔탁은 전라남도 강진군 대구면, 강진청자박물관에 있는 청자이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[강진청자박물관]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.92">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[전라남도]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.491">location</mln_predict>
+		<cnn_predict conf="0.319">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_CNJ--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[대구면,--강진군]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2167">
+		<sent><![CDATA[태실은 대전광역시 유성구 상대동, 대전역사박물관에 있는 태실이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[대전역사박물관]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.92">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대전광역시]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.293">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_CNJ--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[상대동,--유성구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2547">
+		<sent><![CDATA[밀양 만어산 암괴류는 경상남도 밀양시 삼랑진읍, 만어산에 있는 지질지형이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[만어산]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="2.09">NaturalPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[경상남도]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.511">locatedInArea</mln_predict>
+		<cnn_predict conf="0.321">locatedInArea</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_CNJ--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[삼랑진읍,--밀양시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

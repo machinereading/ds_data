@@ -1,0 +1,143 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--(NP_AJT)</dependency>
+	<total>8</total>
+	<sent_item id="M_D3446">
+		<sent><![CDATA[적벽대전에 주유의 호위무장으로 참전하고 합비_전투에서 장료에게 계략을 간파당하여 중상을 입고 이로 인해 죽는 것으로 처리하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[합비_전투]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에게">
+			<obj_text><![CDATA[장료]]></obj_text>
+			<arg_type weight="0.34">Agent</arg_type>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.938">commander</mln_predict>
+		<cnn_predict conf="0.934">commander</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[간파당하여]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3622">
+		<sent><![CDATA[2014년 미국 내셔널_지오그래픽_채널에서 원조 코스모스의 속편 격으로 그간의 새로운 과학적 성과를 추가해 동명의 새로운 다큐(코스모스_(2014년_텔레비전_프로그램) : 시간과 공간을 초월한 빅 히스토리, Cosmos: A Spacetime Odyssey)를 선보였다.]]></sent>
+		<sbj label="NP_AJT" josa="">
+			<sbj_text><![CDATA[코스모스_(2014년_텔레비전_프로그램)]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[내셔널_지오그래픽_채널]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.668">genre</mln_predict>
+		<cnn_predict conf="0.190">genre</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[추가해]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1061">
+		<sent><![CDATA[마지막으로 이현승_(야구_선수)은 두산_베어스로 이적하고 좌완 투수 금민철에 이적료 10억 원을 받는 트레이드를 최종 완료했다.]]></sent>
+		<sbj label="NP_AJT" josa="으로">
+			<sbj_text><![CDATA[이현승_(야구_선수)]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="로">
+			<obj_text><![CDATA[두산_베어스]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.838">team</mln_predict>
+		<cnn_predict conf="0.662">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[이적하고]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D554">
+		<sent><![CDATA[이때 류조지 군은 6만대군 이었지만, 적의 지장 시마즈_이에히사에게 오키타나와테_전투에서 크게 지고 많은 장병과 함께 타카노부 자신도 향년 56세의 나이로 시마즈 씨의 가신·가와카미 다다카타에 의해 죽임을 당했다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[오키타나와테_전투]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에게">
+			<obj_text><![CDATA[시마즈_이에히사]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.996">commander</mln_predict>
+		<cnn_predict conf="0.402">commander</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[지고]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3060">
+		<sent><![CDATA[이후 오스만 제국의 몰락에 접어든 오스만 제국은 제1차_세계_대전에서 동맹국편으로 참전하여 결국 패배하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[제1차_세계_대전]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="으로">
+			<obj_text><![CDATA[동맹국]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.992">commander</mln_predict>
+		<cnn_predict conf="0.810">commander</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[참전하여]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3770">
+		<sent><![CDATA[아를린드 아프림 아예티는 세리에_A에 소속 구단인 토리노_FC에서 활약하고 있는 알바니아의 축구 선수이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[토리노_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[세리에_A]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.990">position</mln_predict>
+		<cnn_predict conf="0.527">league</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[활약하고]]></gsdp_lemma>
+		<comment>'소속 구단인'이 토리노_FC의 Modifier가 clue.</comment>
+	</sent_item>
+	<sent_item id="M_D1210">
+		<sent><![CDATA[또 2012년 9월 18일 잠실야구장 LG 트윈스전에서는 2도루를 추가하며 유격수로는 해태 타이거즈 시절의 이종범에 이어 두 번째로 20-20 클럽에 이름을 올리게 되었다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[이종범]]></sbj_text>
+			<arg_type weight="0.28">Agent</arg_type>
+			<arg_type weight="0.36">Person</arg_type>
+			<arg_type weight="1.04">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="는">
+			<obj_text><![CDATA[유격수]]></obj_text>
+		</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.273">team</mln_predict>
+		<cnn_predict conf="0.692">position</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[이어]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1011">
+		<sent><![CDATA[그러나 1878년 베를린 회의의 결과 영국에게 조차되었고, 제1차_세계_대전에 오스만 제국이 동맹국으로 참전하자 적국이었던 영국은 1914년 11월 5일 키프로스의 완전 합병을 선언한다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[제1차_세계_대전]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="으로">
+			<obj_text><![CDATA[동맹국]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.998">commander</mln_predict>
+		<cnn_predict conf="0.639">commander</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[참전하자]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

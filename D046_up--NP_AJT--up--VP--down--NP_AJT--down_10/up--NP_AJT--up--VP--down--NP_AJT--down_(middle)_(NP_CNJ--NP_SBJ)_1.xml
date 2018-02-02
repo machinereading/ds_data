@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP_AJT--up--VP--down--NP_AJT--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1489">
+		<sent><![CDATA[프세우도지우스상과는 게 상과의 하나로 이전에는 에리피데스상과, 붉은무늬부채게상과, 부채게상과, 애기털보부채게상과 그리고 원숭이게상과에 포함시켜 분류했다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[부채게상과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[게]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.563">order</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--up--VP--down--NP_AJT--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[원숭이게상과에--포함시켜--하나로]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

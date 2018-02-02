@@ -1,0 +1,25 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP_MOD--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2572">
+		<sent><![CDATA[2009년 7월 7일 카림_벤제마를 레알_마드리드_CF에 판 올랭피크 리옹이 그를 2,400만 유로의 가격에 사들였다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[카림_벤제마]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[레알_마드리드_CF]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.873">club</mln_predict>
+		<cnn_predict conf="0.569">team</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[판]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

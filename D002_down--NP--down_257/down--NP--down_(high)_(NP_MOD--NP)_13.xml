@@ -1,0 +1,264 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--NP--down--(NP)</dependency>
+	<total>13</total>
+	<sent_item id="M_D1213">
+		<sent><![CDATA[V는 미국의 팝_록 음악 그룹 마룬_5의 다섯 번째 정규 음반이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[마룬_5]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.13">Organisation</arg_type>
+			<arg_type weight="0.76">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[팝_록]]></obj_text>
+			<arg_type weight="2.32">TopicalConcept</arg_type>
+			<arg_type weight="2.32">Genre</arg_type>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="1.000">genre</mln_predict>
+		<cnn_predict conf="0.413">artist</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[그룹]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2568">
+		<sent><![CDATA[The B-Side Collection은 미국의 팝_록 밴드 마룬_5의 EP이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[마룬_5]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.13">Organisation</arg_type>
+			<arg_type weight="0.76">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[팝_록]]></obj_text>
+			<arg_type weight="2.32">TopicalConcept</arg_type>
+			<arg_type weight="2.32">Genre</arg_type>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="1.000">genre</mln_predict>
+		<cnn_predict conf="0.392">artist</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[밴드]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3418">
+		<sent><![CDATA[닐 모스 는 미국의 보컬 리스트이며 프로그레시브_메탈 밴드 트랜스아틀랜틱의 맴버로 잘 알려져 있다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[트랜스아틀랜틱]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.13">Organisation</arg_type>
+			<arg_type weight="0.76">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[프로그레시브_메탈]]></obj_text>
+			<arg_type weight="2.32">TopicalConcept</arg_type>
+			<arg_type weight="2.32">Genre</arg_type>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="1.000">genre</mln_predict>
+		<cnn_predict conf="0.384">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[밴드]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D52">
+		<sent><![CDATA[그는 분데스리가 이 달의 선수로 선정되며 9월을 마감하였고, 같은 성을 쓰는 바이에른 뮌헨의 전설이자 전 독일_축구_국가대표팀 스트라이커 게르트_뮐러의 찬사를 받았다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[게르트_뮐러]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[독일_축구_국가대표팀]]></obj_text>
+			<arg_type weight="0.98">Event</arg_type>
+			<arg_type weight="0.98">SocietalEvent</arg_type>
+			<arg_type weight="1.30">SportsEvent</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.959">team</mln_predict>
+		<cnn_predict conf="0.639">team</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[스트라이커]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D4092">
+		<sent><![CDATA[SBS 드라마 '별에서_온_그대'의 여주인공 천송이와 외계에서 온 남자 주인공 도민준(김수현_(1988년))이 살고 있는 아파트로 등장한다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[별에서_온_그대]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[김수현_(1988년)]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="1.000">starring</mln_predict>
+		<cnn_predict conf="0.844">starring</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[드라마]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2018">
+		<sent><![CDATA[Eagleheart는 파워_메탈 밴드 스트라토바리우스의 2003년 싱글 앨범이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[스트라토바리우스]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.13">Organisation</arg_type>
+			<arg_type weight="0.76">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[파워_메탈]]></obj_text>
+			<arg_type weight="2.32">TopicalConcept</arg_type>
+			<arg_type weight="2.32">Genre</arg_type>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.952">genre</mln_predict>
+		<cnn_predict conf="0.626">artist</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[밴드]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3548">
+		<sent><![CDATA["Misery"는 미국의 팝_록 밴드 마룬_5의 세 번째 정규 음반 "Hands All Over"의 첫 번째 싱글이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[마룬_5]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.13">Organisation</arg_type>
+			<arg_type weight="0.76">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[팝_록]]></obj_text>
+			<arg_type weight="2.32">TopicalConcept</arg_type>
+			<arg_type weight="2.32">Genre</arg_type>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="1.000">genre</mln_predict>
+		<cnn_predict conf="0.690">artist</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[밴드]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D371">
+		<sent><![CDATA[《Funeral》은 캐나다의 인디_록 밴드 아케이드_파이어의 데뷔 정규 음반이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[아케이드_파이어]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.13">Organisation</arg_type>
+			<arg_type weight="0.76">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[인디_록]]></obj_text>
+			<arg_type weight="2.32">TopicalConcept</arg_type>
+			<arg_type weight="2.32">Genre</arg_type>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.954">genre</mln_predict>
+		<cnn_predict conf="0.663">artist</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[밴드]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3074">
+		<sent><![CDATA[Hands All Over는 미국의 팝_록 음악 그룹 마룬_5의 세 번째 정규 음반이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[마룬_5]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.13">Organisation</arg_type>
+			<arg_type weight="0.76">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[팝_록]]></obj_text>
+			<arg_type weight="2.32">TopicalConcept</arg_type>
+			<arg_type weight="2.32">Genre</arg_type>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.972">genre</mln_predict>
+		<cnn_predict conf="0.454">artist</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[그룹]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3400">
+		<sent><![CDATA[미국의 헤비 메탈, 그루브 메탈 밴드 판테라의 기타리스트 다임백 데럴과 헤비 메탈 얼터너티브_메탈 밴드 디스터브드의 기타리스트 덴 도네건은 혼자이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[디스터브드]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.13">Organisation</arg_type>
+			<arg_type weight="0.76">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[얼터너티브_메탈]]></obj_text>
+			<arg_type weight="2.32">TopicalConcept</arg_type>
+			<arg_type weight="2.32">Genre</arg_type>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="1.000">genre</mln_predict>
+		<cnn_predict conf="0.489">genre</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[밴드]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3307">
+		<sent><![CDATA[로린 힐은 레게 뮤지션 밥_말리의 넷째 아들 로한 말리 사이에 다섯 아이를 두고 있다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[밥_말리]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.11">Person</arg_type>
+			<arg_type weight="0.43">Artist</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[레게]]></obj_text>
+			<arg_type weight="2.32">TopicalConcept</arg_type>
+			<arg_type weight="2.32">Genre</arg_type>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.995">genre</mln_predict>
+		<cnn_predict conf="0.297">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[뮤지션]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3042">
+		<sent><![CDATA[일본의 퓨전재즈 밴드 티스퀘어의 리더로 활동하고 있다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[티스퀘어]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.13">Organisation</arg_type>
+			<arg_type weight="0.76">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[재즈]]></obj_text>
+			<arg_type weight="2.32">TopicalConcept</arg_type>
+			<arg_type weight="2.32">Genre</arg_type>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="1.000">genre</mln_predict>
+		<cnn_predict conf="0.552">genre</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[밴드]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3935">
+		<sent><![CDATA["How We Do"는 알바니아계 영국인 팝_음악 가수 리타_오라의 첫번째 정규 음반인 Ora의 수록곡이자 2012년 3월 20일 발매된 싱글이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[리타_오라]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.11">Person</arg_type>
+			<arg_type weight="0.43">Artist</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[팝_음악]]></obj_text>
+			<arg_type weight="2.32">TopicalConcept</arg_type>
+			<arg_type weight="2.32">Genre</arg_type>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.801">birthPlace</mln_predict>
+		<cnn_predict conf="0.449">artist</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[가수]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

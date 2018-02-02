@@ -1,0 +1,124 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--NP--down--(NP_MOD)</dependency>
+	<total>6</total>
+	<sent_item id="M_D2152">
+		<sent><![CDATA[1986년 발매된 이은하의 장덕 작품집 음반 《미소를_띄우며_나를_보낸_그_모습처럼》의 A면 머릿곡이자 동명 타이틀 곡으로 발표되었다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[미소를_띄우며_나를_보낸_그_모습처럼]]></sbj_text>
+			<arg_type weight="0.55">Work</arg_type>
+			<arg_type weight="2.57">MusicalWork</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[이은하]]></obj_text>
+			<arg_type weight="0.48">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+			<arg_type weight="1.03">Artist</arg_type>
+		</obj>
+		<gold>artist</gold>
+		<mln_predict conf="0.639">artist</mln_predict>
+		<cnn_predict conf="0.564">artist</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[작품집]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1384">
+		<sent><![CDATA["Love Somebody"는 미국의 팝 록 밴드 마룬_5의 네 번째 정규 음반 "Overexposed"의 네 번째 싱글이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[Overexposed]]></sbj_text>
+			<arg_type weight="0.55">Work</arg_type>
+			<arg_type weight="2.57">MusicalWork</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[마룬_5]]></obj_text>
+			<arg_type weight="0.48">Agent</arg_type>
+			<arg_type weight="0.43">Organisation</arg_type>
+			<arg_type weight="2.38">Group</arg_type>
+		</obj>
+		<gold>artist</gold>
+		<mln_predict conf="0.554">artist</mln_predict>
+		<cnn_predict conf="0.779">artist</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[음반]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3238">
+		<sent><![CDATA["Disturbia"는 바베이도스계 가수 리한나의 세 번째 음반 "Good_Girl_Gone_Bad"의 싱글이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[Good_Girl_Gone_Bad]]></sbj_text>
+			<arg_type weight="0.55">Work</arg_type>
+			<arg_type weight="2.57">MusicalWork</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[리한나]]></obj_text>
+			<arg_type weight="0.48">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+			<arg_type weight="1.03">Artist</arg_type>
+		</obj>
+		<gold>artist</gold>
+		<mln_predict conf="1.000">artist</mln_predict>
+		<cnn_predict conf="0.681">artist</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[음반]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2643">
+		<sent><![CDATA["Live Your Life"는 미국의 랩퍼 T.I.의 여섯번째 정규앨범 "Paper_Trail"의 세 번째 싱글이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[Paper_Trail]]></sbj_text>
+			<arg_type weight="0.55">Work</arg_type>
+			<arg_type weight="2.57">MusicalWork</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[T.I.]]></obj_text>
+			<arg_type weight="0.48">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+			<arg_type weight="1.03">Artist</arg_type>
+		</obj>
+		<gold>artist</gold>
+		<mln_predict conf="0.991">artist</mln_predict>
+		<cnn_predict conf="0.741">artist</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[정규앨범]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1602">
+		<sent><![CDATA["G.U.Y"은 미국의 가수 레이디_가가의 세 번째 정규 앨범 Artpop의 세 번째 싱글이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[Artpop]]></sbj_text>
+			<arg_type weight="0.55">Work</arg_type>
+			<arg_type weight="2.57">MusicalWork</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[레이디_가가]]></obj_text>
+			<arg_type weight="0.48">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+			<arg_type weight="1.03">Artist</arg_type>
+		</obj>
+		<gold>artist</gold>
+		<mln_predict conf="1.000">artist</mln_predict>
+		<cnn_predict conf="0.610">artist</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[앨범]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1996">
+		<sent><![CDATA["Outrageous"는 미국의 가수 브리트니_스피어스의 네 번째 음반 "In_the_Zone"의 네 번째 싱글이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[In_the_Zone]]></sbj_text>
+			<arg_type weight="0.55">Work</arg_type>
+			<arg_type weight="2.57">MusicalWork</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[브리트니_스피어스]]></obj_text>
+			<arg_type weight="0.48">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+			<arg_type weight="1.03">Artist</arg_type>
+		</obj>
+		<gold>artist</gold>
+		<mln_predict conf="1.000">artist</mln_predict>
+		<cnn_predict conf="0.691">artist</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[음반]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

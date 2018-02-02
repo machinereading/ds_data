@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--NP_CNJ--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3707">
+		<sent><![CDATA[1970년대의 유명 선수로는 오스트리아의 미드필더 쿠르트 야라, 네덜란드의 공격수 요니 렙, 아르헨티나의 공격수 마리오_켐페스가 있었다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[마리오_켐페스]]></sbj_text>
+			<arg_type weight="0.28">Agent</arg_type>
+			<arg_type weight="0.36">Person</arg_type>
+			<arg_type weight="1.04">Athlete</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[공격수]]></obj_text>
+		</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.237">birthPlace</mln_predict>
+		<cnn_predict conf="0.785">position</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP_CNJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[렙,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

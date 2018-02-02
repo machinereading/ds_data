@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(VNP)--down--NP--down--NP--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D113">
+		<sent><![CDATA[허기도은 대한민국 제45대 민선 6기 경상남도 산청군수이다.]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[산청군]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.617">country</mln_predict>
+		<cnn_predict conf="0.822">country</cnn_predict>
+		<gsdp>(VNP)--down--NP--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[6기--민선--제45대]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

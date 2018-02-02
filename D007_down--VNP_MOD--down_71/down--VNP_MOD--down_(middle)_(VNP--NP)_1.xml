@@ -1,0 +1,25 @@
+<sentence_list>
+	<dependency>(VNP)--down--VNP_MOD--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2379">
+		<sent><![CDATA[이전 기록자는 535경기의 전 볼턴_원더러스_FC 선수인 게리_스피드이다.]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[게리_스피드]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[볼턴_원더러스_FC]]></obj_text>
+			<arg_type weight="0.14">Agent</arg_type>
+			<arg_type weight="0.35">Organisation</arg_type>
+			<arg_type weight="0.72">SportsTeam</arg_type>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.860">team</mln_predict>
+		<cnn_predict conf="0.508">team</cnn_predict>
+		<gsdp>(VNP)--down--VNP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[선수인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

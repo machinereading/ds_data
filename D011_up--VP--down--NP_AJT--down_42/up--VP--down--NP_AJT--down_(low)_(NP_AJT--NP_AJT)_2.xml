@@ -1,0 +1,36 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_AJT)</dependency>
+	<total>2</total>
+	<sent_item id="M_D719">
+		<sent><![CDATA[피얄라바튼은 페로_제도에서 두번째로 큰 호수로, 보가르_섬에 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[보가르_섬]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="-0.19">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[페로_제도]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.372">region</mln_predict>
+		<cnn_predict conf="0.508">country</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[있다.--호수로,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D287">
+		<sent><![CDATA[FK 모그렌은 1920년에 창단된 몬테네그로 부드바의 축구 클럽으로, 현재 몬테네그로_1부_리그에서 활동하고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[몬테네그로_1부_리그]]></sbj_text>
+		</sbj>
+		<obj label="NP_AJT" josa="로">
+			<obj_text><![CDATA[몬테네그로]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.801">country</mln_predict>
+		<cnn_predict conf="0.419">country</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[활동하고--클럽으로,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

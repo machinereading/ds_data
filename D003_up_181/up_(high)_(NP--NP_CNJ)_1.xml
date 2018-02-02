@@ -1,0 +1,25 @@
+<sentence_list>
+	<dependency>(NP)--up--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1092">
+		<sent><![CDATA[에픽하이(특히 타블로), 피아, 하동균 등과 절친 사이이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[에픽하이]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="로">
+			<obj_text><![CDATA[타블로]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.936">currentMember</mln_predict>
+		<cnn_predict conf="0.483">currentMember</cnn_predict>
+		<gsdp>(NP)--up--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

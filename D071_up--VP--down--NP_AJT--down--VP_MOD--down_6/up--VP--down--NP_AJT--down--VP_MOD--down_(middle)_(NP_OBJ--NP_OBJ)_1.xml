@@ -1,0 +1,25 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP--down--NP_AJT--down--VP_MOD--down--(NP_OBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1145">
+		<sent><![CDATA[2005년 12월 UEFA 챔피언스리그에서 밀란이 FC_샬케_04를 3-2로 꺾었을 때, 가투소는 상대 미드필더인 크리스티안_폴센을 계속 쫓아다니며 도발하였다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[크리스티안_폴센]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="를">
+			<obj_text><![CDATA[FC_샬케_04]]></obj_text>
+			<arg_type weight="0.14">Agent</arg_type>
+			<arg_type weight="0.35">Organisation</arg_type>
+			<arg_type weight="0.72">SportsTeam</arg_type>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.478">club</mln_predict>
+		<cnn_predict conf="0.746">team</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--NP_AJT--down--VP_MOD--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[쫓아다니며--때,--꺾었을]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

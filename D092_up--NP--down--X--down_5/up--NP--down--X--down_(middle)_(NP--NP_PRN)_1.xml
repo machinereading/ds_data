@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--down--X--down--(NP_PRN)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3466">
+		<sent><![CDATA[1999년 10월 14일 - 2000년 3월 30일 《3학년_B반_긴파치선생》 (도쿄_방송_홀딩스) - 후카가와 아키히코 역]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[3학년_B반_긴파치선생]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_PRN" josa="">
+			<obj_text><![CDATA[도쿄_방송_홀딩스]]></obj_text>
+			<arg_type weight="0.32">Agent</arg_type>
+			<arg_type weight="1.24">Organisation</arg_type>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.938">channel</mln_predict>
+		<cnn_predict conf="0.457">channel</cnn_predict>
+		<gsdp>(NP)--up--NP--down--X--down--(NP_PRN)</gsdp>
+		<gsdp_lemma><![CDATA[역---]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

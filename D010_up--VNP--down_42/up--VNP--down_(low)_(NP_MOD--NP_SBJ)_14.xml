@@ -1,0 +1,258 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP--down--(NP_SBJ)</dependency>
+	<total>14</total>
+	<sent_item id="M_D3696">
+		<sent><![CDATA[히가시토쓰카 역은 일본 가나가와 현 요코하마 시에 있는 동일본_여객철도 도카이도 본선(실제 운행 노선은 요코스카 선(소부 쾌속선 직결 및 쇼난_신주쿠_라인))의 역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[쇼난_신주쿠_라인]]></sbj_text>
+			<arg_type weight="0.08">Place</arg_type>
+			<arg_type weight="0.28">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.20">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="도">
+			<obj_text><![CDATA[동일본_여객철도]]></obj_text>
+		</obj>
+		<gold>operator</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.525">owningOrganisation</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[역이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1089">
+		<sent><![CDATA[창도역은 지금의 조선민주주의인민공화국 강원도_(북) 김화군에 위치했던 금강산선의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[금강산선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="은">
+			<obj_text><![CDATA[강원도_(북)]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.462">location</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[철도역이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2335">
+		<sent><![CDATA[오쓰카 역은 일본 도쿄_도 도시마 구에 있는 동일본 여객철도 야마노테_선의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[야마노테_선]]></sbj_text>
+		</sbj>
+		<obj label="NP_SBJ" josa="도">
+			<obj_text><![CDATA[도쿄_도]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.497">location</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[철도역이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D506">
+		<sent><![CDATA[신아키쓰 역은 일본 도쿄_도 히가시무라야마 시에 있는 동일본 여객철도 무사시노_선의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[무사시노_선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="도">
+			<obj_text><![CDATA[도쿄_도]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.358">location</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[철도역이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D575">
+		<sent><![CDATA[연당역은 강원도_(남) 영월군 남면 연당리에 있는 태백선의 역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[태백선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="은">
+			<obj_text><![CDATA[강원도_(남)]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.995">location</mln_predict>
+		<cnn_predict conf="0.579">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[역이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1359">
+		<sent><![CDATA[말휘리역은 지금의 조선민주주의인민공화국 강원도_(북) 금강군에 위치했던 금강산선의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[금강산선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="은">
+			<obj_text><![CDATA[강원도_(북)]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.428">location</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[철도역이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3542">
+		<sent><![CDATA[무라사키가와 신호장은 일본 후쿠오카 현 기타큐슈 시 고쿠라기타 구에 소재하는 규슈_여객철도 가고시마 본선 · 닛포_본선의 신호장이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[닛포_본선]]></sbj_text>
+			<arg_type weight="0.08">Place</arg_type>
+			<arg_type weight="0.17">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.15">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="도">
+			<obj_text><![CDATA[규슈_여객철도]]></obj_text>
+		</obj>
+		<gold>owner</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.623">operator</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[신호장이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1918">
+		<sent><![CDATA[사가미 호 역은, 일본 가나가와 현 사가미하라 시 미도리 구에 있는 동일본_여객철도 주오 본선(주오_쾌속선)의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[주오_쾌속선]]></sbj_text>
+			<arg_type weight="0.08">Place</arg_type>
+			<arg_type weight="0.17">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.15">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="도">
+			<obj_text><![CDATA[동일본_여객철도]]></obj_text>
+		</obj>
+		<gold>owner</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.581">operator</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[철도역이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2274">
+		<sent><![CDATA[미타카 역은 일본 도쿄 도 미타카 시에 있는 동일본_여객철도 주오 쾌속선 및 주오·소부_완행선의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[주오·소부_완행선]]></sbj_text>
+			<arg_type weight="0.08">Place</arg_type>
+			<arg_type weight="0.17">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.15">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="도">
+			<obj_text><![CDATA[동일본_여객철도]]></obj_text>
+		</obj>
+		<gold>owner</gold>
+		<mln_predict conf="0.892">owner</mln_predict>
+		<cnn_predict conf="0.535">operator</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[철도역이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1764">
+		<sent><![CDATA[오쿠보 역은 일본 도쿄_도 신주쿠 구에 있는 동일본 여객철도 주오·소부 완행선(주오_본선)의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[주오_본선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="도">
+			<obj_text><![CDATA[도쿄_도]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">routeStart</mln_predict>
+		<cnn_predict conf="0.386">location</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[철도역이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D87">
+		<sent><![CDATA[김유정역은 강원도_(남) 춘천시 신동면 증리에 있는 경춘선의 전철역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[경춘선]]></sbj_text>
+		</sbj>
+		<obj label="NP_SBJ" josa="은">
+			<obj_text><![CDATA[강원도_(남)]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.614">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[전철역이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2776">
+		<sent><![CDATA[영월역은 강원도_(남) 영월군 영월읍에 있는 태백선의 철도역이자, 충북지사의 그룹대표역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[태백선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="은">
+			<obj_text><![CDATA[강원도_(남)]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.293">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[철도역이자,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D264">
+		<sent><![CDATA[도리사와 역은, 일본 야마나시 현 오쓰키 시에 있는 동일본_여객철도 주오 본선(주오_쾌속선)의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[주오_쾌속선]]></sbj_text>
+			<arg_type weight="0.08">Place</arg_type>
+			<arg_type weight="0.28">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.20">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="도">
+			<obj_text><![CDATA[동일본_여객철도]]></obj_text>
+		</obj>
+		<gold>operator</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.592">operator</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[철도역이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2438">
+		<sent><![CDATA[시로마루 역은 일본 도쿄_도 니시타마 군 오쿠타마 정에 있는 동일본 여객철도 오메_선의 역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[오메_선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="도">
+			<obj_text><![CDATA[도쿄_도]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">routeStart</mln_predict>
+		<cnn_predict conf="0.466">location</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[역이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

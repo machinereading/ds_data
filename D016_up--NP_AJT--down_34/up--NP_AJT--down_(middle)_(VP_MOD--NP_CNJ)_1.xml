@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(VP_MOD)--up--NP_AJT--down--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D4025">
+		<sent><![CDATA[이러한 에이스 좌완투수와 1군에서 단 1승도 없었던 무명 좌완투수 박성훈_(야구_선수)을 상대로 한 현금 트레이드는 이전에는 잠잠했던 이적 시장에 큰 파문을 일으키기에 충분한 사건이었다.]]></sent>
+		<sbj label="VP_MOD" josa="">
+			<sbj_text><![CDATA[박성훈_(야구_선수)]]></sbj_text>
+			<arg_type weight="0.28">Agent</arg_type>
+			<arg_type weight="0.36">Person</arg_type>
+			<arg_type weight="1.04">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="와">
+			<obj_text><![CDATA[투수]]></obj_text>
+		</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.256">country</mln_predict>
+		<cnn_predict conf="0.857">position</cnn_predict>
+		<gsdp>(VP_MOD)--up--NP_AJT--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[1군에서]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

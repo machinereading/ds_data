@@ -1,0 +1,95 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--(NP_OBJ)</dependency>
+	<total>5</total>
+	<sent_item id="M_D1852">
+		<sent><![CDATA[1702년 이탈리아에서 외젠 공작은 프랑스군을 지휘하는 빌레루아_공작_프랑수아_드_뇌빌을 2월 1일 크레모나_전투에서 패배시키고 그를 사로잡았다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[크레모나_전투]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="을">
+			<obj_text><![CDATA[빌레루아_공작_프랑수아_드_뇌빌]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.864">commander</mln_predict>
+		<cnn_predict conf="0.794">commander</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[패배시키고]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3784">
+		<sent><![CDATA[세이난_전쟁에서는 정부군의 지휘관으로 성산에서 버틴 친척인 사이고_다카모리를 상대로 싸웠지만, 오야마는 이 일을 평생 마음에 담았고 다시는 가고시마에 돌아가지 않았다.]]></sent>
+		<sbj label="NP_AJT" josa="는">
+			<sbj_text><![CDATA[세이난_전쟁]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="를">
+			<obj_text><![CDATA[사이고_다카모리]]></obj_text>
+			<arg_type weight="0.34">Agent</arg_type>
+			<arg_type weight="0.86">Person</arg_type>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="1.000">commander</mln_predict>
+		<cnn_predict conf="0.689">commander</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[싸웠지만,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3008">
+		<sent><![CDATA[1485년 망명지인 프랑스로부터 귀국하여 리처드_3세를 보즈워스_전투에서 패사시키고 즉위하였고, 에드워드 4세의 딸 요크의 엘리자베스와 결혼하여 요크, 랭커스터가 대립한 내란인 장미 전쟁을 종결지었다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[보즈워스_전투]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="를">
+			<obj_text><![CDATA[리처드_3세]]></obj_text>
+			<arg_type weight="0.34">Agent</arg_type>
+			<arg_type weight="0.86">Person</arg_type>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.924">commander</mln_predict>
+		<cnn_predict conf="0.440">deathPlace</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[패사시키고]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2190">
+		<sent><![CDATA[1998년 7월 12일, 1998년_FIFA_월드컵_결승전에서 브라질_축구_국가대표팀을 3-0으로 완파하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[1998년_FIFA_월드컵_결승전]]></sbj_text>
+			<arg_type weight="0.47">Event</arg_type>
+			<arg_type weight="0.47">SocietalEvent</arg_type>
+			<arg_type weight="1.70">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="을">
+			<obj_text><![CDATA[브라질_축구_국가대표팀]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.958">team</mln_predict>
+		<cnn_predict conf="0.811">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[완파하였다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1934">
+		<sent><![CDATA[대회의 우승국은 프랑스 축구 국가대표팀로 1998년_FIFA_월드컵_결승전에서 브라질_축구_국가대표팀을 3-0으로 꺾었다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[1998년_FIFA_월드컵_결승전]]></sbj_text>
+			<arg_type weight="0.47">Event</arg_type>
+			<arg_type weight="0.47">SocietalEvent</arg_type>
+			<arg_type weight="1.70">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="을">
+			<obj_text><![CDATA[브라질_축구_국가대표팀]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="1.000">team</mln_predict>
+		<cnn_predict conf="0.765">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[꺾었다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

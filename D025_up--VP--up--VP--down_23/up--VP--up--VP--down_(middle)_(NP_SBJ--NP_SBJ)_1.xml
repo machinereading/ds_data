@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--up--VP--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1260">
+		<sent><![CDATA[드래프트 회의 전에 하나마키히가시 고등학교의 오타니_쇼헤이가 미국 야구계에 진출할 의향을 밝혔지만 홋카이도_닛폰햄_파이터스는 오타니를 지명하겠다는 입장을 고수했으며, 결국 오타니는 닛폰햄에 단독 지명되었다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[오타니_쇼헤이]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="는">
+			<obj_text><![CDATA[홋카이도_닛폰햄_파이터스]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.457">birthPlace</mln_predict>
+		<cnn_predict conf="0.340">team</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[밝혔지만--고수했으며,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

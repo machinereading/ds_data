@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--down--NP_MOD--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1827">
+		<sent><![CDATA[고하대로는 전라남도 목포시 유달동의 고하도와 삼향동의 목포 나들목을 잇는 도로이다.]]></sent>
+		<sbj label="NP_CNJ" josa="와">
+			<sbj_text><![CDATA[고하도]]></sbj_text>
+			<arg_type weight="0.68">Place</arg_type>
+			<arg_type weight="1.40">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[전라남도]]></obj_text>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.225">region</mln_predict>
+		<cnn_predict conf="0.609">city</cnn_predict>
+		<gsdp>(NP_CNJ)--down--NP_MOD--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[유달동의--목포시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

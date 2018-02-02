@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_AJT--down--VP_MOD--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3863">
+		<sent><![CDATA[장충단 공원은 명성황후가 살해된 을미사변 때 순국한 충신, 열사들을 제사하기 위해 1900년 9월 대한제국 고종이 ‘장충단’이라는 사당을 설치한 데서 비롯되었다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[을미사변]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[명성황후]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.985">commander</mln_predict>
+		<cnn_predict conf="0.712">deathPlace</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--down--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[때--살해된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

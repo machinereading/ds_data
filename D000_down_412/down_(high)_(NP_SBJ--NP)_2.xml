@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_D4062">
+		<sent><![CDATA[영화 《피끓는_청춘》은 맨 처음 캐스팅된 박보영이 다른 영화를 찍지 않고 기다려준 덕분에 상대역에 이종석_(배우) 등이 캐스팅되어 무사히 촬영을 마칠 수 있었다.]]></sent>
+		<sbj label="NP_SBJ" josa="은">
+			<sbj_text><![CDATA[피끓는_청춘]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[이종석_(배우)]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="1.000">starring</mln_predict>
+		<cnn_predict conf="0.950">starring</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2194">
+		<sent><![CDATA[Live Scenes From New York은 프로그레시브_메탈밴드 드림_시어터가 세 번째로 발매한 라이브 앨범으로, 3CD로 구성되어 있다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[드림_시어터]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.13">Organisation</arg_type>
+			<arg_type weight="0.76">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[프로그레시브_메탈]]></obj_text>
+			<arg_type weight="2.32">TopicalConcept</arg_type>
+			<arg_type weight="2.32">Genre</arg_type>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.978">genre</mln_predict>
+		<cnn_predict conf="0.366">artist</cnn_predict>
+		<gsdp>(NP_SBJ)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

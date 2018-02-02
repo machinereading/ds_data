@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--down--NP--down--(DP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3592">
+		<sent><![CDATA[남편 : 전두환대한민국 전 11.12대 대통령]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[전두환]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+			<arg_type weight="0.34">Politician</arg_type>
+		</sbj>
+		<obj label="DP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.887">birthPlace</mln_predict>
+		<cnn_predict conf="0.424">birthPlace</cnn_predict>
+		<gsdp>(NP)--up--NP--down--NP--down--(DP)</gsdp>
+		<gsdp_lemma><![CDATA[대통령--11.12대]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

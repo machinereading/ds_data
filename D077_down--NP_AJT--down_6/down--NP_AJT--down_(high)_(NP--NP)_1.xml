@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP)--down--NP_AJT--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D357">
+		<sent><![CDATA[Avex 레코딩 스튜디오에서 808s_&_Heartbreak을 녹음한 적이 있는 카녜이_웨스트는 "My Beautiful Dark Twisted Fantasy" 앨범을 만들기 위해 스튜디오의 녹음실 3개를 동시에 대여했다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[808s_&_Heartbreak]]></sbj_text>
+			<arg_type weight="0.55">Work</arg_type>
+			<arg_type weight="2.57">MusicalWork</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[카녜이_웨스트]]></obj_text>
+			<arg_type weight="0.48">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+			<arg_type weight="1.03">Artist</arg_type>
+		</obj>
+		<gold>artist</gold>
+		<mln_predict conf="0.844">starring</mln_predict>
+		<cnn_predict conf="0.350">currentMember</cnn_predict>
+		<gsdp>(NP)--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[스튜디오에서]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

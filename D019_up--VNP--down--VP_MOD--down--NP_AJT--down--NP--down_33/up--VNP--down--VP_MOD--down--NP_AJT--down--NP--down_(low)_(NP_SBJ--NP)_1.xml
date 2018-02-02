@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D653">
+		<sent><![CDATA[영오면은 대한민국 경상남도 고성군_(경상남도)에 있는 면이다.]]></sent>
+		<sbj label="NP_SBJ" josa="은">
+			<sbj_text><![CDATA[고성군_(경상남도)]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.381">country</mln_predict>
+		<cnn_predict conf="0.965">country</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[면이다.--있는--고성군_(경상남도)에--경상남도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

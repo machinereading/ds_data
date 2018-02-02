@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP_MOD--down--(NP_OBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2702">
+		<sent><![CDATA[그의 부친 미겔 앙헬 알론소는 레알_소시에다드에서 라리가를 2년 연속 우승할 당시의 주역으로, FC 바르셀로나에서 또 한 차례 리그 우승을 더 거두었다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[레알_소시에다드]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="를">
+			<obj_text><![CDATA[라리가]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.819">league</mln_predict>
+		<cnn_predict conf="0.767">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[우승할]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

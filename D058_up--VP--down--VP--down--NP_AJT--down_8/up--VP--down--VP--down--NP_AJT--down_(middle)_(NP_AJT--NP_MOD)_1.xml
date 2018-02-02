@@ -1,17 +1,25 @@
 <sentence_list>
 	<dependency>(NP_AJT)--up--VP--down--VP--down--NP_AJT--down--(NP_MOD)</dependency>
 	<total>1</total>
-	<sent_item id="M_T1760" total_morp="39" total_word="14">
-		<sent>그는 이후, UC_삼프도리아와의 경기에서 밀란의 선제골을 넣었지만, 60분에 잠파올로_파치니에게 동점골을 얻어맞아 무승부로 경기가 끝났다.</sent>
-		<sbj type="PS_NAME" weight="0.73" label="NP_AJT" josa="에게">잠파올로_파치니</sbj>
-		<obj type="OGG_SPORTS" weight="1.71" label="NP_MOD" josa="의">UC_삼프도리아</obj>
+	<sent_item id="M_D1756">
+		<sent><![CDATA[그는 이후, UC_삼프도리아와의 경기에서 밀란의 선제골을 넣었지만, 60분에 잠파올로_파치니에게 동점골을 얻어맞아 무승부로 경기가 끝났다.]]></sent>
+		<sbj label="NP_AJT" josa="에게">
+			<sbj_text><![CDATA[잠파올로_파치니]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[UC_삼프도리아]]></obj_text>
+			<arg_type weight="0.14">Agent</arg_type>
+			<arg_type weight="0.35">Organisation</arg_type>
+			<arg_type weight="0.72">SportsTeam</arg_type>
+		</obj>
 		<gold>club</gold>
-		<mln_predict conf="0.435">birthPlace</mln_predict>
-		<cnn_predict conf="0.468">team</cnn_predict>
+		<mln_predict conf="0.927">team</mln_predict>
+		<cnn_predict conf="0.812">team</cnn_predict>
 		<gsdp>(NP_AJT)--up--VP--down--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
-		<gsdp_lemma>얻어맞아--넣었지만,--경기에서</gsdp_lemma>
-		<head>끝났다.</head>
-		<cluster>30</cluster>
+		<gsdp_lemma><![CDATA[얻어맞아--넣었지만,--경기에서]]></gsdp_lemma>
 		<comment></comment>
 	</sent_item>
 </sentence_list>

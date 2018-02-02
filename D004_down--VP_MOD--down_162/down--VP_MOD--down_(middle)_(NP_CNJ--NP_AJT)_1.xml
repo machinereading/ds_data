@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--down--VP_MOD--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1282">
+		<sent><![CDATA[훌륭한 시즌을 보내고, 2013년 여름, 그는 작년 수페르리가_엘라다에서 4위를 차지했던 아트로미토스_FC와 2년 계약을 체결했다.]]></sent>
+		<sbj label="NP_CNJ" josa="와">
+			<sbj_text><![CDATA[아트로미토스_FC]]></sbj_text>
+			<arg_type weight="0.28">Agent</arg_type>
+			<arg_type weight="0.34">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[수페르리가_엘라다]]></obj_text>
+		</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.447">league</mln_predict>
+		<cnn_predict conf="0.403">team</cnn_predict>
+		<gsdp>(NP_CNJ)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[차지했던]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

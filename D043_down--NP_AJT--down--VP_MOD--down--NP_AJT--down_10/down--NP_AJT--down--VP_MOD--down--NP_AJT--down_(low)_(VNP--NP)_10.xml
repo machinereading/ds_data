@@ -1,0 +1,160 @@
+<sentence_list>
+	<dependency>(VNP)--down--NP_AJT--down--VP_MOD--down--NP_AJT--down--(NP)</dependency>
+	<total>10</total>
+	<sent_item id="M_D638">
+		<sent><![CDATA[중앙 주는 파푸아뉴기니 남해안에 위치한 주로 주도는 포트모르즈비이며 인구는 183,983명, 면적은 29,500㎢이다.]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[포트모르즈비]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[파푸아뉴기니]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.561">region</mln_predict>
+		<cnn_predict conf="0.460">location</cnn_predict>
+		<gsdp>(VNP)--down--NP_AJT--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주로--위치한--남해안에]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D956">
+		<sent><![CDATA[라바예하 주는 우루과이 남동부에 위치한 주로 주도는 미나스이며 면적은 10,016㎢, 인구는 58,815명이다.]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[미나스]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[우루과이]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.952">country</cnn_predict>
+		<gsdp>(VNP)--down--NP_AJT--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주로--위치한--남동부에]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D697">
+		<sent><![CDATA[로스리오스 주는 에콰도르 중서부에 위치한 주로 주도는 바바오요이며 면적은 7,205.27㎢, 인구는 778,115명, 인구 밀도는 110명/㎢이다.]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[바바오요]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[에콰도르]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.928">country</mln_predict>
+		<cnn_predict conf="0.956">country</cnn_predict>
+		<gsdp>(VNP)--down--NP_AJT--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주로--위치한--중서부에]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D411">
+		<sent><![CDATA[나리뇨 주는 콜롬비아 서부에 위치한 주로 주도는 파스토이며 면적은 33,268㎢, 인구는 1,701,840명, 인구 밀도는 51명/㎢이다.]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[파스토]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[콜롬비아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.900">country</mln_predict>
+		<cnn_predict conf="0.961">country</cnn_predict>
+		<gsdp>(VNP)--down--NP_AJT--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주로--위치한--서부에]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D920">
+		<sent><![CDATA[나자프 주는 이라크 남부에 위치한 주로 주도는 나자프이며 면적은 28,824㎢, 인구는 1.477.134명이다.]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[나자프]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[이라크]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.930">country</mln_predict>
+		<cnn_predict conf="0.893">country</cnn_predict>
+		<gsdp>(VNP)--down--NP_AJT--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주로--위치한--남부에]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1008">
+		<sent><![CDATA[우카얄리 주는 페루 동부에 위치한 주로 주도는 푸카이파이며 면적은 101,830.64㎢, 인구는 432,195명이다.]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[푸카이파]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[페루]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.936">country</mln_predict>
+		<cnn_predict conf="0.970">country</cnn_predict>
+		<gsdp>(VNP)--down--NP_AJT--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주로--위치한--동부에]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1021">
+		<sent><![CDATA[푸에블라 주는 멕시코 중동부에 위치한 주로 주도는 푸에블라이며 면적은 34,306㎢, 인구는 5,914,085명, 인구 밀도는 170명/㎢이다.]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[푸에블라]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[멕시코]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.883">country</mln_predict>
+		<cnn_predict conf="0.911">country</cnn_predict>
+		<gsdp>(VNP)--down--NP_AJT--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주로--위치한--중동부에]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D435">
+		<sent><![CDATA[로차 주는 우루과이 동부에 위치한 주로 주도는 로차이며 면적은 10,551㎢, 인구는 68,088명이다.]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[로차]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[우루과이]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.953">country</mln_predict>
+		<cnn_predict conf="0.956">country</cnn_predict>
+		<gsdp>(VNP)--down--NP_AJT--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주로--위치한--동부에]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D100">
+		<sent><![CDATA[산탄데르 주는 콜롬비아 중북부에 위치한 주로 주도는 부카라망가이며 면적은 30,537㎢, 인구는 2,040,988명, 인구 밀도는 67명/㎢이다.]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[부카라망가]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[콜롬비아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.952">country</cnn_predict>
+		<gsdp>(VNP)--down--NP_AJT--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주로--위치한--중북부에]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D481">
+		<sent><![CDATA[아치모안드레파나 구는 마다가스카르 남서부에 위치한 구로 행정 중심지는 톨리아라이며 면적은 66,236㎢, 인구는 1,018,500명이다.]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[톨리아라]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[마다가스카르]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.592">country</mln_predict>
+		<cnn_predict conf="0.818">country</cnn_predict>
+		<gsdp>(VNP)--down--NP_AJT--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[구로--위치한--남서부에]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

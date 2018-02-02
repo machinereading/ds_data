@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(VNP)--down--VNP_MOD--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3385">
+		<sent><![CDATA[그녀의 부군 또한 유명한 컨트리_음악 가수인 조니_라이트이다.]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[조니_라이트]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.11">Person</arg_type>
+			<arg_type weight="0.43">Artist</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[컨트리_음악]]></obj_text>
+			<arg_type weight="2.32">TopicalConcept</arg_type>
+			<arg_type weight="2.32">Genre</arg_type>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.896">genre</mln_predict>
+		<cnn_predict conf="0.414">occupation</cnn_predict>
+		<gsdp>(VNP)--down--VNP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[가수인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,25 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--VNP_MOD--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2497">
+		<sent><![CDATA[전 독일_축구_국가대표팀의 공격수였던 카를하인츠_리들레의 아들이기도 하다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[카를하인츠_리들레]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[독일_축구_국가대표팀]]></obj_text>
+			<arg_type weight="0.98">Event</arg_type>
+			<arg_type weight="0.98">SocietalEvent</arg_type>
+			<arg_type weight="1.30">SportsEvent</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.587">team</mln_predict>
+		<cnn_predict conf="0.696">team</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[공격수였던]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

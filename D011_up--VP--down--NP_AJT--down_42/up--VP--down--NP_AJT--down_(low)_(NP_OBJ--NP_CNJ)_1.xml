@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP--down--NP_AJT--down--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2258">
+		<sent><![CDATA[마크_저커버그, 에두와도 새버린, 더스틴 모스코비츠와 함께 페이스북을 공동으로 설립하였다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[페이스북]]></sbj_text>
+			<arg_type weight="-0.38">Work</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[마크_저커버그]]></obj_text>
+			<arg_type weight="0.81">Agent</arg_type>
+		</obj>
+		<gold>owner</gold>
+		<mln_predict conf="0.226">channel</mln_predict>
+		<cnn_predict conf="0.117">deathPlace</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--NP_AJT--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[설립하였다.--에두와도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

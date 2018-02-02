@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1167">
+		<sent><![CDATA[자신의 감동적 보컬을 소유하기 위하여 특유의 진동음을 지닌 싱글스트링 기타를 연주하였고, 그의 기타 형식은 그의 사존 부카 화이트를 포함한 델타 블루스 연주자들, 재즈 기타리스트 찰리_크리스천과 장고 라인하르트의 영향을 받았다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[찰리_크리스천]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.11">Person</arg_type>
+			<arg_type weight="0.43">Artist</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[재즈]]></obj_text>
+			<arg_type weight="2.32">TopicalConcept</arg_type>
+			<arg_type weight="2.32">Genre</arg_type>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.946">genre</mln_predict>
+		<cnn_predict conf="0.404">genre</cnn_predict>
+		<gsdp>(NP_CNJ)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[기타리스트]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

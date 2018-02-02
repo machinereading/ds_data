@@ -1,0 +1,64 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP_OBJ--up--VP_MOD--up--VNP--down--(NP_MOD)</dependency>
+	<total>3</total>
+	<sent_item id="M_D1430">
+		<sent><![CDATA[미노부 선은 일본 시즈오카 현 후지 시의 후지_역과 야마나시 현 고후 시의 고후 역을 잇는 도카이_여객철도의 철도 노선이다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[후지_역]]></sbj_text>
+			<arg_type weight="0.09">Place</arg_type>
+			<arg_type weight="0.31">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.42">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[도카이_여객철도]]></obj_text>
+			<arg_type weight="0.25">Agent</arg_type>
+			<arg_type weight="0.55">Organisation</arg_type>
+		</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.972">owningOrganisation</mln_predict>
+		<cnn_predict conf="0.947">owningOrganisation</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_OBJ--up--VP_MOD--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[역을--잇는--노선이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3444">
+		<sent><![CDATA[병점기지선은 경기도 화성시의 병점역과 오산시의 서동탄역을 잇는 한국철도공사의 경부선 지선 철도 노선이다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[병점역]]></sbj_text>
+			<arg_type weight="0.09">Place</arg_type>
+			<arg_type weight="0.31">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.42">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[한국철도공사]]></obj_text>
+			<arg_type weight="0.25">Agent</arg_type>
+			<arg_type weight="0.55">Organisation</arg_type>
+		</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.559">owningOrganisation</mln_predict>
+		<cnn_predict conf="0.509">routeStart</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_OBJ--up--VP_MOD--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[서동탄역을--잇는--노선이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2602">
+		<sent><![CDATA[중앙선은 경원선 청량리역과 동해선 경주역을 잇는 한국철도공사의 간선철도 노선이다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[청량리역]]></sbj_text>
+			<arg_type weight="0.09">Place</arg_type>
+			<arg_type weight="0.31">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.42">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[한국철도공사]]></obj_text>
+			<arg_type weight="0.25">Agent</arg_type>
+			<arg_type weight="0.55">Organisation</arg_type>
+		</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.551">owningOrganisation</mln_predict>
+		<cnn_predict conf="0.491">routeStart</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_OBJ--up--VP_MOD--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[경주역을--잇는--노선이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

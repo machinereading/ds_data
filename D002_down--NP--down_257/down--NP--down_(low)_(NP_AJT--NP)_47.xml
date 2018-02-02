@@ -1,0 +1,735 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--NP--down--(NP)</dependency>
+	<total>47</total>
+	<sent_item id="M_D59">
+		<sent><![CDATA[GE 빌딩은 미국 뉴욕 맨해튼 록펠러_센터에 있는 초고층 건물이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[록펠러_센터]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[뉴욕]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.689">location</mln_predict>
+		<cnn_predict conf="0.536">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[맨해튼]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2005">
+		<sent><![CDATA[불설불모출생삼법장반야바라밀다경 권9는 서울특별시 관악구 호림박물관에 있는, 고려시대의 경전이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[호림박물관]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[서울특별시]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.335">location</mln_predict>
+		<cnn_predict conf="0.521">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[관악구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D118">
+		<sent><![CDATA[보비니는 프랑스 일드프랑스 센생드니_주에 위치한 도시로 센생드니 주의 주도이며 면적은 6.77㎢, 인구는 48,528명, 인구 밀도는 7,200명/㎢이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[센생드니_주]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[프랑스]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.864">location</mln_predict>
+		<cnn_predict conf="0.926">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[일드프랑스]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D884">
+		<sent><![CDATA[노르셰핑은 스웨덴 동부 외스테르예틀란드_주에 위치한 도시로, 면적은 35.68㎢, 인구는 87,247명, 인구 밀도는 2,446명/㎢이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[외스테르예틀란드_주]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[스웨덴]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.583">location</mln_predict>
+		<cnn_predict conf="0.965">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[동부]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D803">
+		<sent><![CDATA[헤이렌베인은 네덜란드 북부 프리슬란트_주에 있는 도시이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[프리슬란트_주]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[네덜란드]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.899">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[북부]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2369">
+		<sent><![CDATA[2016년 7월 22일 독일 뮌헨 올림피아_아인카우프스첸트룸에서 총기 난사 사건이 발생하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[올림피아_아인카우프스첸트룸]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[독일]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.187">country</mln_predict>
+		<cnn_predict conf="0.456">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[뮌헨]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3775">
+		<sent><![CDATA[1939년 경상남도 사천군 다솔사로 내려가 회갑을 맞으면서 몇몇 동지들과 함께 자축연을 가졌다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[다솔사]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="-0.11">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.19">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[경상남도]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.345">location</mln_predict>
+		<cnn_predict conf="0.220">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[사천군]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D516">
+		<sent><![CDATA[자브제는 폴란드 남부 실롱스크_주에 위치한 도시로, 면적은 80.40㎢, 인구는 188,122명, 인구 밀도는 2,300명/㎢이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[실롱스크_주]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[폴란드]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.546">location</mln_predict>
+		<cnn_predict conf="0.966">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[남부]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D747">
+		<sent><![CDATA[레파비용수부아는 프랑스 일드프랑스 센생드니_주에 위치한 도시로 면적은 2.92㎢, 인구는 20,644명, 인구 밀도는 7,100명/㎢이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[센생드니_주]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[프랑스]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.880">location</mln_predict>
+		<cnn_predict conf="0.914">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[일드프랑스]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D689">
+		<sent><![CDATA[에비앙레뱅은 프랑스 론알프 오트사부아_주에 위치한 도시로 면적은 4.3㎢, 인구는 8,527명, 인구 밀도는 2,000명/㎢이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[오트사부아_주]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[프랑스]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.891">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[론알프]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1621">
+		<sent><![CDATA[화성 용주사 동종은 경기도 화성시 용주사에 있는 범종이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[용주사]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="-0.11">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.19">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[경기도]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.904">location</mln_predict>
+		<cnn_predict conf="0.322">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[화성시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D419">
+		<sent><![CDATA[청학동은 대한민국 인천광역시 연수구에 있는 행정동, 법정동이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[연수구]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.551">location</mln_predict>
+		<cnn_predict conf="0.760">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[인천광역시]]></gsdp_lemma>
+		<comment>Hierarchy한구조</comment>
+	</sent_item>
+	<sent_item id="M_D2755">
+		<sent><![CDATA[하마코시미즈 역은 일본 홋카이도 샤리 군 고시미즈_정에 위치한 홋카이도 여객철도 센모 본선의 철도역이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[고시미즈_정]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[홋카이도]]></obj_text>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.781">region</mln_predict>
+		<cnn_predict conf="0.583">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[군]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D227">
+		<sent><![CDATA[한포역은 조선민주주의인민공화국 황해북도 평산군에 있는 철도역이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[평산군]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조선민주주의인민공화국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.197">routeEnd</mln_predict>
+		<cnn_predict conf="0.580">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[황해북도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1036">
+		<sent><![CDATA[다른 터키 전통 뵈렉으로는 탈라쉬 뵈레이와 푸프 뵈레이가 있다.]]></sent>
+		<sbj label="NP_AJT" josa="는">
+			<sbj_text><![CDATA[뵈렉]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[터키]]></obj_text>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.329">location</mln_predict>
+		<cnn_predict conf="0.453">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[전통]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D886">
+		<sent><![CDATA[모숀머저로바르는 헝가리 북서부 죄르모숀쇼프론_주에 위치한 도시로 면적은 85.35㎢, 인구는 32,256명, 인구 밀도는 372.57명/㎢이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[죄르모숀쇼프론_주]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[헝가리]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.871">location</mln_predict>
+		<cnn_predict conf="0.949">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[북서부]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D895">
+		<sent><![CDATA[가와라다 역은 일본 미에 현 욧카이치_시에 있는 도카이 여객철도 · 이세 철도의 철도역이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[욧카이치_시]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[일본]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.442">country</mln_predict>
+		<cnn_predict conf="0.763">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[미에]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D727">
+		<sent><![CDATA[샤텔로는 프랑스 푸아투샤랑트 비엔_주에 위치한 도시로 면적은 51.96㎢, 인구는 31.537명, 인구 밀도는 0.61명/㎢이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[비엔_주]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[프랑스]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.931">location</mln_predict>
+		<cnn_predict conf="0.919">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[푸아투샤랑트]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3930">
+		<sent><![CDATA[예산 수덕사 칠층석탑은 충청남도 예산군 수덕사에 있는, 일제강점기의 칠층석탑이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[수덕사]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="-0.11">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.19">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[충청남도]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.561">location</mln_predict>
+		<cnn_predict conf="0.329">city</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[예산군]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D585">
+		<sent><![CDATA[세랭은 벨기에 왈롱 리에주_주에 위치한 도시로 면적은 35.34㎢, 인구는 63,575명, 인구 밀도는 1,800명/㎢이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[리에주_주]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[벨기에]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.588">country</mln_predict>
+		<cnn_predict conf="0.943">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[왈롱]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D559">
+		<sent><![CDATA[성산역은 조선민주주의인민공화국 강원도 세포군에 위치한 철도역이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[세포군]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조선민주주의인민공화국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.830">country</mln_predict>
+		<cnn_predict conf="0.472">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[강원도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D842">
+		<sent><![CDATA[예성강역은 조선민주주의인민공화국 황해북도 개풍군에 있었던 토해선의 철도역이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[개풍군]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조선민주주의인민공화국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.271">location</mln_predict>
+		<cnn_predict conf="0.580">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[황해북도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D45">
+		<sent><![CDATA[성동면은 대한민국 충청남도 논산시에 설치된 면이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[논산시]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.733">country</mln_predict>
+		<cnn_predict conf="0.930">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[충청남도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D673">
+		<sent><![CDATA[칼리르에키르는 프랑스 동부 론알프 론_주에 위치한 도시로 면적은 10.45㎢, 인구는 42,038명, 인구 밀도는 4,000명/㎢이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[론_주]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[프랑스]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.306">region</mln_predict>
+		<cnn_predict conf="0.961">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[동부]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D137">
+		<sent><![CDATA[에보라 현은 포르투갈 남부 알렌테주_지방에 위치한 포르투갈의 현이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[알렌테주_지방]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[포르투갈]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.959">country</mln_predict>
+		<cnn_predict conf="0.881">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[남부]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D619">
+		<sent><![CDATA[에시롤은 프랑스 남동부 론알프 이제르_주에 위치한 도시로 면적은 8㎢, 인구는 35,995명, 인구 밀도는 4,500명/㎢이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[이제르_주]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[프랑스]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.932">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[남동부]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D183">
+		<sent><![CDATA[자오저우 만은 중화인민공화국 산둥 성 칭다오_시에 위치한 만으로 길이는 32km, 넓이는 27km, 넓이는 362㎢이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[칭다오_시]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[중화인민공화국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.905">country</mln_predict>
+		<cnn_predict conf="0.687">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[성]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3598">
+		<sent><![CDATA[경주 기림사 건칠보살반가상은 경상북도 경주시 기림사에 있는, 조선시대의 보살상이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[기림사]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="-0.11">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.19">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[경상북도]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.546">locatedInArea</mln_predict>
+		<cnn_predict conf="0.287">locatedInArea</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[경주시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D35">
+		<sent><![CDATA[유니 역은 일본 홋카이도 유바리 군 유니_정에 위치한 홋카이도 여객철도 무로란 본선의 철도역이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[유니_정]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[홋카이도]]></obj_text>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="1.000">region</mln_predict>
+		<cnn_predict conf="0.487">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[군]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D304">
+		<sent><![CDATA[병영면은 대한민국 전라남도 강진군에 위치한 면이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[강진군]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.971">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[전라남도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1591">
+		<sent><![CDATA[바르샤바 왕궁은 폴란드 바르샤바 잠코비_광장에 있는 궁전이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[잠코비_광장]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[폴란드]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.452">location</mln_predict>
+		<cnn_predict conf="0.789">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[바르샤바]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D789">
+		<sent><![CDATA[템피오파우사니아는 이탈리아 사르데냐 올비아템피오_현에 위치한 코무네로 면적은 213.69㎢, 높이는 566m, 인구는 14,344명, 인구 밀도는 67명/㎢이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[올비아템피오_현]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[이탈리아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.352">country</mln_predict>
+		<cnn_predict conf="0.813">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[사르데냐]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2706">
+		<sent><![CDATA[2013년 세계 스프린트 스피드 스케이팅 선수권 대회는 1월 26일에서 27일에 걸쳐 미국 솔트레이크시티 유타_올림픽_오벌에서 열렸다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[유타_올림픽_오벌]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[미국]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.875">country</mln_predict>
+		<cnn_predict conf="0.561">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[솔트레이크시티]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2085">
+		<sent><![CDATA[유엔 본부 건물은 당시 뉴욕의 부동산 개발업자 윌리엄_제켄도프로부터 17 에이커의 땅을 사들여 이스트 강 옆에 1949년부터 1950년까지 건설되었다.]]></sent>
+		<sbj label="NP_AJT" josa="로부터">
+			<sbj_text><![CDATA[윌리엄_제켄도프]]></sbj_text>
+			<arg_type weight="0.49">Agent</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[부동산]]></obj_text>
+		</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.222">country</mln_predict>
+		<cnn_predict conf="0.369">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[개발업자]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1541">
+		<sent><![CDATA[미들즈브러는 잉글랜드 북동부 노스요크셔_주에 있는, 북해와 인접한 항구 도시이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[노스요크셔_주]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[잉글랜드]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.934">country</mln_predict>
+		<cnn_predict conf="0.537">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[북동부]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2397">
+		<sent><![CDATA[루거우차오 사건은 1937년 7월 7일에 베이징_시서남쪽 방향 루거우차오에서 일본군의 자작극으로 벌어진 발포 사건으로, 중일 전쟁의 발단이 되었다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[루거우차오]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[베이징_시]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.186">country</mln_predict>
+		<cnn_predict conf="0.307">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[방향]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D209">
+		<sent><![CDATA[루빈은 폴란드 남서부 돌니실롱스크_주에 위치한 도시로, 면적은 40.77㎢, 인구는 76,595명, 인구 밀도는 1,900명/㎢이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[돌니실롱스크_주]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[폴란드]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.677">country</mln_predict>
+		<cnn_predict conf="0.941">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[남서부]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D513">
+		<sent><![CDATA[남양주 수종사 부도 사리장엄구는 경기도 남양주시 수종사에 있는 석조 승탑의 껴묻거리이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[수종사]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="-0.11">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.19">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[경기도]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.537">location</mln_predict>
+		<cnn_predict conf="0.268">locatedInArea</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[남양주시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D880">
+		<sent><![CDATA[소태면은 대한민국 충청북도 충주시에 위치하는 면이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[충주시]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.961">country</mln_predict>
+		<cnn_predict conf="0.934">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[충청북도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D158">
+		<sent><![CDATA[에니에르쉬르손 은 프랑스 동부 앵_주에 위치한 코뮌 중 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[앵_주]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[프랑스]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.402">country</mln_predict>
+		<cnn_predict conf="0.937">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[동부]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2592">
+		<sent><![CDATA[제8전투비행단은 전라북도 군산시 군산공항에 주둔하고 있는 제7공군 예하 비행단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[군산공항]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[전라북도]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.336">city</mln_predict>
+		<cnn_predict conf="0.362">city</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[군산시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D341">
+		<sent><![CDATA[토농레뱅은 프랑스 동부 론알프 오트사부아_주에 위치한 도시로 면적은 16.21㎢, 인구는 34,661명, 인구 밀도는 2,100명/㎢이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[오트사부아_주]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[프랑스]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.929">location</mln_predict>
+		<cnn_predict conf="0.964">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[동부]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3512">
+		<sent><![CDATA[김제 금산사 노주는 전라북도 김제시 금산사에 있는, 용도를 알 수 없는 돌 조각상이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[금산사]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="-0.11">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.19">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[전라북도]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.585">location</mln_predict>
+		<cnn_predict conf="0.345">locatedInArea</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[김제시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D147">
+		<sent><![CDATA[2017년 세계 종목별 스피드 스케이팅 선수권 대회는 국제빙상경기연맹에서 주관하는 세계 규모의 스피드 스케이팅 대회로 2017년 2월 9일 부터 2월 12일까지 대한민국 강원도 강릉시에서 개최될 예정이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[강릉시]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.768">country</mln_predict>
+		<cnn_predict conf="0.576">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[강원도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D918">
+		<sent><![CDATA[비엔은 프랑스 론알프 이제르_주에 위치한 도시로 면적은 22.65㎢, 인구는 29,077명, 인구 밀도는 1,300명/㎢이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[이제르_주]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[프랑스]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.999">location</mln_predict>
+		<cnn_predict conf="0.937">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[론알프]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D403">
+		<sent><![CDATA[예를 들어 아프리카 대륙 최남단에 있는 남아프리카_공화국 남단 도시 케이프타운에서도 플레이아데스는 지평선으로부터 약 32도 위로 떠오른다.]]></sent>
+		<sbj label="NP_AJT" josa="도">
+			<sbj_text><![CDATA[케이프타운]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[남아프리카_공화국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.597">country</mln_predict>
+		<cnn_predict conf="0.275">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[도시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2111">
+		<sent><![CDATA[2001년 대한민국으로 돌아와 K리그_클래식 팀 포항_스틸러스로 이적하였고, 2003 시즌이 끝난 뒤 은퇴하였다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[포항_스틸러스]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[K리그_클래식]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.312">country</mln_predict>
+		<cnn_predict conf="0.392">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[팀]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

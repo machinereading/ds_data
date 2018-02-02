@@ -1,0 +1,20 @@
+<sentence_list>
+	<dependency>(VNP)--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1025">
+		<sent><![CDATA[과거 KBS_2TV의 개그콘서트, MBC TV의 웃으면 복이와요, 개그야, 하땅사, 웃고 또 웃고, tvN의 코미디 빅리그, MBN의 개그공화국에 출연한 경력이 있다.]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[개그콘서트]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[KBS_2TV]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.205">channel</mln_predict>
+		<cnn_predict conf="0.683">starring</cnn_predict>
+		<gsdp>(VNP)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

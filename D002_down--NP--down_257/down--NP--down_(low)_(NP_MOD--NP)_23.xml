@@ -1,0 +1,379 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--NP--down--(NP)</dependency>
+	<total>23</total>
+	<sent_item id="M_D159">
+		<sent><![CDATA[크로토네 현은 이탈리아 남부 칼라브리아_주의 이탈리아의 현이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[칼라브리아_주]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[이탈리아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.732">country</mln_predict>
+		<cnn_predict conf="0.916">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[남부]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D610">
+		<sent><![CDATA[지천면는 대한민국 경상북도 칠곡군의 면이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[칠곡군]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.926">country</mln_predict>
+		<cnn_predict conf="0.939">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[경상북도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D914">
+		<sent><![CDATA[위도면은 대한민국 전라북도 부안군의 면이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[부안군]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.601">country</mln_predict>
+		<cnn_predict conf="0.955">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[전라북도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1994">
+		<sent><![CDATA[구암 허준은 2013년 3월 18일부터 2013년 9월 27일까지 방송된 조선 의학자 허준의 일대기를 그린 문화방송 일일연속사극이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[허준]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조선]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.367">occupation</mln_predict>
+		<cnn_predict conf="0.353">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[의학자]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D556">
+		<sent><![CDATA[프라네케라데일은 네덜란드 북부 프리슬란트_주의 도시로 면적은 109.17㎢, 높이는 1m, 인구는 20,445명, 인구 밀도는 199명/㎢이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[프리슬란트_주]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[네덜란드]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.921">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[북부]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1647">
+		<sent><![CDATA["Halo"는 미국의 알앤비 가수 비욘세_놀스의 노래로 비욘세의 세 번째 정규 앨범 "I Am... Sasha Fierce"에 수록 되어있다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[비욘세_놀스]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.11">Person</arg_type>
+			<arg_type weight="0.43">Artist</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[알앤비]]></obj_text>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="1.000">birthPlace</mln_predict>
+		<cnn_predict conf="0.691">artist</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[가수]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D4052">
+		<sent><![CDATA[〈It's My Life/Your Heaven〉은 일본 싱어송라이터 YUI의 18번째 싱글이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[YUI]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+			<arg_type weight="0.21">Artist</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[일본]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.984">birthPlace</mln_predict>
+		<cnn_predict conf="0.336">birthPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[싱어송라이터]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D355">
+		<sent><![CDATA[유곡면는 대한민국 경상남도 의령군의 면이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[의령군]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.820">country</mln_predict>
+		<cnn_predict conf="0.946">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[경상남도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D415">
+		<sent><![CDATA[삼라옹은 캄보디아 북서부 오다르메안체이_주의 주도로 높이는 23m, 인구는 18,694명이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[오다르메안체이_주]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[캄보디아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.969">country</mln_predict>
+		<cnn_predict conf="0.829">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[북서부]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2383">
+		<sent><![CDATA[Heilige Lieder 는 독일 하드록 밴드 뵈제_옹켈츠의 정규9 집이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[뵈제_옹켈츠]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.13">Organisation</arg_type>
+			<arg_type weight="0.76">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[하드록]]></obj_text>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="1.000">genre</mln_predict>
+		<cnn_predict conf="0.228">artist</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[밴드]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D57">
+		<sent><![CDATA[전곡읍은 대한민국 경기도 연천군의 남쪽에 위치한 읍이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[연천군]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.963">country</mln_predict>
+		<cnn_predict conf="0.897">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[경기도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2114">
+		<sent><![CDATA[16일 인도 델리 인디라_간디_국제공항에서의 기록적 폭우로 인해 해당 지역에 홍수가 발생했다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[인디라_간디_국제공항]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[인도]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.471">city</mln_predict>
+		<cnn_predict conf="0.369">location</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[델리]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D204">
+		<sent><![CDATA[신흥동은 대한민국 전라남도 목포시의 행정 구역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[목포시]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.989">country</mln_predict>
+		<cnn_predict conf="0.955">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[전라남도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3109">
+		<sent><![CDATA[《여름밤 소나기》는 정흠밴드 원곡이며 대한민국의 블루스 밴드 하_수상의 다섯번째 싱글이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[하_수상]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.13">Organisation</arg_type>
+			<arg_type weight="0.76">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[블루스]]></obj_text>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.915">genre</mln_predict>
+		<cnn_predict conf="0.404">genre</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[밴드]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3258">
+		<sent><![CDATA[Weiß 는 독일 하드록 밴드 뵈제_옹켈츠의 정규10 집이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[뵈제_옹켈츠]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.13">Organisation</arg_type>
+			<arg_type weight="0.76">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[하드록]]></obj_text>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="1.000">genre</mln_predict>
+		<cnn_predict conf="0.156">birthPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[밴드]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1619">
+		<sent><![CDATA[이 시기, 오아시스는 언론의 부채질로 브릿팝 밴드 블러와의 논란에 휩싸인다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[블러]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.13">Organisation</arg_type>
+			<arg_type weight="0.76">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[브릿팝]]></obj_text>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.565">genre</mln_predict>
+		<cnn_predict conf="0.325">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[밴드]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2737">
+		<sent><![CDATA[Es ist soweit는 독일 하드록 밴드 뵈제_옹켈츠의 정규7 집이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[뵈제_옹켈츠]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.13">Organisation</arg_type>
+			<arg_type weight="0.76">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[하드록]]></obj_text>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="1.000">genre</mln_predict>
+		<cnn_predict conf="0.212">artist</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[밴드]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D117">
+		<sent><![CDATA[돈내코로는 지방도 제1115호선 돈내코입구삼거리에서 남국선원 또는 서귀포학생문화원수련장까지 이르는 대한민국 제주특별자치도 서귀포시의 도로명이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[서귀포시]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.149">deathPlace</mln_predict>
+		<cnn_predict conf="0.374">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[제주특별자치도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D807">
+		<sent><![CDATA[핸머스프링스는 뉴질랜드 남섬 캔터베리_지방의 도시이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[캔터베리_지방]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[뉴질랜드]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.798">country</mln_predict>
+		<cnn_predict conf="0.843">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[남섬]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D527">
+		<sent><![CDATA[경주 석굴암 석굴은 대한민국 경상북도 경주시의 토함산 중턱에 있는 석굴로서 국보 24호로 지정되어 있다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[경주시]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.990">country</mln_predict>
+		<cnn_predict conf="0.888">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[경상북도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1741">
+		<sent><![CDATA[10세 때였던 1956년 영국·미국 합작 영화 《》의 주연으로 영화 배우 데뷔하였고 이후 영화배우로 활동하다가 1967년에는 고국 오스트레일리아에서 록_음악 음악 그룹 "비_지스"의 데뷔 음반에 드럼셋로 참여하였으며 또한 동시에 편곡로도 데뷔하였다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[비_지스]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.13">Organisation</arg_type>
+			<arg_type weight="0.76">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[록_음악]]></obj_text>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="1.000">genre</mln_predict>
+		<cnn_predict conf="0.334">starring</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[그룹]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D48">
+		<sent><![CDATA[캄퐁치낭은 캄보디아 중부 캄퐁치낭_주의 주도로, 톤레사프 호 서쪽에 위치한다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[캄퐁치낭_주]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[캄보디아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.874">country</mln_predict>
+		<cnn_predict conf="0.940">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[중부]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3439">
+		<sent><![CDATA[보렐-카라테오도리 정리는 복소해석학의 정리로, 프랑스 수학자 에밀 보렐과 그리스 수학자 콘스탄티노스_카라테오도리의 이름이 붙어 있다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[콘스탄티노스_카라테오도리]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[그리스]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.501">occupation</mln_predict>
+		<cnn_predict conf="0.384">birthPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[수학자]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

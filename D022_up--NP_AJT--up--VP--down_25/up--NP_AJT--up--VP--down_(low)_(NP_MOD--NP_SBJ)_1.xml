@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP_AJT--up--VP--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2597">
+		<sent><![CDATA[그 뒤 응우옌 왕조가 붕괴하자 관직에서 물러났다가 1949년 바오다이가 베트남국의 국가원수로 집권하자 이듬해 베트남의 국무총리에 임명되었다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[베트남국]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[바오다이]]></obj_text>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.205">leaderName</mln_predict>
+		<cnn_predict conf="0.704">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[국가원수로--집권하자]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

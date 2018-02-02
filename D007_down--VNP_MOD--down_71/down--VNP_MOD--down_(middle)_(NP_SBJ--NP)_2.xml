@@ -1,0 +1,41 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--VNP_MOD--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_D3543">
+		<sent><![CDATA[로버트 체이스는 하우스의 등장인물으로, 오스트레일리아출신 배우인 제시_스펜서가 체이스의 역을 맡았다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[제시_스펜서]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+			<arg_type weight="0.86">Artist</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[오스트레일리아]]></obj_text>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.871">birthPlace</mln_predict>
+		<cnn_predict conf="0.470">birthPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--down--VNP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[배우인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3769">
+		<sent><![CDATA[노예주인 메릴랜드_주 출신인 재판장 로저_토니가 다수 의견을 작성했는데, 그것은 “노예 흑인도, 자유 흑인도 미국 시민이 아니며, 따라서 그들은 연방법원에 제소할 권리가 없다”고 주장했다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[로저_토니]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[메릴랜드_주]]></obj_text>
+			<arg_type weight="0.23">Place</arg_type>
+			<arg_type weight="0.25">PopulatedPlace</arg_type>
+			<arg_type weight="0.75">Region</arg_type>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.502">birthPlace</mln_predict>
+		<cnn_predict conf="0.333">deathPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--down--VNP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[출신인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -22,6 +22,10 @@ def getCommentedSentInfo(xml_path):
         sbj = sent_node.find('sbj').text.strip()
         obj = sent_node.find('obj').text.strip()
         relation = sent_node.find('gold').text.strip()
+        dependency = sent_node.find('gsdp').text.strip()
+        dependency_lemma = sent_node.find('gsdp_lemma').text
+        dependency_lemma = dependency_lemma.strip() if dependency_lemma != None else ''
+
         comment = sent_node.find('comment').text
         if (comment != None and len(comment) > 0):
             commented_item.append({
@@ -30,6 +34,8 @@ def getCommentedSentInfo(xml_path):
                 'sbj' : sbj,
                 'obj' : obj,
                 'relation': relation,
+                'gsdp': dependency,
+                'gsdp_lemma': dependency_lemma,
                 'comment': comment
             })
 

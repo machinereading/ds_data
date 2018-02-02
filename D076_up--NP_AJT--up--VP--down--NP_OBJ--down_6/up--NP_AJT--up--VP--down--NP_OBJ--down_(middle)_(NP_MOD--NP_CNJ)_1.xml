@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP_AJT--up--VP--down--NP_OBJ--down--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1256">
+		<sent><![CDATA[김창완은 그룹 산울림의 리더로, 보컬과 기타를 맡았다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[산울림]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="과">
+			<obj_text><![CDATA[보컬]]></obj_text>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.313">currentMember</mln_predict>
+		<cnn_predict conf="0.591">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP--down--NP_OBJ--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[리더로,--맡았다.--기타를]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

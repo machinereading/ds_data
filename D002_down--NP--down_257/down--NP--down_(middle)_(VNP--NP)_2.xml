@@ -1,0 +1,38 @@
+<sentence_list>
+	<dependency>(VNP)--down--NP--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_D1414">
+		<sent><![CDATA[2016년 한국방송공사 KBS_2TV 한국방송공사 수목드라마 《공항_가는_길》]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[공항_가는_길]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[KBS_2TV]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.980">channel</cnn_predict>
+		<gsdp>(VNP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[수목드라마]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1290">
+		<sent><![CDATA[제2경기장은 충청북도 청주시 청주야구장이고, 2군･3군 홈구장은 충청남도 서산시 서산야구장이다.]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[청주야구장]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[충청북도]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.366">location</mln_predict>
+		<cnn_predict conf="0.643">location</cnn_predict>
+		<gsdp>(VNP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[청주시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

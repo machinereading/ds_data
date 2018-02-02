@@ -1,0 +1,2014 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--(NP_MOD)</dependency>
+	<total>109</total>
+	<sent_item id="M_D2719">
+		<sent><![CDATA[2005년 콘스웨이트는 A리그의 애들레이드_유나이티드_FC와 계약했지만 첫 두 시즌 동안 대부분의 경기를 벤치에서 보내야했다.]]></sent>
+		<sbj label="NP_AJT" josa="와">
+			<sbj_text><![CDATA[애들레이드_유나이티드_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[A리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.773">league</mln_predict>
+		<cnn_predict conf="0.345">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D875">
+		<sent><![CDATA[어틀리는 2006년 월드 베이스볼 클래식에서 미국 팀의 일원이었고 피츠버그의 PNC_파크에서 열린 그해의 메이저 리그 베이스볼 올스타 경기에서 내셔널 리그를 위한 2루수로서 출발하는 데 팬들에 의하여 선발되었다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[PNC_파크]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[피츠버그]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.929">location</mln_predict>
+		<cnn_predict conf="0.367">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2468">
+		<sent><![CDATA[2015-16 A리그의 시드니_FC와 계약이 만료된 후 포항 스틸러스으로 이적했다.]]></sent>
+		<sbj label="NP_AJT" josa="와">
+			<sbj_text><![CDATA[시드니_FC]]></sbj_text>
+			<arg_type weight="0.28">Agent</arg_type>
+			<arg_type weight="0.34">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[A리그]]></obj_text>
+		</obj>
+		<gold>position</gold>
+		<mln_predict conf="1.000">league</mln_predict>
+		<cnn_predict conf="0.478">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2191">
+		<sent><![CDATA[벤피카를 떠난 후 메이저_리그_사커의 FC_댈러스에서 입단 테스트를 보았으나 계약에 이르지 못했고 자국의 톈진 테다에 입단하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[FC_댈러스]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[메이저_리그_사커]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.821">league</mln_predict>
+		<cnn_predict conf="0.321">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3162">
+		<sent><![CDATA[2006 시즌 12골을 기록하였고 이 활약을 바탕으로 2007년 여름 캄페오나투_브라질레이루_세리이_A의 크루제이루_EC로 이적하였다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[크루제이루_EC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[캄페오나투_브라질레이루_세리이_A]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.983">league</mln_predict>
+		<cnn_predict conf="0.394">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D108">
+		<sent><![CDATA[그는 그 후 2번의 짧은 출장을 하였고, 2007년 9월 12일에는 쾰른의 라인에네르기슈타디온에서 루마니아 축구 국가대표팀전 선발출장을 하였는데, 이 경기에는 동료였던 루카스 포돌스키와 같이 뛰었다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[라인에네르기슈타디온]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[쾰른]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.908">location</mln_predict>
+		<cnn_predict conf="0.375">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3871">
+		<sent><![CDATA[그는 2004-05 시즌동안 리그_2의 LB_샤토루로 임대되었었다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[LB_샤토루]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[리그_2]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.924">league</mln_predict>
+		<cnn_predict conf="0.387">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2923">
+		<sent><![CDATA[이후 복역이 끝난 뒤 송파구청에서 공익근무요원으로 복무했으며, 2009년 구단의 임의탈퇴가 풀린 뒤 2010년 K3리그의 서울_유나이티드_FC에 입단하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[서울_유나이티드_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[K3리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.841">position</mln_predict>
+		<cnn_predict conf="0.295">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1399">
+		<sent><![CDATA[가장 최근 우승 팀은 2017년 웨일스 카디프의 밀레니엄_스타디움에서 유벤투스를 꺾고 우승한 레알 마드리드이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[밀레니엄_스타디움]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[카디프]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.628">location</mln_predict>
+		<cnn_predict conf="0.362">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2455">
+		<sent><![CDATA[2007년 3월에는 2006년 국제공항협의회에서 실시한 설문조사서 두바이의 두바이_국제공항과 함께 공동 1위를 수상하기도 했다.]]></sent>
+		<sbj label="NP_AJT" josa="과">
+			<sbj_text><![CDATA[두바이_국제공항]]></sbj_text>
+			<arg_type weight="0.34">Place</arg_type>
+			<arg_type weight="0.55">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.75">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[두바이]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.593">location</mln_predict>
+		<cnn_predict conf="0.448">largestCity</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2817">
+		<sent><![CDATA[홈 경기에서 1-1로 비기고 원정 경기를 하러 간 AC 밀란은 50분에 FK_츠르베나_즈베즈다의 데얀_사비체비치에게 골을 허용하며 1-0으로 끌려갔으나, 65분에 짙은 안개로 인해서 경기가 취소되었고, 다음날 오후 3시에 같은 라인업으로 재경기가 펼쳐졌다.]]></sent>
+		<sbj label="NP_AJT" josa="에게">
+			<sbj_text><![CDATA[데얀_사비체비치]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[FK_츠르베나_즈베즈다]]></obj_text>
+			<arg_type weight="0.14">Agent</arg_type>
+			<arg_type weight="0.35">Organisation</arg_type>
+			<arg_type weight="0.72">SportsTeam</arg_type>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.873">team</mln_predict>
+		<cnn_predict conf="0.434">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D899">
+		<sent><![CDATA[알레산드로 마트리는 이탈리아의 축구 선수로, 세리에_A의 US_사수올로_칼초에서 뛰고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[US_사수올로_칼초]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[세리에_A]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.939">position</mln_predict>
+		<cnn_predict conf="0.649">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1709">
+		<sent><![CDATA[프랑코는 아르헨티나_프리메라_디비시온의 CA_산로렌소에서 프로 경력을 시작하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[CA_산로렌소]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[아르헨티나_프리메라_디비시온]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.280">location</mln_predict>
+		<cnn_predict conf="0.342">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D4078">
+		<sent><![CDATA[가시와를 우승시킨 이후 중국_슈퍼리그의 다롄_스더로 이적하였다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[다롄_스더]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[중국_슈퍼리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.644">league</mln_predict>
+		<cnn_predict conf="0.433">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D99">
+		<sent><![CDATA[이후 몬트리올의 맥길_대학교에서 30여 년 동안 재직한 명물 교수였다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[맥길_대학교]]></sbj_text>
+			<arg_type weight="-0.23">Agent</arg_type>
+			<arg_type weight="0.35">Organisation</arg_type>
+			<arg_type weight="2.11">EducationalInstitution</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[몬트리올]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.539">city</mln_predict>
+		<cnn_predict conf="0.436">largestCity</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2527">
+		<sent><![CDATA[바스티안 슈바인슈타이거는 독일의 축구 선수로, 현재 미국 메이저_리그_사커의 시카고_파이어에서 뛰고 있으며, 포지션은 중앙 미드필더이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[시카고_파이어]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[메이저_리그_사커]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.888">position</mln_predict>
+		<cnn_predict conf="0.427">position</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3362">
+		<sent><![CDATA[그는 등번호 14번을 부여 받았고, 마드리드에서 열린 1-2로 패배한 스페인 축구 국가대표팀과의 친선전에서 FC_바르셀로나의 리오넬_메시와 교체 출전하며 마지막 몇분을 뛰며 데뷔전을 치렀다.]]></sent>
+		<sbj label="NP_AJT" josa="와">
+			<sbj_text><![CDATA[리오넬_메시]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[FC_바르셀로나]]></obj_text>
+			<arg_type weight="0.14">Agent</arg_type>
+			<arg_type weight="0.35">Organisation</arg_type>
+			<arg_type weight="0.72">SportsTeam</arg_type>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.930">team</mln_predict>
+		<cnn_predict conf="0.683">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2010">
+		<sent><![CDATA[니콜체 노베스키는 마케도니아 공화국의 축구 선수로, 푸스볼-분데스리가의 1._FSV_마인츠_05에서 수비수로 활약하다가 2015년 고별식을 가졌다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[1._FSV_마인츠_05]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[푸스볼-분데스리가]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">position</mln_predict>
+		<cnn_predict conf="0.312">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1737">
+		<sent><![CDATA[에티오피아에 기독교 신앙을 전파하여 알렉산드리아의 알렉산드리아의_아타나시우스에게 이를 보고하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에게">
+			<sbj_text><![CDATA[알렉산드리아의_아타나시우스]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+			<arg_type weight="0.53">Cleric</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[알렉산드리아]]></obj_text>
+			<arg_type weight="0.23">Place</arg_type>
+			<arg_type weight="0.25">PopulatedPlace</arg_type>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.351">deathPlace</mln_predict>
+		<cnn_predict conf="0.584">deathPlace</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2805">
+		<sent><![CDATA[1990년 함부르크 SV에 입단했으며, 한 시즌 뒤 당시 이적료 신기록인 1500만 독일 마르크의 이적료로 세리에_A의 SS_라치오로 이적했다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[SS_라치오]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[세리에_A]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.950">league</mln_predict>
+		<cnn_predict conf="0.460">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D373">
+		<sent><![CDATA[다이슬러는 6살 때 FV 툼링겐에 입단했으며, 15세때 푸스발-분데스리가의 보루시아_묀헨글라트바흐에 스카우트되어 1995년부터 1998년까지 유스팀에서 성장했다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[보루시아_묀헨글라트바흐]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[푸스발-분데스리가]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.765">position</mln_predict>
+		<cnn_predict conf="0.323">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2579">
+		<sent><![CDATA[피델 마르티네스 테노리오 는 에콰도르의 축구 선수로, 리가_MX의 클루브_아틀라스에서 미드필더로 활약하고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[클루브_아틀라스]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[리가_MX]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">position</mln_predict>
+		<cnn_predict conf="0.428">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2413">
+		<sent><![CDATA[안톨린 알카라스 비베로스는 파라과이의 축구 선수로, 현재 파라과이_프리메라_디비시온의 클루브_리베르타드에서 뛰고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[클루브_리베르타드]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[파라과이_프리메라_디비시온]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.889">position</mln_predict>
+		<cnn_predict conf="0.526">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D600">
+		<sent><![CDATA[발렌틴 슈토커 는 스위스의 축구 선수로, 현재 푸스발-분데스리가의 헤르타_BSC에서 미드필더로 활약하고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[헤르타_BSC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[푸스발-분데스리가]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.973">position</mln_predict>
+		<cnn_predict conf="0.687">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D4003">
+		<sent><![CDATA[그 후, 레알 마드리드 카스티야는 레알 마드리드의 유소년을 키우는 팀으로 발돋움하게 되고, 그 이후에 라 파브리카는 FC_바르셀로나의 라_마시아와 같은 유소년 시스템으로 성장한다.]]></sent>
+		<sbj label="NP_AJT" josa="와">
+			<sbj_text><![CDATA[라_마시아]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[FC_바르셀로나]]></obj_text>
+			<arg_type weight="0.81">Agent</arg_type>
+			<arg_type weight="1.05">Organisation</arg_type>
+			<arg_type weight="-0.18">SportsTeam</arg_type>
+		</obj>
+		<gold>owner</gold>
+		<mln_predict conf="0.618">club</mln_predict>
+		<cnn_predict conf="0.503">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D946">
+		<sent><![CDATA[제너럴 모터스의 본사는 미시간 주 디트로이트의 르네상스_센터에 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[르네상스_센터]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.92">Building</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[디트로이트]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.913">location</mln_predict>
+		<cnn_predict conf="0.593">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3594">
+		<sent><![CDATA[2015년 7월 카타르_스타스_리그의 엘자이시_SC로 이적하였다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[엘자이시_SC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[카타르_스타스_리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">league</mln_predict>
+		<cnn_predict conf="0.530">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D175">
+		<sent><![CDATA[2016 시즌 후 1루수 골든글러브 후보에 올랐으나, NC_다이노스의 에릭_테임즈에게 밀려 투표결과 2위로 골든글러브는 놓쳤다.]]></sent>
+		<sbj label="NP_AJT" josa="에게">
+			<sbj_text><![CDATA[에릭_테임즈]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[NC_다이노스]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.316">birthPlace</mln_predict>
+		<cnn_predict conf="0.762">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3023">
+		<sent><![CDATA[이후 1997년 세리에_A의 우디네세_칼초로 이적한 뒤 파르마 FC로 다시 팀을 옮겼다가 우디네세에 복귀했으며, 2001년 스탕다르 리에주에 입단해 벨기에 무대로 복귀하였다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[우디네세_칼초]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[세리에_A]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">league</mln_predict>
+		<cnn_predict conf="0.340">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3407">
+		<sent><![CDATA[현재 캄페오나투_브라질레이루_세리이_A의 보타포구_FR에서 뛰고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[보타포구_FR]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[캄페오나투_브라질레이루_세리이_A]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">position</mln_predict>
+		<cnn_predict conf="0.779">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1242">
+		<sent><![CDATA[슈벤 울라이히 는 독일의 축구 선수로, 현재 푸스볼-분데스리가의 FC_바이에른_뮌헨에서 골키퍼로 활약하고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[FC_바이에른_뮌헨]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[푸스볼-분데스리가]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.765">position</mln_predict>
+		<cnn_predict conf="0.578">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1076">
+		<sent><![CDATA[공군 장교 복무 및 서울대학교 재학 당시 MBC_TV의 《생방송_퀴즈가_좋다》에 참가하여 왕중왕을 차지하기도 했다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[생방송_퀴즈가_좋다]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[MBC_TV]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.422">channel</mln_predict>
+		<cnn_predict conf="0.422">channel</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3031">
+		<sent><![CDATA[현재 프랑스 리그_1의 SM_캉에서 뛰고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[SM_캉]]></sbj_text>
+			<arg_type weight="0.28">Agent</arg_type>
+			<arg_type weight="0.34">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[리그_1]]></obj_text>
+		</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.832">position</mln_predict>
+		<cnn_predict conf="0.684">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1569">
+		<sent><![CDATA[현재 세리에_B의 비르투스_엔텔라에서 미드필더로 뛰고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[비르투스_엔텔라]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[세리에_B]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.591">position</mln_predict>
+		<cnn_predict conf="0.715">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D908">
+		<sent><![CDATA[특히, 정민태는 2003년 정규시즌에 17승 2패를 기록하였는데 2000년때 기록이 이어진 21연승을 기록하였고, 심정수는 삼성_라이온즈의 이승엽과 홈런경쟁을 벌이며 53홈런에 142타점을 기록하였다.]]></sent>
+		<sbj label="NP_AJT" josa="과">
+			<sbj_text><![CDATA[이승엽]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[삼성_라이온즈]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.389">team</mln_predict>
+		<cnn_predict conf="0.801">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2854">
+		<sent><![CDATA[현재 인도_슈퍼리그의 노스이스트_유나이티드_FC에서 뛰고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[노스이스트_유나이티드_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[인도_슈퍼리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.884">position</mln_predict>
+		<cnn_predict conf="0.616">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1125">
+		<sent><![CDATA[당시에는 국제 정서상 소련 영공을 통과하지 못해 거꾸로 미국 알래스카_주의 테드_스티븐스_앵커리지_국제공항에서 중간 기착 및 급유를 마친 후 다시 운항하였으며, 앵커리지에서 북극을 통해 영국, 프랑스 등을 연결하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[테드_스티븐스_앵커리지_국제공항]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[알래스카_주]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+			<arg_type weight="0.61">Region</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.365">region</mln_predict>
+		<cnn_predict conf="0.349">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3071">
+		<sent><![CDATA[우켄 촌은 일본 가고시마_현의 아마미오_섬에 있는 오시마 군의 촌이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[아마미오_섬]]></sbj_text>
+			<arg_type weight="0.68">Place</arg_type>
+			<arg_type weight="1.40">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[가고시마_현]]></obj_text>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.972">region</mln_predict>
+		<cnn_predict conf="0.405">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D993">
+		<sent><![CDATA[임진왜란 중 이순신의 한산도_대첩에서 대패하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[한산도_대첩]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[이순신]]></obj_text>
+			<arg_type weight="0.34">Agent</arg_type>
+			<arg_type weight="0.86">Person</arg_type>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.993">commander</mln_predict>
+		<cnn_predict conf="0.765">commander</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D4094">
+		<sent><![CDATA[보비치는 1990년 중반에 푸스볼-분데스리가의 VfB_슈투트가르트에서 정점을 보냈다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[VfB_슈투트가르트]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[푸스볼-분데스리가]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.547">league</mln_predict>
+		<cnn_predict conf="0.426">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1848">
+		<sent><![CDATA[2008년 잉글랜드 챔피언십리그의 플리머스 아가일에 입단하였지만, 주전 자리를 차지하지 못하고 2009년 스위스_슈퍼리그의 FC_시옹으로 이적하였다.]]></sent>
+		<sbj label="NP_AJT" josa="으로">
+			<sbj_text><![CDATA[FC_시옹]]></sbj_text>
+			<arg_type weight="0.28">Agent</arg_type>
+			<arg_type weight="0.34">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[스위스_슈퍼리그]]></obj_text>
+		</obj>
+		<gold>position</gold>
+		<mln_predict conf="1.000">league</mln_predict>
+		<cnn_predict conf="0.297">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2813">
+		<sent><![CDATA[결승전은 1999년 5월 12일 러시아 모스크바의 루즈니키_스타디움에서 열렸다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[루즈니키_스타디움]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[모스크바]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.947">location</mln_predict>
+		<cnn_predict conf="0.784">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1081">
+		<sent><![CDATA[스이쇼 교는 오사카_시의 도지마 강(구_요도_강)에 있는 보행자 전용 다리이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[구_요도_강]]></sbj_text>
+			<arg_type weight="0.34">Place</arg_type>
+			<arg_type weight="0.58">NaturalPlace</arg_type>
+			<arg_type weight="1.06">BodyOfWater</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[오사카_시]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.533">city</mln_predict>
+		<cnn_predict conf="0.410">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1513">
+		<sent><![CDATA[6월 15일, 그는 브라질리아의 이스타지우_마네_가힌샤에서 열린 스위스 축구 국가대표팀와의 경기에서 FIFA 월드컵 첫 경기를 나왔으나, 1-2로 패하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[이스타지우_마네_가힌샤]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[브라질리아]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.864">location</mln_predict>
+		<cnn_predict conf="0.597">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1432">
+		<sent><![CDATA[후벤 하파엘 멜루 시우바 핀투 는 포르투갈의 축구 선수로, 현재 A_PFG의 PFC_CSKA_소피아에서 미드필더로 활약하고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[PFC_CSKA_소피아]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[A_PFG]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.988">position</mln_predict>
+		<cnn_predict conf="0.478">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1462">
+		<sent><![CDATA[현재 카자흐스탄_프리미어리그의 FC_오르다바시에서 활약하고 있으며 우즈베키스탄 축구 국가대표팀의 공격수이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[FC_오르다바시]]></sbj_text>
+			<arg_type weight="0.28">Agent</arg_type>
+			<arg_type weight="0.34">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[카자흐스탄_프리미어리그]]></obj_text>
+		</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.757">position</mln_predict>
+		<cnn_predict conf="0.606">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D812">
+		<sent><![CDATA[몰로시아는 미국의 네바다_주에 있는 사막지역에 위치하고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[네바다_주]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+			<arg_type weight="0.97">Region</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[미국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.520">country</mln_predict>
+		<cnn_predict conf="0.695">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3801">
+		<sent><![CDATA[토마시 바츨리크는 체코의 축구 선수로, 현재 스위스_슈퍼리그의 FC_바젤에서 골키퍼로 활약하고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[FC_바젤]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[스위스_슈퍼리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">position</mln_predict>
+		<cnn_predict conf="0.636">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2853">
+		<sent><![CDATA[UEFA 유로 2000 결승전 은 2000년 7월 2일, UEFA 유로 2000의 우승팀을 가리기 위해 네덜란드 로테르담의 스타디온_페예노르트에서 열린 축구 경기이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[스타디온_페예노르트]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[로테르담]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.743">location</mln_predict>
+		<cnn_predict conf="0.835">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3174">
+		<sent><![CDATA[안드레아스 이반시츠 는 크로아티아계 오스트리아인 축구 선수로, 현재 메이저_리그_사커의 시애틀_사운더스_FC에서 미드필더로 활약하고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[시애틀_사운더스_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[메이저_리그_사커]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">position</mln_predict>
+		<cnn_predict conf="0.370">position</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2603">
+		<sent><![CDATA[슈케르는 레알 마드리드 CF 1996-97 시즌을 앞두고 레알 마드리드 CF에 입단했고, 첫 시즌에 38경기에만 출전해 24골을 넣는 성공적인 시즌을 보냈고, 그는 바르셀로나의 호나우두와 레알_베티스의 알폰소_페레스에 이어 리그 득점 3위를 기록했다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[알폰소_페레스]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[레알_베티스]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.886">team</mln_predict>
+		<cnn_predict conf="0.692">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1128">
+		<sent><![CDATA[2013년 J리그_디비전_1의 주빌로_이와타로 임대 이적하며 1부 리그 무대를 밟았다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[주빌로_이와타]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[J리그_디비전_1]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.787">league</mln_predict>
+		<cnn_predict conf="0.402">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3532">
+		<sent><![CDATA[이전에는 이 2개 속을 말피기목의 라플레시아과로 분류했다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[라플레시아과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[말피기목]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="0.566">order</mln_predict>
+		<cnn_predict conf="0.557">order</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2632">
+		<sent><![CDATA[요르기오스 사마라스는 그리스의 축구 선수로 세군다_디비시온의 레알_사라고사에서 윙어 또는 공격수로 뛰고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[레알_사라고사]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[세군다_디비시온]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">position</mln_predict>
+		<cnn_predict conf="0.500">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D393">
+		<sent><![CDATA[경기는 2010년 5월 12일 독일 함부르크의 폴크스파르크슈타디온에서 열렸다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[폴크스파르크슈타디온]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[함부르크]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.924">location</mln_predict>
+		<cnn_predict conf="0.750">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D311">
+		<sent><![CDATA[몰로시아 공화국은 미국의 네바다_주에 있는 마이크로네이션이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[네바다_주]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+			<arg_type weight="0.97">Region</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[미국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.559">country</mln_predict>
+		<cnn_predict conf="0.595">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3917">
+		<sent><![CDATA[현재 우크라이나_프리미어리그의 FC_샤흐타르_도네츠크에서 공격수로 뛰고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[FC_샤흐타르_도네츠크]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[우크라이나_프리미어리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.974">position</mln_predict>
+		<cnn_predict conf="0.716">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1722">
+		<sent><![CDATA[J3리그의 FC_류큐와 자매결연 관계이기도 하다.]]></sent>
+		<sbj label="NP_AJT" josa="와">
+			<sbj_text><![CDATA[FC_류큐]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[J3리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.434">position</mln_predict>
+		<cnn_predict conf="0.307">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D826">
+		<sent><![CDATA[이 클럽은 UEFA 챔피언스리그 결승전에 2번 연속 진출하였으나, 2000년에 라 리가의 라이벌 레알 마드리드 CF에 패하였고, 이듬 해에는 푸스볼-분데스리가의 FC_바이에른_뮌헨에 1-1로 비긴 뒤 승부차기에서 패하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[FC_바이에른_뮌헨]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[푸스볼-분데스리가]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.456">position</mln_predict>
+		<cnn_predict conf="0.772">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2525">
+		<sent><![CDATA[2002년 FIFA 월드컵 직후 네덜란드 에레디비시의 페예노르트에 국내선수 해외 진출 사상 최고액인 400만 달러를 받고 입단하면서 2002년 FIFA 월드컵 멤버 중에서 처음으로 유럽 무대에 진출하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[페예노르트]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[에레디비시]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.279">position</mln_predict>
+		<cnn_predict conf="0.587">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D98">
+		<sent><![CDATA[현재 세리에_A의 SS_라치오에서 활약하고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[SS_라치오]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[세리에_A]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.983">league</mln_predict>
+		<cnn_predict conf="0.746">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1819">
+		<sent><![CDATA[조스머 볼미 "조지" 알티도어는 미국의 축구 선수로, 현재 메이저_리그_사커의 토론토_FC에서 활약하고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[토론토_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[메이저_리그_사커]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">position</mln_predict>
+		<cnn_predict conf="0.378">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2583">
+		<sent><![CDATA[대전중리중학교, 충남기계공업고등학교, 숭실대학교를 거쳐 2010년 일본 J리그_디비전_2의 FC_기후에 입단하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[FC_기후]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[J리그_디비전_2]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.669">position</mln_predict>
+		<cnn_predict conf="0.277">city</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D4036">
+		<sent><![CDATA[세르소 조프루아 공자루아 디에 는 흔히 세레 디에 로 알려진 코트디부아르의 축구 미드필더로, 현재 스위스_슈퍼리그의 FC_바젤에서 활약하고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[FC_바젤]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[스위스_슈퍼리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">position</mln_predict>
+		<cnn_predict conf="0.423">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3583">
+		<sent><![CDATA[현재 프리미어리그의 스토크_시티_FC에서 골키퍼로 뛰고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[스토크_시티_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[프리미어리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">position</mln_predict>
+		<cnn_predict conf="0.724">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3293">
+		<sent><![CDATA[이 속은 이전에는 노박덩굴목의 노박덩굴과에 속해 있었다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[노박덩굴과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[노박덩굴목]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.364">order</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1375">
+		<sent><![CDATA[2015년 7월 풋볼_리그_챔피언십의 버밍엄_시티_FC로 이적했다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[버밍엄_시티_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[풋볼_리그_챔피언십]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.885">league</mln_predict>
+		<cnn_predict conf="0.655">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1085">
+		<sent><![CDATA[검은발쥐땃쥐는 땃쥐목의 땃쥐류에 속하는 포유류의 일종이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[땃쥐류]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[땃쥐목]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="0.984">class</mln_predict>
+		<cnn_predict conf="0.896">order</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D894">
+		<sent><![CDATA[조슈아 브릴란테는 A리그의 시드니_FC에서 뛰는 오스트레일리아의 축구 선수이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[시드니_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[A리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.968">position</mln_predict>
+		<cnn_predict conf="0.645">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1226">
+		<sent><![CDATA[이러한 활약으로 인하여 2004-05 시즌 개막 전에 크리스털 팰리스 FC의 관심을 받기도 하였지만, 이적료 150만 파운드에 프리미어리그의 에버턴_FC으로 이적하였다.]]></sent>
+		<sbj label="NP_AJT" josa="으로">
+			<sbj_text><![CDATA[에버턴_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[프리미어리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.651">league</mln_predict>
+		<cnn_predict conf="0.403">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D29">
+		<sent><![CDATA[헤세 로드리게스 루이스 는 흔히 헤세로 알려져 있는 스페인의 프로 축구 선수로, 현재 라리가의 UD_라스팔마스에 소속된 공격수이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[UD_라스팔마스]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[라리가]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.771">league</mln_predict>
+		<cnn_predict conf="0.466">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3184">
+		<sent><![CDATA[그는 1992년 스위스_슈퍼리그의 세르베트_FC에서 선수 생활을 시작하였으며, 스페인 프리메라리가의 CD 테네리페에서도 잠시 선수생활을 하였으나, 1997년 이후 독일 분데스리가로 와서 주로 선수생활을 하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[세르베트_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[스위스_슈퍼리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.414">league</mln_predict>
+		<cnn_predict conf="0.282">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2149">
+		<sent><![CDATA[특히, 조선군은 김시민의 제1차 진주성 전투, 권율의 이치_전투에서 일본군에게 크게 방어하여 전라도가 온전할 수 있었다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[이치_전투]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[권율]]></obj_text>
+			<arg_type weight="0.34">Agent</arg_type>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.960">commander</mln_predict>
+		<cnn_predict conf="0.890">commander</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3850">
+		<sent><![CDATA[2009년 안정환은 부산 아이파크와의 재계약을 하지 않고 미국 메이저 리그 사커 진출을 시도하였으나 실패하였고, 중국_슈퍼리그의 다롄_스더와 3개월의 단기 계약을 맺게 되었다.]]></sent>
+		<sbj label="NP_AJT" josa="와">
+			<sbj_text><![CDATA[다롄_스더]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[중국_슈퍼리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.512">league</mln_predict>
+		<cnn_predict conf="0.272">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1924">
+		<sent><![CDATA[2010년 여름, 그는 프리미어리그의 뉴캐슬_유나이티드_FC로 이적한다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[뉴캐슬_유나이티드_FC]]></sbj_text>
+			<arg_type weight="0.28">Agent</arg_type>
+			<arg_type weight="0.34">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[프리미어리그]]></obj_text>
+		</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.545">league</mln_predict>
+		<cnn_predict conf="0.516">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3877">
+		<sent><![CDATA[2013년 5월 30일, 비록 센트럴코스트 매리너스와의 계약이 하루 뒤에 만료됨에도 불구하고, 라이언이 벨기에_프로리그의 클뤼프_브뤼허_KV로 비공개 이적료로 팀을 옮기는 것이 확정되었다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[클뤼프_브뤼허_KV]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[벨기에_프로리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.409">league</mln_predict>
+		<cnn_predict conf="0.289">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D604">
+		<sent><![CDATA[이런 러시아의 월경 행위는 친러시아군이 장악한 모든 지역에서 발생한 것으로 확인되었고, 도네츠크_주의 노보아조우스크와 같이 정부군이 통제하는 지역에서 넘어든 것으로 알려졌다.]]></sent>
+		<sbj label="NP_AJT" josa="와">
+			<sbj_text><![CDATA[노보아조우스크]]></sbj_text>
+			<arg_type weight="0.68">Place</arg_type>
+			<arg_type weight="1.40">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[도네츠크_주]]></obj_text>
+			<arg_type weight="0.18">Place</arg_type>
+			<arg_type weight="0.24">PopulatedPlace</arg_type>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.481">region</mln_predict>
+		<cnn_predict conf="0.291">deathPlace</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2978">
+		<sent><![CDATA[몬트리올의 맥길_대학교에서 법학을 공부한 후 변호사 자격을 얻었다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[맥길_대학교]]></sbj_text>
+			<arg_type weight="-0.23">Agent</arg_type>
+			<arg_type weight="0.35">Organisation</arg_type>
+			<arg_type weight="2.11">EducationalInstitution</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[몬트리올]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.673">city</mln_predict>
+		<cnn_predict conf="0.370">city</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1889">
+		<sent><![CDATA[카를로스 마리오 카르보네로 만시야 는 콜롬비아의 축구 선수로, 현재 우루과이_프리메라_디비시온의 CA_페닉스에서 UC 삼프도리아로 임대되어 미드필더로 활약하고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[CA_페닉스]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[우루과이_프리메라_디비시온]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.837">league</mln_predict>
+		<cnn_predict conf="0.407">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2165">
+		<sent><![CDATA[인테르는 UEFA에게 재경기를 요청하였고, 베를린의 베를린_올림픽_스타디움에서 열린 재경기는 0-0으로 종료되었다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[베를린_올림픽_스타디움]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[베를린]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.812">location</mln_predict>
+		<cnn_predict conf="0.504">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3708">
+		<sent><![CDATA[크리스티안 리카르도 스투아니 크루벨로는 우루과이의 축구 선수로, 현재 프리미어리그의 미들즈브러_FC에서 스트라이커로 활약하고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[미들즈브러_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[프리미어리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.780">position</mln_predict>
+		<cnn_predict conf="0.577">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D958">
+		<sent><![CDATA[줄리우 세자르 클리멘치 바프티스타 는 브라질의 프로 축구 선수로, 최근에 메이저_리그_사커의 올랜도_시티_SC에서 활약했던 미드필더이자 공격수이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[올랜도_시티_SC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[메이저_리그_사커]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">position</mln_predict>
+		<cnn_predict conf="0.354">position</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1634">
+		<sent><![CDATA[포지션은 공격형 미드필더와 윙어이며, 현재 J리그_디비전_1의 주빌로_이와타에서 뛰고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[주빌로_이와타]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[J리그_디비전_1]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.522">position</mln_predict>
+		<cnn_predict conf="0.543">position</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1429">
+		<sent><![CDATA[그는 현재 잉글랜드 프리미어리그의 리버풀 FC에서 9년간의 생활을 마치고 친정팀인 덴마크_수페르리가의 브뢴뷔_IF에서 뛰었다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[브뢴뷔_IF]]></sbj_text>
+			<arg_type weight="0.28">Agent</arg_type>
+			<arg_type weight="0.34">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[덴마크_수페르리가]]></obj_text>
+		</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.931">position</mln_predict>
+		<cnn_predict conf="0.355">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3158">
+		<sent><![CDATA[현재 리그_1의 올랭피크_드_마르세유에서 미드필더로 뛰고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[올랭피크_드_마르세유]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[리그_1]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">position</mln_predict>
+		<cnn_predict conf="0.774">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D281">
+		<sent><![CDATA[이과인 위에는 니콜라스와 페데리코 이과인 두 형이 있는데, 이 중 작은형은 메이저_리그_사커의 콜럼버스_크루_SC에서 후방 공격수로 활약하며, 아래로 동생 라우타로가 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[콜럼버스_크루_SC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[메이저_리그_사커]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">position</mln_predict>
+		<cnn_predict conf="0.281">position</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3485">
+		<sent><![CDATA[공사비 약 70여억, 가로 63.398m, 세로 17.962m, 총 면적 1,138.75㎡ 규모로 현재 전세계 야구장 가운데 최대 규모를 자랑하는 시애틀_매리너스의 세이프코_필드보다 총면적에서 77.41㎡가 더 큰 세계 최대 규모이다.]]></sent>
+		<sbj label="NP_AJT" josa="보다">
+			<sbj_text><![CDATA[세이프코_필드]]></sbj_text>
+			<arg_type weight="0.08">Place</arg_type>
+			<arg_type weight="0.28">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.57">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[시애틀_매리너스]]></obj_text>
+		</obj>
+		<gold>operator</gold>
+		<mln_predict conf="0.683">location</mln_predict>
+		<cnn_predict conf="0.451">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D115">
+		<sent><![CDATA[2015년 7월 2일, 경남_FC의 한의권과 맞트레이드 형식으로 이적하였다.]]></sent>
+		<sbj label="NP_AJT" josa="과">
+			<sbj_text><![CDATA[한의권]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[경남_FC]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.477">team</mln_predict>
+		<cnn_predict conf="0.448">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D586">
+		<sent><![CDATA[그 해 8월 제이드는 오스트레일리아 축구 국가대표팀으로의 재발탁에 대한 열망과 함께 팀을 떠나고 싶다는 의사를 나타내며 유럽 무대로의 이적설이 제기되기도 하였고, 결국 2010년 노르웨이_프리미어리그의 트롬쇠_IL로 이적하였다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[트롬쇠_IL]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[노르웨이_프리미어리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.436">league</mln_predict>
+		<cnn_predict conf="0.296">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1234">
+		<sent><![CDATA[아틀레티코_마드리드와의 2016_UEFA_챔피언스리그_결승전에서, 그는 부상당한 다니엘 카르바할과 후반전에 일찍 후보로 들어가 출전했고, 경기는 1-1로 비긴 후 승부차기 끝에 이겼다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[2016_UEFA_챔피언스리그_결승전]]></sbj_text>
+			<arg_type weight="0.47">Event</arg_type>
+			<arg_type weight="0.47">SocietalEvent</arg_type>
+			<arg_type weight="1.70">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[아틀레티코_마드리드]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.848">team</mln_predict>
+		<cnn_predict conf="0.831">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2332">
+		<sent><![CDATA[조선민주주의인민공화국의 백두산보다 3m더 낮다.]]></sent>
+		<sbj label="NP_AJT" josa="보다">
+			<sbj_text><![CDATA[백두산]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="2.09">NaturalPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[조선민주주의인민공화국]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.205">region</mln_predict>
+		<cnn_predict conf="0.391">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2227">
+		<sent><![CDATA[2004년 J리그_디비전_2의 교토_상가_FC로 1년간 임대되었다가, 2005년 주빌로 이와타로 이적하였다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[교토_상가_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[J리그_디비전_2]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.838">league</mln_predict>
+		<cnn_predict conf="0.318">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1988">
+		<sent><![CDATA[가장 높은 봉우리는 콜로라도_주의 엘버트_산으로, 해발 4,401m이다.]]></sent>
+		<sbj label="NP_AJT" josa="으로">
+			<sbj_text><![CDATA[엘버트_산]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="2.09">NaturalPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[콜로라도_주]]></obj_text>
+			<arg_type weight="0.05">Place</arg_type>
+			<arg_type weight="0.12">PopulatedPlace</arg_type>
+			<arg_type weight="0.79">Region</arg_type>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.423">region</mln_predict>
+		<cnn_predict conf="0.249">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D749">
+		<sent><![CDATA[2014년 세리에_A의 AS_로마로 이적하였다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[AS_로마]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[세리에_A]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.970">league</mln_predict>
+		<cnn_predict conf="0.688">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1759">
+		<sent><![CDATA[현재 프리미어리그의 토트넘_홋스퍼_FC에서 골키퍼로 뛰고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[토트넘_홋스퍼_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[프리미어리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.988">position</mln_predict>
+		<cnn_predict conf="0.684">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D114">
+		<sent><![CDATA[그는 그 후 풋볼_리그_챔피언십의 풀럼_FC와 계약을 맺었다.]]></sent>
+		<sbj label="NP_AJT" josa="와">
+			<sbj_text><![CDATA[풀럼_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[풋볼_리그_챔피언십]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.693">league</mln_predict>
+		<cnn_predict conf="0.516">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1502">
+		<sent><![CDATA[아드리앵 라비오 는 프랑스의 축구 선수로, 현재 리그_1의 파리_생제르맹_FC에서 미드필더로 활약하고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[파리_생제르맹_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[리그_1]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">position</mln_predict>
+		<cnn_predict conf="0.709">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D4017">
+		<sent><![CDATA[반날개하목은 딱정벌레목의 풍뎅이아목에 속하는 하목이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[풍뎅이아목]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[딱정벌레목]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.789">order</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3595">
+		<sent><![CDATA[그러나 던지면서 손상시키는 일도 자주 있어 2005년의 시즌 중에 손상된 셰이크가 한 가운데의 느린 공이 되어 사이타마_세이부_라이온스의 나카무라_다케야에게 홈런을 허용했다.]]></sent>
+		<sbj label="NP_AJT" josa="에게">
+			<sbj_text><![CDATA[나카무라_다케야]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[사이타마_세이부_라이온스]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.843">team</mln_predict>
+		<cnn_predict conf="0.435">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D223">
+		<sent><![CDATA[그는 토리노_FC의 안젤로_오그본나와 더불어 체사레 프란델리의 UEFA 유로 2012를 위한 32인 예비명단에 포함된 세리에 B 선수 2명 중 한명이었다.]]></sent>
+		<sbj label="NP_AJT" josa="와">
+			<sbj_text><![CDATA[안젤로_오그본나]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[토리노_FC]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.406">club</mln_predict>
+		<cnn_predict conf="0.452">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3492">
+		<sent><![CDATA[이후 터키 쉬페르리그의 겐츨레르비를리이_SK로 이적하였다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[겐츨레르비를리이_SK]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[쉬페르리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.632">league</mln_predict>
+		<cnn_predict conf="0.654">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3351">
+		<sent><![CDATA[이성계의 위화도_회군과 조선 건국에 반대하여 절의를 지켰다.]]></sent>
+		<sbj label="NP_AJT" josa="과">
+			<sbj_text><![CDATA[위화도_회군]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[이성계]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.506">commander</mln_predict>
+		<cnn_predict conf="0.761">deathPlace</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D478">
+		<sent><![CDATA[뉴욕 시의 메트로폴리탄 미술관, 보스턴의 보스턴_미술관과 함께 미국의 3대 미술관의 하나로 손꼽힌다.]]></sent>
+		<sbj label="NP_AJT" josa="과">
+			<sbj_text><![CDATA[보스턴_미술관]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.92">Building</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[보스턴]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.967">location</mln_predict>
+		<cnn_predict conf="0.508">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2716">
+		<sent><![CDATA[1974년, ZDF는 비스바덴에 임시로 본사를 둔 뒤 현 본사가 위치한 라인란트팔츠_주의 마인츠로 본사를 옮겼다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[마인츠]]></sbj_text>
+			<arg_type weight="0.68">Place</arg_type>
+			<arg_type weight="1.40">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[라인란트팔츠_주]]></obj_text>
+			<arg_type weight="0.18">Place</arg_type>
+			<arg_type weight="0.24">PopulatedPlace</arg_type>
+			<arg_type weight="2.12">Region</arg_type>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.508">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3140">
+		<sent><![CDATA[현재 리그_1의 디종_FCO에서 수비수로 뛰고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[디종_FCO]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[리그_1]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.995">position</mln_predict>
+		<cnn_predict conf="0.747">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D547">
+		<sent><![CDATA[요코하마 FC와 상대로 첫 경기를 가졌지만, 당시 요코하마의 두터운 선수진에 막혀 출전 기회를 여러번 놓쳤으며, 결국 당시 2부리그였던 J리그_디비전_2의 세레소_오사카로 임대되어, 카가와 신지와 좋은 호흡을 보여줬다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[세레소_오사카]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[J리그_디비전_2]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.644">league</mln_predict>
+		<cnn_predict conf="0.547">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1938">
+		<sent><![CDATA[덴쇼 11년 하시바 세력과 시바타 세력(시바타_가쓰이에)간의 시즈가타케_전투에서 가토 기요마사, 후쿠시마 마사노리와 함께 활약했으며, 이 활약으로 시즈가타케의 칠본창으로 명성을 떨쳤다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[시즈가타케_전투]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[시바타_가쓰이에]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.647">position</mln_predict>
+		<cnn_predict conf="0.392">commander</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2932">
+		<sent><![CDATA[그는 데뷔 시즌에 10경기 출전하는데 성공하였으나, 꾸준한 모습을 보이지 못한 것으로 인해 2._푸스발-분데스리가의 포르투나_뒤셀도르프에 매각되었다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[포르투나_뒤셀도르프]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[2._푸스발-분데스리가]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.643">position</mln_predict>
+		<cnn_predict conf="0.398">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D514">
+		<sent><![CDATA[네이선 루크 브래턴은 오스트레일리아의 축구 선수로, 현재 프리미어리그의 맨체스터_시티_FC에서 중앙 미드필더로 뛰고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[맨체스터_시티_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[프리미어리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.897">position</mln_predict>
+		<cnn_predict conf="0.628">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

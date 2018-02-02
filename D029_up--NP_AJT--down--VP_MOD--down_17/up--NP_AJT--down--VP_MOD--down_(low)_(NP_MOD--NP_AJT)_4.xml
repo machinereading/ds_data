@@ -1,0 +1,84 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP_AJT--down--VP_MOD--down--(NP_AJT)</dependency>
+	<total>4</total>
+	<sent_item id="M_D3539">
+		<sent><![CDATA[그녀는 두 차례의 올림픽 출전 경험이 있고, 런던에서 열린 2012년_하계_올림픽의 2012년 하계 올림픽 펜싱 여자 에페 개인전에 출전했던 사라 베스베스의 동생이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[2012년_하계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[런던]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.420">location</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[2012년--열린]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D4054">
+		<sent><![CDATA[아우는 런던에서 열린 2012년_하계_올림픽의 2012년 하계 올림픽 펜싱 여자 사브르 개인전에 출전하였다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[2012년_하계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[런던]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.961">location</mln_predict>
+		<cnn_predict conf="0.413">location</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[2012년--열린]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2926">
+		<sent><![CDATA["고대 그리스는 내가 배우는 학문에 어울려서 나는 올림픽에도 갈 수 있겠네요, 그렇죠?" 로버트슨은 아테네에서 열리는 1896년_하계_올림픽의 개막식에 참석하기 위해 11파운드 스털링를 냈다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[1896년_하계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[아테네]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.995">location</mln_predict>
+		<cnn_predict conf="0.416">location</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[개막식에--열리는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3434">
+		<sent><![CDATA[마란은 런던에서 열린 2012년_하계_올림픽의 2012년 하계 올림픽 펜싱 여자 사브르 개인전에서 이집트를 대표로 출전하였다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[2012년_하계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[런던]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.999">location</mln_predict>
+		<cnn_predict conf="0.411">location</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[2012년--열린]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

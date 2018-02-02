@@ -1,0 +1,79 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_AJT--up--VP--up--VP--down--(NP_AJT)</dependency>
+	<total>4</total>
+	<sent_item id="M_D2561">
+		<sent><![CDATA[2007년 5월 UEFA컵_2006-07 결승전에 출전했으나, 세비야_FC에 3-1로 졌다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[UEFA컵_2006-07]]></sbj_text>
+			<arg_type weight="0.47">Event</arg_type>
+			<arg_type weight="0.47">SocietalEvent</arg_type>
+			<arg_type weight="1.70">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[세비야_FC]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.822">team</mln_predict>
+		<cnn_predict conf="0.770">team</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[결승전에--출전했으나,--졌다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1110">
+		<sent><![CDATA[각 연령대별 국가대표팀을 거쳐 2014년 페르난두_산투스 감독에 의해 포르투갈_축구_국가대표팀에 발탁되었으며, 2014년 11월 18일 아르헨티나 축구 국가대표팀와의 경기에서 데뷔전을 치뤘다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[페르난두_산투스]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[포르투갈_축구_국가대표팀]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.481">birthPlace</mln_predict>
+		<cnn_predict conf="0.591">team</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[감독에--의해--발탁되었으며,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2030">
+		<sent><![CDATA[2016년 5월, 요렌테는 보스니아 헤르체고비나 축구 국가대표팀와의 친선경기를 앞두고 비센테_델_보스케 감독에 의해 스페인_축구_국가대표팀에 차출되었다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[비센테_델_보스케]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[스페인_축구_국가대표팀]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.979">team</mln_predict>
+		<cnn_predict conf="0.398">team</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[감독에--의해--차출되었다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3306">
+		<sent><![CDATA[차범근의 아들 차두리 또한 대한민국 축구 국가대표팀 축구 선수로 2002년 FIFA 월드컵, 2010년 FIFA 월드컵에 출전한 것 외에도 셀틱 FC에서 활동하였고 현재는 K리그 클래식의 FC_서울에서 뛰고 있다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[차두리]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[FC_서울]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.836">team</mln_predict>
+		<cnn_predict conf="0.756">team</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[월드컵,--활동하였고--뛰고]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

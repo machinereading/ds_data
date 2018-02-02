@@ -1,0 +1,98 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--(NP_CNJ)</dependency>
+	<total>6</total>
+	<sent_item id="M_D185">
+		<sent><![CDATA[프놈펜 포스트는 캄보디아, 프놈펜에서 1992년 설립된 신문이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[프놈펜]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[캄보디아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.759">country</mln_predict>
+		<cnn_predict conf="0.407">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3022">
+		<sent><![CDATA[발트족은 인도유럽어족의 발트족에 속하는 라트비아인과 리투아니아인으로 나뉜다.]]></sent>
+		<sbj label="NP_AJT" josa="으로">
+			<sbj_text><![CDATA[리투아니아인]]></sbj_text>
+		</sbj>
+		<obj label="NP_CNJ" josa="과">
+			<obj_text><![CDATA[라트비아인]]></obj_text>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.286">related</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D125">
+		<sent><![CDATA[런던 동물원는 영국, 런던에 있는 동물원이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[런던]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[영국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.779">country</mln_predict>
+		<cnn_predict conf="0.382">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D143">
+		<sent><![CDATA[2006년 5월 27일 피트는 졸리와의 사이에서 첫 아이이자, 딸 샤일로 누엘이 나미비아, 스바코프문트에서 태어났다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[스바코프문트]]></sbj_text>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[나미비아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.305">region</mln_predict>
+		<cnn_predict conf="0.234">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D668">
+		<sent><![CDATA[아이유는 안데스 산맥의 케추아족과 아이마라족에서 나타나는 전통적인 양식의 혈연중심적 공동체다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[아이마라족]]></sbj_text>
+		</sbj>
+		<obj label="NP_CNJ" josa="과">
+			<obj_text><![CDATA[케추아족]]></obj_text>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.095">related</mln_predict>
+		<cnn_predict conf="0.229">deathPlace</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3952">
+		<sent><![CDATA[우크라이나인은 러시아인과 벨라루스인과 함께 동슬라브인에 속한다.]]></sent>
+		<sbj label="NP_AJT" josa="과">
+			<sbj_text><![CDATA[벨라루스인]]></sbj_text>
+		</sbj>
+		<obj label="NP_CNJ" josa="과">
+			<obj_text><![CDATA[러시아인]]></obj_text>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.851">related</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

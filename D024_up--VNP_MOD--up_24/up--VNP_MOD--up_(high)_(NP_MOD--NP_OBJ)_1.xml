@@ -1,0 +1,25 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP_MOD--up--(NP_OBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2921">
+		<sent><![CDATA[콕슨은 이곳에서 자랐으며 블러의 맴버인 데이먼_알반을 만난곳이기도 한다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[블러]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="을">
+			<obj_text><![CDATA[데이먼_알반]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.890">currentMember</mln_predict>
+		<cnn_predict conf="0.658">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP_MOD--up--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[맴버인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

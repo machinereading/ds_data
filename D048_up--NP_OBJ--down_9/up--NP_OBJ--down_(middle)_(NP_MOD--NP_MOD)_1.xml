@@ -1,0 +1,25 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP_OBJ--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1879">
+		<sent><![CDATA[그리고 프리미어리그에서 환상적인 선방을 보여주며 리그 3연패에 힘썼고, UEFA 챔피언스리그 결승전에서는 승부차기에서 첼시_FC의 니콜라_아넬카의 킥을 선방하여 팀이 9년 만의 우승에 공헌하였다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[니콜라_아넬카]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[첼시_FC]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.959">team</mln_predict>
+		<cnn_predict conf="0.859">team</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_OBJ--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[킥을]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

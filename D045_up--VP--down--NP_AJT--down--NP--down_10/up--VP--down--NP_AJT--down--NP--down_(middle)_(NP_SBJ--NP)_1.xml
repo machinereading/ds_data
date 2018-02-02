@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--down--NP_AJT--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2211">
+		<sent><![CDATA[현재 공식 명칭은 서울국제금융센터가 맞고 인터내셔널 파이낸스 센터라는 명칭이 있으며 그리고 IFC 서울이라는 명칭으로 더 알려져 있는데 부산광역시 남구 문현금융단지에도 국제금융센터 건물인 부산국제금융센터건물이 있기 때문이다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[부산국제금융센터]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.92">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[부산광역시]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.996">location</mln_predict>
+		<cnn_predict conf="0.727">location</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[있기--문현금융단지에도--남구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,140 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--NP--down--(NP_MOD)</dependency>
+	<total>8</total>
+	<sent_item id="M_D2570">
+		<sent><![CDATA[1983년 10월 8일에 대한민국의 대통령 전두환은 공식 수행원 22명, 비공식 수행원 등을 데리고 동남아 5개국의 공식 순방길을 출발했다.]]></sent>
+		<sbj label="NP_SBJ" josa="은">
+			<sbj_text><![CDATA[전두환]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+			<arg_type weight="0.34">Politician</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="1.000">birthPlace</mln_predict>
+		<cnn_predict conf="0.452">deathPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[대통령]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D930">
+		<sent><![CDATA[애플_(기업)의 공동 창립자 스티브_잡스는 NeXT 컴퓨터사를 차렸고 유닉스 계열 넥스트스텝 운영 체제를 개발하였다.]]></sent>
+		<sbj label="NP_SBJ" josa="는">
+			<sbj_text><![CDATA[스티브_잡스]]></sbj_text>
+			<arg_type weight="0.49">Agent</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[애플_(기업)]]></obj_text>
+			<arg_type weight="-0.23">Agent</arg_type>
+			<arg_type weight="0.14">Organisation</arg_type>
+		</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.288">occupation</mln_predict>
+		<cnn_predict conf="0.316">location</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[창립자]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D515">
+		<sent><![CDATA["소녀시대"는 대한민국의 가수 이승철이 1989년에 발표한 팝 록 장르의 노래로서, 그의 정규 앨범《이승철 1집 Part 2》에 수록된 곡이다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[이승철]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+			<arg_type weight="0.21">Artist</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.614">birthPlace</mln_predict>
+		<cnn_predict conf="0.695">birthPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[가수]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1068">
+		<sent><![CDATA[또한 파라마르타가 번역한 번역한 《대승기신론》의 내용을 풀이하여 신라의 고승 원효가 유명한 《대승기신론소》를 지었으며, 후대 중국이나 한국, 일본의 불교계에 큰 영향을 주었다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[원효]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[신라]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.420">birthPlace</mln_predict>
+		<cnn_predict conf="0.451">deathPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[고승]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D867">
+		<sent><![CDATA[《맞아 죽을 각오로 쓴 친일 선언》은 대한민국의 가수 조영남이 쓴 에세이이다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[조영남]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.782">birthPlace</mln_predict>
+		<cnn_predict conf="0.702">birthPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[가수]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2530">
+		<sent><![CDATA[《삼국유사》에는 백제의 승려 혜현이 수덕사에서 아침저녁으로 법화경을 독송했다는 기록을 남기고 있고, 신라의 승려 원효는 법화경의 교리를 해설한 《법화경종요》를 짓기도 했다.]]></sent>
+		<sbj label="NP_SBJ" josa="는">
+			<sbj_text><![CDATA[원효]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[신라]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.430">birthPlace</mln_predict>
+		<cnn_predict conf="0.418">deathPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[승려]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D785">
+		<sent><![CDATA[《파인만의 물리학 강의》는 미국의 물리학자 리처드_파인만이 1961년 9월부터 1963년 5월 사이의 2년간 캘리포니아 공과대학의 학부생을 대상으로 강의한 내용을 편집하여 책으로 엮은 것이다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[리처드_파인만]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[미국]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.370">deathPlace</mln_predict>
+		<cnn_predict conf="0.339">country</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[물리학자]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2849">
+		<sent><![CDATA[013~046호기는 대한민국의 열차 제작 회사 현대로템이 프랑스 알스톰으로부터 면허를 받아 생산한 차량이다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[현대로템]]></sbj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="1.12">Organisation</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.890">country</mln_predict>
+		<cnn_predict conf="0.645">location</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[회사]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

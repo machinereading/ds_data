@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_AJT--up--VP_MOD--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1566">
+		<sent><![CDATA[Momentum은 플래닛_쉬버가 2009년 12월 9일, 에픽하이와 함께한 "Remixing_the_Human_Soul" 이후로 발매한 디지털 싱글 음반이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[Remixing_the_Human_Soul]]></sbj_text>
+			<arg_type weight="0.55">Work</arg_type>
+			<arg_type weight="2.57">MusicalWork</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[플래닛_쉬버]]></obj_text>
+			<arg_type weight="0.48">Agent</arg_type>
+			<arg_type weight="0.43">Organisation</arg_type>
+			<arg_type weight="2.38">Group</arg_type>
+		</obj>
+		<gold>artist</gold>
+		<mln_predict conf="1.000">artist</mln_predict>
+		<cnn_predict conf="0.641">artist</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[이후로--발매한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

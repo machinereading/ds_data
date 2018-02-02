@@ -1,0 +1,116 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--(NP)</dependency>
+	<total>6</total>
+	<sent_item id="M_D3110">
+		<sent><![CDATA[오제키 마이는 일본의 여성 아이돌 그룹 컨트리걸즈의 멤버. 연예사무소 업프런트_프로모션 소속.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[컨트리걸즈]]></sbj_text>
+			<arg_type weight="-0.12">Agent</arg_type>
+			<arg_type weight="0.10">Organisation</arg_type>
+			<arg_type weight="1.11">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[업프런트_프로모션]]></obj_text>
+			<arg_type weight="0.25">Agent</arg_type>
+			<arg_type weight="0.55">Organisation</arg_type>
+		</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.572">owningOrganisation</mln_predict>
+		<cnn_predict conf="0.506">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2483">
+		<sent><![CDATA[2014년 8월 23일, 아직 레알 사라고사 B 경기 출전이 전무한 바예호는 레크레아티보_우엘바와의 세군다_디비시온 경기에서 첫 프로 경기를 펼쳤고, 이 원정 경기는 0-0 무승부로 끝났다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[레크레아티보_우엘바]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[세군다_디비시온]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.428">league</mln_predict>
+		<cnn_predict conf="0.587">team</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3648">
+		<sent><![CDATA[2014년 8월 24일, 요렌테는 1-2로 진 아틀레티코_마드리드_B와의 세군다_디비시온_B 원정 경기에서 첫 성인 무대 경기를 뛰었다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[아틀레티코_마드리드_B]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[세군다_디비시온_B]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.963">position</mln_predict>
+		<cnn_predict conf="0.429">team</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2553">
+		<sent><![CDATA[쿠도 하루카는 일본의 여성 아이돌 그룹 모닝구무스메의 멤버. 연예사무소 업프런트_프로모션 소속. 사이타마 현 출신. 모닝구무스메를 졸업예정.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[모닝구무스메]]></sbj_text>
+			<arg_type weight="-0.12">Agent</arg_type>
+			<arg_type weight="0.10">Organisation</arg_type>
+			<arg_type weight="1.11">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[업프런트_프로모션]]></obj_text>
+			<arg_type weight="0.25">Agent</arg_type>
+			<arg_type weight="0.55">Organisation</arg_type>
+		</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.607">owningOrganisation</mln_predict>
+		<cnn_predict conf="0.641">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2242">
+		<sent><![CDATA[그 다음 경기는 3-0으로 이긴 스포르팅_히혼과의 프리메라리가 프리메라리가 2009-10이었고, 이 경기에서 한 골을 득점하였다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[스포르팅_히혼]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[프리메라리가]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.463">league</mln_predict>
+		<cnn_predict conf="0.778">team</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D350">
+		<sent><![CDATA[전북_현대_모터스과의 K리그_클래식 6라운드 원정 경기에서 코너킥으로 조재철의 헤딩골을 어시스트하면서 첫 공격 포인트를 올린 피투는 9라운드 울산 현대 축구단과의 원정 경기에서 황의조의 패스를 받아 박스 왼쪽에서 왼발로 마무리하면서 데뷔골까지 기록한다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[전북_현대_모터스]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[K리그_클래식]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.093">league</mln_predict>
+		<cnn_predict conf="0.729">team</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

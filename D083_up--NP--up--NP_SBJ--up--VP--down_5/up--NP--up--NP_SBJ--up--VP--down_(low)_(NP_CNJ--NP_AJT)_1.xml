@@ -1,0 +1,20 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP--up--NP_SBJ--up--VP--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2043">
+		<sent><![CDATA[노면직, 오종균 등은 상하이에서 김립_(1880년)을 사살하였다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[김립_(1880년)]]></sbj_text>
+			<arg_type weight="0.37">Agent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[상하이]]></obj_text>
+		</obj>
+		<gold>deathPlace</gold>
+		<mln_predict conf="0.360">relative</mln_predict>
+		<cnn_predict conf="0.405">deathPlace</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP--up--NP_SBJ--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[오종균--등은--사살하였다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

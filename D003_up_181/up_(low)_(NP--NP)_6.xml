@@ -1,0 +1,110 @@
+<sentence_list>
+	<dependency>(NP)--up--(NP)</dependency>
+	<total>6</total>
+	<sent_item id="M_D3996">
+		<sent><![CDATA[FW - 공격수 : 우성용, 김은중 (FC_서울, 25경기 9골 3어시스트)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[김은중]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[FC_서울]]></obj_text>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.585">team</mln_predict>
+		<cnn_predict conf="0.773">team</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1129">
+		<sent><![CDATA[조카: 송우혜- 소설.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[송우혜]]></sbj_text>
+			<arg_type weight="0.49">Agent</arg_type>
+			<arg_type weight="0.51">Person</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[소설]]></obj_text>
+		</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.132">location</mln_predict>
+		<cnn_predict conf="0.374">occupation</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2514">
+		<sent><![CDATA[대한민국의 축구 선수 어경준 (FC_서울).]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[어경준]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[FC_서울]]></obj_text>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.368">club</mln_predict>
+		<cnn_predict conf="0.395">team</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1250">
+		<sent><![CDATA[〈LOVE & TRUTH〉는 일본 가수 YUI의 열 번째 싱글이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[YUI]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+			<arg_type weight="0.21">Artist</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[일본]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.182">birthPlace</mln_predict>
+		<cnn_predict conf="0.342">birthPlace</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D375">
+		<sent><![CDATA[2. Site: City, Region COUNTRY - "뉴욕, NY 미국"]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[뉴욕]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[미국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.092">routeEnd</mln_predict>
+		<cnn_predict conf="0.407">location</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D47">
+		<sent><![CDATA[공격수: 김대의, 유상철 (울산_현대_축구단)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[유상철]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[울산_현대_축구단]]></obj_text>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.581">team</mln_predict>
+		<cnn_predict conf="0.669">team</cnn_predict>
+		<gsdp>(NP)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

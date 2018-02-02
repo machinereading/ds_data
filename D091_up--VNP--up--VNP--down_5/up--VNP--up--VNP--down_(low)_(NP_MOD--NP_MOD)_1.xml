@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP--up--VNP--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3511">
+		<sent><![CDATA[여운형의 친 동생이며 철학자 박찬기의 외삼촌이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[여운형]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+			<arg_type weight="-0.02">Person</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[박찬기]]></obj_text>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.431">birthPlace</mln_predict>
+		<cnn_predict conf="0.418">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[동생이며--외삼촌이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

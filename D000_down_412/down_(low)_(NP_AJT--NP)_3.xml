@@ -1,0 +1,53 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--(NP)</dependency>
+	<total>3</total>
+	<sent_item id="M_D3349">
+		<sent><![CDATA[아게오 사건이란 1973년 일본의 국철노동조합과 국철동력차노동조합의 노동쟁의에 반발한 승객들이 일본국유철도(현재 동일본_여객철도) 다카사키선 아게오_역에서 일으킨 집단 폭동이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[아게오_역]]></sbj_text>
+			<arg_type weight="0.09">Place</arg_type>
+			<arg_type weight="0.31">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.42">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[동일본_여객철도]]></obj_text>
+		</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.372">location</mln_predict>
+		<cnn_predict conf="0.535">owningOrganisation</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1065">
+		<sent><![CDATA[그의 곡 "Qui a tué grand maman" 은 대한민국에서 광주민주화운동을 기리는 민중가요 "오월의 노래"로 번안되었고, 피아니스트 이루마가 편곡하여 드라마 《겨울연가》에 삽입되었다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[겨울연가]]></sbj_text>
+			<arg_type weight="0.93">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[드라마]]></obj_text>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.179">channel</mln_predict>
+		<cnn_predict conf="0.319">starring</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2281">
+		<sent><![CDATA[2016시즌 K리그_챌린지소속 부천_FC_1995에 입단하여 K리그에 첫 발을 내딛었다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[부천_FC_1995]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[K리그_챌린지]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.269">league</mln_predict>
+		<cnn_predict conf="0.442">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

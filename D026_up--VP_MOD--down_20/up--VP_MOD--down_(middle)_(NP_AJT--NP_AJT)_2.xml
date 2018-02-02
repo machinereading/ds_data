@@ -1,0 +1,40 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP_MOD--down--(NP_AJT)</dependency>
+	<total>2</total>
+	<sent_item id="M_D3317">
+		<sent><![CDATA[덴쇼 10년 6월 2일, 오다 노부나가와 장남 오다 노부타다가 혼노지의_변으로 중신 아케치_미쓰히데에게 살해된 직후 야마자키 전투에서 미쓰히데를 쓰러뜨린 하시바 히데요시가 노부나가의 부하 중에서 큰 세력으로 부상했다.]]></sent>
+		<sbj label="NP_AJT" josa="으로">
+			<sbj_text><![CDATA[혼노지의_변]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에게">
+			<obj_text><![CDATA[아케치_미쓰히데]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.780">commander</mln_predict>
+		<cnn_predict conf="0.667">commander</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[살해된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1330">
+		<sent><![CDATA[목도리여우원숭이속는 곡비원류에 속하는 영장류로 여우원숭이과에서 현존하는 가장 큰 여우원숭이이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[여우원숭이과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="로">
+			<obj_text><![CDATA[영장류]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="0.926">order</mln_predict>
+		<cnn_predict conf="0.643">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[현존하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

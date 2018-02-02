@@ -1,0 +1,39 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--up--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_D2641">
+		<sent><![CDATA[2008년 미얀마 최대도시 양곤 등을 강타하여 10만 명 이상을 사망하게 한 사이클론 나르기스는 4등급 사이클론이었다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[미얀마]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[양곤]]></obj_text>
+			<arg_type weight="0.94">Place</arg_type>
+			<arg_type weight="1.04">PopulatedPlace</arg_type>
+		</obj>
+		<gold>largestCity</gold>
+		<mln_predict conf="0.507">largestCity</mln_predict>
+		<cnn_predict conf="0.615">largestCity</cnn_predict>
+		<gsdp>(NP)--up--NP--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[최대도시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D982">
+		<sent><![CDATA[차남: 이현_(1950년)(李玄, 1950년 9월 7일 ~ , 본명 이헌(李憲). 가수 출신 기업인. 강원도 춘천시 출생. 기산통신 사장. 중앙대학교 학사 및 한양대학교 공학석사 졸업. 기혼.)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[이현_(1950년)]]></sbj_text>
+			<arg_type weight="0.49">Agent</arg_type>
+			<arg_type weight="0.51">Person</arg_type>
+			<arg_type weight="1.48">Artist</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[기업인]]></obj_text>
+		</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.772">occupation</mln_predict>
+		<cnn_predict conf="0.423">country</cnn_predict>
+		<gsdp>(NP)--up--NP--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[이현_(1950년)(李玄,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

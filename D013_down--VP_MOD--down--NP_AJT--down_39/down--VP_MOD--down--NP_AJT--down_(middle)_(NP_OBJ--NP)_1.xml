@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--down--VP_MOD--down--NP_AJT--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D731">
+		<sent><![CDATA[홈구장은 서울 강남 지역인 송파구 올림픽로에 위치한 서울올림픽주경기장을 사용한다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[서울올림픽주경기장]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[송파구]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.523">owner</mln_predict>
+		<cnn_predict conf="0.928">location</cnn_predict>
+		<gsdp>(NP_OBJ)--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[위치한--올림픽로에]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

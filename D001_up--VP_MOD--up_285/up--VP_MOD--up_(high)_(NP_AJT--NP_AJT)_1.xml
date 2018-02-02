@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP_MOD--up--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1856">
+		<sent><![CDATA[카니발 콥스는 크리에이터,슬레이어와 같은 스래시_메탈과 다른 데스 메탈 밴드인 모비드 엔젤,오톱시,데스에게서]]></sent>
+		<sbj label="NP_AJT" josa="와">
+			<sbj_text><![CDATA[슬레이어]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.13">Organisation</arg_type>
+			<arg_type weight="0.76">Group</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="과">
+			<obj_text><![CDATA[스래시_메탈]]></obj_text>
+			<arg_type weight="2.32">TopicalConcept</arg_type>
+			<arg_type weight="2.32">Genre</arg_type>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="1.000">genre</mln_predict>
+		<cnn_predict conf="0.285">currentMember</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[같은]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

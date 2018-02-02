@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--down--NP--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3659">
+		<sent><![CDATA[장녀: 이보영_(학원인)(李寶寧, 서울특별시 출생. 영어교육저술가. 이보령 아카데미 대표이사 원장 겸 에듀박스 언어공학연구소 소장.)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[이보영_(학원인)]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[서울특별시]]></obj_text>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.226">deathPlace</mln_predict>
+		<cnn_predict conf="0.285">location</cnn_predict>
+		<gsdp>(NP)--up--NP--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[소장.)--영어교육저술가.--출생.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

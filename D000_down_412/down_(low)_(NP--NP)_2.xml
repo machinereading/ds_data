@@ -1,0 +1,37 @@
+<sentence_list>
+	<dependency>(NP)--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_D404">
+		<sent><![CDATA[본관은안동 김씨. 자는 극양. 호는 진재ㆍ산초ㆍ묵초. 척화대신 김상헌의 현손이며, 김수항의 넷째 아들 김창업의 서자이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[김수항]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+		</sbj>
+		<obj label="NP" josa="은">
+			<obj_text><![CDATA[김상헌]]></obj_text>
+			<arg_type weight="0.94">Agent</arg_type>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.184">relative</mln_predict>
+		<cnn_predict conf="0.858">relative</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2898">
+		<sent><![CDATA[2000년 문화방송 시트콤 《뉴_논스톱》 ... 문화대학교 청춘 남녀 특집 "사랑의 스튜디오" 이벤트 MC 윤정수 역으로 카메오 출연]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[뉴_논스톱]]></sbj_text>
+			<arg_type weight="0.93">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[시트콤]]></obj_text>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.563">channel</mln_predict>
+		<cnn_predict conf="0.600">starring</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP--down--VP--down--(NP_OBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1657">
+		<sent><![CDATA[2012년 4월 30일에는 멤버 태연, 티파니, 서현이 유닛 그룹 소녀시대-태티서를 결성하여 미니 앨범 "Twinkle"을 발매했다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[Twinkle]]></sbj_text>
+			<arg_type weight="0.55">Work</arg_type>
+			<arg_type weight="2.57">MusicalWork</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="를">
+			<obj_text><![CDATA[소녀시대-태티서]]></obj_text>
+			<arg_type weight="0.48">Agent</arg_type>
+			<arg_type weight="0.43">Organisation</arg_type>
+			<arg_type weight="2.38">Group</arg_type>
+		</obj>
+		<gold>artist</gold>
+		<mln_predict conf="1.000">artist</mln_predict>
+		<cnn_predict conf="0.634">currentMember</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--VP--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[발매했다.--결성하여]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

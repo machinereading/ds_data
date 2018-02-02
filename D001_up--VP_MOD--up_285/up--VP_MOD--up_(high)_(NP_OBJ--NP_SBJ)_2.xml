@@ -1,0 +1,44 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP_MOD--up--(NP_SBJ)</dependency>
+	<total>2</total>
+	<sent_item id="M_D2794">
+		<sent><![CDATA[훗날 쿠바_혁명을 주도한 피델_카스트로가 이 정당 출신이였다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[쿠바_혁명]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[피델_카스트로]]></obj_text>
+			<arg_type weight="0.34">Agent</arg_type>
+			<arg_type weight="0.86">Person</arg_type>
+			<arg_type weight="1.20">Politician</arg_type>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.861">commander</mln_predict>
+		<cnn_predict conf="0.608">deathPlace</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP_MOD--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[주도한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1667">
+		<sent><![CDATA[2011년 자신의 두 번째 앨범 "Born_This_Way"를 발매한 레이디_가가는 최우수 노래, 최우수 뮤직비디오, 최우수 여성 아티스트, 그리고 Biggest Fans 부문에서 무려 총 4관왕을 차지했다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[Born_This_Way]]></sbj_text>
+			<arg_type weight="0.55">Work</arg_type>
+			<arg_type weight="2.57">MusicalWork</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="는">
+			<obj_text><![CDATA[레이디_가가]]></obj_text>
+			<arg_type weight="0.48">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+			<arg_type weight="1.03">Artist</arg_type>
+		</obj>
+		<gold>artist</gold>
+		<mln_predict conf="0.775">artist</mln_predict>
+		<cnn_predict conf="0.262">currentMember</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP_MOD--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[발매한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

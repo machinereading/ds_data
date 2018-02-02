@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(NP)--down--NP--down--NP--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2651">
+		<sent><![CDATA[사무실은 서울특별시 성북구 하월곡동 39-1 한국과학기술연구원 1층에 있다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[한국과학기술연구원]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[서울특별시]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.111">region</mln_predict>
+		<cnn_predict conf="0.641">location</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[39-1--하월곡동--성북구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

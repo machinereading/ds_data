@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP_SBJ--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2705">
+		<sent><![CDATA[어바웃 어 보이는 크리스_와이츠, 폴_와이츠 형제가 공동 각본과 감독을 맡은 코미디 드라마 영화이다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[크리스_와이츠]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[폴_와이츠]]></obj_text>
+			<arg_type weight="0.94">Agent</arg_type>
+			<arg_type weight="0.92">Person</arg_type>
+			<arg_type weight="-0.29">Artist</arg_type>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.818">starring</mln_predict>
+		<cnn_predict conf="0.942">starring</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_SBJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[형제가]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

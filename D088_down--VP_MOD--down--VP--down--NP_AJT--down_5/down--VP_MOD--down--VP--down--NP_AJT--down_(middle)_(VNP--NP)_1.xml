@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(VNP)--down--VP_MOD--down--VP--down--NP_AJT--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D348">
+		<sent><![CDATA[아들은 경기고와 연세대를 졸업하고 두산_베어스 소속으로 활동하고 있는 이성곤이다.]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[이성곤]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[두산_베어스]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.432">team</mln_predict>
+		<cnn_predict conf="0.567">team</cnn_predict>
+		<gsdp>(VNP)--down--VP_MOD--down--VP--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[있는--활동하고--소속으로]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

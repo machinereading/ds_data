@@ -1,0 +1,95 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--NP_MOD--down--NP--down--(NP)</dependency>
+	<total>5</total>
+	<sent_item id="M_D3267">
+		<sent><![CDATA[사수도 또는 장수도는 전라남도 완도군 소안면의 소안도로부터 남쪽으로 22 km, 제주특별자치도 제주시 추자면의 하추자도로부터 동쪽으로 28 km 떨어져 있는 면적 0.139 km의 무인도로, 제주시와 완도군 사이의 분쟁 지역이었다.]]></sent>
+		<sbj label="NP_AJT" josa="로부터">
+			<sbj_text><![CDATA[하추자도]]></sbj_text>
+			<arg_type weight="0.68">Place</arg_type>
+			<arg_type weight="1.40">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="도">
+			<obj_text><![CDATA[제주특별자치도]]></obj_text>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.689">country</mln_predict>
+		<cnn_predict conf="0.437">city</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_MOD--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[추자면의--제주시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D236">
+		<sent><![CDATA[밀양강의 본류 동창천은 울산광역시 울주군 두서면의 고헌산에서 발원하여 남류하다가 밀양으로 진입하여 단장천,감존천,범곡천,직현천 등과 합류하고, 상동면에서 청도천과 합류하여 본격적으로 밀양강이 되어 남류하다가 낙동강에 합류한다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[고헌산]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="2.09">NaturalPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[울산광역시]]></obj_text>
+			<arg_type weight="0.05">Place</arg_type>
+			<arg_type weight="0.12">PopulatedPlace</arg_type>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.919">locatedInArea</mln_predict>
+		<cnn_predict conf="0.443">city</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_MOD--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[두서면의--울주군]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3299">
+		<sent><![CDATA[밀양강은 울산광역시 울주군 두서면의 고헌산에서 발원하여 남류하다가 경상남도 밀양시 상동면에서 동창천이 청도천과 합류되어 본격적으로 밀양강이 되어 남류하다가 경상남도 김해시 생림면에서 낙동강에 합류된다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[고헌산]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="2.09">NaturalPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[울산광역시]]></obj_text>
+			<arg_type weight="0.05">Place</arg_type>
+			<arg_type weight="0.12">PopulatedPlace</arg_type>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="1.000">locatedInArea</mln_predict>
+		<cnn_predict conf="0.430">city</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_MOD--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[두서면의--울주군]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1571">
+		<sent><![CDATA[제88회 아카데미상은 영화 예술 과학 아카데미가 주최하는 상이며, 2015년 영화를 대상으로 2016년 2월 28일에 캘리포니아_주 로스앤젤레스 할리우드의 돌비_극장에서 시상식이 열렸다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[돌비_극장]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[캘리포니아_주]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+			<arg_type weight="0.61">Region</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.942">location</mln_predict>
+		<cnn_predict conf="0.589">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_MOD--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[할리우드의--로스앤젤레스]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1958">
+		<sent><![CDATA[8월 28일 오전 10시 20분경 전라북도 임실군 성수면의 국도_제30호선에서 한 운전자가 태풍으로 인해 도로에 쓰러진 나무를 치우던 도중 다른 나무가 쓰러지면서 깔려 숨졌다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[국도_제30호선]]></sbj_text>
+			<arg_type weight="0.34">Place</arg_type>
+			<arg_type weight="0.55">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.75">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[전라북도]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.460">city</mln_predict>
+		<cnn_predict conf="0.363">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_MOD--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[성수면의--임실군]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

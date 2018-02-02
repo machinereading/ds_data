@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP--down--AP--down--NP_AJT--down--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D978">
+		<sent><![CDATA[제키는 헌팅턴비치고등학교에서 엠_섀도우스,더 레브와 함께 어벤지드_세븐폴드를 결성했다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[어벤지드_세븐폴드]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[엠_섀도우스]]></obj_text>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.889">currentMember</mln_predict>
+		<cnn_predict conf="0.390">currentMember</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--AP--down--NP_AJT--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[결성했다.--함께--레브와]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

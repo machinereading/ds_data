@@ -1,0 +1,71 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--down--VP_MOD--down--(NP_AJT)</dependency>
+	<total>4</total>
+	<sent_item id="M_D270">
+		<sent><![CDATA[알라에드은 사우디아라비아에 위치한 부라이다를 연고로 하는 축구팀이다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[부라이다]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[사우디아라비아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.790">city</mln_predict>
+		<cnn_predict conf="0.576">country</cnn_predict>
+		<gsdp>(NP_OBJ)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[위치한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D947">
+		<sent><![CDATA[푸네 FC는 인도에 있는 푸네를 연고로 하는 축구 클럽이다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[푸네]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[인도]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.476">city</mln_predict>
+		<cnn_predict conf="0.596">country</cnn_predict>
+		<gsdp>(NP_OBJ)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[있는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3966">
+		<sent><![CDATA[중학교 졸업을 앞둔 2007년에 창춘_시에서 열린 2007년_동계_아시안_게임을 통해 국가대표로 데뷔하였으며, 이후 대한민국 여자 국가대표팀의 일원으로 활약했으며, 2013년에 여자 선수로는 최초로 광운대학교 남자팀에 합류했다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[2007년_동계_아시안_게임]]></sbj_text>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[창춘_시]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.949">city</mln_predict>
+		<cnn_predict conf="0.247">location</cnn_predict>
+		<gsdp>(NP_OBJ)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[열린]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3920">
+		<sent><![CDATA[트랜스아에로 항공은 에어 애틀랜타 아이슬란드의 항공기 유지 보수 작업 위탁의 결과로 아일랜드에 위치한 섀넌_공항을 기반으로 새 유지 보수 회사를 설립했다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[섀넌_공항]]></sbj_text>
+			<arg_type weight="-0.90">Place</arg_type>
+			<arg_type weight="-0.88">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.85">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[아일랜드]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.681">location</cnn_predict>
+		<gsdp>(NP_OBJ)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[위치한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

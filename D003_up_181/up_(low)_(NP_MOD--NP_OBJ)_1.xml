@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--(NP_OBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2180">
+		<sent><![CDATA[1992년에 발간된 양귀자의 동명 소설을 영화화한 것이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[양귀자]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.11">Person</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="을">
+			<obj_text><![CDATA[소설]]></obj_text>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.091">class</mln_predict>
+		<cnn_predict conf="0.233">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

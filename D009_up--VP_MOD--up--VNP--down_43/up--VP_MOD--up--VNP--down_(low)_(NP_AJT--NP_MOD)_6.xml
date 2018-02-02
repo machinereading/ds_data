@@ -1,0 +1,108 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP_MOD)</dependency>
+	<total>6</total>
+	<sent_item id="M_D163">
+		<sent><![CDATA[《밤비노!》는 닛폰_TV_방송망에서 2007년 4월 18일부터 2007년 6월 27일까지 매주 수요일 밤 10시에 방송된 일본의 드라마이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[닛폰_TV_방송망]]></sbj_text>
+			<arg_type weight="-0.05">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[일본]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.898">country</mln_predict>
+		<cnn_predict conf="0.473">country</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[방송된--드라마이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D612">
+		<sent><![CDATA[몬테크리스토 섬은 이탈리아 토스카나_제도에 속하는 티레니아_해의 섬이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[토스카나_제도]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[티레니아_해]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.790">country</mln_predict>
+		<cnn_predict conf="0.230">region</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--섬이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3275">
+		<sent><![CDATA[인비 선은 일본 돗토리 현 돗토리 시의 돗토리_역부터 오카야마 현 쓰야마 시의 히가시쓰야마 역에 이르는 서일본_여객철도의 철도 노선이다.]]></sent>
+		<sbj label="NP_AJT" josa="부터">
+			<sbj_text><![CDATA[돗토리_역]]></sbj_text>
+			<arg_type weight="0.09">Place</arg_type>
+			<arg_type weight="0.31">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.42">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[서일본_여객철도]]></obj_text>
+		</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="1.000">owningOrganisation</mln_predict>
+		<cnn_predict conf="0.931">owningOrganisation</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[이르는--노선이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3582">
+		<sent><![CDATA[깃토 선은 일본 가고시마 현 아이라 군 유스이 정의 요시마쓰 역부터 미야자키 현 미야코노조 시의 미야코노조_역에 이르는 규슈_여객철도의 철도 노선이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[미야코노조_역]]></sbj_text>
+			<arg_type weight="0.09">Place</arg_type>
+			<arg_type weight="0.31">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.42">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[규슈_여객철도]]></obj_text>
+		</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="1.000">owningOrganisation</mln_predict>
+		<cnn_predict conf="0.881">owningOrganisation</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[이르는--노선이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3513">
+		<sent><![CDATA[사카이 선은 일본 돗토리 현 요나고 시의 요나고_역부터 사카이미나토 시의 사카이미나토 역을 잇는 서일본_여객철도의 철도 노선이다.]]></sent>
+		<sbj label="NP_AJT" josa="부터">
+			<sbj_text><![CDATA[요나고_역]]></sbj_text>
+			<arg_type weight="0.09">Place</arg_type>
+			<arg_type weight="0.31">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.42">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[서일본_여객철도]]></obj_text>
+		</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="1.000">owningOrganisation</mln_predict>
+		<cnn_predict conf="0.971">owningOrganisation</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[잇는--노선이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2036">
+		<sent><![CDATA[사쿠라이 선 또는 애칭 만요마호로바 선 은 일본 나라 현 나라 시에 있는 나라_역에서 나라 현 야마토타카다 시에 있는 다카다 역까지를 잇는 서일본_여객철도의 철도 노선이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[나라_역]]></sbj_text>
+			<arg_type weight="0.09">Place</arg_type>
+			<arg_type weight="0.31">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.42">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[서일본_여객철도]]></obj_text>
+		</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.954">owningOrganisation</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[잇는--노선이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

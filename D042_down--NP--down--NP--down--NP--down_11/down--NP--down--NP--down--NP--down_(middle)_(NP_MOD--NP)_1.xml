@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--NP--down--NP--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2725">
+		<sent><![CDATA["Diamonds"는 2012년 발표한 바베이도스 출신 팝 가수 리한나의 노래이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[리한나]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+			<arg_type weight="0.86">Artist</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[바베이도스]]></obj_text>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.989">birthPlace</mln_predict>
+		<cnn_predict conf="0.621">birthPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[가수--팝--출신]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

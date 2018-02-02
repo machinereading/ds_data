@@ -1,0 +1,25 @@
+<sentence_list>
+	<dependency>(NP)--up--VNP--up--VNP--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3244">
+		<sent><![CDATA[빅뱅_(음악_그룹) 그룹 멤버이며, 승리_(가수)의 본명이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[빅뱅_(음악_그룹)]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[승리_(가수)]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.967">currentMember</mln_predict>
+		<cnn_predict conf="0.768">currentMember</cnn_predict>
+		<gsdp>(NP)--up--VNP--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[멤버이며,--본명이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

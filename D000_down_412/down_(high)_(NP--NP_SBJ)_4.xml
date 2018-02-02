@@ -1,0 +1,87 @@
+<sentence_list>
+	<dependency>(NP)--down--(NP_SBJ)</dependency>
+	<total>4</total>
+	<sent_item id="M_D3653">
+		<sent><![CDATA[타나카 - 마루야마_류헤이 (칸쟈니∞)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[칸쟈니∞]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[마루야마_류헤이]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.876">currentMember</mln_predict>
+		<cnn_predict conf="0.748">currentMember</cnn_predict>
+		<gsdp>(NP)--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3098">
+		<sent><![CDATA[5월 26일 - 슈퍼플라이 《Superfly》]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[Superfly]]></sbj_text>
+			<arg_type weight="0.55">Work</arg_type>
+			<arg_type weight="2.57">MusicalWork</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[슈퍼플라이]]></obj_text>
+			<arg_type weight="0.48">Agent</arg_type>
+			<arg_type weight="0.43">Organisation</arg_type>
+			<arg_type weight="2.38">Group</arg_type>
+		</obj>
+		<gold>artist</gold>
+		<mln_predict conf="0.983">artist</mln_predict>
+		<cnn_predict conf="0.856">artist</cnn_predict>
+		<gsdp>(NP)--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3280">
+		<sent><![CDATA[쿠사카 케이치로 - 이노오_케이 (헤이!_세이!_점프)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[헤이!_세이!_점프]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[이노오_케이]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="1.000">currentMember</mln_predict>
+		<cnn_predict conf="0.836">currentMember</cnn_predict>
+		<gsdp>(NP)--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1134">
+		<sent><![CDATA[츠지모토 마사키 - 후지이_류세이 (자니스WEST)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[자니스WEST]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[후지이_류세이]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.505">currentMember</mln_predict>
+		<cnn_predict conf="0.594">currentMember</cnn_predict>
+		<gsdp>(NP)--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

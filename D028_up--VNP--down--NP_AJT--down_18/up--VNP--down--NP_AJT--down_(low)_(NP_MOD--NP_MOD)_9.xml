@@ -1,0 +1,154 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP--down--NP_AJT--down--(NP_MOD)</dependency>
+	<total>9</total>
+	<sent_item id="M_D1644">
+		<sent><![CDATA[아르노알드는 모계로는 클로비스_1세의 후손으로, 프랑크_왕국의 왕족이었다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[프랑크_왕국]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[클로비스_1세]]></obj_text>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.267">region</mln_predict>
+		<cnn_predict conf="0.740">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[왕족이었다.--후손으로,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D959">
+		<sent><![CDATA[무산군 이종은 조선의 왕족으로, 조선 제9대 왕 조선_성종의 서자이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[조선_성종]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[조선]]></obj_text>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="1.000">deathPlace</mln_predict>
+		<cnn_predict conf="0.945">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[서자이다.--왕족으로,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1227">
+		<sent><![CDATA[양원군 이희은 조선의 왕족으로, 조선 제9대 조선_성종의 서자이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[조선_성종]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[조선]]></obj_text>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="1.000">deathPlace</mln_predict>
+		<cnn_predict conf="0.941">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[서자이다.--왕족으로,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D231">
+		<sent><![CDATA[안트베르펜는 벨기에의 도시로 안트베르펜_주의 주도이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[안트베르펜_주]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[벨기에]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.793">country</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[주도이다.--도시로]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D278">
+		<sent><![CDATA[아나우는 투르크메니스탄의 도시로 아할_주의 주도이며 인구는 9,332명이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[아할_주]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[투르크메니스탄]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.939">country</mln_predict>
+		<cnn_predict conf="0.703">country</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[주도이며--도시로]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2003">
+		<sent><![CDATA[진해선은 경상남도 창원시 의창구 동정동의 창원역과 진해구 통해역을 연결하는 한국철도공사의 철도 노선으로, 경전선의 지선이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[경전선]]></sbj_text>
+			<arg_type weight="0.08">Place</arg_type>
+			<arg_type weight="0.28">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.20">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[한국철도공사]]></obj_text>
+			<arg_type weight="-1.09">Agent</arg_type>
+			<arg_type weight="-0.90">Organisation</arg_type>
+		</obj>
+		<gold>operator</gold>
+		<mln_predict conf="0.365">owningOrganisation</mln_predict>
+		<cnn_predict conf="0.591">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[지선이다.--노선으로,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2693">
+		<sent><![CDATA[화유옹주는 조선의 왕족으로, 조선_영조의 10녀이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[조선_영조]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[조선]]></obj_text>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.537">deathPlace</mln_predict>
+		<cnn_predict conf="0.891">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[10녀이다.--왕족으로,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3814">
+		<sent><![CDATA[휘숙옹주는 조선의 옹주로 조선 제9대 임금 조선_성종의 서차녀이며, 어머니는 명빈 김씨이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[조선_성종]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[조선]]></obj_text>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.955">deathPlace</mln_predict>
+		<cnn_predict conf="0.928">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[서차녀이며,--옹주로]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D776">
+		<sent><![CDATA[산호세데오코아는 도미니카_공화국의 도시로 산호세데오코아_주의 주도이며 면적은 484.87㎢, 인구는 57,174명, 높이는 475m, 인구 밀도는 120명/㎢이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[산호세데오코아_주]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[도미니카_공화국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.951">country</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[주도이며--도시로]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

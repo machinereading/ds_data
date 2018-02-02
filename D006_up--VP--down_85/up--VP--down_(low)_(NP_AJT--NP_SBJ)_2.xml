@@ -1,0 +1,38 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--(NP_SBJ)</dependency>
+	<total>2</total>
+	<sent_item id="M_D2273">
+		<sent><![CDATA[237년, 위_(삼국) 황제 조예가 유주자사 관구검으로 하여금 공손연 세력을 격멸하려 했는데, 이를 공손연이 격퇴하였다.]]></sent>
+		<sbj label="NP_AJT" josa="">
+			<sbj_text><![CDATA[위_(삼국)]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[조예]]></obj_text>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.293">leaderName</mln_predict>
+		<cnn_predict conf="0.600">deathPlace</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[격멸하려]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D392">
+		<sent><![CDATA[6월 27일 저녁에 서울특별시 근교까지 밀어닥친 조선인민군들과 육박전을 감행했으나, 워낙 전세가 불리하여 대한민국은 정부를 대전광역시으로 옮겼다.]]></sent>
+		<sbj label="NP_AJT" josa="으로">
+			<sbj_text><![CDATA[대전광역시]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="은">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.223">owningOrganisation</mln_predict>
+		<cnn_predict conf="0.561">location</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[옮겼다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

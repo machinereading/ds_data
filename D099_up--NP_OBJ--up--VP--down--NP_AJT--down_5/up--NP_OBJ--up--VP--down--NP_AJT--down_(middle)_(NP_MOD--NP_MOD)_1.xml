@@ -1,0 +1,25 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP_OBJ--up--VP--down--NP_AJT--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1850">
+		<sent><![CDATA[12라운드 FC_아우크스부르크와의 원정 경기에서 후반 막판 사샤_묄더스의 1대1 기회를 온몸을 뻗어 선방해내며 1점차 리드를 끝까지 지켜내며 승리했다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[사샤_묄더스]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[FC_아우크스부르크]]></obj_text>
+			<arg_type weight="0.14">Agent</arg_type>
+			<arg_type weight="0.35">Organisation</arg_type>
+			<arg_type weight="0.72">SportsTeam</arg_type>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.809">team</mln_predict>
+		<cnn_predict conf="0.653">team</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_OBJ--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[기회를--뻗어--경기에서]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

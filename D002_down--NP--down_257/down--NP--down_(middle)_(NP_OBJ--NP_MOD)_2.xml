@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--down--NP--down--(NP_MOD)</dependency>
+	<total>2</total>
+	<sent_item id="M_D676">
+		<sent><![CDATA[그러나 2017년 2월 브라질 축구 국가대표팀과 보타포구_FR의 전설적인 축구 선수 니우통_산투스를 기리기 위해 니우통 산투스 올림픽 스타디움으로 개명되었다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[니우통_산투스]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[보타포구_FR]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.661">team</mln_predict>
+		<cnn_predict conf="0.331">location</cnn_predict>
+		<gsdp>(NP_OBJ)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[선수]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D407">
+		<sent><![CDATA[무한도展은 대한민국의 방송사 문화방송의 예능 프로그램 《무한도전》을 주제로 하는 사진전으로 2009년부터 매해 개최되고 있다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[무한도전]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[문화방송]]></obj_text>
+			<arg_type weight="0.32">Agent</arg_type>
+			<arg_type weight="1.24">Organisation</arg_type>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.751">channel</cnn_predict>
+		<gsdp>(NP_OBJ)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[프로그램]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

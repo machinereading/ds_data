@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP_MOD--up--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1312">
+		<sent><![CDATA[그러나 흐루쇼프의 실용 노선에 회의적이었던 마오쩌둥이 이끄는 중화인민공화국과의 관계는 반대로 악화되었다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[마오쩌둥]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+			<arg_type weight="0.34">Politician</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[중화인민공화국]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.792">deathPlace</mln_predict>
+		<cnn_predict conf="0.576">deathPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[이끄는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

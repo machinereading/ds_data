@@ -1,0 +1,46 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP--up--(NP_AJT)</dependency>
+	<total>2</total>
+	<sent_item id="M_D912">
+		<sent><![CDATA[싱글 〈MOON〉은 4A 싱글로, 수록곡으로 드라마 주제가로 쓰인 발라드 곡 〈Moon Crying〉, 블랙_아이드_피스의 멤버 퍼기와 함께 부른 〈That Ain't Cool〉 등이 있다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[블랙_아이드_피스]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="와">
+			<obj_text><![CDATA[퍼기]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="1.000">currentMember</mln_predict>
+		<cnn_predict conf="0.507">artist</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[멤버]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2068">
+		<sent><![CDATA[2005년에 폴_아웃_보이의 베이시스트 피트_웬츠에 의해 설립되었다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[폴_아웃_보이]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[피트_웬츠]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.875">currentMember</mln_predict>
+		<cnn_predict conf="0.290">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[베이시스트]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

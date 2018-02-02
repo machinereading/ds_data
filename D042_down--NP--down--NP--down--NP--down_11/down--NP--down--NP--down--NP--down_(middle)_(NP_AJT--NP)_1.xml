@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--NP--down--NP--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D608">
+		<sent><![CDATA[고양체육관은 대한민국 경기도 고양시 일산서구 대화동 고양종합운동장에 위치한 다목적 실내경기장이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[고양종합운동장]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[경기도]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.641">location</mln_predict>
+		<cnn_predict conf="0.457">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[대화동--일산서구--고양시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

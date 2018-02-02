@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP_AJT--down--VP_MOD--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2949">
+		<sent><![CDATA[광주_FC에서 뛰었던 보그단_밀리치와 태국에서 활약하던 알렉산다르 요바노비치를 영입하였다.]]></sent>
+		<sbj label="NP_CNJ" josa="와">
+			<sbj_text><![CDATA[보그단_밀리치]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[광주_FC]]></obj_text>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.863">position</mln_predict>
+		<cnn_predict conf="0.439">team</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[태국에서--뛰었던]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

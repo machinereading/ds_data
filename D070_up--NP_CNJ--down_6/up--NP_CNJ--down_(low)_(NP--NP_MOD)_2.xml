@@ -1,0 +1,36 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_CNJ--down--(NP_MOD)</dependency>
+	<total>2</total>
+	<sent_item id="M_D1772">
+		<sent><![CDATA[동해상의 울릉도 본도와 독도, 죽도, 관음도 등 44개 부속섬으로 이루어진다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[울릉도]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="-0.65">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[동해]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.466">region</mln_predict>
+		<cnn_predict conf="0.191">country</cnn_predict>
+		<gsdp>(NP)--up--NP_CNJ--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[본도와]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D283">
+		<sent><![CDATA[봉수산은 대한민국의 충청남도 예산군 대술면과 아산시 송악면, 공주시 유구읍 경계에 있는 산이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[예산군]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.563">country</mln_predict>
+		<cnn_predict conf="0.886">country</cnn_predict>
+		<gsdp>(NP)--up--NP_CNJ--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[대술면과]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--down--NP_AJT--down--VP_MOD--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2031">
+		<sent><![CDATA[주유와 여몽이 조인이 있는 남군으로 남군_전투 먼저 이릉을 공취한 감녕에 대한 포위망을 풀 동안 능통이 본진을 지켜서 교위로 승진했다.]]></sent>
+		<sbj label="NP_SBJ" josa="">
+			<sbj_text><![CDATA[남군_전투]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[조인]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.941">commander</mln_predict>
+		<cnn_predict conf="0.912">commander</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--NP_AJT--down--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[지켜서--남군으로--있는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

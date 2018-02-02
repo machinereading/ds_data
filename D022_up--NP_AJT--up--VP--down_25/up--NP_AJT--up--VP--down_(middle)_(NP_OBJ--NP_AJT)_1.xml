@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--NP_AJT--up--VP--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1160">
+		<sent><![CDATA[그리고 2013년 8월 22일, 토론토_블루제이스전에서 R._A._디키를 상대로 안타를 쳐 미·일 통산 4000안타 대기록을 달성하였다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[R._A._디키]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[토론토_블루제이스]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.463">team</mln_predict>
+		<cnn_predict conf="0.508">team</cnn_predict>
+		<gsdp>(NP_OBJ)--up--NP_AJT--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[상대로--쳐]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

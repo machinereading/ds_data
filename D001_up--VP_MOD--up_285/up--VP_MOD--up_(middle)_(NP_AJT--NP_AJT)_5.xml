@@ -1,0 +1,96 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP_MOD--up--(NP_AJT)</dependency>
+	<total>5</total>
+	<sent_item id="M_D3063">
+		<sent><![CDATA[누나는 제3차_포에니_전쟁에서 카르타고를 멸망시킨 스키피오_아이밀리아누스_아프리카누스와 결혼했다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[제3차_포에니_전쟁]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="와">
+			<obj_text><![CDATA[스키피오_아이밀리아누스_아프리카누스]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.412">commander</mln_predict>
+		<cnn_predict conf="0.593">commander</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[멸망시킨]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1589">
+		<sent><![CDATA[1635년 시마바라의_난에 가담한 천주교신자들과 반란지도자 아마쿠사_시로는 반란이 진압될 것을 생각하여 아마쿠사 하도나 상도에 보물을 숨겼다고 한다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[시마바라의_난]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="는">
+			<obj_text><![CDATA[아마쿠사_시로]]></obj_text>
+			<arg_type weight="0.34">Agent</arg_type>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.930">commander</mln_predict>
+		<cnn_predict conf="0.507">commander</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[가담한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1188">
+		<sent><![CDATA[양쯔강악어는 앨리게이터과에 속하는 악어로 중국 양쯔 강 하구에서 살고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[앨리게이터과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="로">
+			<obj_text><![CDATA[악어]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.394">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1792">
+		<sent><![CDATA[남아메리카바위쥐속은 데구과에 속하는 설치류에 속한다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[데구과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[설치류]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.535">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3693">
+		<sent><![CDATA[그 후에는 사이판_전투에 갇힌 나구모_주이치중장에게 대본영의 철수 명령을 알리려 가다 미군에 의해 사이판에서 전사했다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[사이판_전투]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에게">
+			<obj_text><![CDATA[나구모_주이치]]></obj_text>
+			<arg_type weight="0.34">Agent</arg_type>
+			<arg_type weight="0.86">Person</arg_type>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.849">commander</mln_predict>
+		<cnn_predict conf="0.855">commander</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[갇힌]]></gsdp_lemma>
+		<comment>context word : '전투', '중장', '명령'</comment>
+	</sent_item>
+</sentence_list>

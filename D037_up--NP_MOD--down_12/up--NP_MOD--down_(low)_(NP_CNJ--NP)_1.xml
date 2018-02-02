@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP_MOD--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1786">
+		<sent><![CDATA[범양그룹, 서울특별시 은평구의 옛 시내버스 회사인 범양여객(훗날 선진여객_(서울), 현 선진운수 (서울)) 등과는 아무 관련이 없다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[선진여객_(서울)]]></sbj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="1.12">Organisation</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[서울특별시]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.242">location</mln_predict>
+		<cnn_predict conf="0.779">location</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[은평구의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

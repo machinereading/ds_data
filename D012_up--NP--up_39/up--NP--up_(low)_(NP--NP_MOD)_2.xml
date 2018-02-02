@@ -1,0 +1,38 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--up--(NP_MOD)</dependency>
+	<total>2</total>
+	<sent_item id="M_D3992">
+		<sent><![CDATA[혜비 서씨는 후촉 황제 맹창의 황후 화예부인이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[후촉]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[맹창]]></obj_text>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="1.000">leaderName</mln_predict>
+		<cnn_predict conf="0.657">deathPlace</cnn_predict>
+		<gsdp>(NP)--up--NP--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[황제]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3954">
+		<sent><![CDATA[오와리 번의 초대 번주이자 오와리 도쿠가와 가의 시조, 에도_막부 초대 쇼군 도쿠가와_이에야스의 9남이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[에도_막부]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[도쿠가와_이에야스]]></obj_text>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.907">leaderName</mln_predict>
+		<cnn_predict conf="0.758">deathPlace</cnn_predict>
+		<gsdp>(NP)--up--NP--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[쇼군]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

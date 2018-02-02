@@ -1,0 +1,42 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--up--NP--up--(NP_MOD)</dependency>
+	<total>2</total>
+	<sent_item id="M_D3121">
+		<sent><![CDATA[철민황귀비 부찰씨는 중국 청나라 제6대 황제 건륭제의 첩이며 영황의 어머니이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[청나라]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[건륭제]]></obj_text>
+			<arg_type weight="0.04">Agent</arg_type>
+			<arg_type weight="0.54">Person</arg_type>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.975">leaderName</mln_predict>
+		<cnn_predict conf="0.891">deathPlace</cnn_predict>
+		<gsdp>(NP)--up--NP--up--NP--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[제6대--황제]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2143">
+		<sent><![CDATA[순혜황귀비 소씨는 중국 청나라 제6대 황제 건륭제의 후궁첩이며 화석화가공주의 친정어머니이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[청나라]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[건륭제]]></obj_text>
+			<arg_type weight="0.04">Agent</arg_type>
+			<arg_type weight="0.54">Person</arg_type>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.971">leaderName</mln_predict>
+		<cnn_predict conf="0.874">deathPlace</cnn_predict>
+		<gsdp>(NP)--up--NP--up--NP--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[제6대--황제]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

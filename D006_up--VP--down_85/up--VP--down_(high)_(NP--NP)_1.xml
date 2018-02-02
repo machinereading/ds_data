@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP)--up--VP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3392">
+		<sent><![CDATA[《인수대비_(드라마)》 (JTBC, 2011년~2012년 배우:이창)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[인수대비_(드라마)]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[JTBC]]></obj_text>
+			<arg_type weight="0.32">Agent</arg_type>
+			<arg_type weight="1.24">Organisation</arg_type>
+			<arg_type weight="6.41">Company</arg_type>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.670">channel</cnn_predict>
+		<gsdp>(NP)--up--VP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[배우:이창)]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

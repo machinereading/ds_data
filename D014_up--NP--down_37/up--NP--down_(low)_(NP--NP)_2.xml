@@ -1,30 +1,40 @@
 <sentence_list>
 	<dependency>(NP)--up--NP--down--(NP)</dependency>
 	<total>2</total>
-	<sent_item id="M_T1508" total_morp="10" total_word="5">
-		<sent>6촌: 윤보선, 제4대 대한민국 대통령</sent>
-		<sbj type="PS_NAME" weight="0.33" label="NP" josa="">윤보선</sbj>
-		<obj type="CV_POSITION" weight="-0.24" label="NP" josa="">대한민국</obj>
-		<gold>nationality</gold>
-		<mln_predict conf="0.693">country</mln_predict>
-		<cnn_predict conf="0.338">nationality</cnn_predict>
+	<sent_item id="M_D487">
+		<sent><![CDATA[프로젝트 록_음악 음악 그룹 컬트_(음악_그룹)의 유닛으로 활동한 음악 그룹으로 유닛 데뷔 4개월만인 1996년 12월 프로젝트 활동을 해체하였다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[컬트_(음악_그룹)]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.13">Organisation</arg_type>
+			<arg_type weight="0.76">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[록_음악]]></obj_text>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.792">genre</mln_predict>
+		<cnn_predict conf="0.406">currentMember</cnn_predict>
 		<gsdp>(NP)--up--NP--down--(NP)</gsdp>
-		<gsdp_lemma>대통령</gsdp_lemma>
-		<head>대통령</head>
-		<cluster>23</cluster>
+		<gsdp_lemma><![CDATA[그룹]]></gsdp_lemma>
 		<comment></comment>
 	</sent_item>
-	<sent_item id="M_T2750" total_morp="19" total_word="4">
-		<sent>《임진왜란_(드라마)》(MBC_TV, 1985년~1986년, 배우: 김현직)</sent>
-		<sbj type="AFW_MUSIC" weight="1.05" label="NP" josa="">임진왜란_(드라마)</sbj>
-		<obj type="PS_NAME" weight="-1.18" label="NP" josa="">MBC_TV</obj>
-		<gold>channel</gold>
-		<mln_predict conf="1.000">starring</mln_predict>
-		<cnn_predict conf="0.972">channel</cnn_predict>
+	<sent_item id="M_D1505">
+		<sent><![CDATA[6촌: 윤보선, 제4대 대한민국 대통령]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[윤보선]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+			<arg_type weight="0.34">Politician</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.943">birthPlace</mln_predict>
+		<cnn_predict conf="0.436">deathPlace</cnn_predict>
 		<gsdp>(NP)--up--NP--down--(NP)</gsdp>
-		<gsdp_lemma>김현직)</gsdp_lemma>
-		<head>김현직)</head>
-		<cluster>39</cluster>
+		<gsdp_lemma><![CDATA[대통령]]></gsdp_lemma>
 		<comment></comment>
 	</sent_item>
 </sentence_list>

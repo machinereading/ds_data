@@ -1,0 +1,77 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--VP_MOD--down--NP_AJT--down--(NP)</dependency>
+	<total>4</total>
+	<sent_item id="M_D1954">
+		<sent><![CDATA[3, 4위전은 1995년 12월 29일 사우디아라비아 리야드에 있는 킹_파드_국제경기장에서 열렸다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[킹_파드_국제경기장]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[사우디아라비아]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.968">location</mln_predict>
+		<cnn_predict conf="0.700">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[있는--리야드에]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D207">
+		<sent><![CDATA[결승전은 1995년 12월 29일 사우디아라비아 리야드에 있는 킹_파드_국제경기장에서 열렸다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[킹_파드_국제경기장]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[사우디아라비아]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.963">location</mln_predict>
+		<cnn_predict conf="0.712">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[있는--리야드에]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D329">
+		<sent><![CDATA[포트사이드 경기장 폭력 사태는 2012년 2월 1일 이집트 포트사이드에 위치한 포트사이드_경기장에서 일어난 폭력이 유혈 사태로 진화되어 총 74명이 사망한 사건이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[포트사이드_경기장]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[이집트]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.378">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[위치한--포트사이드에]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D667">
+		<sent><![CDATA[10월 12일 오전 7시경 매우 강한 사이클론 후드후드는 약화되지 않은 채 인도 안드라프라데시_주 북부에 위치한 비샤카파트남에 상륙하였고, 상륙 직후 급격히 약화하여 10월 13일 자정에 발달한 저기압으로, 같은 날 정오에 저기압으로 약화되었다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[비샤카파트남]]></sbj_text>
+			<arg_type weight="0.68">Place</arg_type>
+			<arg_type weight="1.40">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[안드라프라데시_주]]></obj_text>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.503">owner</mln_predict>
+		<cnn_predict conf="0.411">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[위치한--북부에]]></gsdp_lemma>
+		<comment>Predicate-Argument 구조에 잘 맞는 형태.
+			NP-AJT(북부에)보다 VP-MOD(위치한)이 강한 영향
+			down--VP_MOD--down 이랑 비슷한 구조</comment>
+	</sent_item>
+</sentence_list>

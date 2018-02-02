@@ -1,0 +1,20 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP_OBJ--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D828">
+		<sent><![CDATA[구글 툴바는 인터넷_익스플로러와 모질라 파이어폭스를 지원하는 인터넷 웹_브라우저 도구 모음이다.]]></sent>
+		<sbj label="NP_CNJ" josa="와">
+			<sbj_text><![CDATA[인터넷_익스플로러]]></sbj_text>
+			<arg_type weight="0.93">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[웹_브라우저]]></obj_text>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.224">genre</mln_predict>
+		<cnn_predict conf="0.472">genre</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_OBJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[도구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

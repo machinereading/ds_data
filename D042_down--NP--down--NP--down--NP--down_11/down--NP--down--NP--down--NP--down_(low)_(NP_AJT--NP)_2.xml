@@ -1,0 +1,36 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--NP--down--NP--down--NP--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_D787">
+		<sent><![CDATA[SATA 에어 아소르스는 포르투갈 아소르스 자치 지방 폰타델가다에 기반을 둔 항공사이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[폰타델가다]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[포르투갈]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.723">country</mln_predict>
+		<cnn_predict conf="0.466">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[지방--자치--아소르스]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D589">
+		<sent><![CDATA[세라라폰타나는 이탈리아 캄파니아 주 나폴리 현 이스키아_섬에 위치한 코무네다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[이스키아_섬]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="-0.19">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[이탈리아]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.735">country</mln_predict>
+		<cnn_predict conf="0.941">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[나폴리--주--캄파니아]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

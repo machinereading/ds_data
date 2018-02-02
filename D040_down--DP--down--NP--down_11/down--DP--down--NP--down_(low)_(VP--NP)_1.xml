@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(VP)--down--DP--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1039">
+		<sent><![CDATA[고베 해양 박물관은 일본 효고 현 고베_시 주오 구에 있는 박물관이다.]]></sent>
+		<sbj label="VP" josa="">
+			<sbj_text><![CDATA[고베_시]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[일본]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.284">country</mln_predict>
+		<cnn_predict conf="0.835">country</cnn_predict>
+		<gsdp>(VP)--down--DP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[현--효고]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

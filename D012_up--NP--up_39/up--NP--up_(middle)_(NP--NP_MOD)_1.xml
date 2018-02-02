@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--up--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1335">
+		<sent><![CDATA[주로 아이스하키와 축구 경기를 하고 있으며 과거 내셔널 하키 리그 뉴욕 아일런더스와 아메리칸_농구_협회/전미 농구 협회 브루클린_네츠의 홈경기장으로 사용되었고, 리모델링 후 2017~2018시즌부터 NBA 게토레이 리그 롱아일랜드 네츠의 홈경기장으로 사용할 예정이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[아메리칸_농구_협회]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="-0.11">Organisation</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[브루클린_네츠]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.494">team</mln_predict>
+		<cnn_predict conf="0.343">location</cnn_predict>
+		<gsdp>(NP)--up--NP--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[협회]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

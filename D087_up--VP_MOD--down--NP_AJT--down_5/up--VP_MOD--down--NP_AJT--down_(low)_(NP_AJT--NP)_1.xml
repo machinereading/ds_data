@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP_MOD--down--NP_AJT--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D480">
+		<sent><![CDATA[산타 마리아 델라 살루테 성당는 이탈리아 베네치아 도르소두로 푼타_델라_도가나에 위치한 성당이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[푼타_델라_도가나]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[베네치아]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.686">region</mln_predict>
+		<cnn_predict conf="0.315">region</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[위치한--도르소두로]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

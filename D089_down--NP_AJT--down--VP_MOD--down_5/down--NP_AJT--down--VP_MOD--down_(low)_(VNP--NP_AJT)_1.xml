@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(VNP)--down--NP_AJT--down--VP_MOD--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D376">
+		<sent><![CDATA[브롬스그로브 구는 잉글랜드 우스터셔_주에 위치한 비도시 자치구로 중심 도시는 브롬스그로브이며 인구는 95,485명, 면적은 217.0㎢이다.]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[브롬스그로브]]></sbj_text>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[우스터셔_주]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.554">location</mln_predict>
+		<cnn_predict conf="0.846">location</cnn_predict>
+		<gsdp>(VNP)--down--NP_AJT--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[자치구로--위치한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

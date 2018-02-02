@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP--up--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2935">
+		<sent><![CDATA[서역인이 왕조를 세운 후당의 황제 이종후, 군의 대권을 잡았던 인물로 안중회, 주홍소라는 인물이 있었는데 이들은 모두 서역인 출신으로 후당이 건국하기 전에는 돌궐식 성을 사용하였다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[후당]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[이종후]]></obj_text>
+			<arg_type weight="0.04">Agent</arg_type>
+			<arg_type weight="0.54">Person</arg_type>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.967">leaderName</mln_predict>
+		<cnn_predict conf="0.714">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[황제]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

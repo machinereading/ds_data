@@ -1,0 +1,49 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP--down--(NP_CNJ)</dependency>
+	<total>3</total>
+	<sent_item id="M_D854">
+		<sent><![CDATA[주로 중국 내의 무슬림인 후이족, 둥샹족, 살라르 족의 자제에 대한 꾸란 교육에 쓰였다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[후이족]]></sbj_text>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[둥샹족]]></obj_text>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.330">related</mln_predict>
+		<cnn_predict conf="0.560">related</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[살라르]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3893">
+		<sent><![CDATA[총 인구는 75512명으로 티베트족, 한족, 나시족, 바이족, 투족, 후이족, 먀오족 등이 거주한다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[나시족]]></sbj_text>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[티베트족]]></obj_text>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.999">related</mln_predict>
+		<cnn_predict conf="0.424">related</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[먀오족]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1322">
+		<sent><![CDATA[대부분의 주민이 한족이며 티베트족, 이족, 창족, 나시족 등 소수 민족도 거주한다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[이족]]></sbj_text>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[티베트족]]></obj_text>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.629">related</mln_predict>
+		<cnn_predict conf="0.711">related</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[나시족]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,126 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--(NP_AJT)</dependency>
+	<total>7</total>
+	<sent_item id="M_D861">
+		<sent><![CDATA[기타다케 산은 일본에서 후지_산에 이어 두 번째로 높은 산이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[후지_산]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[일본]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.496">locatedInArea</mln_predict>
+		<cnn_predict conf="0.628">country</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[이어]]></gsdp_lemma>
+		<comment>이어-governing하는 VP로 볼 수 없음. next_to
+			head인 산이다.가 predicate로 볼 수 있다.
+		    핵심키워드는 일본, 후지_산
+		    '에서'조사가 제거되면 "NN-Sequence."(에서 조사가 너무 앞에와서 좋은 문장이 아님)
+		    조사 때문에 '이어-VP'로 가서 혼동을 주는 케이스
+			Relation Path
+			(country는 domain이 null , nationality는 domain이 person, locatedInArea는 domain이 place)
+		    이처럼 Entity의 GSDP가 짧고 직관적인 케이스에서 틀린 경우는
+			개체타입이 잘못 태깅된 경우가 많음 --> dbpedia ontology등을 활용
+			NN 관계 NNN 관계 통계 내보기</comment>
+	</sent_item>
+	<sent_item id="M_D1986">
+		<sent><![CDATA[2008년에는 황정민_(1970년)과 함께 《슈퍼맨이었던_사나이》에 송수정 역으로 출연했다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[슈퍼맨이었던_사나이]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="는">
+			<obj_text><![CDATA[황정민_(1970년)]]></obj_text>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.700">starring</mln_predict>
+		<cnn_predict conf="0.892">starring</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[출연했다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1318">
+		<sent><![CDATA[1597년 임진왜란에 이어 정유재란이 일어나자 마귀_(명나라) 장군은 명나라가 파견한 구원병의 제독으로 군사를 거느리고 조선에 들어왔다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[임진왜란]]></sbj_text>
+		</sbj>
+		<obj label="NP_AJT" josa="">
+			<obj_text><![CDATA[마귀_(명나라)]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.147">city</mln_predict>
+		<cnn_predict conf="0.845">commander</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[이어]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3256">
+		<sent><![CDATA[북쪽은 전국적으로도 유명한 아카시_해협_대교로 고베_시와 연결되고 있고 남쪽은 스모토 시와 접하고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[아카시_해협_대교]]></sbj_text>
+		</sbj>
+		<obj label="NP_AJT" josa="와">
+			<obj_text><![CDATA[고베_시]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.237">city</mln_predict>
+		<cnn_predict conf="0.367">location</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[연결되고]]></gsdp_lemma>
+		<comment>
+			Relation Path
+			VP(연결되다)가 의미있게 작용한 케이스</comment>
+	</sent_item>
+	<sent_item id="M_D974">
+		<sent><![CDATA[일본에서는 따뜻한 오키나와 현 , 가고시마_현등에서 이기작이 가능하다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[가고시마_현]]></sbj_text>
+		</sbj>
+		<obj label="NP_AJT" josa="는">
+			<obj_text><![CDATA[일본]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.161">routeEnd</mln_predict>
+		<cnn_predict conf="0.459">location</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[가능하다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D857">
+		<sent><![CDATA[대한민국에서는 2009년 7월 제13회 부천국제판타스틱영화제에서 첫 상영되었고, 특별언급상을 수상하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[부천국제판타스틱영화제]]></sbj_text>
+			<arg_type weight="0.15">Event</arg_type>
+			<arg_type weight="0.15">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="는">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.648">commander</mln_predict>
+		<cnn_predict conf="0.335">birthPlace</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[상영되었고,]]></gsdp_lemma>
+		<comment>
+			Relation Path
+			이 케이스도 VP가 역할을 제대로 못함</comment>
+	</sent_item>
+	<sent_item id="M_D702">
+		<sent><![CDATA[대한민국에서는 북한판 정명훈으로 알려져 있고 또한 관현악으로 편곡한 아리랑환상곡의 연주자로 알려져 있다.]]></sent>
+		<sbj label="NP_AJT" josa="으로">
+			<sbj_text><![CDATA[정명훈]]></sbj_text>
+		</sbj>
+		<obj label="NP_AJT" josa="는">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.202">owningOrganisation</mln_predict>
+		<cnn_predict conf="0.263">birthPlace</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[알려져]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

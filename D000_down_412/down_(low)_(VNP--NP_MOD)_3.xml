@@ -1,0 +1,49 @@
+<sentence_list>
+	<dependency>(VNP)--down--(NP_MOD)</dependency>
+	<total>3</total>
+	<sent_item id="M_D760">
+		<sent><![CDATA[동쪽은 캄보디아의 반테아이메안체이_주, 바탐방 주와 접한다.]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[반테아이메안체이_주]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[캄보디아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.253">country</mln_predict>
+		<cnn_predict conf="0.744">country</cnn_predict>
+		<gsdp>(VNP)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D483">
+		<sent><![CDATA[모로고로 주는 탄자니아의 주로, 주도는 모로고로이며 면적은 70,799㎢, 인구는 1,759,809명이다.]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[모로고로]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[탄자니아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.960">country</mln_predict>
+		<cnn_predict conf="0.890">country</cnn_predict>
+		<gsdp>(VNP)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D715">
+		<sent><![CDATA[그가 발견한 지역은 현재 캐나다의 뉴펀들랜드_섬이다.]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[뉴펀들랜드_섬]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[캐나다]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.170">country</mln_predict>
+		<cnn_predict conf="0.387">country</cnn_predict>
+		<gsdp>(VNP)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,58 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP_MOD--down--(NP_SBJ)</dependency>
+	<total>3</total>
+	<sent_item id="M_D3760">
+		<sent><![CDATA[《사랑歌》는 문수정이 1집 《CCM마루》이후 발표한 EP앨범이다.]]></sent>
+		<sbj label="NP_AJT" josa="">
+			<sbj_text><![CDATA[CCM마루]]></sbj_text>
+			<arg_type weight="0.55">Work</arg_type>
+			<arg_type weight="2.57">MusicalWork</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[문수정]]></obj_text>
+			<arg_type weight="0.48">Agent</arg_type>
+		</obj>
+		<gold>artist</gold>
+		<mln_predict conf="0.961">artist</mln_predict>
+		<cnn_predict conf="0.692">artist</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[발표한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D4065">
+		<sent><![CDATA[역사가들은 율리우스 카이사르가 종신 독재관에 오른 기원전 44년, 마르쿠스_안토니우스가 악티움_해전에서 패배한 기원전 31년, 로마 원로원이 아우구스투스에게 특별한 권력을 부여한 기원전 27년 등을 공화정이 종식된 시점으로 제시한다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[악티움_해전]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[마르쿠스_안토니우스]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.938">commander</mln_predict>
+		<cnn_predict conf="0.507">deathPlace</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[패배한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D524">
+		<sent><![CDATA[갑신정변으로 박영효가 일본으로 망명한 뒤 인력거 이용은 중지되었고 그 뒤 일본공사관 요인들이 인력거를 관용으로 사용하여 눈길을 끌었다.]]></sent>
+		<sbj label="NP_AJT" josa="으로">
+			<sbj_text><![CDATA[갑신정변]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[박영효]]></obj_text>
+			<arg_type weight="0.34">Agent</arg_type>
+			<arg_type weight="0.86">Person</arg_type>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.992">commander</mln_predict>
+		<cnn_predict conf="0.416">deathPlace</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[망명한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

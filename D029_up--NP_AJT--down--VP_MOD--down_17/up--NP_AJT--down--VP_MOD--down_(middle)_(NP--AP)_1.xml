@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_AJT--down--VP_MOD--down--(AP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D89">
+		<sent><![CDATA[《날씨 언니》는, TV_아사히 올 닛폰 뉴스 네트워크의 〈금요_나이트_드라마〉 시간대에서 2013년 4월 12일부터 6월 7일까지 방송된 일본의 일본 드라마이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[금요_나이트_드라마]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="AP" josa="">
+			<obj_text><![CDATA[TV_아사히]]></obj_text>
+			<arg_type weight="0.32">Agent</arg_type>
+			<arg_type weight="1.24">Organisation</arg_type>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.829">channel</mln_predict>
+		<cnn_predict conf="0.303">channel</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--down--VP_MOD--down--(AP)</gsdp>
+		<gsdp_lemma><![CDATA[시간대에서--올]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

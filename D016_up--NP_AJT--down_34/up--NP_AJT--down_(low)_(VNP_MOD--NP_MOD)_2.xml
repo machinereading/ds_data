@@ -1,0 +1,42 @@
+<sentence_list>
+	<dependency>(VNP_MOD)--up--NP_AJT--down--(NP_MOD)</dependency>
+	<total>2</total>
+	<sent_item id="M_D3496">
+		<sent><![CDATA[2009년부터는 도호쿠 방송, STV 라디오, 스카이 에이 등 다시 야구 해설위원으로 활동했고 2011년에는 KBO_리그팀인 KIA_타이거즈의 수비 코치로 발탁되어 1년간 역임했다.]]></sent>
+		<sbj label="VNP_MOD" josa="">
+			<sbj_text><![CDATA[KBO_리그]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="-0.11">Organisation</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[KIA_타이거즈]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.297">country</mln_predict>
+		<cnn_predict conf="0.454">team</cnn_predict>
+		<gsdp>(VNP_MOD)--up--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[코치로]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1801">
+		<sent><![CDATA[2011년 11월 30일, PAOK는 잉글랜드 토트넘_홋스퍼_FC와의 화이트_하트_레인 원정에서 2-1로 이기며 역사적이고 값진 승리를 쟁취했다.]]></sent>
+		<sbj label="VNP_MOD" josa="">
+			<sbj_text><![CDATA[화이트_하트_레인]]></sbj_text>
+			<arg_type weight="0.08">Place</arg_type>
+			<arg_type weight="0.28">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.57">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[토트넘_홋스퍼_FC]]></obj_text>
+			<arg_type weight="-1.09">Agent</arg_type>
+			<arg_type weight="-0.90">Organisation</arg_type>
+			<arg_type weight="0.22">SportsTeam</arg_type>
+		</obj>
+		<gold>operator</gold>
+		<mln_predict conf="0.683">owner</mln_predict>
+		<cnn_predict conf="0.566">team</cnn_predict>
+		<gsdp>(VNP_MOD)--up--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[원정에서]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

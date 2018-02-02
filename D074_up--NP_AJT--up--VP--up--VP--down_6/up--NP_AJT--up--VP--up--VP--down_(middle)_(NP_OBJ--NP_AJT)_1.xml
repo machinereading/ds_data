@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--NP_AJT--up--VP--up--VP--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2756">
+		<sent><![CDATA[시즌을 마친 후 2011년 11월 22일 곽광선을 상대로 현금 트레이드되어 강원_FC로 완전히 이적하였다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[곽광선]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="로">
+			<obj_text><![CDATA[강원_FC]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.831">team</mln_predict>
+		<cnn_predict conf="0.472">team</cnn_predict>
+		<gsdp>(NP_OBJ)--up--NP_AJT--up--VP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[상대로--트레이드되어--이적하였다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

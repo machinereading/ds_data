@@ -1,0 +1,34 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP_OBJ--down--(NP_CNJ)</dependency>
+	<total>2</total>
+	<sent_item id="M_D3831">
+		<sent><![CDATA[그 외에도 아르메니아인, 그리스인, 아시리아인, 유대인, 쿠르드인도 공동체를 이루어 살고 있었다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[유대인]]></sbj_text>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[아시리아인]]></obj_text>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.314">birthPlace</mln_predict>
+		<cnn_predict conf="0.576">related</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_OBJ--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[공동체를]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1884">
+		<sent><![CDATA[좡족, 한족, 야오족, 후이족, 먀오족, 둥족, 만주족을 포함한 35개 민족 집단이 살고 있다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[먀오족]]></sbj_text>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[한족]]></obj_text>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.717">related</mln_predict>
+		<cnn_predict conf="0.424">related</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_OBJ--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[만주족을]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

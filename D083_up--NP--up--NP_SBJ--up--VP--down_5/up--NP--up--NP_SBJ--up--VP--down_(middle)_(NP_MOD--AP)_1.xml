@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP--up--NP_SBJ--up--VP--down--(AP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1138">
+		<sent><![CDATA[한편, JTONG과의 디스전이 있기 전부터, 방사능 (현 리듬파워)의 멤버 지구인_(가수)이 솔로 믹스테입 수록곡 〈넋두리〉에서 Soul Connection을 디스한 적이 있었으나 큰 이슈는 되지 않았다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[리듬파워]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="AP" josa="">
+			<obj_text><![CDATA[지구인_(가수)]]></obj_text>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.421">currentMember</mln_predict>
+		<cnn_predict conf="0.431">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--NP_SBJ--up--VP--down--(AP)</gsdp>
+		<gsdp_lemma><![CDATA[멤버--지구인_(가수)이--있었으나]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

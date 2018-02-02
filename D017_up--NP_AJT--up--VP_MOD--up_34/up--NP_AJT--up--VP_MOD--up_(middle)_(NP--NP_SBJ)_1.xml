@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_AJT--up--VP_MOD--up--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3309">
+		<sent><![CDATA[미국_독립_전쟁 때 에던 앨런과 베네딕트_아놀드가 지휘하는 그린 마운틴 보이즈 등의 민병대가 급습하여 요새를 탈취했다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[미국_독립_전쟁]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[베네딕트_아놀드]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.796">commander</mln_predict>
+		<cnn_predict conf="0.751">commander</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP_MOD--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[때--에던]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

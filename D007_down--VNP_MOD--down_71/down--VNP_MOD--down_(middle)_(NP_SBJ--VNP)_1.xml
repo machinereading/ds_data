@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--VNP_MOD--down--(VNP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3156">
+		<sent><![CDATA[전 현대 유니콘스, 현대 유니콘스의 내야수이자 현 SK 와이번스의 타격 코치인 김경기가 그의 아들이다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[김경기]]></sbj_text>
+			<arg_type weight="0.28">Agent</arg_type>
+			<arg_type weight="0.36">Person</arg_type>
+			<arg_type weight="1.04">Athlete</arg_type>
+		</sbj>
+		<obj label="VNP" josa="">
+			<obj_text><![CDATA[내야수]]></obj_text>
+		</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.323">position</mln_predict>
+		<cnn_predict conf="0.893">position</cnn_predict>
+		<gsdp>(NP_SBJ)--down--VNP_MOD--down--(VNP)</gsdp>
+		<gsdp_lemma><![CDATA[코치인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,216 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--(NP_MOD)</dependency>
+	<total>12</total>
+	<sent_item id="M_D2841">
+		<sent><![CDATA[그렇게 환상적인 시즌을 보낸 박지성에게 들려온 소식은 프리미어리그의 맨체스터_유나이티드_FC로부터의 관심이었다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[맨체스터_유나이티드_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[프리미어리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.391">league</mln_predict>
+		<cnn_predict conf="0.589">team</cnn_predict>
+		<gsdp>(NP_MOD)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1363">
+		<sent><![CDATA[2011년 8월 25일, 미란다는 4-0으로 이긴 프리메이라리가의 비토리아_SC와의 [[UEFA 유로파리그 2011-12|유로파리그 플레이오프 2차전에서, 새 클럽 소속으로 처음으로 출전하였다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[비토리아_SC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[프리메이라리가]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.741">position</mln_predict>
+		<cnn_predict conf="0.726">team</cnn_predict>
+		<gsdp>(NP_MOD)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2640">
+		<sent><![CDATA[제임스 프랭클린 "제이미" 하이네만은 미국의 특수효과 전문가이자, 디스커버리_채널의 프로그램 《호기심_해결사》의 공동 진행자이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[호기심_해결사]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[디스커버리_채널]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.935">channel</mln_predict>
+		<cnn_predict conf="0.256">starring</cnn_predict>
+		<gsdp>(NP_MOD)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3861">
+		<sent><![CDATA[그는 1985-86 시즌의 짧은 기간동안 스위스_슈퍼리그의 FC_장크트갈렌의 감독을 맡기도 하였다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[FC_장크트갈렌]]></sbj_text>
+			<arg_type weight="0.28">Agent</arg_type>
+			<arg_type weight="0.34">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[스위스_슈퍼리그]]></obj_text>
+		</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.512">league</mln_predict>
+		<cnn_predict conf="0.306">team</cnn_predict>
+		<gsdp>(NP_MOD)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D484">
+		<sent><![CDATA[안드로이드와 아이폰, WINDOWS8에서 애플리케이션으로 서비스를 제공하지만, KBS 2TV의 인기가요 순위 프로그램 '뮤직뱅크',SBS_TV의 음악 예능 프로그램'판타스틱_듀오'의 가상 및 간접 광고를 적용하고 있다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[판타스틱_듀오]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[SBS_TV]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.265">channel</mln_predict>
+		<cnn_predict conf="0.225">genre</cnn_predict>
+		<gsdp>(NP_MOD)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3043">
+		<sent><![CDATA[함 이름은 당시 일본령이었던 타이완 난터우_현의 위_산의 이름에서 유래되었다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[위_산]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="2.09">NaturalPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[난터우_현]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.193">country</mln_predict>
+		<cnn_predict conf="0.405">location</cnn_predict>
+		<gsdp>(NP_MOD)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3523">
+		<sent><![CDATA[주제프 "페프" 과르디올라 이 살라는 과거 스페인의 축구 선수로, 현재 프리미어리그의 맨체스터_시티_FC의 감독이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[맨체스터_시티_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[프리미어리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.860">position</mln_predict>
+		<cnn_predict conf="0.612">league</cnn_predict>
+		<gsdp>(NP_MOD)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2354">
+		<sent><![CDATA[애덤 휘트니 새비지 는 미국의 특수효과 전문가이며, 제이미 하이네만과 함께 디스커버리_채널의 프로그램 《호기심_해결사》의 공동 진행자를 맡고 있다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[호기심_해결사]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[디스커버리_채널]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.936">channel</mln_predict>
+		<cnn_predict conf="0.306">starring</cnn_predict>
+		<gsdp>(NP_MOD)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2998">
+		<sent><![CDATA[다음은 대한민국의 배우의 이병헌의 수상 및 후보 목록이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[이병헌]]></sbj_text>
+			<arg_type weight="0.49">Agent</arg_type>
+			<arg_type weight="0.51">Person</arg_type>
+			<arg_type weight="1.48">Artist</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[배우]]></obj_text>
+		</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.973">birthPlace</mln_predict>
+		<cnn_predict conf="0.934">occupation</cnn_predict>
+		<gsdp>(NP_MOD)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1338">
+		<sent><![CDATA[카르바할은 분데스리가에서의 푸스발-분데스리가 2012-13에 FC 바이에른 뮌헨의 필리프 람과 FC_샬케_04의 우치다_아쓰토의 뒤를 이어 최고의 우측 수비수 3명중 한명으로 선정되었다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[우치다_아쓰토]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[FC_샬케_04]]></obj_text>
+			<arg_type weight="0.14">Agent</arg_type>
+			<arg_type weight="0.35">Organisation</arg_type>
+			<arg_type weight="0.72">SportsTeam</arg_type>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.952">team</mln_predict>
+		<cnn_predict conf="0.648">team</cnn_predict>
+		<gsdp>(NP_MOD)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D289">
+		<sent><![CDATA[다음은 미국의 배우의 브래들리_쿠퍼의 수상 및 후보 목록이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[브래들리_쿠퍼]]></sbj_text>
+			<arg_type weight="0.49">Agent</arg_type>
+			<arg_type weight="0.51">Person</arg_type>
+			<arg_type weight="1.48">Artist</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[배우]]></obj_text>
+		</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="1.000">birthPlace</mln_predict>
+		<cnn_predict conf="0.943">occupation</cnn_predict>
+		<gsdp>(NP_MOD)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2581">
+		<sent><![CDATA[다음은 미국의 배우, 영화_감독의 숀_펜의 작품 목록이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[숀_펜]]></sbj_text>
+			<arg_type weight="0.49">Agent</arg_type>
+			<arg_type weight="0.51">Person</arg_type>
+			<arg_type weight="1.48">Artist</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[영화_감독]]></obj_text>
+		</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.966">birthPlace</mln_predict>
+		<cnn_predict conf="0.824">occupation</cnn_predict>
+		<gsdp>(NP_MOD)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

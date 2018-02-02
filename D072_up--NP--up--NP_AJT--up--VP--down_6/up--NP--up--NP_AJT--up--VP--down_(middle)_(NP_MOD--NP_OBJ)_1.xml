@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP--up--NP_AJT--up--VP--down--(NP_OBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1176">
+		<sent><![CDATA[2008-09 시즌, 마르세유는 FC_지롱댕_드_보르도와의 격렬한 레이스 끝에 리그_1을 준우승으로 마무리하였다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[FC_지롱댕_드_보르도]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="을">
+			<obj_text><![CDATA[리그_1]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.351">league</mln_predict>
+		<cnn_predict conf="0.630">team</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--NP_AJT--up--VP--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[레이스--끝에--마무리하였다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

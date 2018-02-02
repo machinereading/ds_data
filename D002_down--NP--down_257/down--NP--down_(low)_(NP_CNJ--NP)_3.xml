@@ -1,0 +1,54 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--down--NP--down--(NP)</dependency>
+	<total>3</total>
+	<sent_item id="M_D3571">
+		<sent><![CDATA[광릉은 조선 제7대왕 조선_세조와 정희왕후 윤씨의 능이다.]]></sent>
+		<sbj label="NP_CNJ" josa="와">
+			<sbj_text><![CDATA[조선_세조]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조선]]></obj_text>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.619">birthPlace</mln_predict>
+		<cnn_predict conf="0.926">deathPlace</cnn_predict>
+		<gsdp>(NP_CNJ)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[제7대왕]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3157">
+		<sent><![CDATA[히가시나카노 역은 일본 도쿄 도 나카노 구에 있는 동일본_여객철도 주오·소부 완행선(주오_본선) 및 도쿄 도 교통국 도쿄 도 교통국 지하철 오에도 선의 철도역이자 환승역이다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[주오_본선]]></sbj_text>
+			<arg_type weight="0.08">Place</arg_type>
+			<arg_type weight="0.28">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.20">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[동일본_여객철도]]></obj_text>
+		</obj>
+		<gold>operator</gold>
+		<mln_predict conf="0.991">owner</mln_predict>
+		<cnn_predict conf="0.560">operator</cnn_predict>
+		<gsdp>(NP_CNJ)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주오·소부]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D338">
+		<sent><![CDATA[속리산은 대한민국 충청북도 보은군과 괴산군, 경상북도 상주시에 걸쳐 있는 높이 1,058m의 산이다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[보은군]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.802">country</cnn_predict>
+		<gsdp>(NP_CNJ)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[충청북도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

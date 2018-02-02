@@ -1,0 +1,25 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP_SBJ--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3686">
+		<sent><![CDATA[그의 클럽에서의 미래에 대한 전망에 대한 예상이 속속 흘러나왔고, 그의 PAOK_FC의 디미트리스_살핑기디스와의 교환 이적이 백지화되기도 했다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[디미트리스_살핑기디스]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[PAOK_FC]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.945">team</mln_predict>
+		<cnn_predict conf="0.405">team</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_SBJ--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[이적이]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

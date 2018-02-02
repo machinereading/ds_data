@@ -1,0 +1,59 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP_MOD--up--(NP_MOD)</dependency>
+	<total>3</total>
+	<sent_item id="M_D663">
+		<sent><![CDATA[여신 테티스와 결혼하여 트로이아_전쟁의 영웅인 아킬레우스의 아버지가 된다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[트로이아_전쟁]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[아킬레우스]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="1.000">commander</mln_predict>
+		<cnn_predict conf="0.355">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[영웅인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3179">
+		<sent><![CDATA[세조는 당나라의 초대 황제인 당_고조의 부친 이병의 묘호이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[당나라]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[당_고조]]></obj_text>
+			<arg_type weight="0.04">Agent</arg_type>
+			<arg_type weight="0.54">Person</arg_type>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="1.000">leaderName</mln_predict>
+		<cnn_predict conf="0.923">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[황제인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D743">
+		<sent><![CDATA[건중정국는 북송의 휘종인 북송_휘종의 치세에 쓰였던 첫번째 연호이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[북송]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[북송_휘종]]></obj_text>
+			<arg_type weight="0.04">Agent</arg_type>
+			<arg_type weight="0.54">Person</arg_type>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.208">leaderName</mln_predict>
+		<cnn_predict conf="0.849">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[휘종인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

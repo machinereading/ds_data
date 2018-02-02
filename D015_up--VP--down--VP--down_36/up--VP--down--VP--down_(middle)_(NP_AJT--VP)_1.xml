@@ -1,0 +1,25 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--VP--down--(VP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D868">
+		<sent><![CDATA[콘텐토는 2009년 프리시즌 친선경기에서 FC_바이에른_뮌헨 1군 데뷔전을 가졌으며, 오스트리아 분데스리가 챔피언 FC 레드불 잘츠부르크와의 경기에서 엣손_브라프헤이트와 후반 교체되어 출전하였으며, 2009년 8월, 1. FSV 마인츠 05와의 경기에서도 교체 명단에 이름을 올렸다.]]></sent>
+		<sbj label="NP_AJT" josa="와">
+			<sbj_text><![CDATA[엣손_브라프헤이트]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="VP" josa="에">
+			<obj_text><![CDATA[FC_바이에른_뮌헨]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.678">team</mln_predict>
+		<cnn_predict conf="0.682">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--VP--down--(VP)</gsdp>
+		<gsdp_lemma><![CDATA[교체되어--가졌으며,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

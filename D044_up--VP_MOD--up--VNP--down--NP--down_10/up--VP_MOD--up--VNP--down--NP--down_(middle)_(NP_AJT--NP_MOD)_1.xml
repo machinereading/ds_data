@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP_MOD--up--VNP--down--NP--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3999">
+		<sent><![CDATA[독립운동가 겸 정치인 서재필과 갑신정변 때 희생된 서재창의 생가 외할아버지이다.]]></sent>
+		<sbj label="NP_AJT" josa="과">
+			<sbj_text><![CDATA[서재필]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+			<arg_type weight="-0.02">Person</arg_type>
+			<arg_type weight="-0.41">MilitaryPerson</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[서재창]]></obj_text>
+			<arg_type weight="0.94">Agent</arg_type>
+			<arg_type weight="0.92">Person</arg_type>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.548">relative</mln_predict>
+		<cnn_predict conf="0.614">deathPlace</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--VNP--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[희생된--외할아버지이다.--생가]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

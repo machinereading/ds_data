@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(VP_MOD)--up--NP_MOD--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3991">
+		<sent><![CDATA[이 시기는 딥 퍼플, 레드 제플린과 블랙_사바스같은 초기 헤비_메탈 쇠퇴의 부분적인 반응으로서 발전하였다.]]></sent>
+		<sbj label="VP_MOD" josa="">
+			<sbj_text><![CDATA[블랙_사바스]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.13">Organisation</arg_type>
+			<arg_type weight="0.76">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[헤비_메탈]]></obj_text>
+			<arg_type weight="2.32">TopicalConcept</arg_type>
+			<arg_type weight="2.32">Genre</arg_type>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.978">genre</mln_predict>
+		<cnn_predict conf="0.548">genre</cnn_predict>
+		<gsdp>(VP_MOD)--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[쇠퇴의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--up--VP--up--VP--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3588">
+		<sent><![CDATA[네뷸러는 텔레비전 애니메이션과 비디오 게임 등 만화 이외의 미디어에도 등장하고 있으며, 2014년 영화 《가디언즈_오브_갤럭시_(영화)》에는 캐런_길런이 연기한다.]]></sent>
+		<sbj label="NP_SBJ" josa="는">
+			<sbj_text><![CDATA[가디언즈_오브_갤럭시_(영화)]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[캐런_길런]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="1.000">starring</mln_predict>
+		<cnn_predict conf="0.894">starring</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--up--VP--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[등장하고--있으며,--연기한다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

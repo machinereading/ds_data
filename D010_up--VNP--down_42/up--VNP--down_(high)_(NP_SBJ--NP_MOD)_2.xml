@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VNP--down--(NP_MOD)</dependency>
+	<total>2</total>
+	<sent_item id="M_D1475">
+		<sent><![CDATA["에브리바디_(텔레비전_프로그램)"는 JTBC의 시사교양 프로그램이다.]]></sent>
+		<sbj label="NP_SBJ" josa="는">
+			<sbj_text><![CDATA[에브리바디_(텔레비전_프로그램)]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[JTBC]]></obj_text>
+			<arg_type weight="0.32">Agent</arg_type>
+			<arg_type weight="1.24">Organisation</arg_type>
+			<arg_type weight="6.41">Company</arg_type>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.773">channel</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[프로그램이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2374">
+		<sent><![CDATA[《Popcorn_(음반)》은 일본의 남성 아이돌 그룹 아라시의 음반이다.]]></sent>
+		<sbj label="NP_SBJ" josa="은">
+			<sbj_text><![CDATA[Popcorn_(음반)]]></sbj_text>
+			<arg_type weight="0.55">Work</arg_type>
+			<arg_type weight="2.57">MusicalWork</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[아라시]]></obj_text>
+			<arg_type weight="0.48">Agent</arg_type>
+			<arg_type weight="0.43">Organisation</arg_type>
+			<arg_type weight="2.38">Group</arg_type>
+		</obj>
+		<gold>artist</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.539">artist</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[음반이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

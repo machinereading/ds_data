@@ -1,0 +1,25 @@
+<sentence_list>
+	<dependency>(VP)--up--VP--up--VP--up--VP--down--(NP_OBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2637">
+		<sent><![CDATA[그는 연말에 FIFA_클럽_월드컵_2014 우승을 거두었으며, 2014년 12월 20일, 2014 FIFA 클럽 월드컵 결승전에서는 700번째 경기 출전 기록을 세웠는데, 레알 마드리드는 CA_산로렌소를 2-0으로 이겼다.]]></sent>
+		<sbj label="VP" josa="">
+			<sbj_text><![CDATA[FIFA_클럽_월드컵_2014]]></sbj_text>
+			<arg_type weight="0.47">Event</arg_type>
+			<arg_type weight="0.47">SocietalEvent</arg_type>
+			<arg_type weight="1.70">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="를">
+			<obj_text><![CDATA[CA_산로렌소]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="1.000">team</mln_predict>
+		<cnn_predict conf="0.777">team</cnn_predict>
+		<gsdp>(VP)--up--VP--up--VP--up--VP--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[거두었으며,--세웠는데,--이겼다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

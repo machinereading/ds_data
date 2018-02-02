@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP)--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2164">
+		<sent><![CDATA[서태지 밴드는 대한민국의 가수 서태지의 6집 앨범(서태지_6집) 이후 서태지와 함께 활동하는 음악 그룹를 지칭한다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[서태지_6집]]></sbj_text>
+			<arg_type weight="0.55">Work</arg_type>
+			<arg_type weight="2.57">MusicalWork</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[서태지]]></obj_text>
+			<arg_type weight="0.48">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+			<arg_type weight="1.03">Artist</arg_type>
+		</obj>
+		<gold>artist</gold>
+		<mln_predict conf="0.747">artist</mln_predict>
+		<cnn_predict conf="0.482">currentMember</cnn_predict>
+		<gsdp>(NP)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

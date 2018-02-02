@@ -1,0 +1,39 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--down--(NP_SBJ)</dependency>
+	<total>2</total>
+	<sent_item id="M_D1758">
+		<sent><![CDATA[도카이도 본선 중 도카이 여객철도가 관할하는 구간의 가장 서쪽에 있는 역으로, 마이바라_역부터는 서일본_여객철도가 관리하고 있다.]]></sent>
+		<sbj label="NP_SBJ" josa="는">
+			<sbj_text><![CDATA[마이바라_역]]></sbj_text>
+			<arg_type weight="0.09">Place</arg_type>
+			<arg_type weight="0.31">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.42">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[서일본_여객철도]]></obj_text>
+		</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.242">operator</mln_predict>
+		<cnn_predict conf="0.615">owningOrganisation</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[관리하고]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2006">
+		<sent><![CDATA[반면 정재학의 3남인 정종원은 제5대 조흥은행장, 손자인 정운용은 제2대 조흥은행장에 이름을 올렸다.]]></sent>
+		<sbj label="NP_SBJ" josa="은">
+			<sbj_text><![CDATA[정종원]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="은">
+			<obj_text><![CDATA[정운용]]></obj_text>
+			<arg_type weight="0.94">Agent</arg_type>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.143">relative</mln_predict>
+		<cnn_predict conf="0.488">deathPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[올렸다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

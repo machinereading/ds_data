@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--VNP_MOD--down--NP_MOD--down--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D465">
+		<sent><![CDATA[경기장의 정식명칭은 1930년대 이탈리아_축구_국가대표팀와 인테르나치오날레 밀라노의 축구 영웅인 주세페_메아차의 이름을 딴 것이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[주세페_메아차]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="와">
+			<obj_text><![CDATA[이탈리아_축구_국가대표팀]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.412">birthPlace</mln_predict>
+		<cnn_predict conf="0.553">team</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--NP_MOD--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[영웅인--밀라노의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_AJT--up--VP--down--NP_OBJ--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D968">
+		<sent><![CDATA[만주군 총참모장으로 만주로 건너 간 이후 요동 전투, 사하 전투, 산데푸 전투, 봉천_전투 등에서 총사령 오야마_이와오 원수를 보좌하였다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[봉천_전투]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[오야마_이와오]]></obj_text>
+			<arg_type weight="0.34">Agent</arg_type>
+			<arg_type weight="0.86">Person</arg_type>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.994">commander</mln_predict>
+		<cnn_predict conf="0.930">commander</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP--down--NP_OBJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[등에서--보좌하였다.--원수를]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

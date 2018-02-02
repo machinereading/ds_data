@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--up--NP_SBJ--up--VP--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3481">
+		<sent><![CDATA[조모 시해 사건은 260년 위_(삼국) 수도 낙양에서 4대 황제 조모가 친위 쿠데타를 시도했다가 오히려 살해당한 사건이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[위_(삼국)]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[조모]]></obj_text>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.587">leaderName</mln_predict>
+		<cnn_predict conf="0.596">deathPlace</cnn_predict>
+		<gsdp>(NP)--up--NP--up--NP_SBJ--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[시해--사건은--시도했다가]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

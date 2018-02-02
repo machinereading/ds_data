@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP--down--NP_AJT--down--(DP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1914">
+		<sent><![CDATA[그 후 월링퍼드_(코네티컷_주)에 있는 초트_로즈메리_홀을 졸업했다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[초트_로즈메리_홀]]></sbj_text>
+		</sbj>
+		<obj label="DP" josa="">
+			<obj_text><![CDATA[월링퍼드_(코네티컷_주)]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.500">owner</mln_predict>
+		<cnn_predict conf="0.195">city</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--NP_AJT--down--(DP)</gsdp>
+		<gsdp_lemma><![CDATA[졸업했다.--후]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

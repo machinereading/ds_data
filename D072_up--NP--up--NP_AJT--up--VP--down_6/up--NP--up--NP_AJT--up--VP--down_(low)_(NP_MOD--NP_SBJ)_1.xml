@@ -1,0 +1,20 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP--up--NP_AJT--up--VP--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1946">
+		<sent><![CDATA[한편, 인도는 마하트마_간디의 비폭력 저항 운동 끝에 영국으로부터 독립하였다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[마하트마_간디]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="는">
+			<obj_text><![CDATA[인도]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.308">deathPlace</mln_predict>
+		<cnn_predict conf="0.529">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--NP_AJT--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[운동--끝에--독립하였다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

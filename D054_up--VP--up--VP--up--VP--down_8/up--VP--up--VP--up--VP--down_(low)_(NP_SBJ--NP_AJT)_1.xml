@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--up--VP--up--VP--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3546">
+		<sent><![CDATA[시조 문익점은 1360년 문과에 급제하고 원나라에 사신으로 다녀오면서 면화씨를 고려에 도입하였다.]]></sent>
+		<sbj label="NP_SBJ" josa="은">
+			<sbj_text><![CDATA[문익점]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[고려]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.250">birthPlace</mln_predict>
+		<cnn_predict conf="0.851">deathPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--up--VP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[급제하고--다녀오면서--도입하였다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

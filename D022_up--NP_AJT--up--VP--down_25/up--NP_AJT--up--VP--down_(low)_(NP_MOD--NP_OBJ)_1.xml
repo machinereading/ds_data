@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP_AJT--up--VP--down--(NP_OBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2254">
+		<sent><![CDATA[나폴레옹은 러시아의 알렉산드르 1세와 틸지트 조약을 체결하여, 프로이센의 영토를 크게 축소시키고 폴란드 지역들을 하나로 묶어 바르샤바 대공국을 형성시켰으며, 남동생 제롬_보나파르트를 베스트팔렌_왕국의 왕으로 임명하여 두 나라를 프랑스 제국의 위성 국가로 지정하였다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[베스트팔렌_왕국]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="를">
+			<obj_text><![CDATA[제롬_보나파르트]]></obj_text>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.242">deathPlace</mln_predict>
+		<cnn_predict conf="0.485">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[왕으로--임명하여]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

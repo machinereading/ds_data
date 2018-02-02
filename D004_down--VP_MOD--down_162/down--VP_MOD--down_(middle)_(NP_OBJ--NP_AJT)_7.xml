@@ -1,0 +1,145 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--down--VP_MOD--down--(NP_AJT)</dependency>
+	<total>7</total>
+	<sent_item id="M_D1947">
+		<sent><![CDATA[2011년 7월 23일부터 회베데스는 FC_바이에른_뮌헨으로 이적한 마누엘_노이어를 대신하여 팀의 주장으로 선정되었다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[마누엘_노이어]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="으로">
+			<obj_text><![CDATA[FC_바이에른_뮌헨]]></obj_text>
+			<arg_type weight="0.14">Agent</arg_type>
+			<arg_type weight="0.35">Organisation</arg_type>
+			<arg_type weight="0.72">SportsTeam</arg_type>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="1.000">team</mln_predict>
+		<cnn_predict conf="0.574">team</cnn_predict>
+		<gsdp>(NP_OBJ)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[이적한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1689">
+		<sent><![CDATA[송파구 잠실동에 있는 서울종합운동장_야구장을 두산 베어스와 공동 홈 구장으로 사용하고 있다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[서울종합운동장_야구장]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[잠실동]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.625">location</mln_predict>
+		<cnn_predict conf="0.439">location</cnn_predict>
+		<gsdp>(NP_OBJ)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[있는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D940">
+		<sent><![CDATA[이후 아틀레티코_마드리드로 이적한 세르히_바르후안을 대체할 것으로 기대되었지만 부상으로 주전 자리 확보에 실패하였다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[세르히_바르후안]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="로">
+			<obj_text><![CDATA[아틀레티코_마드리드]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="1.000">team</mln_predict>
+		<cnn_predict conf="0.551">team</cnn_predict>
+		<gsdp>(NP_OBJ)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[이적한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2894">
+		<sent><![CDATA[그는 레이카르트 감독의 계획에서 밀려나 이듬해에도 임대를 갔는데, 이번에는 레알_마드리드_CF로 떠난 줄리우_바프티스타를 대체하기 위해 같은 스페인 리그의 세비야 FC로 임대되었다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[줄리우_바프티스타]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="로">
+			<obj_text><![CDATA[레알_마드리드_CF]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="1.000">team</mln_predict>
+		<cnn_predict conf="0.460">team</cnn_predict>
+		<gsdp>(NP_OBJ)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[떠난]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2863">
+		<sent><![CDATA[디 마리아는 그 해 여름에 앞서 벤피카를 떠나 아틀레티코_마드리드 떠난 주장 시망_사브로자을 대체하기 위해 영입되었다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[시망_사브로자]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="">
+			<obj_text><![CDATA[아틀레티코_마드리드]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="1.000">team</mln_predict>
+		<cnn_predict conf="0.519">team</cnn_predict>
+		<gsdp>(NP_OBJ)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[떠난]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1611">
+		<sent><![CDATA[AS 생테티엔은 생테티엔에 위치한 스타드_조프루아_기샤르를 홈구장으로 하는 프랑스의 축구 클럽이며 1919년 창단되었다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[스타드_조프루아_기샤르]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[생테티엔]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">city</mln_predict>
+		<cnn_predict conf="0.616">location</cnn_predict>
+		<gsdp>(NP_OBJ)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[위치한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2478">
+		<sent><![CDATA[그리고, 2017년 6월 11일에 SL_벤피카에서 활약하였던 스웨덴 출신 수비수 빅토르_린델뢰프를 4년 계약에 이적료 3500만 유로를 지불하여 영입하였다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[빅토르_린델뢰프]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[SL_벤피카]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="1.000">team</mln_predict>
+		<cnn_predict conf="0.428">team</cnn_predict>
+		<gsdp>(NP_OBJ)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[활약하였던]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

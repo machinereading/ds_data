@@ -1,0 +1,37 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--VP--down--VP--down--(NP_AJT)</dependency>
+	<total>2</total>
+	<sent_item id="M_D890">
+		<sent><![CDATA[이후 박헌영을 주축으로 월북한 남로당파는 처음에 조선민주주의인민공화국에서 상당한 세력으로 자리잡았으나, 1955년에 즈음하여 김일성에 의해 한국 전쟁의 책임을 뒤집어 쓰고 숙청되었다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[김일성]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+			<arg_type weight="0.34">Politician</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[조선민주주의인민공화국]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.585">birthPlace</mln_predict>
+		<cnn_predict conf="0.575">deathPlace</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[의해--즈음하여--자리잡았으나,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D579">
+		<sent><![CDATA[제1차 세계 대전으로 가족을 따라 뉴질랜드로 이민하였는데, 가족들은 초기에 크라이스트처치에 살다가 뉴플리머스에서 오래 머물렀다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[뉴플리머스]]></sbj_text>
+		</sbj>
+		<obj label="NP_AJT" josa="로">
+			<obj_text><![CDATA[뉴질랜드]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.425">birthPlace</mln_predict>
+		<cnn_predict conf="0.261">country</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[머물렀다.--살다가--이민하였는데,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

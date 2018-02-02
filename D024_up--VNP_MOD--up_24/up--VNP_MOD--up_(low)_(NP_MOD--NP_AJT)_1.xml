@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP_MOD--up--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1339">
+		<sent><![CDATA[이 사건으로 박지윤은 6집 활동을 끝낸 후 JYP 엔터테인먼트와의 관계를 청산하고 6년 동안 공백기를 가졌다가 윤종신의 기획사인 미스틱89로 이적했다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[윤종신]]></sbj_text>
+			<arg_type weight="-0.12">Agent</arg_type>
+			<arg_type weight="-0.12">Person</arg_type>
+			<arg_type weight="0.73">Artist</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="로">
+			<obj_text><![CDATA[미스틱89]]></obj_text>
+		</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.547">occupation</mln_predict>
+		<cnn_predict conf="0.331">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP_MOD--up--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[기획사인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

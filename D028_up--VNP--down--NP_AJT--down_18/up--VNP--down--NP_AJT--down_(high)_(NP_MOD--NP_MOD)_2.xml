@@ -1,0 +1,44 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP--down--NP_AJT--down--(NP_MOD)</dependency>
+	<total>2</total>
+	<sent_item id="M_D811">
+		<sent><![CDATA[〈일상으로의 초대〉는 1998년에 발표된 대한민국의 음악가 신해철의 솔로 3집 《Crom's_Techno_Works》의 타이틀 곡이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[Crom's_Techno_Works]]></sbj_text>
+			<arg_type weight="0.55">Work</arg_type>
+			<arg_type weight="2.57">MusicalWork</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[신해철]]></obj_text>
+			<arg_type weight="0.48">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+			<arg_type weight="1.03">Artist</arg_type>
+		</obj>
+		<gold>artist</gold>
+		<mln_predict conf="1.000">artist</mln_predict>
+		<cnn_predict conf="0.405">artist</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[곡이다.--솔로]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3939">
+		<sent><![CDATA[〈다른 남자 말고 너〉는 대한민국의 걸 그룹 미쓰에이의 노래로, 세 번째 미니 앨범 《Colors》의 타이틀곡이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[Colors]]></sbj_text>
+			<arg_type weight="0.55">Work</arg_type>
+			<arg_type weight="2.57">MusicalWork</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[미쓰에이]]></obj_text>
+			<arg_type weight="0.48">Agent</arg_type>
+			<arg_type weight="0.43">Organisation</arg_type>
+			<arg_type weight="2.38">Group</arg_type>
+		</obj>
+		<gold>artist</gold>
+		<mln_predict conf="1.000">artist</mln_predict>
+		<cnn_predict conf="0.603">artist</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[타이틀곡이다.--노래로,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

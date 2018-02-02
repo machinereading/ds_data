@@ -1,0 +1,25 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--(NP_OBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3980">
+		<sent><![CDATA[그외에도 슈퍼주니어의 동해, 샤이니의 종현을 닮아서 화제가 되기도 했는데, 동해, 종현, 엠버는 SM 엔터테인먼트 소속 가수들 사이에서는 "공룡 삼남매"로 알려져 있다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[샤이니]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="을">
+			<obj_text><![CDATA[종현]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.997">currentMember</mln_predict>
+		<cnn_predict conf="0.686">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

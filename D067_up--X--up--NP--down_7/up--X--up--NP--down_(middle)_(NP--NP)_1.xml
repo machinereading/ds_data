@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP)--up--X--up--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1246">
+		<sent><![CDATA[1992년 문화방송 《일밤 - 몰래카메라》]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[일밤]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[문화방송]]></obj_text>
+			<arg_type weight="0.32">Agent</arg_type>
+			<arg_type weight="1.24">Organisation</arg_type>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.988">channel</mln_predict>
+		<cnn_predict conf="0.987">channel</cnn_predict>
+		<gsdp>(NP)--up--X--up--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[---몰래카메라》]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

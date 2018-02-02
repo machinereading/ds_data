@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--NP_AJT--down--(VP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D620">
+		<sent><![CDATA[당시 남조 진_(남조)의 황제인 진숙보는 사치와 방종에 빠졌고 간신들의 참소만 들어 나라가 크게 피폐해져 있었다.]]></sent>
+		<sbj label="NP_AJT" josa="">
+			<sbj_text><![CDATA[진_(남조)]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="VP_MOD" josa="">
+			<obj_text><![CDATA[진숙보]]></obj_text>
+			<arg_type weight="0.04">Agent</arg_type>
+			<arg_type weight="0.54">Person</arg_type>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.894">leaderName</mln_predict>
+		<cnn_predict conf="0.657">deathPlace</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(VP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[빠졌고--방종에]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

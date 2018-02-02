@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(VP_MOD)--up--(VNP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1420">
+		<sent><![CDATA[같은 세대 발라드 가수들인 박정운, 조정현, 최용준, 김민우, 박정수_(가수)와 절친한 친구 관계이다.]]></sent>
+		<sbj label="VP_MOD" josa="">
+			<sbj_text><![CDATA[박정수_(가수)]]></sbj_text>
+			<arg_type weight="0.49">Agent</arg_type>
+			<arg_type weight="0.51">Person</arg_type>
+			<arg_type weight="1.48">Artist</arg_type>
+		</sbj>
+		<obj label="VNP_MOD" josa="">
+			<obj_text><![CDATA[가수]]></obj_text>
+		</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.993">occupation</mln_predict>
+		<cnn_predict conf="0.947">occupation</cnn_predict>
+		<gsdp>(VP_MOD)--up--(VNP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

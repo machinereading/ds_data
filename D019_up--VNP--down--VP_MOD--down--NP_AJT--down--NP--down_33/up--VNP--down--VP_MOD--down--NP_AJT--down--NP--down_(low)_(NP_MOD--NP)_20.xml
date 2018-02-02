@@ -1,0 +1,348 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</dependency>
+	<total>20</total>
+	<sent_item id="M_D2876">
+		<sent><![CDATA[현충원역은 대한민국 대전광역시 유성구 온천동에 있는 대전_도시철도_1호선의 지하철역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[대전_도시철도_1호선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대전광역시]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.550">location</mln_predict>
+		<cnn_predict conf="0.503">location</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[지하철역이다.--있는--온천동에--유성구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D365">
+		<sent><![CDATA[노시로 역은 일본 아키타_현 노시로 시에 위치한 동일본 여객철도 고노_선의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[고노_선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[아키타_현]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">routeStart</mln_predict>
+		<cnn_predict conf="0.505">location</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[철도역이다.--위치한--시에--노시로]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D85">
+		<sent><![CDATA[녹양역은 경기도 의정부시 녹양동에 있는 경원선의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[경원선]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[경기도]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.933">owner</mln_predict>
+		<cnn_predict conf="0.554">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[철도역이다.--있는--녹양동에--의정부시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D601">
+		<sent><![CDATA[후미노사토 역은 일본 오사카 부 오사카_시 아베노 구에 있는 오사카_시영_지하철의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[오사카_시영_지하철]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[오사카_시]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.993">location</mln_predict>
+		<cnn_predict conf="0.395">location</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[철도역이다.--있는--구에--아베노]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2659">
+		<sent><![CDATA[룡동역은 조선민주주의인민공화국 함경북도 명간군 룡동리에 위치한 평라선의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[평라선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[함경북도]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.370">location</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[철도역이다.--위치한--룡동리에--명간군]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D939">
+		<sent><![CDATA[여수엑스포역은 전라남도 여수시 만덕동에 있는 전라선의 철도역이자 종점이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[전라선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[전라남도]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.467">routeStart</mln_predict>
+		<cnn_predict conf="0.520">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[철도역이자--있는--만덕동에--여수시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2462">
+		<sent><![CDATA[신도히가시 역은 일본 홋카이도 삿포로_시 히가시 구에 위치한 삿포로_시영_지하철의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[삿포로_시영_지하철]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[삿포로_시]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.469">location</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[철도역이다.--위치한--구에--히가시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1940">
+		<sent><![CDATA[도요나가 역은 일본 고치_현 나가오카 군 오토요 정에 있는 시코쿠 여객철도 도산_선의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[도산_선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[고치_현]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">routeStart</mln_predict>
+		<cnn_predict conf="0.389">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[철도역이다.--있는--정에--군]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1775">
+		<sent><![CDATA[수성시장역은 대구광역시 수성구 수성동 수성시장네거리에 위치한 대구_도시철도_3호선의 전철역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[대구_도시철도_3호선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.23">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.28">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[수성구]]></obj_text>
+		</obj>
+		<gold>routeEnd</gold>
+		<mln_predict conf="1.000">routeStart</mln_predict>
+		<cnn_predict conf="0.522">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[전철역이다.--위치한--수성시장네거리에--수성동]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1296">
+		<sent><![CDATA[후카야 역은 일본 사이타마_현 후카야 시에 있는 동일본 여객철도（JR동일본）다카사키_선의 역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[다카사키_선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[사이타마_현]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">routeStart</mln_predict>
+		<cnn_predict conf="0.511">location</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[역이다.--있는--시에--후카야]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2450">
+		<sent><![CDATA[연안역은 조선민주주의인민공화국 황해남도 연안군 연안읍에 있는 배천선의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[배천선]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[황해남도]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.571">location</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[철도역이다.--있는--연안읍에--연안군]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3883">
+		<sent><![CDATA[쓰루누마 역은 일본 홋카이도 가바토 군 우라우스 정에 위치한 홋카이도 여객철도 삿쇼_선의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[삿쇼_선]]></sbj_text>
+			<arg_type weight="0.23">Place</arg_type>
+			<arg_type weight="0.41">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.48">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[홋카이도]]></obj_text>
+		</obj>
+		<gold>routeStart</gold>
+		<mln_predict conf="1.000">region</mln_predict>
+		<cnn_predict conf="0.325">location</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[철도역이다.--위치한--정에--군]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D845">
+		<sent><![CDATA[율동역은 경상북도 경주시 율동에 위치한 중앙선의 신호장이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[중앙선]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[경상북도]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.293">location</mln_predict>
+		<cnn_predict conf="0.526">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[신호장이다.--위치한--율동에--경주시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3114">
+		<sent><![CDATA[우라우스 역은 일본 홋카이도 가바토 군 우라우스 정에 위치한 홋카이도 여객철도 삿쇼_선의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[삿쇼_선]]></sbj_text>
+			<arg_type weight="0.23">Place</arg_type>
+			<arg_type weight="0.41">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.48">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[홋카이도]]></obj_text>
+		</obj>
+		<gold>routeStart</gold>
+		<mln_predict conf="0.998">region</mln_predict>
+		<cnn_predict conf="0.317">location</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[철도역이다.--위치한--정에--군]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1119">
+		<sent><![CDATA[제천조차장역은 충청북도 제천시 천남동에 있는 중앙선의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[중앙선]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[충청북도]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.802">owner</mln_predict>
+		<cnn_predict conf="0.552">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[철도역이다.--있는--천남동에--제천시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2607">
+		<sent><![CDATA[후타가와 역은 일본 아이치_현 도요하시 시에 있는 도카이_여객철도의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[도카이_여객철도]]></sbj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="1.12">Organisation</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[아이치_현]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">routeStart</mln_predict>
+		<cnn_predict conf="0.604">operator</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[철도역이다.--있는--시에--도요하시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1636">
+		<sent><![CDATA[공전역은 충청북도 제천시 봉양읍에 있는 충북선의 역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[충북선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[충청북도]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.908">routeStart</mln_predict>
+		<cnn_predict conf="0.483">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[역이다.--있는--봉양읍에--제천시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D983">
+		<sent><![CDATA[속후역은 조선민주주의인민공화국 함경남도 금호지구 속후리에 위치한 평라선의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[평라선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[함경남도]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.358">location</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[철도역이다.--위치한--속후리에--금호지구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2646">
+		<sent><![CDATA[주덕역은 충청북도 충주시 주덕읍에 있는 충북선의 역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[충북선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[충청북도]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.899">routeStart</mln_predict>
+		<cnn_predict conf="0.505">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[역이다.--있는--주덕읍에--충주시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D64">
+		<sent><![CDATA[백마역은 경기도 고양시 일산동구 마두동에 있는 경의선의 전철역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[경의선]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[고양시]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">routeStart</mln_predict>
+		<cnn_predict conf="0.445">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[전철역이다.--있는--마두동에--일산동구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

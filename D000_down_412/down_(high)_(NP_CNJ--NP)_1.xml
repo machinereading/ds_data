@@ -1,0 +1,25 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D665">
+		<sent><![CDATA[《진정한 자신》는 츠구나가 모모코, 나츠야키_미야비(이상 베리즈코보), 스즈키 아이리 3명이 있는 유닛 Buono!의 데뷔 싱글이자 1번째 싱글이다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[베리즈코보]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[나츠야키_미야비]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="1.000">currentMember</mln_predict>
+		<cnn_predict conf="0.589">currentMember</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

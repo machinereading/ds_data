@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--down--VP--down--VP--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D543">
+		<sent><![CDATA[증조부 이상의는 광해군 때 좌찬성까지 이르렀지만 인조반정으로 가계는 몰락하였고, 그 뒤 아버지 이하진이나 6촌 형 유형원은 북인에서 전향하여 남인이 되었다.]]></sent>
+		<sbj label="NP_SBJ" josa="은">
+			<sbj_text><![CDATA[유형원]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+			<arg_type weight="-0.02">Person</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="는">
+			<obj_text><![CDATA[이상의]]></obj_text>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.284">relative</mln_predict>
+		<cnn_predict conf="0.533">relative</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--VP--down--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[전향하여--몰락하였고,--이르렀지만]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,57 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--down--NP_AJT--down--(NP_MOD)</dependency>
+	<total>3</total>
+	<sent_item id="M_D1521">
+		<sent><![CDATA[네팔과의 국경에는 에베레스트_산이 있다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[에베레스트_산]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="2.09">NaturalPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[네팔]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.441">country</mln_predict>
+		<cnn_predict conf="0.474">country</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[있다.--국경에는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3190">
+		<sent><![CDATA[한편 펠레는 디에고_마라도나가 아르헨티나_축구_국가대표팀의 국가대표 감독에 부임하자 "마라도나는 경험 부족으로 팀을 곤란하게 만들 것이다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[디에고_마라도나]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[아르헨티나_축구_국가대표팀]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.849">team</mln_predict>
+		<cnn_predict conf="0.771">team</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[부임하자--감독에]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3210">
+		<sent><![CDATA[10월 19일 LG_트윈스와의 준플레이오프 1차전에서 선발투수 류제국이 그의 헬멧에 공을 던지면서 퇴장을 당하였다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[류제국]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[LG_트윈스]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.531">team</mln_predict>
+		<cnn_predict conf="0.744">team</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[던지면서--1차전에서]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

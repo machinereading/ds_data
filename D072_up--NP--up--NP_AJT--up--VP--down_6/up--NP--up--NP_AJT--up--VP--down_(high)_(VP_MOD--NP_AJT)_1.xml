@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(VP_MOD)--up--NP--up--NP_AJT--up--VP--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1738">
+		<sent><![CDATA[결국 사랑은_아무도_못말려는 문근영 대신 당시 조연급에 그친 이영아_(배우)가 대타로 들어갔는데 방영 내내 KBS 1TV 일일극 별난여자 별난남자 때문에 시청률 면에서 고전했다.]]></sent>
+		<sbj label="VP_MOD" josa="도_못">
+			<sbj_text><![CDATA[사랑은_아무도_못말려]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="">
+			<obj_text><![CDATA[이영아_(배우)]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.951">starring</mln_predict>
+		<cnn_predict conf="0.888">starring</cnn_predict>
+		<gsdp>(VP_MOD)--up--NP--up--NP_AJT--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[문근영--대신--들어갔는데]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--up--NP--up--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3914">
+		<sent><![CDATA[그리고 에도_막부 초대 쇼군 도쿠가와_이에야스의 증손이자 제2대 쇼군 도쿠가와 히데타다의 외손이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[에도_막부]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[도쿠가와_이에야스]]></obj_text>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.861">leaderName</mln_predict>
+		<cnn_predict conf="0.731">deathPlace</cnn_predict>
+		<gsdp>(NP)--up--NP--up--NP--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[초대--쇼군]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

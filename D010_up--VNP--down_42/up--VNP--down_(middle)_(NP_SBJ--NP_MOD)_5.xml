@@ -1,0 +1,94 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VNP--down--(NP_MOD)</dependency>
+	<total>5</total>
+	<sent_item id="M_D3503">
+		<sent><![CDATA[영원은 중국 제_(남조)후폐제 소보권의 연호이다.]]></sent>
+		<sbj label="NP_SBJ" josa="은">
+			<sbj_text><![CDATA[제_(남조)]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[소보권]]></obj_text>
+			<arg_type weight="0.04">Agent</arg_type>
+			<arg_type weight="0.54">Person</arg_type>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="1.000">leaderName</mln_predict>
+		<cnn_predict conf="0.515">deathPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[연호이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2097">
+		<sent><![CDATA[그의 형 토비아스_슈바인슈타이거는 현재 레기오날리가에 속해 있는 FC_바이에른_뮌헨_II의 축구 선수이다.]]></sent>
+		<sbj label="NP_SBJ" josa="는">
+			<sbj_text><![CDATA[토비아스_슈바인슈타이거]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[FC_바이에른_뮌헨_II]]></obj_text>
+			<arg_type weight="0.14">Agent</arg_type>
+			<arg_type weight="0.35">Organisation</arg_type>
+			<arg_type weight="0.72">SportsTeam</arg_type>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.447">league</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[선수이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2713">
+		<sent><![CDATA[《연인_(2006년_드라마)》은 SBS의 스페셜드라마이다.]]></sent>
+		<sbj label="NP_SBJ" josa="은">
+			<sbj_text><![CDATA[연인_(2006년_드라마)]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[SBS]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.929">channel</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[스페셜드라마이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2452">
+		<sent><![CDATA[《대왕_세종》은 조선 세종의 일생을 다룬 한국방송공사의 2008년 드라마이다.]]></sent>
+		<sbj label="NP_SBJ" josa="은">
+			<sbj_text><![CDATA[대왕_세종]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[한국방송공사]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.444">channel</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[드라마이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2126">
+		<sent><![CDATA[《타임머신_(MBC)》은 2001년부터 2005년까지 방영된 문화방송의 텔레비전 프로그램이다.]]></sent>
+		<sbj label="NP_SBJ" josa="은">
+			<sbj_text><![CDATA[타임머신_(MBC)]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[문화방송]]></obj_text>
+			<arg_type weight="0.32">Agent</arg_type>
+			<arg_type weight="1.24">Organisation</arg_type>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.852">channel</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[프로그램이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

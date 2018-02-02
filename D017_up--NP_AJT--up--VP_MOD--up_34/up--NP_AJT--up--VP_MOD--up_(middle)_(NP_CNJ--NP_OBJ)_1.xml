@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP_AJT--up--VP_MOD--up--(NP_OBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1542">
+		<sent><![CDATA[뿔도마뱀류는 뿔도마뱀과 뿔도마뱀속에 속하는 도마뱀을 두루 일컫는 말이다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[뿔도마뱀과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="을">
+			<obj_text><![CDATA[도마뱀]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="0.547">order</mln_predict>
+		<cnn_predict conf="0.563">class</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--up--VP_MOD--up--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[뿔도마뱀속에--속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

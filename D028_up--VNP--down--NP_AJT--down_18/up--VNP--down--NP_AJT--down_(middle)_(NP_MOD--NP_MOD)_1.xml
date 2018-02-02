@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP--down--NP_AJT--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1752">
+		<sent><![CDATA[사보나는 이탈리아 북부 리구리아_주의 도시로, 사보나_현의 현도이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[사보나_현]]></sbj_text>
+			<arg_type weight="0.68">Place</arg_type>
+			<arg_type weight="1.40">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[리구리아_주]]></obj_text>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.447">region</mln_predict>
+		<cnn_predict conf="0.344">country</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[현도이다.--도시로,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

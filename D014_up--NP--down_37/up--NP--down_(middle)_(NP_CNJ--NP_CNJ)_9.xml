@@ -1,0 +1,160 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP--down--(NP_CNJ)</dependency>
+	<total>9</total>
+	<sent_item id="M_D3890">
+		<sent><![CDATA[현악기 - 바이올린1, 바이올린2, 비올라, 첼로, 더블베이스]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[비올라]]></sbj_text>
+			<arg_type weight="3.03">Device</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[첼로]]></obj_text>
+			<arg_type weight="1.14">Device</arg_type>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.985">related</mln_predict>
+		<cnn_predict conf="0.400">related</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[더블베이스]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2463">
+		<sent><![CDATA[이전에는 주로 포유류(개, 고양이, 애완용 족제비, 햄스터, 다람쥐 등), 새, 어류 등을 애완용으로 사육해왔다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[고양이]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[포유류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="0.499">class</mln_predict>
+		<cnn_predict conf="0.564">class</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[다람쥐]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2389">
+		<sent><![CDATA[타악기: 팀파니, 트라이앵글, 탬버린, 작은북, 큰북, 심벌즈, 서스펜디드 심벌즈, 글로켄슈필, 실로폰, 비브라폰]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[실로폰]]></sbj_text>
+			<arg_type weight="3.03">Device</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[글로켄슈필]]></obj_text>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.818">related</mln_predict>
+		<cnn_predict conf="0.281">currentMember</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[비브라폰]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D538">
+		<sent><![CDATA[수비수: 김현수, 김태영_(1970년) (전남_드래곤즈), 최진철, 홍명보]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[김태영_(1970년)]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[전남_드래곤즈]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.437">channel</mln_predict>
+		<cnn_predict conf="0.646">team</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[홍명보]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1956">
+		<sent><![CDATA[주요 악기: 플루트, 피콜로, 오보에, 잉글리시 호른, 파곳, 클라리넷, 색소폰, 트럼펫, 코넷, 호른, 트롬본, 튜바, 오르간, 아코디언, 반도네온, 백파이프, 리코더, 오카리나, 아울로스, 팬플루트]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[호른]]></sbj_text>
+			<arg_type weight="3.03">Device</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[코넷]]></obj_text>
+			<arg_type weight="1.14">Device</arg_type>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.664">related</mln_predict>
+		<cnn_predict conf="0.450">related</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[팬플루트]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2757">
+		<sent><![CDATA[목관악기: 피콜로, 플루트2, 오보에2, 잉글리시 호른, 클라리넷2, 베이스 클라리넷, 알토 색소폰, 바순2, 콘트라바순]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[클라리넷]]></sbj_text>
+			<arg_type weight="3.03">Device</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="에">
+			<obj_text><![CDATA[오보에]]></obj_text>
+			<arg_type weight="1.14">Device</arg_type>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.996">related</mln_predict>
+		<cnn_predict conf="0.379">related</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[콘트라바순]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D4010">
+		<sent><![CDATA[타악기: 팀파니, 실로폰, 심벌즈, 트라이앵글, 큰북]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[심벌즈]]></sbj_text>
+			<arg_type weight="3.03">Device</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[실로폰]]></obj_text>
+			<arg_type weight="1.14">Device</arg_type>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.951">related</mln_predict>
+		<cnn_predict conf="0.382">related</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[큰북]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1788">
+		<sent><![CDATA[목관악기: 피콜로, 플루트4, 오보에4, 헤켈 폰, E플랫 클라리넷, 클라리넷4, 바순4, 콘트라바순]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[피콜로]]></sbj_text>
+			<arg_type weight="3.03">Device</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[플루트]]></obj_text>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.895">related</mln_predict>
+		<cnn_predict conf="0.431">related</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[콘트라바순]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2606">
+		<sent><![CDATA[그리하여 미국에 정착한 비토는 18세에 결혼하여 슬하에 산티노 코를레오네, 프레도_코를레오네, 마이클_코를레오네, 코니 코를레오네 등의 자녀를 둔다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[마이클_코를레오네]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+			<arg_type weight="-0.02">Person</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[프레도_코를레오네]]></obj_text>
+			<arg_type weight="0.94">Agent</arg_type>
+			<arg_type weight="0.92">Person</arg_type>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.662">relative</mln_predict>
+		<cnn_predict conf="0.296">deathPlace</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[코를레오네]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

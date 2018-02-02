@@ -1,0 +1,20 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_MOD--up--(VNP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1497">
+		<sent><![CDATA[《인생에서 가장 빛나는 시간》은 2012년 3월 11일부터 2012년 3월 18일까지 방영된 KBS_드라마_스페셜_연작_시리즈 시즌2의 다섯 번째 텔레비전_드라마이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[KBS_드라마_스페셜_연작_시리즈]]></sbj_text>
+			<arg_type weight="0.93">Work</arg_type>
+		</sbj>
+		<obj label="VNP" josa="">
+			<obj_text><![CDATA[텔레비전_드라마]]></obj_text>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.528">channel</mln_predict>
+		<cnn_predict conf="0.351">channel</cnn_predict>
+		<gsdp>(NP)--up--NP_MOD--up--(VNP)</gsdp>
+		<gsdp_lemma><![CDATA[시즌2의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

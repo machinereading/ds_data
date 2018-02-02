@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--up--NP--up--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2965">
+		<sent><![CDATA[조부 : 에도_막부 초대 쇼군 도쿠가와_이에야스]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[에도_막부]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[도쿠가와_이에야스]]></obj_text>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.743">leaderName</mln_predict>
+		<cnn_predict conf="0.675">deathPlace</cnn_predict>
+		<gsdp>(NP)--up--NP--up--NP--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[초대--쇼군]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

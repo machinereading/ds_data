@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D755">
+		<sent><![CDATA[SS 바를레타 칼초는 이탈리아 풀리아 주에 있는 바를레타를 연고로 하는 축구 클럽이다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[바를레타]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[이탈리아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.750">country</mln_predict>
+		<cnn_predict conf="0.789">country</cnn_predict>
+		<gsdp>(NP_OBJ)--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[있는--주에--풀리아]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

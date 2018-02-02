@@ -1,0 +1,40 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--(VNP_MOD)</dependency>
+	<total>2</total>
+	<sent_item id="M_D3685">
+		<sent><![CDATA[이 곡은 밴드의 기타리스트이자 메인 작곡가인 노엘_갤러거에 의해 씌여졌는데, 곧 플래티넘 앨범이 되어 밴드의 영국 음반 차트 1위를 차지한 두 번째 싱글이 되었다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[노엘_갤러거]]></sbj_text>
+			<arg_type weight="0.49">Agent</arg_type>
+			<arg_type weight="0.51">Person</arg_type>
+			<arg_type weight="1.48">Artist</arg_type>
+		</sbj>
+		<obj label="VNP_MOD" josa="">
+			<obj_text><![CDATA[작곡가]]></obj_text>
+		</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.562">birthPlace</mln_predict>
+		<cnn_predict conf="0.615">occupation</cnn_predict>
+		<gsdp>(NP_AJT)--down--(VNP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2827">
+		<sent><![CDATA[라쿠텐의 포수인 시마_모토히로는 마쓰이의 투구를 다나카 마사히로와 비교하면서 다음과 같이 말했다.]]></sent>
+		<sbj label="NP_AJT" josa="는">
+			<sbj_text><![CDATA[시마_모토히로]]></sbj_text>
+			<arg_type weight="0.28">Agent</arg_type>
+			<arg_type weight="0.36">Person</arg_type>
+			<arg_type weight="1.04">Athlete</arg_type>
+		</sbj>
+		<obj label="VNP_MOD" josa="">
+			<obj_text><![CDATA[포수]]></obj_text>
+		</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.193">relative</mln_predict>
+		<cnn_predict conf="0.604">position</cnn_predict>
+		<gsdp>(NP_AJT)--down--(VNP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

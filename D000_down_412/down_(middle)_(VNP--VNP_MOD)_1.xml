@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(VNP)--down--(VNP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2518">
+		<sent><![CDATA[그의 동생은 NC 다이노스의 외야수인 나성범이다.]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[나성범]]></sbj_text>
+			<arg_type weight="0.28">Agent</arg_type>
+			<arg_type weight="0.36">Person</arg_type>
+			<arg_type weight="1.04">Athlete</arg_type>
+		</sbj>
+		<obj label="VNP_MOD" josa="">
+			<obj_text><![CDATA[외야수]]></obj_text>
+		</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.201">birthPlace</mln_predict>
+		<cnn_predict conf="0.865">position</cnn_predict>
+		<gsdp>(VNP)--down--(VNP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

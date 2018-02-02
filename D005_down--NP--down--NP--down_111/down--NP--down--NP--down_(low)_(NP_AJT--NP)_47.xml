@@ -1,0 +1,750 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--NP--down--NP--down--(NP)</dependency>
+	<total>47</total>
+	<sent_item id="M_D605">
+		<sent><![CDATA[부온콘벤토는 이탈리아 토스카나 주 시에나_현에 있는 코무네다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[시에나_현]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[이탈리아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.972">country</mln_predict>
+		<cnn_predict conf="0.949">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--토스카나]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2956">
+		<sent><![CDATA[니시나카 역은 일본 홋카이도 소라치 군 나카후라노_정에 위치한 홋카이도 여객철도 후라노 선의 철도역이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[나카후라노_정]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[홋카이도]]></obj_text>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="1.000">region</mln_predict>
+		<cnn_predict conf="0.539">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[군--소라치]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D726">
+		<sent><![CDATA[아빌리아노움브로는 이탈리아 움브리아 주 테르니_현에 위치한 코무네다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[테르니_현]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[이탈리아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.875">country</mln_predict>
+		<cnn_predict conf="0.878">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--움브리아]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D827">
+		<sent><![CDATA[바콜로드는 필리핀 중부 비사야 제도 네그로스_섬에 위치한 도시로, 서네그로스 주의 주도이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[네그로스_섬]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[필리핀]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.481">region</mln_predict>
+		<cnn_predict conf="0.952">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[제도--중부]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D878">
+		<sent><![CDATA[게오르크 아우구스트 괴팅겐 대학교는 독일 니더작센 주 괴팅겐에 있는 대학교이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[괴팅겐]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[독일]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.816">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--니더작센]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1583">
+		<sent><![CDATA[봉은사 목 사천왕상은 서울특별시 강남구 삼성동, 봉은사에 있는 조선시대의 사천왕상이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[봉은사]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="-0.11">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.19">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[서울특별시]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.990">location</mln_predict>
+		<cnn_predict conf="0.769">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[삼성동,--강남구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3703">
+		<sent><![CDATA[봉은사 목 십육나한상은 서울특별시 강남구 삼성동, 봉은사에 있는 조선시대의 불상이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[봉은사]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="-0.11">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.19">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[서울특별시]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.998">location</mln_predict>
+		<cnn_predict conf="0.760">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[삼성동,--강남구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D721">
+		<sent><![CDATA[코이푸이는 칠레 아라우카니아 주 마예코_현에 위치한 도시로 면적은 1,295.9㎢, 높이는 243m, 인구는 23,321명이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[마예코_현]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[칠레]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.761">country</mln_predict>
+		<cnn_predict conf="0.901">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--아라우카니아]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1007">
+		<sent><![CDATA[산텔리아피우메라피는 이탈리아 라치오 주 프로시노네_현에 위치한 코무네다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[프로시노네_현]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[이탈리아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.865">country</mln_predict>
+		<cnn_predict conf="0.858">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--라치오]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D421">
+		<sent><![CDATA[산토메로는 이탈리아 아브루초 주 테라모_현에 위치한 코무네다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[테라모_현]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[이탈리아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.944">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--아브루초]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D4085">
+		<sent><![CDATA[팬들 사이에서는 그를 오스트레일리아 출신 패널 다니엘_스눅스와 구별하기 위해 '독다' 또는 '독다니엘'이라는 표현을 쓰기도 했다.]]></sent>
+		<sbj label="NP_AJT" josa="와">
+			<sbj_text><![CDATA[다니엘_스눅스]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[오스트레일리아]]></obj_text>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.299">birthPlace</mln_predict>
+		<cnn_predict conf="0.316">birthPlace</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[패널--출신]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2251">
+		<sent><![CDATA[이쿠토라 역은 일본 홋카이도 소라치 군 미나미후라노_정에 있는 홋카이도 여객철도 네무로 본선의 철도역이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[미나미후라노_정]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[홋카이도]]></obj_text>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="1.000">region</mln_predict>
+		<cnn_predict conf="0.744">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[군--소라치]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D530">
+		<sent><![CDATA[아리엘리는 이탈리아 아브루초 주 키에티_현에 있는 코무네이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[키에티_현]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[이탈리아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.962">country</mln_predict>
+		<cnn_predict conf="0.891">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--아브루초]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2536">
+		<sent><![CDATA[규시라타키 역은 일본 홋카이도 몬베쓰 군 엔가루_정에 위치한 홋카이도 여객철도 세키호쿠 본선의 철도역이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[엔가루_정]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[홋카이도]]></obj_text>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.755">region</mln_predict>
+		<cnn_predict conf="0.650">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[군--몬베쓰]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D809">
+		<sent><![CDATA[로카몬피나는 이탈리아 캄파니아 주 카세르타_현에 있는 코무네이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[카세르타_현]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[이탈리아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.873">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--캄파니아]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D588">
+		<sent><![CDATA[미냐노몬테룬고는 이탈리아 캄파니아 주 카세르타_현에 있는 코무네이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[카세르타_현]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[이탈리아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.873">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--캄파니아]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D955">
+		<sent><![CDATA[커클리즈 스타디움은 잉글랜드 웨스트요크셔 주 허더즈필드에 위치한 다목적 경기장으로, 수용 인원은 24,500명이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[허더즈필드]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[잉글랜드]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.857">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--웨스트요크셔]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D367">
+		<sent><![CDATA[안카라노는 이탈리아 아브루초 주 테라모_현에 위치한 코무네다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[테라모_현]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[이탈리아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.981">country</mln_predict>
+		<cnn_predict conf="0.944">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--아브루초]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D162">
+		<sent><![CDATA[콜레피에트로는 이탈리아 아브루초 주 라퀼라_현에 있는 코무네이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[라퀼라_현]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[이탈리아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.948">country</mln_predict>
+		<cnn_predict conf="0.885">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--아브루초]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D61">
+		<sent><![CDATA[카스텔라바테는 이탈리아 캄파니아 주 살레르노_현에 위치한 코무네다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[살레르노_현]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[이탈리아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.921">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--캄파니아]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3141">
+		<sent><![CDATA[그 뒤 페이팔 공동 창립자 피터_틸로부터 첫 투자를 받았다.]]></sent>
+		<sbj label="NP_AJT" josa="로부터">
+			<sbj_text><![CDATA[피터_틸]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[페이팔]]></obj_text>
+			<arg_type weight="-0.23">Agent</arg_type>
+			<arg_type weight="0.14">Organisation</arg_type>
+		</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.186">relative</mln_predict>
+		<cnn_predict conf="0.241">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[창립자--공동]]></gsdp_lemma>
+		<comment>
+			location 도 일부 점수를 주어야함.
+			owingOrganisation 이 occupation보다 specific함.
+			dbpedia ontology 자체가 여러 커뮤니티에서 property ontology를 만듦.
+
+			NP 4개 사이는 
+			고유명사(예:서울특별시-강서구) 또는 보통명사(예:)공동-창립자)로 이루어져 있다.
+			고유명사가 이어진 경우는 두 Entity가 partOf 형태의 관계로 생각할 수 있고
+			보통명사가 이어진 경우는 두 Entity의 Type에 의해서 Relation이 결정되는 경향. 
+			이 보통명사가 Type을 알려줄 수 있음. 일종의 partOf
+		</comment>
+	</sent_item>
+	<sent_item id="M_D82">
+		<sent><![CDATA[나가야마 역은 일본 아이치 현 도요카와_시에 위치한 도카이 여객철도 이다 선의 철도역이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[도요카와_시]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[일본]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.933">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[현--아이치]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D192">
+		<sent><![CDATA[시카고 콜리시엄는 미국 일리노이 주 시카고에 위치한 실내 경기장이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[시카고]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[미국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.999">country</mln_predict>
+		<cnn_predict conf="0.610">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--일리노이]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D4">
+		<sent><![CDATA[카사마르차노는 이탈리아 캄파니아 주 나폴리_현에 위치한 코무네다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[나폴리_현]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[이탈리아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.872">country</mln_predict>
+		<cnn_predict conf="0.917">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--캄파니아]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D635">
+		<sent><![CDATA[갈리카노는 이탈리아 토스카나 주 루카_현에 있는 코무네이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[루카_현]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[이탈리아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.992">country</mln_predict>
+		<cnn_predict conf="0.915">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--토스카나]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D78">
+		<sent><![CDATA[나벨리는 이탈리아 아브루초 주 라퀼라_현에 있는 코무네이며 사프란 생산으로 유명하다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[라퀼라_현]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[이탈리아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.947">country</mln_predict>
+		<cnn_predict conf="0.801">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--아브루초]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3949">
+		<sent><![CDATA[나카고야 역은 일본 홋카이도 이시카리 군 도베쓰_정에 위치한 홋카이도 여객철도 삿쇼 선의 철도역이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[도베쓰_정]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[홋카이도]]></obj_text>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.838">region</mln_predict>
+		<cnn_predict conf="0.525">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[군--이시카리]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2313">
+		<sent><![CDATA[도요우라 역은 일본 홋카이도 아부타 군 도요우라_정에 위치한 홋카이도 여객철도 무로란 본선의 철도역이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[도요우라_정]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[홋카이도]]></obj_text>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.446">region</mln_predict>
+		<cnn_predict conf="0.550">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[군--아부타]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D135">
+		<sent><![CDATA[딥워터 허라이즌 폭발 사고는 2010년 4월 20일 미국 루이지애나 주 멕시코_만에 있는 딥워터 허라이즌의 석유 시추 시설이 폭발한 사고이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[멕시코_만]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[미국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.995">country</mln_predict>
+		<cnn_predict conf="0.449">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--루이지애나]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1038">
+		<sent><![CDATA[부치노는 이탈리아 캄파니아 주 살레르노_현에 위치한 코무네다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[살레르노_현]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[이탈리아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.925">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--캄파니아]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D410">
+		<sent><![CDATA[미야코 시는 일본 도호쿠 지방 이와테_현에 있는 시이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[이와테_현]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[일본]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.492">country</mln_predict>
+		<cnn_predict conf="0.869">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[지방--도호쿠]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D732">
+		<sent><![CDATA[파사우 대학교는 독일 바이에른 주 파사우에 있는 대학교이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[파사우]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[독일]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.981">country</mln_predict>
+		<cnn_predict conf="0.786">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--바이에른]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D457">
+		<sent><![CDATA[산타바르바라는 칠레 비오비오 주 비오비오_현에 위치한 도시로 면적은 1,254.9㎢, 높이는 222m, 인구는 13,405명, 인구 밀도는 11명/㎢이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[비오비오_현]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[칠레]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.596">country</mln_predict>
+		<cnn_predict conf="0.885">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--비오비오]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D119">
+		<sent><![CDATA[토메는 칠레 비오비오 주 콘셉시온_현에 위치한 도시로 면적은 494.5㎢, 높이는 12m, 인구는 53,219명이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[콘셉시온_현]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[칠레]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.519">region</mln_predict>
+		<cnn_predict conf="0.847">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--비오비오]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D184">
+		<sent><![CDATA[첼리노아타나시오는 이탈리아 아브루초 주 테라모_현에 위치한 코무네다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[테라모_현]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[이탈리아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.944">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--아브루초]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D531">
+		<sent><![CDATA[콘치 공화국은 미국 플로리다 주 키웨스트에 위치한 마이크로네이션이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[키웨스트]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[미국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.845">country</mln_predict>
+		<cnn_predict conf="0.875">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--플로리다]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1874">
+		<sent><![CDATA[국도 제26호선은 전라북도 군산시 옥서면 군산공항에서 전주시, 거창군을 지나 대구광역시 서구 두류네거리를 연결하는 대한민국의 일반 국도이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[군산공항]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[전라북도]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.451">city</mln_predict>
+		<cnn_predict conf="0.490">city</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[옥서면--군산시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1816">
+		<sent><![CDATA[봉은사 목 삼불상은 서울특별시 강남구 삼성동, 봉은사에 있는 조선시대의 불상이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[봉은사]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="-0.11">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.19">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[서울특별시]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.998">location</mln_predict>
+		<cnn_predict conf="0.757">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[삼성동,--강남구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D661">
+		<sent><![CDATA[올리베토치트라는 이탈리아 캄파니아 주 살레르노_현에 있는 코무네이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[살레르노_현]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[이탈리아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.960">country</mln_predict>
+		<cnn_predict conf="0.883">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--캄파니아]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D729">
+		<sent><![CDATA[코리는 이탈리아 라치오 주 라티나_현에 위치한 코무네다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[라티나_현]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[이탈리아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.902">country</mln_predict>
+		<cnn_predict conf="0.932">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--라치오]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3964">
+		<sent><![CDATA[양산 통도사 극락암 칠성탱은 경상남도 양산시 하북면 통도사에 있는 조선시대의 탱화이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[통도사]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="-0.11">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.19">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[경상남도]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.732">location</mln_predict>
+		<cnn_predict conf="0.281">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[하북면--양산시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D804">
+		<sent><![CDATA[로카세카데이볼시는 이탈리아 라치오 주 라티나_현에 위치한 코무네다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[라티나_현]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[이탈리아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.907">country</mln_predict>
+		<cnn_predict conf="0.935">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--라치오]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D582">
+		<sent><![CDATA[포피는 이탈리아 라치오 주 프로시노네_현에 위치한 코무네이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[프로시노네_현]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[이탈리아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.874">country</mln_predict>
+		<cnn_predict conf="0.828">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--라치오]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3005">
+		<sent><![CDATA[양산 통도사 청동여래입상은 경상남도 양산시 하북면 통도사에 있는 청동여래입상이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[통도사]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="-0.11">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.19">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[경상남도]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.902">location</mln_predict>
+		<cnn_predict conf="0.297">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[하북면--양산시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D92">
+		<sent><![CDATA[아나니는 이탈리아 라치오 주 프로시노네_현에 위치한 코무네다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[프로시노네_현]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[이탈리아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.874">country</mln_predict>
+		<cnn_predict conf="0.913">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--라치오]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D802">
+		<sent><![CDATA[도쿠미쓰 역은 일본 홋카이도 데시오 군 도요토미_정에 위치한 홋카이도 여객철도 소야 본선의 철도역이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[도요토미_정]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[홋카이도]]></obj_text>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="1.000">region</mln_predict>
+		<cnn_predict conf="0.548">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[군--데시오]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1728">
+		<sent><![CDATA[야스우시 역은 일본 홋카이도 데시오 군 호로노베_정에 위치한 홋카이도 여객철도 소야 본선의 철도역이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[호로노베_정]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[홋카이도]]></obj_text>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.908">region</mln_predict>
+		<cnn_predict conf="0.569">region</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[군--데시오]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_PRN)--up--X--up--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D831">
+		<sent><![CDATA[2016년 KBS2 해피선데이- 슈퍼맨이_돌아왔다 - 최초로 외동딸 오서흔 공개와 동시에 공동육아구역 OGG 멤버 합류]]></sent>
+		<sbj label="NP_PRN" josa="">
+			<sbj_text><![CDATA[슈퍼맨이_돌아왔다]]></sbj_text>
+			<arg_type weight="0.09">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[해피선데이]]></obj_text>
+			<arg_type weight="2.62">Work</arg_type>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.300">channel</mln_predict>
+		<cnn_predict conf="0.564">starring</cnn_predict>
+		<gsdp>(NP_PRN)--up--X--up--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[---합류]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

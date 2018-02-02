@@ -1,0 +1,123 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP_MOD--up--VNP--down--(NP_MOD)</dependency>
+	<total>7</total>
+	<sent_item id="M_D31">
+		<sent><![CDATA[FK 로브첸은 체티네를 연고로 하는 몬테네그로의 축구 클럽이다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[체티네]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[몬테네그로]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.991">country</mln_predict>
+		<cnn_predict conf="0.592">country</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP_MOD--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[하는--클럽이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D772">
+		<sent><![CDATA[FC 콩코르디아 바젤은 바젤을 연고로 하는 스위스의 축구 클럽이다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[바젤]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[스위스]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.990">country</mln_predict>
+		<cnn_predict conf="0.408">largestCity</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP_MOD--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[하는--클럽이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1148">
+		<sent><![CDATA[쓰야마 선은, 오카야마 현 오카야마 시의 오카야마 역에서 오카야마 현 쓰야마 시의 쓰야마_역까지를 잇는 서일본_여객철도의 철도 노선이다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[쓰야마_역]]></sbj_text>
+			<arg_type weight="0.09">Place</arg_type>
+			<arg_type weight="0.31">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.42">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[서일본_여객철도]]></obj_text>
+		</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="1.000">owningOrganisation</mln_predict>
+		<cnn_predict conf="0.954">owningOrganisation</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP_MOD--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[잇는--노선이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2053">
+		<sent><![CDATA[하나와 선은 일본 이와테 현 모리오카 시에 있는 고마 역부터 아키타 현 오다테 시에 있는 오다테_역을 잇는 동일본_여객철도의 철도 노선이다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[오다테_역]]></sbj_text>
+			<arg_type weight="0.09">Place</arg_type>
+			<arg_type weight="0.31">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.42">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[동일본_여객철도]]></obj_text>
+		</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.959">owningOrganisation</mln_predict>
+		<cnn_predict conf="0.947">owningOrganisation</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP_MOD--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[잇는--노선이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1071">
+		<sent><![CDATA[한큐 전철 다카라즈카 본선은 일본 오사카 시 기타 구의 우메다 역부터 효고 현 다카라즈카 시의 다카라즈카_역을 잇는 한큐_전철의 철도 노선이다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[다카라즈카_역]]></sbj_text>
+			<arg_type weight="0.09">Place</arg_type>
+			<arg_type weight="0.31">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.42">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[한큐_전철]]></obj_text>
+		</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.957">owningOrganisation</mln_predict>
+		<cnn_predict conf="0.687">owningOrganisation</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP_MOD--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[잇는--노선이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3359">
+		<sent><![CDATA[가마이시 선은 일본 이와테 현 하나마키 시의 하나마키 역에서 가마이시 시의 가마이시_역까지 연결하는 동일본_여객철도의 철도 노선이다.]]></sent>
+		<sbj label="NP_OBJ" josa="까지">
+			<sbj_text><![CDATA[가마이시_역]]></sbj_text>
+			<arg_type weight="0.09">Place</arg_type>
+			<arg_type weight="0.31">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.42">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[동일본_여객철도]]></obj_text>
+		</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.824">owningOrganisation</mln_predict>
+		<cnn_predict conf="0.809">owningOrganisation</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP_MOD--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[연결하는--노선이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D925">
+		<sent><![CDATA[니키 볼로스 FC는 볼로스를 연고로 하는 그리스의 축구 클럽이다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[볼로스]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[그리스]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.884">country</mln_predict>
+		<cnn_predict conf="0.569">country</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP_MOD--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[하는--클럽이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

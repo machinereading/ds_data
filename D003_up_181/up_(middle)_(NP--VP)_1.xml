@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP)--up--(VP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1926">
+		<sent><![CDATA[의붓형: 장다웨이(姜大衛, , 아버지는 다르나 같은 어머니 소생의 의붓형으로 홍콩 영화 배우 겸 영화_감독.)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[장다웨이]]></sbj_text>
+			<arg_type weight="0.49">Agent</arg_type>
+			<arg_type weight="0.51">Person</arg_type>
+			<arg_type weight="1.48">Artist</arg_type>
+		</sbj>
+		<obj label="VP" josa="">
+			<obj_text><![CDATA[영화_감독]]></obj_text>
+		</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.868">occupation</mln_predict>
+		<cnn_predict conf="0.867">occupation</cnn_predict>
+		<gsdp>(NP)--up--(VP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

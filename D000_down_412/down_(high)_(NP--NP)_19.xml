@@ -1,0 +1,393 @@
+<sentence_list>
+	<dependency>(NP)--down--(NP)</dependency>
+	<total>19</total>
+	<sent_item id="M_D1671">
+		<sent><![CDATA[하야미 쇼 - 키타야마_히로미츠 (Kis-My-Ft2)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[Kis-My-Ft2]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[키타야마_히로미츠]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.955">currentMember</mln_predict>
+		<cnn_predict conf="0.810">currentMember</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3759">
+		<sent><![CDATA[6. 문을 열어 문으로 (Feat. 호란 of 클래지콰이_프로젝트)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[클래지콰이_프로젝트]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[호란]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="1.000">currentMember</mln_predict>
+		<cnn_predict conf="0.569">currentMember</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1297">
+		<sent><![CDATA[타테와키 쇼타로 - 후지가야_타이스케 (Kis-My-Ft2)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[Kis-My-Ft2]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[후지가야_타이스케]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="1.000">currentMember</mln_predict>
+		<cnn_predict conf="0.814">currentMember</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1255">
+		<sent><![CDATA[메구로 유우 - 미야모토_카린 (Juice=Juice)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[Juice=Juice]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[미야모토_카린]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.792">currentMember</mln_predict>
+		<cnn_predict conf="0.439">currentMember</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3402">
+		<sent><![CDATA[최우수 알앤비&소울 : 거미_(가수) - "It's_Different"]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[It's_Different]]></sbj_text>
+			<arg_type weight="0.55">Work</arg_type>
+			<arg_type weight="2.57">MusicalWork</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[거미_(가수)]]></obj_text>
+			<arg_type weight="0.48">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+			<arg_type weight="1.03">Artist</arg_type>
+		</obj>
+		<gold>artist</gold>
+		<mln_predict conf="0.475">starring</mln_predict>
+		<cnn_predict conf="0.520">currentMember</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2751">
+		<sent><![CDATA[7. 지도 밖으로의 행군 (Feat. 스컬 of Stony Skunk, 무웅 of 배치기)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[배치기]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[무웅]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="1.000">currentMember</mln_predict>
+		<cnn_predict conf="0.680">currentMember</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2672">
+		<sent><![CDATA[Mean Mr. Mustard는 비틀즈의 노래로 앨범 《Abbey_Road》의 B사이드 메들리의 전반 메들리에 등장하는 곡의 하나로 존 레논에 의해 작곡되었으며, 레논/매카트니라는 이름으로 크레딧에 올랐다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[Abbey_Road]]></sbj_text>
+			<arg_type weight="0.55">Work</arg_type>
+			<arg_type weight="2.57">MusicalWork</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[비틀즈]]></obj_text>
+			<arg_type weight="0.48">Agent</arg_type>
+			<arg_type weight="0.43">Organisation</arg_type>
+			<arg_type weight="2.38">Group</arg_type>
+		</obj>
+		<gold>artist</gold>
+		<mln_predict conf="1.000">artist</mln_predict>
+		<cnn_predict conf="0.282">genre</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1491">
+		<sent><![CDATA[사와다 신 - 마츠모토_준 (아라시)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[아라시]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[마츠모토_준]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.886">currentMember</mln_predict>
+		<cnn_predict conf="0.852">currentMember</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D218">
+		<sent><![CDATA[2015년 tvN 금토드라마 《하트_투_하트》... 유년기 고이석 역 (천정명 아역)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[하트_투_하트]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[천정명]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.991">starring</mln_predict>
+		<cnn_predict conf="0.951">starring</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1842">
+		<sent><![CDATA[6. 피에로의 눈물 (Feat. 무웅 Of 배치기)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[배치기]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[무웅]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="1.000">currentMember</mln_predict>
+		<cnn_predict conf="0.654">currentMember</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3367">
+		<sent><![CDATA[2015년 JTBC 금토드라마《사랑하는_은동아》 - 민아 역]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[사랑하는_은동아]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[JTBC]]></obj_text>
+			<arg_type weight="0.32">Agent</arg_type>
+			<arg_type weight="1.24">Organisation</arg_type>
+			<arg_type weight="6.41">Company</arg_type>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.850">channel</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1522">
+		<sent><![CDATA[킨다이치 하지메 - 야마다_료스케 (헤이!_세이!_점프)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[헤이!_세이!_점프]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[야마다_료스케]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="1.000">starring</mln_predict>
+		<cnn_predict conf="0.894">currentMember</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1907">
+		<sent><![CDATA[대한민국의 가수 세훈 (EXO, EXO-K).]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[EXO]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[세훈]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.951">currentMember</mln_predict>
+		<cnn_predict conf="0.803">currentMember</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2266">
+		<sent><![CDATA[이치노세 유안 - 시라하마_아란 (GENERATIONS_from_EXILE_TRIBE/EXILE)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[GENERATIONS_from_EXILE_TRIBE]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[시라하마_아란]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.842">currentMember</mln_predict>
+		<cnn_predict conf="0.703">currentMember</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3721">
+		<sent><![CDATA[아카사카 하루 - 후쿠무라_미즈키 (모닝구무스메리더)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[모닝구무스메]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[후쿠무라_미즈키]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="1.000">currentMember</mln_predict>
+		<cnn_predict conf="0.892">currentMember</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D594">
+		<sent><![CDATA[유메노케 - 타마이_시오리 (모모이로_클로버_Z)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[모모이로_클로버_Z]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[타마이_시오리]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.811">currentMember</mln_predict>
+		<cnn_predict conf="0.295">currentMember</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1124">
+		<sent><![CDATA[홋타 아오 - 카메나시_카즈야 (KAT-TUN)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[KAT-TUN]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[카메나시_카즈야]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="1.000">currentMember</mln_predict>
+		<cnn_predict conf="0.801">currentMember</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3462">
+		<sent><![CDATA[2013년 6월 4일 ~ 2014년 5월 20일 JTBC 《유자식_상팔자》]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[유자식_상팔자]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[JTBC]]></obj_text>
+			<arg_type weight="0.32">Agent</arg_type>
+			<arg_type weight="1.24">Organisation</arg_type>
+			<arg_type weight="6.41">Company</arg_type>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.980">channel</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2687">
+		<sent><![CDATA[2014년 JTBC 《비정상회담》 24회에 일일 비정상으로 출연하였으며, 2015년 《내 친구의 집은 어디인가》에 출연하였다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[비정상회담]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[JTBC]]></obj_text>
+			<arg_type weight="0.32">Agent</arg_type>
+			<arg_type weight="1.24">Organisation</arg_type>
+			<arg_type weight="6.41">Company</arg_type>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.755">channel</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,37 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP_AJT--up--VP--down--(NP_AJT)</dependency>
+	<total>2</total>
+	<sent_item id="M_D3602">
+		<sent><![CDATA[혼시비산_선의 역으로 서일본_여객철도과 관할하고 있다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[혼시비산_선]]></sbj_text>
+			<arg_type weight="0.08">Place</arg_type>
+			<arg_type weight="0.17">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.15">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="과">
+			<obj_text><![CDATA[서일본_여객철도]]></obj_text>
+		</obj>
+		<gold>owner</gold>
+		<mln_predict conf="0.669">operator</mln_predict>
+		<cnn_predict conf="0.539">owningOrganisation</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[역으로--관할하고]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2406">
+		<sent><![CDATA[소말리어는 소말리족의 언어로 아프리카아시아어족의 쿠시어파에 속한다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[소말리족]]></sbj_text>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[쿠시어파]]></obj_text>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.401">order</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[언어로--속한다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

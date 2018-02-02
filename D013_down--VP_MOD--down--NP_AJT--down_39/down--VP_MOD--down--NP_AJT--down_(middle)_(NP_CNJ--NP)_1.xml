@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--down--VP_MOD--down--NP_AJT--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1225">
+		<sent><![CDATA[이 앨범에는 그뿐만 아니라 토니_야요,로이드 뱅크스와 같은 G-Unit과 프로듀서인 디제이 클루가 참여했다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[G-Unit]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[토니_야요]]></obj_text>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.399">genre</mln_predict>
+		<cnn_predict conf="0.437">currentMember</cnn_predict>
+		<gsdp>(NP_CNJ)--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[같은--뱅크스와]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,373 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--NP--down--NP--down--(NP)</dependency>
+	<total>22</total>
+	<sent_item id="M_D191">
+		<sent><![CDATA[춘골리는 이탈리아 캄파니아 주 아벨리노_현의 코무네다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[아벨리노_현]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[이탈리아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.891">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--캄파니아]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D720">
+		<sent><![CDATA[핀토는 칠레 비오비오 주 뉴블레_현의 코무나이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[뉴블레_현]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[칠레]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.757">country</mln_predict>
+		<cnn_predict conf="0.832">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--비오비오]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D44">
+		<sent><![CDATA[엘타보는 칠레 발파라이소 주 산안토니오_현의 코무나이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[산안토니오_현]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[칠레]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.310">region</mln_predict>
+		<cnn_predict conf="0.868">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--발파라이소]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D723">
+		<sent><![CDATA[산탄젤로아쿠폴로는 이탈리아 캄파니아 주 베네벤토_현의 코무네다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[베네벤토_현]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[이탈리아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.947">country</mln_predict>
+		<cnn_predict conf="0.942">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--캄파니아]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1796">
+		<sent><![CDATA[그밖에 공학자이며 시스템클럽의 대표 지만원, 대한민국 11~12대 대통령 전두환의 팬클럽인 전사모, 대학교수 이주천, 언론인 김동문 등이 유사한 주장을 하고 있다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[전두환]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+			<arg_type weight="0.34">Politician</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="1.000">birthPlace</mln_predict>
+		<cnn_predict conf="0.374">birthPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[대통령--11~12대]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1035">
+		<sent><![CDATA[카사칼렌다는 이탈리아 몰리세 주 캄포바소_현의 코무네다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[캄포바소_현]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[이탈리아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.993">country</mln_predict>
+		<cnn_predict conf="0.867">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--몰리세]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D386">
+		<sent><![CDATA[코크라네는 칠레 아이센델헤네랄카를로스이바녜스델캄포 주 카피탄프라트_현의 코무나이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[카피탄프라트_현]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[칠레]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.822">country</mln_predict>
+		<cnn_predict conf="0.660">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--아이센델헤네랄카를로스이바녜스델캄포]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D598">
+		<sent><![CDATA[미원면은 대한민국 충청북도 청주시 상당구의 면이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[상당구]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.796">country</mln_predict>
+		<cnn_predict conf="0.875">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[청주시--충청북도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1343">
+		<sent><![CDATA[승만부인은 신라 제26대 왕 진평왕의 두 번째 왕비이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[진평왕]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[신라]]></obj_text>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.601">birthPlace</mln_predict>
+		<cnn_predict conf="0.890">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[왕--제26대]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2683">
+		<sent><![CDATA[박정희 전 대통령의 외아들인 박지만 EG 회장의 부인이자, 대한민국 제18대 대통령 박근혜의 올케이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[박근혜]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+			<arg_type weight="0.34">Politician</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.998">birthPlace</mln_predict>
+		<cnn_predict conf="0.475">birthPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[대통령--제18대]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D646">
+		<sent><![CDATA[로카산펠리체는 이탈리아 캄파니아 주 아벨리노_현의 코무네다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[아벨리노_현]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[이탈리아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.891">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--캄파니아]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1034">
+		<sent><![CDATA[불네스는 칠레 비오비오 주 뉴블레_현의 코무나이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[뉴블레_현]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[칠레]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.644">country</mln_predict>
+		<cnn_predict conf="0.840">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--비오비오]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D736">
+		<sent><![CDATA[워크 오브 게임은 미국 캘리포니아 주 샌프란시스코의 엔터테인먼트 복합 시설 메토레온에 설치되어 있는 비디오 게임 산업에서 뛰어난 활약을 보인 사람들을 기념하기 위한 장소이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[샌프란시스코]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[미국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.383">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--캘리포니아]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D528">
+		<sent><![CDATA[갈바리노는 칠레 아라우카니아 주 카우틴_현의 코무나이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[카우틴_현]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[칠레]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.809">country</mln_predict>
+		<cnn_predict conf="0.822">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--아라우카니아]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D897">
+		<sent><![CDATA[칼리트리는 이탈리아 캄파니아 주 아벨리노_현의 코무네다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[아벨리노_현]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[이탈리아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.995">country</mln_predict>
+		<cnn_predict conf="0.891">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--캄파니아]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2966">
+		<sent><![CDATA[케이코 소피아 후지모리 히구치는 페루 제91대 대통령 알베르토_후지모리의 딸로 페루의 사업가이자 정치가이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[알베르토_후지모리]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+			<arg_type weight="0.34">Politician</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[페루]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.968">birthPlace</mln_predict>
+		<cnn_predict conf="0.439">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[대통령--제91대]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D846">
+		<sent><![CDATA[비사차는 이탈리아 캄파니아 주 아벨리노_현의 코무네다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[아벨리노_현]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[이탈리아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.891">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--캄파니아]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3826">
+		<sent><![CDATA[노건평은 대한민국 제16대 대통령 노무현의 둘째 형이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[노무현]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+			<arg_type weight="0.34">Politician</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="1.000">birthPlace</mln_predict>
+		<cnn_predict conf="0.429">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[대통령--제16대]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3364">
+		<sent><![CDATA[근빈 박씨는 조선 제7대 왕 조선_세조의 후궁이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[조선_세조]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조선]]></obj_text>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.731">birthPlace</mln_predict>
+		<cnn_predict conf="0.957">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[왕--제7대]]></gsdp_lemma>
+		<comment>중간 보통명사가(왕, 제-7대)가 Type으로 작용함
+			inverse relation 은 king ,  leaderName 같은 것이 나옴. (조선 king 조선_세조)
+			정 방향일 경우 occupation이 맞음 (조선_세조 occupation 조선)
+			이런 경우 (birth,death를 직접적으로 유추할 수 없는 경우)는 확실히 맞는 것이 아님-> 
+			nationality가 정확함
+		</comment>
+	</sent_item>
+	<sent_item id="M_D63">
+		<sent><![CDATA[파레도네스는 칠레 리베르타도르헤네랄베르나르도오이긴스 주 카르데날카로_현의 코무나이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[카르데날카로_현]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[칠레]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.930">country</mln_predict>
+		<cnn_predict conf="0.727">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--리베르타도르헤네랄베르나르도오이긴스]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2939">
+		<sent><![CDATA[영돈녕부사 어유구의 딸 선의왕후 어씨가 조선 20대 왕 조선_경종의 왕비가 되면서 함종현이 함종부로 승격되었다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[조선_경종]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조선]]></obj_text>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.845">deathPlace</mln_predict>
+		<cnn_predict conf="0.869">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[왕--20대]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D915">
+		<sent><![CDATA[엠페드라도는 칠레 마울레 주 탈카_현의 코무나이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[탈카_현]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[칠레]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.903">country</mln_predict>
+		<cnn_predict conf="0.824">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주--마울레]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

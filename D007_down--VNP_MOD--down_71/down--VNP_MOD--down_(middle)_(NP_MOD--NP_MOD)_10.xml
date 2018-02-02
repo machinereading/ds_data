@@ -1,0 +1,176 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--VNP_MOD--down--(NP_MOD)</dependency>
+	<total>10</total>
+	<sent_item id="M_D3473">
+		<sent><![CDATA[프랑스의 전 대통령인 샤를_드_골의 이름을 따서 붙여졌다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[샤를_드_골]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+			<arg_type weight="0.68">Politician</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[프랑스]]></obj_text>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.672">deathPlace</mln_predict>
+		<cnn_predict conf="0.437">birthPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[대통령인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2569">
+		<sent><![CDATA[이 경기장은 독일 푸스발-분데스리가의 축구 클럽인 보루시아_도르트문트의 홈구장으로 사용된다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[보루시아_도르트문트]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[푸스발-분데스리가]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.705">league</mln_predict>
+		<cnn_predict conf="0.397">league</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[클럽인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D301">
+		<sent><![CDATA[아래는 KBS_1TV의 토론 프로그램인 《생방송_심야토론》의 방영 목록이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[생방송_심야토론]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[KBS_1TV]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.922">channel</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[프로그램인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D233">
+		<sent><![CDATA[헤프렌 이삭 수아레스 베르무데스는 베네수엘라 시우다드볼리바르 출생의 스페인 축구 선수로, 프리메라리가의 축구 클럽인 레알_바야돌리드의 윙어이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[레알_바야돌리드]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[프리메라리가]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.935">league</mln_predict>
+		<cnn_predict conf="0.369">league</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[클럽인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D388">
+		<sent><![CDATA[현재 우즈베키스탄_리그의 소속 클럽인 FK_로코모티프_타슈켄트의 선수로 활동하고 있다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[FK_로코모티프_타슈켄트]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[우즈베키스탄_리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.960">league</mln_predict>
+		<cnn_predict conf="0.481">league</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[클럽인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1181">
+		<sent><![CDATA[렉서스 NX는 일본의 자동차 메이커 토요타_자동차의 고급 브랜드인 렉서스의 컴팩트 스포츠 유틸리티 자동차이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[렉서스]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[토요타_자동차]]></obj_text>
+			<arg_type weight="0.81">Agent</arg_type>
+			<arg_type weight="1.05">Organisation</arg_type>
+		</obj>
+		<gold>owner</gold>
+		<mln_predict conf="0.748">owner</mln_predict>
+		<cnn_predict conf="0.549">location</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[브랜드인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3942">
+		<sent><![CDATA[〈부서진 입가에 머물다〉는 문화방송 MBC_TV의 시트콤 프로그램인 논스톱_5의 OST로 사용되었다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[논스톱_5]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[MBC_TV]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.660">channel</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[프로그램인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3540">
+		<sent><![CDATA[《맨발의 친구들》은 2013년 4월 21일 방영을 시작한 SBS_TV의 예능 프로그램인 일요일이_좋다의 전 코너이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[일요일이_좋다]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[SBS_TV]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.685">channel</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[프로그램인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3803">
+		<sent><![CDATA[바버라 피어스 부시는 미국의 미국의 대통령인 조지_W._부시의 딸이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[조지_W._부시]]></sbj_text>
+			<arg_type weight="0.54">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+			<arg_type weight="0.68">Politician</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[미국]]></obj_text>
+		</obj>
+		<gold>birthPlace</gold>
+		<mln_predict conf="0.662">birthPlace</mln_predict>
+		<cnn_predict conf="0.450">birthPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[대통령인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3880">
+		<sent><![CDATA[렉서스 GS는 일본의 자동차 제조 회사인 토요타_자동차의 고급 브랜드인 렉서스의 후륜구동 승용차이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[렉서스]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[토요타_자동차]]></obj_text>
+			<arg_type weight="0.81">Agent</arg_type>
+			<arg_type weight="1.05">Organisation</arg_type>
+		</obj>
+		<gold>owner</gold>
+		<mln_predict conf="0.748">owner</mln_predict>
+		<cnn_predict conf="0.724">location</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[브랜드인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,58 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--VP--down--NP_AJT--down--(NP)</dependency>
+	<total>3</total>
+	<sent_item id="M_D2520">
+		<sent><![CDATA[2015년 1월 18일, 마요랄은 1-0으로 이긴 헤타페 CF B와의 세군다_디비시온_B 경기에서 74분에 알바로 호세 히메네스 게레로와 후보로 들어가 레알_마드리드_카스티야에서 성인 무대 첫 경기를 펼쳤다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[레알_마드리드_카스티야]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[세군다_디비시온_B]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.816">position</mln_predict>
+		<cnn_predict conf="0.563">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--VP--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[펼쳤다.--들어가--경기에서]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3053">
+		<sent><![CDATA[시즌 내내 뉴캐슬 유나이티드는 프리미어리그 우승에 아주 근접해있었고, 한 때 맨체스터_유나이티드_FC에 승점 12점을 앞서기도 했으나 결국 맨체스터 유나이티드 FC에게 우승을 빼앗기고 만다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[맨체스터_유나이티드_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[프리미어리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.496">position</mln_predict>
+		<cnn_predict conf="0.729">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--VP--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[앞서기도--근접해있었고,--우승에]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D4006">
+		<sent><![CDATA[2014년 KBO 골든글러브 포수 부문에 이름을 올렸으나 양의지에게 밀리며 생애 첫 골든글러브 수상에는 실패했다.]]></sent>
+		<sbj label="NP_AJT" josa="에게">
+			<sbj_text><![CDATA[양의지]]></sbj_text>
+			<arg_type weight="0.28">Agent</arg_type>
+			<arg_type weight="0.36">Person</arg_type>
+			<arg_type weight="1.04">Athlete</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[포수]]></obj_text>
+		</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.372">birthPlace</mln_predict>
+		<cnn_predict conf="0.819">position</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--VP--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[밀리며--올렸으나--부문에]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

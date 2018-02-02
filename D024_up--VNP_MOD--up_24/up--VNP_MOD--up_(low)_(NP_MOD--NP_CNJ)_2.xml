@@ -1,0 +1,39 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP_MOD--up--(NP_CNJ)</dependency>
+	<total>2</total>
+	<sent_item id="M_D4060">
+		<sent><![CDATA[그 때문에 태평천국의 지도자인 홍수전이나, 중국 국민당의 쑨원, 중국 공산당의 덩샤오핑, 중화민국의 리덩후이, 마잉주와 싱가포르의 리콴유 등을 배출했다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[태평천국]]></sbj_text>
+			<arg_type weight="-0.60">Event</arg_type>
+			<arg_type weight="-0.60">SocietalEvent</arg_type>
+			<arg_type weight="0.00">MilitaryConflict</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="이나">
+			<obj_text><![CDATA[홍수전]]></obj_text>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.808">commander</mln_predict>
+		<cnn_predict conf="0.565">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP_MOD--up--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[지도자인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2025">
+		<sent><![CDATA[엘리사베타 궁전은 루마니아의 수도인 부쿠레슈티에 있는 궁전으로, 현재는 명목상의 루마니아_왕국의 국왕인 미하이_1세와 그 가족들인 로므니아 왕가의 구성원들이 거주하는 장소이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[루마니아_왕국]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="와">
+			<obj_text><![CDATA[미하이_1세]]></obj_text>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.444">country</mln_predict>
+		<cnn_predict conf="0.749">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP_MOD--up--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[국왕인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

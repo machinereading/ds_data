@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1846">
+		<sent><![CDATA[연희는 중국 촉한유선_(공사)의 두 번째 연호이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[촉한]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="는">
+			<obj_text><![CDATA[유선_(공사)]]></obj_text>
+			<arg_type weight="0.04">Agent</arg_type>
+			<arg_type weight="0.54">Person</arg_type>
+			<arg_type weight="0.13">Monarch</arg_type>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="1.000">leaderName</mln_predict>
+		<cnn_predict conf="0.803">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[연호이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

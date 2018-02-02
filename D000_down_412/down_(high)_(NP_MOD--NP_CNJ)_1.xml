@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1197">
+		<sent><![CDATA[라우리 페트리 포라는, 핀란드의 파워_메탈, 멜로딕 스피드 메탈 밴드, 스트라토바리우스의 베이시스트이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[스트라토바리우스]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.13">Organisation</arg_type>
+			<arg_type weight="0.76">Group</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[파워_메탈]]></obj_text>
+			<arg_type weight="2.32">TopicalConcept</arg_type>
+			<arg_type weight="2.32">Genre</arg_type>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.997">genre</mln_predict>
+		<cnn_predict conf="0.381">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

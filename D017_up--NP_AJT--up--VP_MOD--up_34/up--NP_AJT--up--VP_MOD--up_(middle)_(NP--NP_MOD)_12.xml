@@ -1,0 +1,230 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_AJT--up--VP_MOD--up--(NP_MOD)</dependency>
+	<total>12</total>
+	<sent_item id="M_D1074">
+		<sent><![CDATA[벌잡이새사촌류는 파랑새목 ‘벌잡이새사촌과’에 속하는 새의 총칭이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[파랑새목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[새]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.749">class</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[‘벌잡이새사촌과’에--속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1221">
+		<sent><![CDATA[셀레베스들소 또는 저지대아노아는 소과 물소속에 속하는 포유류의 일종이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[소과]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[포유류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.769">class</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[물소속에--속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D116">
+		<sent><![CDATA[여새류는 참새목 여새과에 속하는 새의 총칭이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[참새목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[새]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.567">class</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[여새과에--속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2654">
+		<sent><![CDATA[베짜는새류는 참새목 베짜는새과에 속하는 새의 총칭이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[참새목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[새]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.500">class</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[베짜는새과에--속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2161">
+		<sent><![CDATA[모기잡이류는 참새목 모기잡이과에 속하는 새의 총칭이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[참새목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[새]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.498">class</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[모기잡이과에--속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D379">
+		<sent><![CDATA[헬멧때까치류는 참새목 헬멧때까치과에 속하는 새의 총칭이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[참새목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[새]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="0.573">class</mln_predict>
+		<cnn_predict conf="0.511">order</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[헬멧때까치과에--속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D127">
+		<sent><![CDATA[히메히미즈는 땃쥐목 두더지과에 속하는 포유류의 일종이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[땃쥐목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[포유류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.704">class</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[두더지과에--속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3585">
+		<sent><![CDATA[유프라테스뛰는쥐 또는 유프라테스저보아는 뛰는쥐류 다섯발가락뛰는쥐속에 속하는 설치류의 일종이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[뛰는쥐류]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[설치류]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.643">class</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[다섯발가락뛰는쥐속에--속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3172">
+		<sent><![CDATA[만주토끼는 토끼 산토끼속에 속하는 포유류의 일종이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[토끼]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[포유류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.767">class</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[산토끼속에--속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3898">
+		<sent><![CDATA[린두루세트는 큰박쥐류 루세트박쥐속에 속하는 박쥐의 일종이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[큰박쥐류]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[박쥐]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.573">class</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[루세트박쥐속에--속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1485">
+		<sent><![CDATA[나뭇잎새류는 참새목 나뭇잎새과에 속하는 새의 총칭이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[참새목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[새]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.506">order</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[나뭇잎새과에--속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2804">
+		<sent><![CDATA[샤모니몽블랑, 혹은 간단히 샤모니는 몽블랑_산 기슭에 자리한 프랑스 오트사부아_주의 코뮌으로 인구는 9,830 명이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[몽블랑_산]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="2.09">NaturalPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[오트사부아_주]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.497">locatedInArea</mln_predict>
+		<cnn_predict conf="0.260">country</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[기슭에--자리한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

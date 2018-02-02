@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--up--NP_AJT--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1102">
+		<sent><![CDATA[2012년 7월 27일 방영된 TvN의 코리아_갓_탤런트 시즌 2에서 우승하였다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[코리아_갓_탤런트]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[TvN]]></obj_text>
+			<arg_type weight="0.32">Agent</arg_type>
+			<arg_type weight="1.24">Organisation</arg_type>
+			<arg_type weight="6.41">Company</arg_type>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.193">channel</cnn_predict>
+		<gsdp>(NP)--up--NP--up--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[시즌--2에서]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

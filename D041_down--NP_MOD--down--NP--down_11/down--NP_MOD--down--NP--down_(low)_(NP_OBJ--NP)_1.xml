@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--down--NP_MOD--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2505">
+		<sent><![CDATA[항공 동맹 연합인 원월드 회원으로 말레이시아 슬랑오르_주 세팡 소재의 쿠알라룸푸르_국제공항을 허브 공항으로 삼고 있으며, 이전에는 세나이 국제공항에 국내선 허브를 두기도 하였다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[쿠알라룸푸르_국제공항]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[슬랑오르_주]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.676">location</mln_predict>
+		<cnn_predict conf="0.529">location</cnn_predict>
+		<gsdp>(NP_OBJ)--down--NP_MOD--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[소재의--세팡]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

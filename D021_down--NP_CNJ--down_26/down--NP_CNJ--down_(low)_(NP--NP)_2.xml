@@ -1,0 +1,37 @@
+<sentence_list>
+	<dependency>(NP)--down--NP_CNJ--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_D3282">
+		<sent><![CDATA[양산 통도사 영산전 벽화는 경상남도 양산시, 통도사 사찰에 있는 조선시대의 벽화이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[통도사]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="-0.11">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.19">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[경상남도]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.730">location</mln_predict>
+		<cnn_predict conf="0.373">locatedInArea</cnn_predict>
+		<gsdp>(NP)--down--NP_CNJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[양산시,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D237">
+		<sent><![CDATA[츠루마키 카즈야, 애니메이션 감독, 애니메이터. 일본 니이가타 현 고센_시 출신.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[고센_시]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[일본]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.154">position</mln_predict>
+		<cnn_predict conf="0.487">country</cnn_predict>
+		<gsdp>(NP)--down--NP_CNJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[감독,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

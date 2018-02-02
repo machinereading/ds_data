@@ -1,0 +1,53 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--down--VP_MOD--down--(NP_AJT)</dependency>
+	<total>3</total>
+	<sent_item id="M_D1766">
+		<sent><![CDATA[포포카테페틀 산은 멕시코에 있는 화산으로, 일본에 있는 후지_산, 케냐와 우간다 국경에 있는 엘곤 산과 같은 성층 화산이다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[후지_산]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[일본]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.599">locatedInArea</mln_predict>
+		<cnn_predict conf="0.361">country</cnn_predict>
+		<gsdp>(NP_CNJ)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[있는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D551">
+		<sent><![CDATA[2010년 러시아 정부의 통계에 따르면, 러시아인, 모르도바인, 타타르인, 우크라이나인과 기타 종족 등이 거주한다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[우크라이나인]]></sbj_text>
+		</sbj>
+		<obj label="NP_AJT" josa="">
+			<obj_text><![CDATA[러시아인]]></obj_text>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.233">region</mln_predict>
+		<cnn_predict conf="0.833">related</cnn_predict>
+		<gsdp>(NP_CNJ)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[모르도바인,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D187">
+		<sent><![CDATA[파투는 브라질이 우승한 파라과이에서 열린 2007년_CONMEBOL_청소년_축구_선수권_대회와 캐나다에서 열린 2007년 FIFA U-20 월드컵에 참가했다.]]></sent>
+		<sbj label="NP_CNJ" josa="와">
+			<sbj_text><![CDATA[2007년_CONMEBOL_청소년_축구_선수권_대회]]></sbj_text>
+			<arg_type weight="0.15">Event</arg_type>
+			<arg_type weight="0.15">SocietalEvent</arg_type>
+			<arg_type weight="0.66">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[파라과이]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.809">location</mln_predict>
+		<cnn_predict conf="0.515">country</cnn_predict>
+		<gsdp>(NP_CNJ)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[열린]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

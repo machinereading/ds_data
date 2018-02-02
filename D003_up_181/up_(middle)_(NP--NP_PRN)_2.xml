@@ -1,0 +1,38 @@
+<sentence_list>
+	<dependency>(NP)--up--(NP_PRN)</dependency>
+	<total>2</total>
+	<sent_item id="M_D3430">
+		<sent><![CDATA[《사랑해_(드라마)》(2008년, SBS) - 영희/진희 모]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[사랑해_(드라마)]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_PRN" josa="">
+			<obj_text><![CDATA[SBS]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.306">channel</mln_predict>
+		<cnn_predict conf="0.784">channel</cnn_predict>
+		<gsdp>(NP)--up--(NP_PRN)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D996">
+		<sent><![CDATA[2014년 손아섭 (롯데_자이언츠) - 13점]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[손아섭]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_PRN" josa="">
+			<obj_text><![CDATA[롯데_자이언츠]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.192">team</mln_predict>
+		<cnn_predict conf="0.811">team</cnn_predict>
+		<gsdp>(NP)--up--(NP_PRN)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

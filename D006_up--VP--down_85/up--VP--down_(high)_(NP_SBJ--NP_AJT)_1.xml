@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1983">
+		<sent><![CDATA[조인성은 2001년 SBS 드라마 《피아노_(2001년_드라마)》에서 조재현, 고수, 김하늘과 공연하였고, 극중 한억관의 아들 이경호 역할로 출연해 반항적 연기를 선보였다.]]></sent>
+		<sbj label="NP_SBJ" josa="은">
+			<sbj_text><![CDATA[피아노_(2001년_드라마)]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="과">
+			<obj_text><![CDATA[김하늘]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="1.000">starring</mln_predict>
+		<cnn_predict conf="0.960">starring</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[공연하였고,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,53 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP--down--VNP--down--(NP_MOD)</dependency>
+	<total>3</total>
+	<sent_item id="M_D4047">
+		<sent><![CDATA[한확의 아들이며 소혜왕후의 친오빠이고 한치의의 친형이자 한치형의 사촌 형이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[한치의]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[소혜왕후]]></obj_text>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.188">relative</mln_predict>
+		<cnn_predict conf="0.508">relative</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[친형이자--친오빠이고]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D4023">
+		<sent><![CDATA[월트 디즈니 컴퍼니의 공동 창업자 로이_O._디즈니의 아들이며, 월트_디즈니의 조카이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[월트_디즈니]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[로이_O._디즈니]]></obj_text>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.303">nationality</mln_predict>
+		<cnn_predict conf="0.230">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[조카이다.--아들이며,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D934">
+		<sent><![CDATA[변호사 허헌의 맏딸이며, 조선공산당의 간부인 임원근, 송봉우, 중국 연안의 조선독립동맹의 부주석 최창익의 부인이고, 신일룡 등의 연인이었다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[최창익]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[허헌]]></obj_text>
+			<arg_type weight="0.94">Agent</arg_type>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.345">deathPlace</mln_predict>
+		<cnn_predict conf="0.605">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[부인이고,--맏딸이며,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

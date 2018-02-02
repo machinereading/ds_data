@@ -1,0 +1,37 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP_MOD--up--NP_AJT--up--VP--down--(NP_AJT)</dependency>
+	<total>2</total>
+	<sent_item id="M_D2741">
+		<sent><![CDATA[대전과의 계약기간이 만료된 이우진이 이우진으로 계명한 뒤 자유계약으로 제주_유나이티드에 입단하였다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[이우진]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[제주_유나이티드]]></obj_text>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.834">team</mln_predict>
+		<cnn_predict conf="0.506">team</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP_MOD--up--NP_AJT--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[계명한--뒤--입단하였다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3326">
+		<sent><![CDATA[복시치는 20세 때, 이비차_오심이 이끄는 1990년 FIFA 월드컵 유고슬라비아_축구_국가대표팀에 발탁되었으나, 즐라트코 부요비치와 다르코 판체프에 가려져 기회를 잡지 못했다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[이비차_오심]]></sbj_text>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[유고슬라비아_축구_국가대표팀]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.275">birthPlace</mln_predict>
+		<cnn_predict conf="0.686">team</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP_MOD--up--NP_AJT--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[이끄는--1990년--발탁되었으나,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

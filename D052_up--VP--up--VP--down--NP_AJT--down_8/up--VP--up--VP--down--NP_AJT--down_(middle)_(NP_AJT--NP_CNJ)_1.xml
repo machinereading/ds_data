@@ -1,0 +1,25 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--up--VP--down--NP_AJT--down--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D36">
+		<sent><![CDATA[AEK 아테네 FC는 UEFA_챔피언스리그_2006-07에 진출해 AC_밀란과 한조에 편성되었고, 홈경기에서는 줄리우 세자르 다 시우바 이 소자의 골로 1-0으로 이겼었다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[UEFA_챔피언스리그_2006-07]]></sbj_text>
+			<arg_type weight="0.47">Event</arg_type>
+			<arg_type weight="0.47">SocietalEvent</arg_type>
+			<arg_type weight="1.70">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="과">
+			<obj_text><![CDATA[AC_밀란]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="1.000">team</mln_predict>
+		<cnn_predict conf="0.684">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--up--VP--down--NP_AJT--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[진출해--편성되었고,--한조에]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

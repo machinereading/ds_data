@@ -1,0 +1,60 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--(NP_AJT)</dependency>
+	<total>3</total>
+	<sent_item id="M_D2864">
+		<sent><![CDATA[2010년 10월 25일, 그는 SSC_나폴리와의 세리에_A 경기에서 득점 행진을 이어나갔다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[SSC_나폴리]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="">
+			<obj_text><![CDATA[세리에_A]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.272">position</mln_predict>
+		<cnn_predict conf="0.463">team</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3419">
+		<sent><![CDATA[비구름은 미국 중북부 지역까지 확대되어 미네소타_주의 최대도시인 미니애폴리스에 50 mm의 비가 내렸다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[미네소타_주]]></sbj_text>
+			<arg_type weight="-0.15">Place</arg_type>
+			<arg_type weight="0.37">PopulatedPlace</arg_type>
+			<arg_type weight="1.48">Region</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[미니애폴리스]]></obj_text>
+			<arg_type weight="0.94">Place</arg_type>
+			<arg_type weight="1.04">PopulatedPlace</arg_type>
+		</obj>
+		<gold>largestCity</gold>
+		<mln_predict conf="0.998">largestCity</mln_predict>
+		<cnn_predict conf="0.569">largestCity</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1169">
+		<sent><![CDATA[아카데미상 시상식에서 그녀는 여우주연상 수상이 기대되었으나, 상은 《드라이빙_미스_데이지》의 제시카_탠디에게 갔고, 이는 놀랄만큼 예상밖으로 여겨졌다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[드라이빙_미스_데이지]]></sbj_text>
+		</sbj>
+		<obj label="NP_AJT" josa="에게">
+			<obj_text><![CDATA[제시카_탠디]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.609">starring</mln_predict>
+		<cnn_predict conf="0.984">starring</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

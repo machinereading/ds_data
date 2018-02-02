@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP)--up--X--up--NP--down--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D650">
+		<sent><![CDATA[2012년: 오스트레일리아, 시드니 - 주제: ""]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[시드니]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[오스트레일리아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.324">region</mln_predict>
+		<cnn_predict conf="0.430">largestCity</cnn_predict>
+		<gsdp>(NP)--up--X--up--NP--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[---주제:]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

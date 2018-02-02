@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP)--down--VNP_MOD--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2265">
+		<sent><![CDATA[당시 영국 데스_메탈 밴드인 카르카스 출신이자 기타, 가창 리스트인 마이클 아모트와 그의 남동생인 크리스토퍼 아모트와 함께 1996년에 결성했다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[카르카스]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.13">Organisation</arg_type>
+			<arg_type weight="0.76">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[데스_메탈]]></obj_text>
+			<arg_type weight="2.32">TopicalConcept</arg_type>
+			<arg_type weight="2.32">Genre</arg_type>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="1.000">genre</mln_predict>
+		<cnn_predict conf="0.217">birthPlace</cnn_predict>
+		<gsdp>(NP)--down--VNP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[밴드인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

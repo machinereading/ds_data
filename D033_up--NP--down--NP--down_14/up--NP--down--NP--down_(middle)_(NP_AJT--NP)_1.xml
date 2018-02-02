@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--NP--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D756">
+		<sent><![CDATA[첫 타점 : 2013년 7월 31일, 대 도쿄_야쿠르트_스왈로스 12차전, 6회말에 기야_료헤이로부터 좌전 적시타]]></sent>
+		<sbj label="NP_AJT" josa="로부터">
+			<sbj_text><![CDATA[기야_료헤이]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[도쿄_야쿠르트_스왈로스]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.960">team</mln_predict>
+		<cnn_predict conf="0.465">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[적시타--12차전,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

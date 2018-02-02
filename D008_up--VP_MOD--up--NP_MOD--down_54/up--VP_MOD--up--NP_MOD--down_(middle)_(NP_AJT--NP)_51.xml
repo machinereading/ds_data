@@ -1,0 +1,973 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</dependency>
+	<total>51</total>
+	<sent_item id="M_D3090">
+		<sent><![CDATA[켄트로프리네 스피눌로사는 아귀목에 속하는 조기어류 물고기의 일종이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[아귀목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.794">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--물고기의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3869">
+		<sent><![CDATA[홍갈치과는 에우페르카리아류에 속하는 조기어류 과의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[에우페르카리아류]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.878">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--과의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1935">
+		<sent><![CDATA[물밭쥐속은 쥐상과 비단털쥐과에 속하는 설치류 속의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[비단털쥐과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[설치류]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.553">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--속의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3393">
+		<sent><![CDATA[디플로미스테스과는 메기목에 속하는 조기어류 과의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[메기목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.901">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--과의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1220">
+		<sent><![CDATA[쏠종개과는 메기목에 속하는 조기어류 과의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[메기목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.904">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--과의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2441">
+		<sent><![CDATA[긴가시민태속은 대구목 민태과에 속하는 조기어류 속의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[민태과]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.892">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--속의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3670">
+		<sent><![CDATA[닉티바트라쿠스과는 개구리목에 속하는 양서류 과의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[개구리목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[양서류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.597">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--과의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3153">
+		<sent><![CDATA[양성대아목은 농어목에 속하는 조기어류 아목의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[농어목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.722">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--아목의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3491">
+		<sent><![CDATA[심피사노돈속은 에우페르카리아류에 속하는 조기어류 속의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[에우페르카리아류]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.836">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--속의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1315">
+		<sent><![CDATA[신진골어류는 진골어류에 속하는 조기어류 분류군의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[진골어류]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="0.949">class</mln_predict>
+		<cnn_predict conf="0.884">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--분류군의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3066">
+		<sent><![CDATA[작은주머니생쥐속은 주머니생쥐류에 속하는 설치류 속의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[주머니생쥐류]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[설치류]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.661">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--속의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D441">
+		<sent><![CDATA[남극빙어과는 농어목에 속하는 조기어류 과의 일종이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[농어목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.774">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--과의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3391">
+		<sent><![CDATA[리아키크티스과는 망둑어목에 속하는 조기어류 과의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[망둑어목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.915">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--과의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3584">
+		<sent><![CDATA[바리과는 농어목에 속하는 조기어류 과의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[농어목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.822">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--과의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2750">
+		<sent><![CDATA[갈색쥐속은 쥐상과 비단털쥐과에 속하는 설치류 속의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[비단털쥐과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[설치류]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.621">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--속의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D216">
+		<sent><![CDATA[독가시치속은 에우페르카리아류에 속하는 조기어류 속의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[에우페르카리아류]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.854">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--속의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1137">
+		<sent><![CDATA[점매가리과는 이악어목에 속하는 조기어류 과의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[이악어목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.905">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--과의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2779">
+		<sent><![CDATA[탈라셀레오트리스과는 망둑어목에 속하는 조기어류 과의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[망둑어목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.938">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--과의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3002">
+		<sent><![CDATA[붉은숲쥐과 또는 네소미스과는 쥐아목 쥐상과에 속하는 설치류 과의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[쥐상과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[설치류]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.733">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--과의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2348">
+		<sent><![CDATA[베도라치아목은 베도라치목에 속하는 조기어류 아목의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[베도라치목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.833">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--아목의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1165">
+		<sent><![CDATA[불미역치과는 농어목에 속하는 조기어류 과의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[농어목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.840">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--과의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3136">
+		<sent><![CDATA[바늘방석아귀는 아귀목에 속하는 조기어류 물고기의 일종이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[아귀목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.795">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--물고기의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1981">
+		<sent><![CDATA[인도스토무스속은 드렁허리목에 속하는 조기어류 속의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[드렁허리목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.862">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--속의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3222">
+		<sent><![CDATA[노메치과는 고등어목에 속하는 조기어류 과의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[고등어목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.908">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--과의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3012">
+		<sent><![CDATA[방어속은 전갱이목 전갱이과에 속하는 조기어류 속의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[전갱이과]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.867">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--속의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D522">
+		<sent><![CDATA[두더지들쥐속은 쥐상과 비단털쥐과에 속하는 설치류 속의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[비단털쥐과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[설치류]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.617">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--속의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D766">
+		<sent><![CDATA[백미돔속은 백미돔목에 속하는 조기어류 속의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[백미돔목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="0.978">class</mln_predict>
+		<cnn_predict conf="0.886">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--속의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2629">
+		<sent><![CDATA[숲쥐족은 쥐상과 비단털쥐과에 속하는 설치류 족의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[비단털쥐과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[설치류]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="0.775">class</mln_predict>
+		<cnn_predict conf="0.618">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--족의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3907">
+		<sent><![CDATA[아우스트로글라니스속은 메기목에 속하는 조기어류 속의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[메기목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.863">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--속의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3655">
+		<sent><![CDATA[쿠리마타과는 카라신목에 속하는 조기어류 과의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[카라신목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.914">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--과의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1695">
+		<sent><![CDATA[장갱이과는 농어목에 속하는 조기어류 과의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[농어목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.852">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--과의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3857">
+		<sent><![CDATA[신월가자미과는 가자미목에 속하는 조기어류 과의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[가자미목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.923">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--과의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D4013">
+		<sent><![CDATA[연농어목은 측극기류에 속하는 조기어류 목의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[측극기류]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.876">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--목의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2340">
+		<sent><![CDATA[바디스과는 등목어목에 속하는 조기어류 과의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[등목어목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.923">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--과의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3545">
+		<sent><![CDATA[붕메기과는 메기목에 속하는 조기어류 과의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[메기목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.904">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--과의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3248">
+		<sent><![CDATA[전갱이과는 전갱이목에 속하는 조기어류 과의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[전갱이목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.922">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--과의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2359">
+		<sent><![CDATA[고기잡이쥐속은 비단털쥐과 목화쥐아과에 속하는 설치류 속의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[목화쥐아과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[설치류]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.605">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--속의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2077">
+		<sent><![CDATA[압테로노투스과 또는 유령칼고기과는 김노투스목에 속하는 조기어류 과의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[김노투스목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.912">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--과의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2666">
+		<sent><![CDATA[남극양태과는 농어목에 속하는 조기어류 과의 일종이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[농어목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.743">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--과의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2271">
+		<sent><![CDATA[홍메치과는 홍메치목에 속하는 조기어류 과의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[홍메치목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.906">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--과의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2087">
+		<sent><![CDATA[긴뿔파리류는 파리목에 속하는 곤충 분류군의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[파리목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[곤충]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.702">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--분류군의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D4015">
+		<sent><![CDATA[치브카물쥐속은 비단털쥐과 목화쥐아과에 속하는 설치류 속의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[목화쥐아과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[설치류]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.585">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--속의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3514">
+		<sent><![CDATA[부하라밭쥐속은 쥐상과 비단털쥐과에 속하는 설치류 속의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[비단털쥐과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[설치류]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.573">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--속의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3498">
+		<sent><![CDATA[아케스트로린쿠스속은 카라신목에 속하는 조기어류 속의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[카라신목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.854">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--속의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1909">
+		<sent><![CDATA[테트라고누루스속은 고등어목에 속하는 조기어류 속의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[고등어목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.852">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--속의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2021">
+		<sent><![CDATA[왜소숲쥐속은 쥐상과 비단털쥐과에 속하는 설치류 속의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[비단털쥐과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[설치류]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.585">order</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--속의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2282">
+		<sent><![CDATA[새다래과는 고등어목에 속하는 조기어류 과의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[고등어목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.904">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--과의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3094">
+		<sent><![CDATA[실꼬리돔과는 도미목에 속하는 조기어류 과의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[도미목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.872">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--과의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3337">
+		<sent><![CDATA[살벤자리아목은 검정우럭목에 속하는 조기어류 아목의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[검정우럭목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="0.978">class</mln_predict>
+		<cnn_predict conf="0.809">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--아목의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2324">
+		<sent><![CDATA[롬보솔레아과는 가자미목에 속하는 조기어류 과의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[가자미목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조기어류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.934">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--과의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2118">
+		<sent><![CDATA[틸로미스아과는 쥐상과 비단털쥐과에 속하는 설치류 아과의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[비단털쥐과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[설치류]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">class</mln_predict>
+		<cnn_predict conf="0.520">class</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속하는--아과의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

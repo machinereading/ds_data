@@ -1,0 +1,104 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--NP--down--(NP_MOD)</dependency>
+	<total>6</total>
+	<sent_item id="M_D1258">
+		<sent><![CDATA[그리고 1982년 재정 위기에 빠진 첼시 FC를 인수해 21년간 구단주로 있었으나, 많은 논란과 문제가 일으켰고 예상 부채가 8000만 파운드에 달하자 2003년 러시아의 석유 재벌 로만_아브라모비치에게 17억 달러에 매각했다.]]></sent>
+		<sbj label="NP_AJT" josa="에게">
+			<sbj_text><![CDATA[로만_아브라모비치]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[러시아]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.203">country</mln_predict>
+		<cnn_predict conf="0.379">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[재벌]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D496">
+		<sent><![CDATA[델리 지하철은 인도의 수도 델리에서 운행하는 지하철이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[델리]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[인도]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.747">country</mln_predict>
+		<cnn_predict conf="0.457">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[수도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2634">
+		<sent><![CDATA[이에 반발한 둘째 형 고발기가 후한의 요동군태수 공손탁에게서 군사 3만 명을 빌려 고구려를 쳐들어왔다.]]></sent>
+		<sbj label="NP_AJT" josa="에게서">
+			<sbj_text><![CDATA[공손탁]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[후한]]></obj_text>
+			<arg_type weight="-0.16">Place</arg_type>
+			<arg_type weight="-0.11">PopulatedPlace</arg_type>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.760">deathPlace</mln_predict>
+		<cnn_predict conf="0.802">deathPlace</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[요동군태수]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D4058">
+		<sent><![CDATA[소련은 덴마크의 물리학자 닐스_보어에 유래하는 닐스보륨을 제안하고, 미국은 독일의 물리학자 오토 한에 유래하는 하늄을 제안했다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[닐스_보어]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[덴마크]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.578">deathPlace</mln_predict>
+		<cnn_predict conf="0.481">deathPlace</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[물리학자]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D699">
+		<sent><![CDATA[1910년 미국의 콜로라도 주 덴버에서 제시 슈웨이더가 슈웨이더 트렁크 회사를 설립하면서 사업을 시작했다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[덴버]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[미국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.341">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[주]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D62">
+		<sent><![CDATA[출발! 해피FM 김성은입니다는 대한민국의 방송국인 한국방송공사의 라디오 채널 KBS_제2라디오에서 오전 5시부터 오전 6시까지 방송하는 라디오 방송이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[KBS_제2라디오]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[한국방송공사]]></obj_text>
+		</obj>
+		<gold>owner</gold>
+		<mln_predict conf="0.691">owner</mln_predict>
+		<cnn_predict conf="0.528">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[채널]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,76 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--NP_CNJ--down--NP--down--(NP)</dependency>
+	<total>4</total>
+	<sent_item id="M_D887">
+		<sent><![CDATA[고성 옥천사 대웅전은 경상남도 고성군 개천면 북평리, 옥천사에 있는 신라 시대의 대웅전이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[옥천사]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="-0.11">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.19">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[경상남도]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.541">location</mln_predict>
+		<cnn_predict conf="0.425">locatedInArea</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_CNJ--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[북평리,--고성군]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3963">
+		<sent><![CDATA[의성 고운사 삼층석탑은 경상북도 의성군 단촌면, 고운사에 있는 통일신라시대의 삼층석탑이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[고운사]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="-0.11">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.19">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[경상북도]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.916">location</mln_predict>
+		<cnn_predict conf="0.291">locatedInArea</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_CNJ--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[단촌면,--의성군]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1612">
+		<sent><![CDATA[화계사대웅전은 서울특별시 강북구 수유동, 화계사에 있는 조선시대의 대웅전이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[화계사]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="-0.11">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.19">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[서울특별시]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.969">location</mln_predict>
+		<cnn_predict conf="0.375">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_CNJ--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[수유동,--강북구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D793">
+		<sent><![CDATA[청동은입사향완은 경상남도 양산시 하북면, 통도사에 있는 향완이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[통도사]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="-0.77">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.11">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[경상남도]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.906">location</mln_predict>
+		<cnn_predict conf="0.272">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_CNJ--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[하북면,--양산시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

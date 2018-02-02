@@ -1,0 +1,61 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP--down--NP_AJT--down--(DP)</dependency>
+	<total>3</total>
+	<sent_item id="M_D3411">
+		<sent><![CDATA[인수는 중국 수나라수_문제의 두 번째 연호이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[수나라]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="DP" josa="">
+			<obj_text><![CDATA[수_문제]]></obj_text>
+			<arg_type weight="0.04">Agent</arg_type>
+			<arg_type weight="0.54">Person</arg_type>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="1.000">leaderName</mln_predict>
+		<cnn_predict conf="0.715">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_AJT--down--(DP)</gsdp>
+		<gsdp_lemma><![CDATA[연호이다.--번째]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3554">
+		<sent><![CDATA[태희는 중국 서진사마염의 네 번째 연호이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[서진]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="DP" josa="">
+			<obj_text><![CDATA[사마염]]></obj_text>
+			<arg_type weight="0.04">Agent</arg_type>
+			<arg_type weight="0.54">Person</arg_type>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="1.000">leaderName</mln_predict>
+		<cnn_predict conf="0.757">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_AJT--down--(DP)</gsdp>
+		<gsdp_lemma><![CDATA[연호이다.--번째]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1595">
+		<sent><![CDATA[영창은 중국 동진동진_원제의 두 번째 연호이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[동진]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="DP" josa="">
+			<obj_text><![CDATA[동진_원제]]></obj_text>
+			<arg_type weight="0.04">Agent</arg_type>
+			<arg_type weight="0.54">Person</arg_type>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="1.000">leaderName</mln_predict>
+		<cnn_predict conf="0.701">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_AJT--down--(DP)</gsdp>
+		<gsdp_lemma><![CDATA[연호이다.--번째]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

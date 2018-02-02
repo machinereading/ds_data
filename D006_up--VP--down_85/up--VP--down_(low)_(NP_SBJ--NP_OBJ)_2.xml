@@ -1,0 +1,38 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--down--(NP_OBJ)</dependency>
+	<total>2</total>
+	<sent_item id="M_D1690">
+		<sent><![CDATA[이구영은 북한에서는 김일성에게 연암 박지원_(1737년) 등 실학사상을 강의하였다.]]></sent>
+		<sbj label="NP_SBJ" josa="은">
+			<sbj_text><![CDATA[박지원_(1737년)]]></sbj_text>
+			<arg_type weight="0.49">Agent</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="을">
+			<obj_text><![CDATA[실학]]></obj_text>
+		</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.328">occupation</mln_predict>
+		<cnn_predict conf="0.564">relative</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[강의하였다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3075">
+		<sent><![CDATA[2차세계대전 종전 후, 마오쩌둥이 중화인민공화국을 창설하고 정식 군대인 인민해방군을 창설하자 중장 계급을 부여 받고 창군의 주역이 되었다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[마오쩌둥]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+			<arg_type weight="0.34">Politician</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="을">
+			<obj_text><![CDATA[중화인민공화국]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.639">birthPlace</mln_predict>
+		<cnn_predict conf="0.600">deathPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[창설하고]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

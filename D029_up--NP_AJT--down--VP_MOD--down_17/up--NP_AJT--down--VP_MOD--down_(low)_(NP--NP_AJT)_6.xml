@@ -1,0 +1,110 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_AJT--down--VP_MOD--down--(NP_AJT)</dependency>
+	<total>6</total>
+	<sent_item id="M_D2732">
+		<sent><![CDATA[개막식의 기본 토대는 벨기에 안트베르펜에서 열린 1920년_하계_올림픽 때 만들어졌다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[1920년_하계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[안트베르펜]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.731">location</mln_predict>
+		<cnn_predict conf="0.439">location</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[때--열린]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1321">
+		<sent><![CDATA[셰퍼드 선은 캐나다 온타리오 주 토론토에서 가장 최근에 지어진 토론토_지하철 노선으로, 토론토 교통국이 관리하고 있다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[토론토_지하철]]></sbj_text>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[토론토]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.778">largestCity</mln_predict>
+		<cnn_predict conf="0.572">location</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[노선으로,--지어진]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1821">
+		<sent><![CDATA[그는 2011년 6월 11일부터 25일까지 덴마크에서 열린 2011년_UEFA_U-21_축구_선수권_대회 당시 스위스 U-21 국가대표팀의 골키퍼이자 주장이었다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[2011년_UEFA_U-21_축구_선수권_대회]]></sbj_text>
+			<arg_type weight="0.15">Event</arg_type>
+			<arg_type weight="0.15">SocietalEvent</arg_type>
+			<arg_type weight="0.66">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[덴마크]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.660">location</mln_predict>
+		<cnn_predict conf="0.330">location</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[당시--열린]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1309">
+		<sent><![CDATA[2014년 2월 9일, 소치에서 열린 2014년_동계_올림픽 2014년 동계 올림픽 피겨스케이팅을 우승 하면서, 그녀는 올림픽 피겨 스케이팅 사상 두 번째로 어린 여자 금메달리스트가 되었다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[2014년_동계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[소치]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.963">location</mln_predict>
+		<cnn_predict conf="0.346">city</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[2014년--열린]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1641">
+		<sent><![CDATA[이후 베이징에서 벌어진 2008년_하계_올림픽 400m 결승전 때, 넘어지면서 결승선을 통과해 바하마의 크리스 브라운보다 0.04초 앞선 44초 80의 기록으로 동메달을 획득했다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[2008년_하계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[베이징]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.915">location</mln_predict>
+		<cnn_predict conf="0.282">city</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[때,--벌어진]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2008">
+		<sent><![CDATA[지구 방위군 지하 독은 2009년 11월 5일, 기후 현 이비가와_정에 있는 요코야마_댐 내부에서 촬영되었다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[요코야마_댐]]></sbj_text>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[이비가와_정]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.755">location</mln_predict>
+		<cnn_predict conf="0.420">location</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[내부에서--있는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

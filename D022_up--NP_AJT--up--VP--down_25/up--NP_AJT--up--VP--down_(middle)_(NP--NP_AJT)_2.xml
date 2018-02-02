@@ -1,0 +1,39 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_AJT--up--VP--down--(NP_AJT)</dependency>
+	<total>2</total>
+	<sent_item id="M_D1386">
+		<sent><![CDATA[안테노르의 집안은 트로이아_전쟁 당시 헬레네를 메넬라오스에게 돌려보내고 그리스군과의 평화를 주장했는데 이 때문에 나중에 트로이아가 함락되었을 때 그리스 측에 뇌물을 주고 자신의 집은 약탈을 면했다는 설이 있다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[트로이아_전쟁]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에게">
+			<obj_text><![CDATA[메넬라오스]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.898">commander</mln_predict>
+		<cnn_predict conf="0.680">commander</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[당시--돌려보내고]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3050">
+		<sent><![CDATA[7년 동안 레알 마드리드 CF와 계약하여 1군 외에도, 2군, 3군 경기에 출전한 그는 비야레알_CF 소속으로 라리가에서 이름을 날렸는데, 5시즌 동안 230번의 공식 경기에 출전했다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[비야레알_CF]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[라리가]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.491">league</mln_predict>
+		<cnn_predict conf="0.622">team</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[소속으로--날렸는데,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

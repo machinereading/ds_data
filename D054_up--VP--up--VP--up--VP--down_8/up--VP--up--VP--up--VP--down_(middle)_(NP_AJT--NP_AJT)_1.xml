@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--up--VP--up--VP--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3534">
+		<sent><![CDATA[이에 빌헬름 비트게프트 제독이 탈출을 시도해 블라디보스토크로 가려했으나 8월 10일 황해_해전_(1904년)에서 일본의 도고_헤이하치로 제독에게 모두 격침당하고 전사하게 된다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[황해_해전_(1904년)]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="로">
+			<obj_text><![CDATA[도고_헤이하치로]]></obj_text>
+			<arg_type weight="0.34">Agent</arg_type>
+			<arg_type weight="0.86">Person</arg_type>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.993">commander</mln_predict>
+		<cnn_predict conf="0.671">commander</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--up--VP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[시도해--가려했으나--격침당하고]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

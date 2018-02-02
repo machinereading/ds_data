@@ -1,0 +1,40 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_AJT--down--NP_CNJ--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_D2460">
+		<sent><![CDATA[공주 마곡사 포교당 범종은 충청남도 공주시, 마곡사 포교당에 있는 조선시대의 범종이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[마곡사]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="-0.11">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.19">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[충청남도]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.734">locatedInArea</mln_predict>
+		<cnn_predict conf="0.405">locatedInArea</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--down--NP_CNJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[포교당에--공주시,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3694">
+		<sent><![CDATA[가평 현등사 동종은 경기도 가평군, 현등사 사찰에 있는 조선시대의 종이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[현등사]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="-0.11">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.19">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[경기도]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.795">locatedInArea</mln_predict>
+		<cnn_predict conf="0.264">location</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--down--NP_CNJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[사찰에--가평군,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

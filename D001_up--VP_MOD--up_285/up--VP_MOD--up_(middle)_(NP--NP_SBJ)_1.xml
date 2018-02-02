@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP)--up--VP_MOD--up--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3652">
+		<sent><![CDATA[’ 234년 제갈량의_북벌 행하던 제갈량이 병사하면서 양의, 비의 등에게 철수를 지시하였다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[제갈량의_북벌]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[제갈량]]></obj_text>
+			<arg_type weight="0.34">Agent</arg_type>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.717">commander</mln_predict>
+		<cnn_predict conf="0.818">commander</cnn_predict>
+		<gsdp>(NP)--up--VP_MOD--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[행하던]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

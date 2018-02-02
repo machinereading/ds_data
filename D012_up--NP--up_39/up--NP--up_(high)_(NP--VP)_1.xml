@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--up--(VP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1833">
+		<sent><![CDATA[《파천무》 (KBS, 1990년 배우:이신재)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[파천무]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="VP" josa="">
+			<obj_text><![CDATA[이신재]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.430">starring</mln_predict>
+		<cnn_predict conf="0.989">starring</cnn_predict>
+		<gsdp>(NP)--up--NP--up--(VP)</gsdp>
+		<gsdp_lemma><![CDATA[(KBS,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

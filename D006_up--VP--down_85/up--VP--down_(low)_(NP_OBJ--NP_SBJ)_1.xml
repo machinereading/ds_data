@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1615">
+		<sent><![CDATA[카를로 안첼로티에게 지휘봉을 맡긴 파르마_FC는 릴리안 튀랑, 엔리코 키에사와 에르난_크레스포를 영입했다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[에르난_크레스포]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="는">
+			<obj_text><![CDATA[파르마_FC]]></obj_text>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.874">club</mln_predict>
+		<cnn_predict conf="0.599">team</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[영입했다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,17 +1,25 @@
 <sentence_list>
 	<dependency>(NP_MOD)--up--NP--down--(NP_MOD)</dependency>
 	<total>1</total>
-	<sent_item id="M_T2136" total_morp="9" total_word="5">
-		<sent>2. 북주의 우문옹의 건덕년 사이.</sent>
-		<sbj type="LCP_COUNTRY" weight="2.15" label="NP_MOD" josa="의">북주</sbj>
-		<obj type="PS_NAME" weight="1.09" label="NP_MOD" josa="의">우문옹</obj>
-		<gold>leaderName</gold>
-		<mln_predict conf="1.000">deathPlace</mln_predict>
-		<cnn_predict conf="0.741">leaderName</cnn_predict>
+	<sent_item id="M_D2234">
+		<sent><![CDATA[3월 16일, 음악 프로그램 《팝 잼》의 사회를 맡고 있던 킨키_키즈의 도모토_코이치의 전속 백 댄서로서, 자니 기타가와의 결정적 한마디로 결성.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[킨키_키즈]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[도모토_코이치]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="1.000">currentMember</mln_predict>
+		<cnn_predict conf="0.594">currentMember</cnn_predict>
 		<gsdp>(NP_MOD)--up--NP--down--(NP_MOD)</gsdp>
-		<gsdp_lemma>사이.</gsdp_lemma>
-		<head>사이.</head>
-		<cluster>22</cluster>
+		<gsdp_lemma><![CDATA[전속]]></gsdp_lemma>
 		<comment></comment>
 	</sent_item>
 </sentence_list>

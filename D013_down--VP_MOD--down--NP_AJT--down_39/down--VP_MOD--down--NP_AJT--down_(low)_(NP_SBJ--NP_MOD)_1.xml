@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--VP_MOD--down--NP_AJT--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1301">
+		<sent><![CDATA[그리고 울주군의 남쪽 해안에 있는 간절곶은 한반도에서 가장 해가 일찍 뜨는 곳으로, 새해 일출 명소로 각광받고 있다.]]></sent>
+		<sbj label="NP_SBJ" josa="은">
+			<sbj_text><![CDATA[간절곶]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[울주군]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.449">location</mln_predict>
+		<cnn_predict conf="0.303">location</cnn_predict>
+		<gsdp>(NP_SBJ)--down--VP_MOD--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[있는--해안에]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

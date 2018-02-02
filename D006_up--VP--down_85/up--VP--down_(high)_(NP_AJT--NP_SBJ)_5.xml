@@ -1,0 +1,99 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--(NP_SBJ)</dependency>
+	<total>5</total>
+	<sent_item id="M_D32">
+		<sent><![CDATA[2011년 영화 《퍼스트_어벤져》에서는 닐_맥도너가 연기했다.]]></sent>
+		<sbj label="NP_AJT" josa="는">
+			<sbj_text><![CDATA[퍼스트_어벤져]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[닐_맥도너]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.940">starring</mln_predict>
+		<cnn_predict conf="0.945">starring</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[연기했다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D773">
+		<sent><![CDATA[2007년 영화화 작품 《히트맨_(영화)》에서는 티머시_올리펀트가 연기를 하였으며, 2015년 공개될 예정인 《》에서는 루퍼트 프렌드가 연기할 예정이다.]]></sent>
+		<sbj label="NP_AJT" josa="">
+			<sbj_text><![CDATA[히트맨_(영화)]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[티머시_올리펀트]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.993">starring</mln_predict>
+		<cnn_predict conf="0.744">starring</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[하였으며,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3562">
+		<sent><![CDATA[영화 《용쟁호투》에서 이소룡은 많은 적들을 차례로 때려눕히게 되어 있었다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[용쟁호투]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="은">
+			<obj_text><![CDATA[이소룡]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.944">starring</mln_predict>
+		<cnn_predict conf="0.893">starring</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[때려눕히게]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3716">
+		<sent><![CDATA[2010년 3월 자신들의 첫 번째 정규 음반인 "Supremier"를 발매하며 인지도를 높였고, 사이먼_도미닉은 MBC 《뜨거운_형제들》에 고정으로 출연하면서 예능으로까지 진출하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[뜨거운_형제들]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="은">
+			<obj_text><![CDATA[사이먼_도미닉]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="1.000">starring</mln_predict>
+		<cnn_predict conf="0.398">starring</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[출연하면서]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2826">
+		<sent><![CDATA[2009년 스톤은 마크 워터스 감독의 로맨틱 코미디 영화 《고스트_오브_걸프렌즈_패스트》에서 매슈_매코너헤이, 제니퍼 가너, 마이클 더글러스와 공동 출연하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[고스트_오브_걸프렌즈_패스트]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[매슈_매코너헤이]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="1.000">starring</mln_predict>
+		<cnn_predict conf="0.965">starring</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[출연하였다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

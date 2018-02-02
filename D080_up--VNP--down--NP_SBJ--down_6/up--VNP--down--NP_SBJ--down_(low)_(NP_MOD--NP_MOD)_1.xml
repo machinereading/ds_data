@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP--down--NP_SBJ--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1261">
+		<sent><![CDATA[〈너에게로의 거짓말〉는 2015년 2월 4일에 빙_(기업)에서 발매된 VALSHE의 아홉 번째 싱글이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[VALSHE]]></sbj_text>
+			<arg_type weight="-0.12">Agent</arg_type>
+			<arg_type weight="-0.12">Person</arg_type>
+			<arg_type weight="0.73">Artist</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[빙_(기업)]]></obj_text>
+		</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.758">birthPlace</mln_predict>
+		<cnn_predict conf="0.343">artist</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--NP_SBJ--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[싱글이다.--거짓말〉는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

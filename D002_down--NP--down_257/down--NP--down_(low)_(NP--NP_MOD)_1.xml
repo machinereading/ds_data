@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(NP)--down--NP--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D104">
+		<sent><![CDATA[남유진은 대한민국의 제18·19·20대 경상북도 구미시장이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[경상북도]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.287">birthPlace</mln_predict>
+		<cnn_predict conf="0.756">country</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[제18·19·20대]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

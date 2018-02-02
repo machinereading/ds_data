@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--VP_MOD--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3561">
+		<sent><![CDATA[그러나, 그는 CA_오사수나, 헤타페 CF, 그리고 발렌시아 CF에서 라리가 출전 기회를 더 잡을 수 있었고, 이후 £26M에 토트넘 홋스퍼 FC로 둥지를 옮겼다.]]></sent>
+		<sbj label="NP_CNJ" josa="나">
+			<sbj_text><![CDATA[CA_오사수나]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[라리가]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.253">position</mln_predict>
+		<cnn_predict conf="0.584">team</cnn_predict>
+		<gsdp>(NP_CNJ)--up--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[잡을]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,203 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--NP--down--NP--down--(NP)</dependency>
+	<total>11</total>
+	<sent_item id="M_D3862">
+		<sent><![CDATA[이안숲속는 대한민국 충청남도 공주시 계룡산줄기에 있는 자연 테마파크이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[계룡산]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="2.09">NaturalPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.422">locatedInArea</mln_predict>
+		<cnn_predict conf="0.782">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[공주시--충청남도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1434">
+		<sent><![CDATA[신안 흑산도 상라산성은 전라남도 신안군 흑산면 흑산도에 있는 통일신라의 산성이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[흑산도]]></sbj_text>
+			<arg_type weight="0.68">Place</arg_type>
+			<arg_type weight="1.40">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[전라남도]]></obj_text>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.558">region</mln_predict>
+		<cnn_predict conf="0.498">locatedInArea</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[흑산면--신안군]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2943">
+		<sent><![CDATA[원효사는 광주광역시 북구 금곡동 무등산에 있는 사찰이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[무등산]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="2.09">NaturalPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[광주광역시]]></obj_text>
+			<arg_type weight="0.05">Place</arg_type>
+			<arg_type weight="0.12">PopulatedPlace</arg_type>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.843">locatedInArea</mln_predict>
+		<cnn_predict conf="0.304">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[금곡동--북구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3568">
+		<sent><![CDATA[왼발의 수비수로, 현재 에레디비시 축구 클럽 FC_흐로닝언에서 활약하고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[FC_흐로닝언]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[에레디비시]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">position</mln_predict>
+		<cnn_predict conf="0.742">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[클럽--축구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D340">
+		<sent><![CDATA[한천으로도 불렸던 노성천은 충청남도 공주시 계룡면 계룡산에서 발원해 논산시 부적면에서 연산천과 합류한 뒤 다시 논산시 취암동에서 논산천과 만난다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[계룡산]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="2.09">NaturalPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[충청남도]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.906">locatedInArea</mln_predict>
+		<cnn_predict conf="0.469">city</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[계룡면--공주시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1777">
+		<sent><![CDATA[트리플 원(은 대한민국 서울특별시 용산구 이촌동 용산국제업무지구에 건립에 계획되었던 빌딩으로, 2016년 완공을 목표로 하고 있었다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[용산국제업무지구]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.92">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[서울특별시]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.812">location</mln_predict>
+		<cnn_predict conf="0.719">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[이촌동--용산구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2843">
+		<sent><![CDATA[현재 시누이인 배우 겸 가수 엄정화 와 지인의 소개로 만난 배우 엄태웅과 2013년 1월 9일 결혼식을 올렸다.]]></sent>
+		<sbj label="NP_AJT" josa="">
+			<sbj_text><![CDATA[엄정화]]></sbj_text>
+			<arg_type weight="0.49">Agent</arg_type>
+			<arg_type weight="0.51">Person</arg_type>
+			<arg_type weight="1.48">Artist</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[배우]]></obj_text>
+		</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.584">occupation</mln_predict>
+		<cnn_predict conf="0.918">occupation</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[가수--겸]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2296">
+		<sent><![CDATA[비안도초등학교는 전라북도 군산시 옥도면 비안도에 있는 공립 초등학교이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[비안도]]></sbj_text>
+			<arg_type weight="0.68">Place</arg_type>
+			<arg_type weight="1.40">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[전라북도]]></obj_text>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.454">region</mln_predict>
+		<cnn_predict conf="0.380">city</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[옥도면--군산시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1371">
+		<sent><![CDATA[공항대로는 서울특별시 강서구 공항동 김포국제공항에서 염창동 양화교에 이르는 왕복 10차선 도로로서, 길이는 7.4㎞이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[김포국제공항]]></sbj_text>
+			<arg_type weight="0.34">Place</arg_type>
+			<arg_type weight="0.55">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.75">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[서울특별시]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.995">city</mln_predict>
+		<cnn_predict conf="0.573">city</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[공항동--강서구]]></gsdp_lemma>
+		<comment>
+			*locatedInArea 도 city와 비슷한 의미. 맞는 경우로 볼 수 있음.
+			 **Relation간의 hierarchy-path 를 추가. 
+			 **다른 KB Ontology mapping 뿐만 아니라 없을경우 우리가 직접 태깅(K-box등 활용)
+			*main verb : 이르다 - syntactic subjcet : 공항대로, 서울특별시~ 염창동 양화교 : 전체가 location
+			*entity1의 조사 '에서'가 중요한 clue</comment>
+	</sent_item>
+	<sent_item id="M_D2090">
+		<sent><![CDATA[2014년 9월, 패틴슨은 런던 출신의 싱어송라이터 겸 댄서 FKA_트위그스와 데이트했다.]]></sent>
+		<sbj label="NP_AJT" josa="와">
+			<sbj_text><![CDATA[FKA_트위그스]]></sbj_text>
+			<arg_type weight="0.49">Agent</arg_type>
+			<arg_type weight="0.51">Person</arg_type>
+			<arg_type weight="1.48">Artist</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[싱어송라이터]]></obj_text>
+		</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.562">occupation</mln_predict>
+		<cnn_predict conf="0.929">occupation</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[댄서--겸]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3530">
+		<sent><![CDATA[반월천은 경기도 군포시 속달동 수리산에서 발원하여 화성시 매송면 원리에서 황해로 유입하는 지방하천이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[수리산]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="2.09">NaturalPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[경기도]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.864">locatedInArea</mln_predict>
+		<cnn_predict conf="0.459">city</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[속달동--군포시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

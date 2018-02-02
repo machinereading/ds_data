@@ -1,0 +1,124 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_MOD)</dependency>
+	<total>6</total>
+	<sent_item id="M_D3370">
+		<sent><![CDATA[《예스_맨_(영화)》에서는 짐_캐리의 열연으로 큰 인기를 끌었다.]]></sent>
+		<sbj label="NP_AJT" josa="는">
+			<sbj_text><![CDATA[예스_맨_(영화)]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[짐_캐리]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="1.000">starring</mln_predict>
+		<cnn_predict conf="0.945">starring</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[끌었다.--열연으로]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2551">
+		<sent><![CDATA[1996년에는 김의성의 추천으로 영화 《돼지가_우물에_빠진_날》에서 극중 김의성의 동창 역으로 출연했다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[돼지가_우물에_빠진_날]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[김의성]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.986">starring</mln_predict>
+		<cnn_predict conf="0.916">starring</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[출연했다.--추천으로]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2676">
+		<sent><![CDATA["What the Hell"은 에이브릴_라빈의 노래로, 음반 "Goodbye_Lullaby"에 수록되어 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[Goodbye_Lullaby]]></sbj_text>
+			<arg_type weight="0.55">Work</arg_type>
+			<arg_type weight="2.57">MusicalWork</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[에이브릴_라빈]]></obj_text>
+			<arg_type weight="0.48">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+			<arg_type weight="1.03">Artist</arg_type>
+		</obj>
+		<gold>artist</gold>
+		<mln_predict conf="1.000">artist</mln_predict>
+		<cnn_predict conf="0.795">artist</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[수록되어--노래로,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2650">
+		<sent><![CDATA["When You're Gone"은 에이브릴_라빈의 노래로, 음반 "The_Best_Damn_Thing"에 수록되어 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[The_Best_Damn_Thing]]></sbj_text>
+			<arg_type weight="0.55">Work</arg_type>
+			<arg_type weight="2.57">MusicalWork</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[에이브릴_라빈]]></obj_text>
+			<arg_type weight="0.48">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+			<arg_type weight="1.03">Artist</arg_type>
+		</obj>
+		<gold>artist</gold>
+		<mln_predict conf="0.958">artist</mln_predict>
+		<cnn_predict conf="0.813">artist</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[수록되어--노래로,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3039">
+		<sent><![CDATA[6월 25일 독일_축구_국가대표팀과의 준결승전에서 미하엘_발라크에게 결승골을 허용하며 결승 진출에는 실패했다.]]></sent>
+		<sbj label="NP_AJT" josa="에게">
+			<sbj_text><![CDATA[미하엘_발라크]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[독일_축구_국가대표팀]]></obj_text>
+			<arg_type weight="0.98">Event</arg_type>
+			<arg_type weight="0.98">SocietalEvent</arg_type>
+			<arg_type weight="1.30">SportsEvent</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="1.000">team</mln_predict>
+		<cnn_predict conf="0.891">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[허용하며--준결승전에서]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3152">
+		<sent><![CDATA[2002년 월드컵 때 파누치는 대한민국_축구_국가대표팀과의 16강전에서 설기현에게 동점골의 빌미를 제공하면서 이탈리아 팬들의 비난을 받기도 했다.]]></sent>
+		<sbj label="NP_AJT" josa="에게">
+			<sbj_text><![CDATA[설기현]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[대한민국_축구_국가대표팀]]></obj_text>
+			<arg_type weight="0.98">Event</arg_type>
+			<arg_type weight="0.98">SocietalEvent</arg_type>
+			<arg_type weight="1.30">SportsEvent</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.963">team</mln_predict>
+		<cnn_predict conf="0.849">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[제공하면서--16강전에서]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

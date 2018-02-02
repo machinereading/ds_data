@@ -1,0 +1,238 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--NP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</dependency>
+	<total>13</total>
+	<sent_item id="M_D2365">
+		<sent><![CDATA[나카샤리 역은 일본 홋카이도 샤리 군 샤리 정에 위치한 홋카이도 여객철도 센모_본선의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[센모_본선]]></sbj_text>
+			<arg_type weight="0.23">Place</arg_type>
+			<arg_type weight="0.41">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.48">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[홋카이도]]></obj_text>
+		</obj>
+		<gold>routeStart</gold>
+		<mln_predict conf="0.888">region</mln_predict>
+		<cnn_predict conf="0.284">location</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[여객철도--위치한--정에--군]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1632">
+		<sent><![CDATA[우노 역은 일본 오카야마_현 다마노 시에 위치한 서일본 여객철도 우노_선의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[우노_선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[오카야마_현]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.399">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[여객철도--위치한--시에--다마노]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1951">
+		<sent><![CDATA[아마리코 역은 일본 돗토리_현 사카이미나토 시에 위치한 서일본 여객철도 사카이_선의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[사카이_선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[돗토리_현]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.373">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[여객철도--위치한--시에--사카이미나토]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1532">
+		<sent><![CDATA[겐세이카엔 역은 일본 홋카이도 샤리 군 고시미즈 정에 위치한 홋카이도 여객철도 센모_본선의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[센모_본선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[홋카이도]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">region</mln_predict>
+		<cnn_predict conf="0.304">location</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[여객철도--위치한--정에--군]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2262">
+		<sent><![CDATA[도쿠사 역은 일본 야마구치_현 야마구치 시에 위치한 서일본 여객철도 야마구치_선의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[야마구치_선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[야마구치_현]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.473">location</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[여객철도--위치한--시에--야마구치]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2696">
+		<sent><![CDATA[아지스 역은 일본 야마구치_현 야마구치 시에 위치한 서일본 여객철도 우베_선의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[우베_선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[야마구치_현]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.477">location</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[여객철도--위치한--시에--야마구치]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1306">
+		<sent><![CDATA[하마코시미즈 역은 일본 홋카이도 샤리 군 고시미즈 정에 위치한 홋카이도 여객철도 센모_본선의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[센모_본선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[홋카이도]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.887">region</mln_predict>
+		<cnn_predict conf="0.298">location</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[여객철도--위치한--정에--군]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2517">
+		<sent><![CDATA[히가시이시구로 역은 일본 도야마_현 난토 시에 위치한 서일본 여객철도 조하나_선의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[조하나_선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[도야마_현]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.350">location</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[여객철도--위치한--시에--난토]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D450">
+		<sent><![CDATA[인베 역은 일본 오카야마_현 비젠 시에 위치한 서일본 여객철도 아코_선의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[아코_선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[오카야마_현]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.408">location</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[여객철도--위치한--시에--비젠]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3609">
+		<sent><![CDATA[구사에 역은 일본 야마구치_현 우베 시에 위치한 서일본 여객철도 우베_선의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[우베_선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.23">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.28">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[야마구치_현]]></obj_text>
+		</obj>
+		<gold>routeEnd</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.425">location</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[여객철도--위치한--시에--우베]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D923">
+		<sent><![CDATA[조하나 역은 일본 도야마_현 난토 시에 위치한 서일본 여객철도 조하나_선의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[조하나_선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[도야마_현]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.357">location</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[여객철도--위치한--시에--난토]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2378">
+		<sent><![CDATA[아쓰 역은 일본 야마구치_현 미네 시에 위치한 서일본 여객철도 미네_선의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[미네_선]]></sbj_text>
+			<arg_type weight="0.23">Place</arg_type>
+			<arg_type weight="0.41">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.48">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[야마구치_현]]></obj_text>
+		</obj>
+		<gold>routeStart</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.360">location</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[여객철도--위치한--시에--미네]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D122">
+		<sent><![CDATA[미네 역은 일본 야마구치_현 미네 시에 위치한 서일본 여객철도 미네_선의 철도역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[미네_선]]></sbj_text>
+			<arg_type weight="0.23">Place</arg_type>
+			<arg_type weight="0.41">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.48">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[야마구치_현]]></obj_text>
+		</obj>
+		<gold>routeStart</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.370">location</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--VP_MOD--down--NP_AJT--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[여객철도--위치한--시에--미네]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

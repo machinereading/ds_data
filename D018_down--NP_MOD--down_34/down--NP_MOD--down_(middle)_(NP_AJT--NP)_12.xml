@@ -1,0 +1,221 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--NP_MOD--down--(NP)</dependency>
+	<total>12</total>
+	<sent_item id="M_D2237">
+		<sent><![CDATA[경기는 2017년 6월 3일 웨일스 카디프의 밀레니엄_스타디움에서 열렸다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[밀레니엄_스타디움]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[웨일스]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.769">location</mln_predict>
+		<cnn_predict conf="0.862">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[카디프의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1560">
+		<sent><![CDATA[1979년 미스코리아는 1979년 5월 19일에 서울특별시 중구의 장충체육관에서 열린 스물세 번째 미스코리아 선발대회이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[장충체육관]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[서울특별시]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.591">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[중구의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2699">
+		<sent><![CDATA[결승전은 2014년 5월 24일 포르투갈 리스본의 이스타디우_다_루스에서 열렸다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[이스타디우_다_루스]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[포르투갈]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.868">location</mln_predict>
+		<cnn_predict conf="0.786">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[리스본의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3735">
+		<sent><![CDATA[묘소는 경기도 양주의 도봉산에 마련되었다가, 훗날 남편 유정량의 묘에 합장되었다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[도봉산]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="2.09">NaturalPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[경기도]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.568">locatedInArea</mln_predict>
+		<cnn_predict conf="0.274">deathPlace</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[양주의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2689">
+		<sent><![CDATA[거제시는 대한민국 경상남도 남해상의 거제도에 있는 시이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[거제도]]></sbj_text>
+			<arg_type weight="0.68">Place</arg_type>
+			<arg_type weight="1.40">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[경상남도]]></obj_text>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.901">region</mln_predict>
+		<cnn_predict conf="0.406">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[남해상의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1079">
+		<sent><![CDATA[결승전은 1972년 5월 24일 스페인 바르셀로나의 캄_노우에서 열렸다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[캄_노우]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[스페인]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.851">location</mln_predict>
+		<cnn_predict conf="0.748">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[바르셀로나의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1622">
+		<sent><![CDATA[2003 UEFA 챔피언스리그 결승전은 잉글랜드 맨체스터의 올드_트래퍼드에서 2003년 5월 28일에 열린 UEFA 챔피언스리그 2002-03의 우승팀을 가리기 위한 경기였다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[올드_트래퍼드]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[잉글랜드]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.791">location</mln_predict>
+		<cnn_predict conf="0.775">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[맨체스터의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1642">
+		<sent><![CDATA[매년 개최되는 시민권 경기는 조지아_주 애틀란타의 터너_필드에서 개최될 예정이며, 애틀란타 브레이브스와 로스앤젤레스 다저스의 경기로 8월 19일 치러질 것이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[터너_필드]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조지아_주]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+			<arg_type weight="0.61">Region</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.615">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[애틀란타의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D552">
+		<sent><![CDATA[매직 킹덤은 미국 플로리다_주 올랜도의 월트_디즈니_월드_리조트에 있는 4개의 테마 중 한개이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[월트_디즈니_월드_리조트]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[플로리다_주]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+			<arg_type weight="0.61">Region</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.892">region</mln_predict>
+		<cnn_predict conf="0.400">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[올랜도의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2799">
+		<sent><![CDATA[그 후 스페인 세비야의 에스타디오_올림피코_데_라_카르투하에서 셀틱 FC에 승리하여 포르투의 첫 UEFA 컵을 획득하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[에스타디오_올림피코_데_라_카르투하]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[스페인]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.629">location</mln_predict>
+		<cnn_predict conf="0.422">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[세비야의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2407">
+		<sent><![CDATA[경기는 2016년 5월 18일 스위스 바젤의 장크트_야코프_파르크에서 열렸다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[장크트_야코프_파르크]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[스위스]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.860">location</mln_predict>
+		<cnn_predict conf="0.801">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[바젤의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2604">
+		<sent><![CDATA[1969년 미스코리아는 1969년 5월 1일에 서울특별시 중구의 장충체육관에서 열린 열세 번째 미스코리아 선발대회이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[장충체육관]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[서울특별시]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.629">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[중구의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

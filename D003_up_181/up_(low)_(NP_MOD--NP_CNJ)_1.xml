@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3003">
+		<sent><![CDATA[쇼군 : 에도_막부의 도쿠가와_이에야스, 도쿠가와 히데타다]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[에도_막부]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[도쿠가와_이에야스]]></obj_text>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.630">leaderName</mln_predict>
+		<cnn_predict conf="0.580">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

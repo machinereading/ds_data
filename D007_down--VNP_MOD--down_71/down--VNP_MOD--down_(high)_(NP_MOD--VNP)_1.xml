@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--VNP_MOD--down--(VNP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3574">
+		<sent><![CDATA[〈Creep〉은 영국 얼터너티브_록 밴드인 라디오헤드의 노래이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[라디오헤드]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.13">Organisation</arg_type>
+			<arg_type weight="0.76">Group</arg_type>
+		</sbj>
+		<obj label="VNP" josa="">
+			<obj_text><![CDATA[얼터너티브_록]]></obj_text>
+			<arg_type weight="2.32">TopicalConcept</arg_type>
+			<arg_type weight="2.32">Genre</arg_type>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="1.000">genre</mln_predict>
+		<cnn_predict conf="0.386">genre</cnn_predict>
+		<gsdp>(NP_MOD)--down--VNP_MOD--down--(VNP)</gsdp>
+		<gsdp_lemma><![CDATA[밴드인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

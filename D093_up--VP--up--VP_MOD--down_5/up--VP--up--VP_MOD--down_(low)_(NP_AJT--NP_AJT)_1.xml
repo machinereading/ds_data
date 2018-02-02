@@ -1,0 +1,20 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--up--VP_MOD--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2731">
+		<sent><![CDATA[이후 농촌 드라마 《산_너머_남촌에는_2》에 출연하며 텔레비전_드라마에 복귀한 바 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[산_너머_남촌에는_2]]></sbj_text>
+			<arg_type weight="0.93">Work</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[텔레비전_드라마]]></obj_text>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.408">channel</mln_predict>
+		<cnn_predict conf="0.755">starring</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--up--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[출연하며--복귀한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

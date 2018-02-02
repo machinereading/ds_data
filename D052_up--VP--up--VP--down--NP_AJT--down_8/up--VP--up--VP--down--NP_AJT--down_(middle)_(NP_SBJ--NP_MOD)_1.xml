@@ -1,0 +1,25 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--up--VP--down--NP_AJT--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3251">
+		<sent><![CDATA[아약스는 UEFA_챔피언스리그_1995-96 결승전에도 올랐으나 유벤투스_FC와의 결승전에서 승부차기 끝에 패하여 준우승에 머물렀다.]]></sent>
+		<sbj label="NP_SBJ" josa="">
+			<sbj_text><![CDATA[UEFA_챔피언스리그_1995-96]]></sbj_text>
+			<arg_type weight="0.47">Event</arg_type>
+			<arg_type weight="0.47">SocietalEvent</arg_type>
+			<arg_type weight="1.70">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[유벤투스_FC]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="1.000">team</mln_predict>
+		<cnn_predict conf="0.924">team</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[올랐으나--패하여--결승전에서]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

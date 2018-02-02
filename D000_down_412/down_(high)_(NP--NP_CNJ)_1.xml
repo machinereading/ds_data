@@ -1,0 +1,25 @@
+<sentence_list>
+	<dependency>(NP)--down--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3698">
+		<sent><![CDATA[〈Truth〉: 걸스데이 민아_(1993년_5월)의 곡. 걸스데이 미니 앨범 《GIRL`S DAY EVERYDAY #5》 수록. 2017년 3월 27일 발매.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[걸스데이]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[민아_(1993년_5월)]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.993">currentMember</mln_predict>
+		<cnn_predict conf="0.821">artist</cnn_predict>
+		<gsdp>(NP)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

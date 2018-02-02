@@ -1,0 +1,67 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP--up--(NP_MOD)</dependency>
+	<total>3</total>
+	<sent_item id="M_D1520">
+		<sent><![CDATA[YESUNG SOLO CONCERT "봄悲"는 대한민국의 음악 그룹 슈퍼주니어의 멤버 예성의 첫 번째 콘서트 투어이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[슈퍼주니어]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[예성]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="1.000">currentMember</mln_predict>
+		<cnn_predict conf="0.723">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[멤버]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3746">
+		<sent><![CDATA[잭 스타키는 비틀즈의 드러머 링고_스타의 첫 아들로, 그의 첫 아내인 모린 콕스 사이에서 태어났다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[비틀즈]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[링고_스타]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="1.000">currentMember</mln_predict>
+		<cnn_predict conf="0.521">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[드러머]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2837">
+		<sent><![CDATA[Smash는 DJ_DOC의 멤버 이하늘의 동생인 것으로 유명하다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[DJ_DOC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[이하늘]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="1.000">currentMember</mln_predict>
+		<cnn_predict conf="0.599">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[멤버]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

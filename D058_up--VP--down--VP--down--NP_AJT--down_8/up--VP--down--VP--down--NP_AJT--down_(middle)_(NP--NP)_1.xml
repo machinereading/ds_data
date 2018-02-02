@@ -1,17 +1,25 @@
 <sentence_list>
 	<dependency>(NP)--up--VP--down--VP--down--NP_AJT--down--(NP)</dependency>
 	<total>1</total>
-	<sent_item id="M_T3128" total_morp="40" total_word="14">
-		<sent>그는 거의 바이어_04_레버쿠젠 소속으로 10년간 300여회의 공식 경기에 출장하였고, 팀의 UEFA_챔피언스리그_2001-02 결승행에 힘을 보탰다.</sent>
-		<sbj type="EV_SPORTS" weight="0.82" label="NP" josa="">UEFA_챔피언스리그_2001-02</sbj>
-		<obj type="" weight="0.00" label="NP" josa="">바이어_04_레버쿠젠</obj>
+	<sent_item id="M_D3120">
+		<sent><![CDATA[그는 거의 바이어_04_레버쿠젠 소속으로 10년간 300여회의 공식 경기에 출장하였고, 팀의 UEFA_챔피언스리그_2001-02 결승행에 힘을 보탰다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[UEFA_챔피언스리그_2001-02]]></sbj_text>
+			<arg_type weight="0.47">Event</arg_type>
+			<arg_type weight="0.47">SocietalEvent</arg_type>
+			<arg_type weight="1.70">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[바이어_04_레버쿠젠]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
 		<gold>team</gold>
-		<mln_predict conf="0.341">league</mln_predict>
-		<cnn_predict conf="0.490">team</cnn_predict>
+		<mln_predict conf="1.000">team</mln_predict>
+		<cnn_predict conf="0.653">team</cnn_predict>
 		<gsdp>(NP)--up--VP--down--VP--down--NP_AJT--down--(NP)</gsdp>
-		<gsdp_lemma>보탰다.--출장하였고,--소속으로</gsdp_lemma>
-		<head>보탰다.</head>
-		<cluster>35</cluster>
+		<gsdp_lemma><![CDATA[보탰다.--출장하였고,--소속으로]]></gsdp_lemma>
 		<comment></comment>
 	</sent_item>
 </sentence_list>

@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VNP--down--NP_MOD--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1601">
+		<sent><![CDATA[《여인의_향기_(드라마)》는 2011년에 방영한 김선아 주연의 SBS 주말 특별기획 드라마이다.]]></sent>
+		<sbj label="NP_SBJ" josa="는">
+			<sbj_text><![CDATA[여인의_향기_(드라마)]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[김선아]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="1.000">starring</mln_predict>
+		<cnn_predict conf="0.748">starring</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VNP--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[드라마이다.--주연의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

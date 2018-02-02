@@ -1,0 +1,40 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--NP--down--NP_MOD--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_D2765">
+		<sent><![CDATA[레슬리 역은 캐나다 온타리오_주 토론토의 지하철 셰퍼드_선의 역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[셰퍼드_선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[온타리오_주]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.842">routeStart</mln_predict>
+		<cnn_predict conf="0.477">location</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[지하철--토론토의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1742">
+		<sent><![CDATA[빅토리아 파크 역은 캐나다 온타리오_주 토론토의 지하철 블루어-댄포스_선의 역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[블루어-댄포스_선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[온타리오_주]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.845">routeStart</mln_predict>
+		<cnn_predict conf="0.487">location</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[지하철--토론토의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

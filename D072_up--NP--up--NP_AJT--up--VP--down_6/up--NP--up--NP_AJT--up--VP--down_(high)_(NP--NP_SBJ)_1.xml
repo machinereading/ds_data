@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--up--NP_AJT--up--VP--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D428">
+		<sent><![CDATA[2014년 영화 《가디언즈_오브_갤럭시_(영화)》에는 자이먼_혼수가 연기한다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[가디언즈_오브_갤럭시_(영화)]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[자이먼_혼수]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="1.000">starring</mln_predict>
+		<cnn_predict conf="0.946">starring</cnn_predict>
+		<gsdp>(NP)--up--NP--up--NP_AJT--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[영화--《가디언즈_오브_갤럭시_(영화)》에는--연기한다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_AJT--up--VP_MOD--up--VNP--down--(DP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3016">
+		<sent><![CDATA[휘파람새속은 참새목 휘파람새과에 속하는 새 속이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[참새목]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="DP" josa="">
+			<obj_text><![CDATA[새]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.592">order</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP_MOD--up--VNP--down--(DP)</gsdp>
+		<gsdp_lemma><![CDATA[휘파람새과에--속하는--속이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

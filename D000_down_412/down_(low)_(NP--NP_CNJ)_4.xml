@@ -1,0 +1,66 @@
+<sentence_list>
+	<dependency>(NP)--down--(NP_CNJ)</dependency>
+	<total>4</total>
+	<sent_item id="M_D863">
+		<sent><![CDATA[만주족 계열: 퉁구스 민족의 일파인 만주족 혹은 시버족 계열의 성씨이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[시버족]]></sbj_text>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[만주족]]></obj_text>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.119">related</mln_predict>
+		<cnn_predict conf="0.400">deathPlace</cnn_predict>
+		<gsdp>(NP)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1849">
+		<sent><![CDATA[또한 몬족, 와족, 라오족, 크메르족 등이 이 지방에 산다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[크메르족]]></sbj_text>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[와족]]></obj_text>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.540">related</mln_predict>
+		<cnn_predict conf="0.168">order</cnn_predict>
+		<gsdp>(NP)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1499">
+		<sent><![CDATA[그는 조선 조선 선조 때의 형제 정승 윤두수, 윤근수 형제의 후손이었고, 도재 윤흔의 6대손이었다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[윤근수]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[윤두수]]></obj_text>
+			<arg_type weight="0.94">Agent</arg_type>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.977">relative</mln_predict>
+		<cnn_predict conf="0.907">relative</cnn_predict>
+		<gsdp>(NP)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1228">
+		<sent><![CDATA[주요 민족은 줄루족, 코사족, 바소토족, 바페디족, 벤다족, 츠와나족, 샹간족, 스와지족, 은데벨레족 등이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[은데벨레족]]></sbj_text>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[코사족]]></obj_text>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.201">country</mln_predict>
+		<cnn_predict conf="0.133">location</cnn_predict>
+		<gsdp>(NP)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

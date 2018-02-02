@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--up--VP--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2523">
+		<sent><![CDATA[2013년 영화 《찰리_컨트리맨》에 출연해 샤이아 라보프, 루퍼트_그린트와 호흡을 맞췄다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[찰리_컨트리맨]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="와">
+			<obj_text><![CDATA[루퍼트_그린트]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="1.000">starring</mln_predict>
+		<cnn_predict conf="0.961">starring</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[출연해--맞췄다.]]></gsdp_lemma>
+		<comment>'출연하다' 가 GSDP에 있어서 좋은 example
+			VP-VP Conjunction일 때는 VP-up-VP 일 때 앞에 VP인 '출연하다'가 중요한 VP</comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,42 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_PRN--down--(NP_CNJ)</dependency>
+	<total>2</total>
+	<sent_item id="M_D1807">
+		<sent><![CDATA[《인수대비_(드라마)》 (JTBC, 2011년 ~ 2012년, 배우 : 진지희 → 전혜빈)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[인수대비_(드라마)]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[JTBC]]></obj_text>
+			<arg_type weight="0.32">Agent</arg_type>
+			<arg_type weight="1.24">Organisation</arg_type>
+			<arg_type weight="6.41">Company</arg_type>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.582">channel</cnn_predict>
+		<gsdp>(NP)--up--NP_PRN--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[전혜빈)]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1877">
+		<sent><![CDATA[《인수대비_(드라마)》 (JTBC, 2011년, 배우: 전현)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[인수대비_(드라마)]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[JTBC]]></obj_text>
+			<arg_type weight="0.32">Agent</arg_type>
+			<arg_type weight="1.24">Organisation</arg_type>
+			<arg_type weight="6.41">Company</arg_type>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.568">channel</cnn_predict>
+		<gsdp>(NP)--up--NP_PRN--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[전현)]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_AJT--up--VP--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2222">
+		<sent><![CDATA[영화 《데드풀_(영화)》에서는 T._J._밀러가 위즐을 연기했다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[데드풀_(영화)]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[T._J._밀러]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="1.000">starring</mln_predict>
+		<cnn_predict conf="0.953">starring</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[《데드풀_(영화)》에서는--연기했다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

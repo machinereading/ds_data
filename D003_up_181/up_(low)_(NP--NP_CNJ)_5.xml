@@ -1,0 +1,94 @@
+<sentence_list>
+	<dependency>(NP)--up--(NP_CNJ)</dependency>
+	<total>5</total>
+	<sent_item id="M_D2396">
+		<sent><![CDATA[미드필더: 이흥실, 조덕제 (부산_아이파크), 강재순]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[조덕제]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[부산_아이파크]]></obj_text>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.520">team</mln_predict>
+		<cnn_predict conf="0.514">team</cnn_predict>
+		<gsdp>(NP)--up--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3645">
+		<sent><![CDATA[공격수 : 김용세, 정해원 (부산_아이파크), 함현기]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[정해원]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[부산_아이파크]]></obj_text>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.630">team</mln_predict>
+		<cnn_predict conf="0.537">team</cnn_predict>
+		<gsdp>(NP)--up--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3242">
+		<sent><![CDATA[DF - 수비수 : 황재원, 마토_네레틀랴크 (수원_삼성_블루윙즈), 장학영, 아디우송 두스 산투스]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[마토_네레틀랴크]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[수원_삼성_블루윙즈]]></obj_text>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.263">team</mln_predict>
+		<cnn_predict conf="0.525">team</cnn_predict>
+		<gsdp>(NP)--up--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1476">
+		<sent><![CDATA[수비수 : 장외룡 (부산_아이파크), 한문배, 최강희, 김철수]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[장외룡]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[부산_아이파크]]></obj_text>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.616">team</mln_predict>
+		<cnn_predict conf="0.586">team</cnn_predict>
+		<gsdp>(NP)--up--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D4051">
+		<sent><![CDATA[미드필더: 이근호, 황진성, 하대성 (FC_서울), 마우리시오 몰리나]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[하대성]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[FC_서울]]></obj_text>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.965">team</mln_predict>
+		<cnn_predict conf="0.504">team</cnn_predict>
+		<gsdp>(NP)--up--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

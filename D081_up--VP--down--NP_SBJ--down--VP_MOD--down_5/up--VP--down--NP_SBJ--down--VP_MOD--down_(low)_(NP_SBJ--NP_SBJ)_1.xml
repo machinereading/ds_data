@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--down--NP_SBJ--down--VP_MOD--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D81">
+		<sent><![CDATA[서일본_여객철도가 관할하는 도카이도 본선 (JR_고베_선)이 지난다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[JR_고베_선]]></sbj_text>
+			<arg_type weight="0.08">Place</arg_type>
+			<arg_type weight="0.17">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.15">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[서일본_여객철도]]></obj_text>
+		</obj>
+		<gold>owner</gold>
+		<mln_predict conf="0.640">owningOrganisation</mln_predict>
+		<cnn_predict conf="0.466">operator</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--NP_SBJ--down--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[지난다.--도카이도--관할하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

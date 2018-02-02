@@ -1,0 +1,64 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_PRN--down--(NP)</dependency>
+	<total>3</total>
+	<sent_item id="M_D2896">
+		<sent><![CDATA[3. "사랑의_꿈" (장덕 작사 / 장덕 작곡) – 02:30]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[사랑의_꿈]]></sbj_text>
+			<arg_type weight="0.55">Work</arg_type>
+			<arg_type weight="2.57">MusicalWork</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[장덕]]></obj_text>
+			<arg_type weight="0.48">Agent</arg_type>
+			<arg_type weight="0.67">Person</arg_type>
+			<arg_type weight="1.03">Artist</arg_type>
+		</obj>
+		<gold>artist</gold>
+		<mln_predict conf="1.000">artist</mln_predict>
+		<cnn_predict conf="0.890">artist</cnn_predict>
+		<gsdp>(NP)--up--NP_PRN--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[작곡)]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2339">
+		<sent><![CDATA[7. Its Alright (Feat. 브라운 아이드 소울, 개리_(가수) from 리쌍, 전제덕)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[리쌍]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[개리_(가수)]]></obj_text>
+			<arg_type weight="0.30">Agent</arg_type>
+			<arg_type weight="0.99">Person</arg_type>
+			<arg_type weight="1.55">Artist</arg_type>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="1.000">currentMember</mln_predict>
+		<cnn_predict conf="0.712">currentMember</cnn_predict>
+		<gsdp>(NP)--up--NP_PRN--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[전제덕)]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1275">
+		<sent><![CDATA[《우리집_(텔레비전_프로그램)》 (JTBC, 2015년)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[우리집_(텔레비전_프로그램)]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[JTBC]]></obj_text>
+			<arg_type weight="0.32">Agent</arg_type>
+			<arg_type weight="1.24">Organisation</arg_type>
+			<arg_type weight="6.41">Company</arg_type>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="1.000">channel</mln_predict>
+		<cnn_predict conf="0.949">channel</cnn_predict>
+		<gsdp>(NP)--up--NP_PRN--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[2015년)]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

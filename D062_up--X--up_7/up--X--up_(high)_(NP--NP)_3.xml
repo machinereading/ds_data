@@ -1,0 +1,61 @@
+<sentence_list>
+	<dependency>(NP)--up--X--up--(NP)</dependency>
+	<total>3</total>
+	<sent_item id="M_D1066">
+		<sent><![CDATA[《머니볼_(영화)》 - 마이클 드 루카, 레이첼 호로비츠, 브래드_피트]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[머니볼_(영화)]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[브래드_피트]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.703">starring</mln_predict>
+		<cnn_predict conf="0.956">starring</cnn_predict>
+		<gsdp>(NP)--up--X--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[-]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3100">
+		<sent><![CDATA[《최고의_인생을_마감하는_방법,_엔딩_플래너》 - 주연: 야마시타_토모히사]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[최고의_인생을_마감하는_방법,_엔딩_플래너]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[야마시타_토모히사]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.899">starring</mln_predict>
+		<cnn_predict conf="0.988">starring</cnn_predict>
+		<gsdp>(NP)--up--X--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[-]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2701">
+		<sent><![CDATA[《마켄나의_황금》 - J. 리 톰슨 감독, 칼 포먼 각색, 그레고리_펙 주연]]></sent>
+		<sbj label="NP" josa="의">
+			<sbj_text><![CDATA[마켄나의_황금]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[그레고리_펙]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.481">starring</mln_predict>
+		<cnn_predict conf="0.975">starring</cnn_predict>
+		<gsdp>(NP)--up--X--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[-]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

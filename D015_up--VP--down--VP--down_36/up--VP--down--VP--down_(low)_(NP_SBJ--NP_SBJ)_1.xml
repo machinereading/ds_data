@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--down--VP--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2042">
+		<sent><![CDATA[1948년 8월 15일 대한민국 정부가 수립되었고, 9월 9일 조선민주주의인민공화국이 수립되어 김일성이 총리로 임명되었다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[김일성]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+			<arg_type weight="0.34">Politician</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[조선민주주의인민공화국]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.629">deathPlace</mln_predict>
+		<cnn_predict conf="0.715">deathPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[임명되었다.--수립되어]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

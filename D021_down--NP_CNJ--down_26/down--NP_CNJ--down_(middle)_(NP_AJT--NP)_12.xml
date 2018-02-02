@@ -1,0 +1,230 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--NP_CNJ--down--(NP)</dependency>
+	<total>12</total>
+	<sent_item id="M_D3331">
+		<sent><![CDATA[대구 동화사 대웅전 석가영산회상도는 대구광역시 동구, 동화사에 있는 조선시대의 불화이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[동화사]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="-0.11">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.19">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대구광역시]]></obj_text>
+			<arg_type weight="0.05">Place</arg_type>
+			<arg_type weight="0.12">PopulatedPlace</arg_type>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.481">locatedInArea</mln_predict>
+		<cnn_predict conf="0.419">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_CNJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[동구,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D245">
+		<sent><![CDATA[박문수초상은 충청남도 천안시, 천안박물관에 있는 조선 영조 때 문신인 박문수를 그린 초상화 2점이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[천안박물관]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.92">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[충청남도]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.703">location</mln_predict>
+		<cnn_predict conf="0.482">deathPlace</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_CNJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[천안시,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2728">
+		<sent><![CDATA[감지은니묘법연화경 권2, 4, 5, 6은 서울특별시 종로구, 불교중앙박물관에 있는 조선시대의 사경이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[불교중앙박물관]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.92">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[서울특별시]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.921">location</mln_predict>
+		<cnn_predict conf="0.597">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_CNJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[종로구,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2035">
+		<sent><![CDATA[미꾸라지, , 학명: "Misgurnus mizolepis")는 잉어목 미꾸리과 미꾸리속에 속하는 민물고기로 한반도 서부와 남부에 두루 서식한다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[미꾸리속]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[잉어목]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.590">order</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_CNJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[미꾸리과]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3998">
+		<sent><![CDATA[대구 동화사 지장삼존도는 대구광역시 동구, 동화사에 있는 조선시대의 불화이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[동화사]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="-0.11">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.19">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[대구광역시]]></obj_text>
+			<arg_type weight="0.05">Place</arg_type>
+			<arg_type weight="0.12">PopulatedPlace</arg_type>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.658">locatedInArea</mln_predict>
+		<cnn_predict conf="0.407">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_CNJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[동구,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1202">
+		<sent><![CDATA[감지금니대방광불화엄경보현행원품은 서울특별시 용산구, 삼성미술관_리움에 있는 고려시대의 불경이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[삼성미술관_리움]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.92">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[서울특별시]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.964">location</mln_predict>
+		<cnn_predict conf="0.568">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_CNJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[용산구,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D932">
+		<sent><![CDATA[범어사 명부전은 부산광역시 금정구, 범어사에 있던 건축물이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[범어사]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="-0.11">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.19">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[부산광역시]]></obj_text>
+			<arg_type weight="0.05">Place</arg_type>
+			<arg_type weight="0.12">PopulatedPlace</arg_type>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.989">location</mln_predict>
+		<cnn_predict conf="0.482">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_CNJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[금정구,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3265">
+		<sent><![CDATA[범어사 불설대보부모은중경은 부산광역시 금정구, 범어사에 있는 조선시대의 불경이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[범어사]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="-0.11">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.19">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[부산광역시]]></obj_text>
+			<arg_type weight="0.05">Place</arg_type>
+			<arg_type weight="0.12">PopulatedPlace</arg_type>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.751">location</mln_predict>
+		<cnn_predict conf="0.305">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_CNJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[금정구,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3147">
+		<sent><![CDATA[부산 범어사 조계문은 부산광역시 금정구, 범어사에 있는 조선시대의 건축물이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[범어사]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="-0.11">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.19">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[부산광역시]]></obj_text>
+			<arg_type weight="0.05">Place</arg_type>
+			<arg_type weight="0.12">PopulatedPlace</arg_type>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="1.000">location</mln_predict>
+		<cnn_predict conf="0.532">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_CNJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[금정구,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D20">
+		<sent><![CDATA[금동보살삼존입상은 서울특별시 용산구, 삼성미술관_리움에 있는 백제의 보살상이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[삼성미술관_리움]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.92">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[서울특별시]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.970">location</mln_predict>
+		<cnn_predict conf="0.495">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_CNJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[용산구,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1669">
+		<sent><![CDATA[김중만 초상은 서울특별시 종로구, 서울역사박물관에 있는 조선시대의 초상화이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[서울역사박물관]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.92">Building</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[서울특별시]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.581">location</mln_predict>
+		<cnn_predict conf="0.577">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_CNJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[종로구,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3048">
+		<sent><![CDATA[일부 열차는 세이부_철도 세이부 철도 세이부 지치부 선 및 세이부_철도_이케부쿠로_선과 직결 운행한다.]]></sent>
+		<sbj label="NP_AJT" josa="과">
+			<sbj_text><![CDATA[세이부_철도_이케부쿠로_선]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[세이부_철도]]></obj_text>
+			<arg_type weight="0.81">Agent</arg_type>
+			<arg_type weight="1.05">Organisation</arg_type>
+		</obj>
+		<gold>owner</gold>
+		<mln_predict conf="0.412">owningOrganisation</mln_predict>
+		<cnn_predict conf="0.373">routeStart</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_CNJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[선]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

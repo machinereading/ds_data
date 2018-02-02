@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_MOD--up--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2184">
+		<sent><![CDATA[극중 마나모진 역의 정선경은 담당 PD 이병훈씨의 전작이기도 한 대장금에서 홍리나가 맡았던 금영 역으로 낙점됐지만 MBC 귀여운_여인_(2003년_드라마) 캐스팅으로 무산된 바 있었다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[귀여운_여인_(2003년_드라마)]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="은">
+			<obj_text><![CDATA[정선경]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="1.000">starring</mln_predict>
+		<cnn_predict conf="0.929">starring</cnn_predict>
+		<gsdp>(NP)--up--NP_MOD--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[역의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

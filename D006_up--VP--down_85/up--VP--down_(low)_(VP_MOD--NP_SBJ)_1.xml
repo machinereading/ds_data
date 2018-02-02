@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(VP_MOD)--up--VP--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2338">
+		<sent><![CDATA[그리고서는 무상분배 토지개혁 단행, 국유화 등 개혁을 했고, 이 후 공산주의 지배 체제를 확고히 한 뒤에는 수상을 김일성으로 하고 부수상을 박헌영으로하는 1948년 9월 9일 조선민주주의인민공화국이 수립되었다.]]></sent>
+		<sbj label="VP_MOD" josa="으">
+			<sbj_text><![CDATA[박헌영]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[조선민주주의인민공화국]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.383">deathPlace</mln_predict>
+		<cnn_predict conf="0.726">deathPlace</cnn_predict>
+		<gsdp>(VP_MOD)--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[수립되었다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

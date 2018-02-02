@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--NP--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D463">
+		<sent><![CDATA[니시테쓰신구 역은 일본 후쿠오카_현 가스야 군 신구 정 시모노후 5초메에 소재하는 서일본_철도 서일본 철도 가이즈카 선의 철도역이다.]]></sent>
+		<sbj label="NP_SBJ" josa="도">
+			<sbj_text><![CDATA[서일본_철도]]></sbj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="1.12">Organisation</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[후쿠오카_현]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.781">owner</mln_predict>
+		<cnn_predict conf="0.393">location</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[군--가스야]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

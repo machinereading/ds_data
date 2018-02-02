@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--down--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2312">
+		<sent><![CDATA[김정일과의 사이에서 김정철과 김정은, 김여정을 낳았으며 김정일의 네번째 아내이다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[김여정]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[김정은]]></obj_text>
+			<arg_type weight="0.94">Agent</arg_type>
+			<arg_type weight="0.92">Person</arg_type>
+			<arg_type weight="1.52">Politician</arg_type>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.737">relative</mln_predict>
+		<cnn_predict conf="0.376">deathPlace</cnn_predict>
+		<gsdp>(NP_OBJ)--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

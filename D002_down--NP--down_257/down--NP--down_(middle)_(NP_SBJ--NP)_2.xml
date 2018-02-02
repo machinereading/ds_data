@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--NP--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_D2056">
+		<sent><![CDATA["" 그는 전 올림피아코스_FC 선수 즐라트코_자호비치가 은퇴함에 따라 공석이 된 10번을 받았다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[즐라트코_자호비치]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[올림피아코스_FC]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.765">team</mln_predict>
+		<cnn_predict conf="0.553">team</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[선수]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2724">
+		<sent><![CDATA[미국 메이저 리그 베이스볼 야구의 애틀랜타_브레이브스 소속 투수 존_스몰츠가 메이저 리그 사상 16번째로 3000개의 탈삼진을 기록하였다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[존_스몰츠]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[애틀랜타_브레이브스]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.943">team</mln_predict>
+		<cnn_predict conf="0.517">team</cnn_predict>
+		<gsdp>(NP_SBJ)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[투수]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

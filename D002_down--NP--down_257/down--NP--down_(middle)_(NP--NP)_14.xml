@@ -1,0 +1,234 @@
+<sentence_list>
+	<dependency>(NP)--down--NP--down--(NP)</dependency>
+	<total>14</total>
+	<sent_item id="M_D4027">
+		<sent><![CDATA[1996년 SBS 토요드라마 《도시남녀》 ... 이해성 역]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[도시남녀]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[SBS]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.395">channel</mln_predict>
+		<cnn_predict conf="0.877">channel</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[토요드라마]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1407">
+		<sent><![CDATA[2002년 SBS 대하드라마 《야인시대》... 박순천 의원 역]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[야인시대]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[SBS]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.993">channel</mln_predict>
+		<cnn_predict conf="0.905">channel</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[대하드라마]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1446">
+		<sent><![CDATA[한편 2007년 11월 경기도 고양시 북한산 삼천사지에서 가순궁주 관련 유물이 발견되었는데, 이름은 "가순궁주명금니목가구편"이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[북한산]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="2.09">NaturalPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[경기도]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.867">locatedInArea</mln_predict>
+		<cnn_predict conf="0.317">location</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[고양시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2041">
+		<sent><![CDATA[2015년 SBS 수목드라마 《하이드_지킬,_나》... 어린 장하나 역]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[하이드_지킬,_나]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[SBS]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.930">channel</mln_predict>
+		<cnn_predict conf="0.946">channel</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[수목드라마]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3607">
+		<sent><![CDATA[1994년 가을에는 SBS 시트콤 《오박사네_사람들》출연 당시 조연출이었던 윤상섭과 결혼식을 올렸다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[오박사네_사람들]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[SBS]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.968">channel</mln_predict>
+		<cnn_predict conf="0.611">starring</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[시트콤]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1248">
+		<sent><![CDATA[용인대학교는 경기도 용인시 처인구 용인대학교 134에 있는 사립대학교로, 1953년에 道義相磨 欲而爲人을 건학 이념으로 표방하고 대한유도학교로 개교하였다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[용인대학교]]></sbj_text>
+			<arg_type weight="-0.23">Agent</arg_type>
+			<arg_type weight="0.35">Organisation</arg_type>
+			<arg_type weight="2.11">EducationalInstitution</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[용인시]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.417">location</mln_predict>
+		<cnn_predict conf="0.750">city</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[처인구]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2464">
+		<sent><![CDATA[2013년 SBS 미니시리즈 《출생의_비밀》 ... 최기태 역]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[출생의_비밀]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[SBS]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.965">channel</mln_predict>
+		<cnn_predict conf="0.879">channel</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[미니시리즈]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1362">
+		<sent><![CDATA[2002년 KBS1 대하드라마 《제국의_아침》 ... 박술희 역]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[제국의_아침]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[KBS1]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.668">channel</mln_predict>
+		<cnn_predict conf="0.945">channel</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[대하드라마]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D725">
+		<sent><![CDATA[남양주 수종사 팔각오층석탑은 경기도 남양주시 운길산 중턱에 위치한 수종사에 전해오는 조선시대의 석탑이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[운길산]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="2.09">NaturalPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[경기도]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.480">locatedInArea</mln_predict>
+		<cnn_predict conf="0.313">locatedInArea</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[남양주시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2600">
+		<sent><![CDATA[2004년 MBC 일일연속극 《왕꽃_선녀님》 ... 원소정 역]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[왕꽃_선녀님]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[MBC]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.927">channel</mln_predict>
+		<cnn_predict conf="0.895">channel</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[일일연속극]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2959">
+		<sent><![CDATA[2013년 한국방송공사 주말연속극 《최고다_이순신》... 황일도 역]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[최고다_이순신]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[한국방송공사]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.982">channel</mln_predict>
+		<cnn_predict conf="0.911">channel</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주말연속극]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3272">
+		<sent><![CDATA[2002년 SBS 대하드라마 《야인시대》... 한용운 역]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[야인시대]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[SBS]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.990">channel</mln_predict>
+		<cnn_predict conf="0.932">channel</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[대하드라마]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D623">
+		<sent><![CDATA[1998년 SBS 미니시리즈 《백야_3.98》 ... 권택형 소좌 역]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[백야_3.98]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[SBS]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.868">channel</mln_predict>
+		<cnn_predict conf="0.931">channel</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[미니시리즈]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3371">
+		<sent><![CDATA[2012년 SBS 아침드라마 《너라서_좋아》 윤공자 역]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[너라서_좋아]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[SBS]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.979">channel</mln_predict>
+		<cnn_predict conf="0.901">channel</cnn_predict>
+		<gsdp>(NP)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[아침드라마]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

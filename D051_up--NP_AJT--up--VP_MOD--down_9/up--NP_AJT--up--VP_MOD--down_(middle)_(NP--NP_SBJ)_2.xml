@@ -1,0 +1,40 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_AJT--up--VP_MOD--down--(NP_SBJ)</dependency>
+	<total>2</total>
+	<sent_item id="M_D2457">
+		<sent><![CDATA[쉐보레 업랜더는 제너럴_모터스가 쉐보레 브랜드로 생산·판매한 대형 미니밴으로, 2005년에 쉐보레 벤처의 후속 차종으로 출시되었다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[쉐보레]]></sbj_text>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[제너럴_모터스]]></obj_text>
+			<arg_type weight="0.81">Agent</arg_type>
+			<arg_type weight="1.05">Organisation</arg_type>
+		</obj>
+		<gold>owner</gold>
+		<mln_predict conf="0.189">location</mln_predict>
+		<cnn_predict conf="0.520">location</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[브랜드로--생산·판매한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3985">
+		<sent><![CDATA[오늘날과 같은 근대적인 수상 제도는 1867년 북독일_연방 연방수상으로 오토_폰_비스마르크가 취임한 것이 그 시초이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[북독일_연방]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[오토_폰_비스마르크]]></obj_text>
+			<arg_type weight="0.04">Agent</arg_type>
+			<arg_type weight="0.54">Person</arg_type>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.220">leaderName</mln_predict>
+		<cnn_predict conf="0.578">deathPlace</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[연방수상으로--취임한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

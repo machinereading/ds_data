@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--VP_MOD--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D334">
+		<sent><![CDATA[로스부르크 연구는 나치_독일에서 중령 브렌하드 본 루스부르크와 독일 국방군 최고 사령부의 알프레트_요들이 1940년 9월 15일 수립한 군사 계획이다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[알프레트_요들]]></sbj_text>
+			<arg_type weight="-0.05">Agent</arg_type>
+			<arg_type weight="-0.30">Person</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[나치_독일]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.665">team</mln_predict>
+		<cnn_predict conf="0.378">deathPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[본]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

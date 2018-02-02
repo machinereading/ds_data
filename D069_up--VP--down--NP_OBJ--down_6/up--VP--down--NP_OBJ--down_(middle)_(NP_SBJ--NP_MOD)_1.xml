@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--down--NP_OBJ--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3177">
+		<sent><![CDATA[정영일은 SK_와이번스의 2차 5순위 지명을 받았고, 미네소타 트윈스에서 방출된 뒤 병역을 마친 최형록은 두산 베어스의 2차 8순위 지명을 받아 대한민국에서 뛸 수 있게 되었다.]]></sent>
+		<sbj label="NP_SBJ" josa="은">
+			<sbj_text><![CDATA[정영일]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[SK_와이번스]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.704">team</mln_predict>
+		<cnn_predict conf="0.485">team</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--NP_OBJ--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[받았고,--지명을]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

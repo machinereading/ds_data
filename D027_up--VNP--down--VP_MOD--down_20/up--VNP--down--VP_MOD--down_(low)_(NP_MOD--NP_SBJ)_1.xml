@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP--down--VP_MOD--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1917">
+		<sent><![CDATA[괴동역은 한국철도공사가 운영하는 괴동선의 화물역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[괴동선]]></sbj_text>
+			<arg_type weight="0.08">Place</arg_type>
+			<arg_type weight="0.28">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.20">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[한국철도공사]]></obj_text>
+			<arg_type weight="-1.09">Agent</arg_type>
+			<arg_type weight="-0.90">Organisation</arg_type>
+		</obj>
+		<gold>operator</gold>
+		<mln_predict conf="0.534">owningOrganisation</mln_predict>
+		<cnn_predict conf="0.228">routeEnd</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP--down--VP_MOD--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[화물역이다.--운영하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

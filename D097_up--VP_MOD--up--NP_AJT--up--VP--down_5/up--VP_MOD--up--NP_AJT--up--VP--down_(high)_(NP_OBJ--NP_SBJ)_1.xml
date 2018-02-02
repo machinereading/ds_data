@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP_MOD--up--NP_AJT--up--VP--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1141">
+		<sent><![CDATA[로웰 커닝햄의 동명의 만화를 원작으로 15년전의 1997년 《맨 인 블랙》과 10년전의 2002년 《맨_인_블랙_2》을 이은 속편으로 토미 리 존스, 윌_스미스가 주연을 맡았고, 새롭게 조시 브롤린가 합류했다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[맨_인_블랙_2]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[윌_스미스]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="1.000">starring</mln_predict>
+		<cnn_predict conf="0.945">starring</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP_MOD--up--NP_AJT--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[이은--속편으로--맡았고,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

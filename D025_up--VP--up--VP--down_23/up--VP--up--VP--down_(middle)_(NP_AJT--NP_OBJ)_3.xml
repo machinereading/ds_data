@@ -1,0 +1,64 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--up--VP--down--(NP_OBJ)</dependency>
+	<total>3</total>
+	<sent_item id="M_D3246">
+		<sent><![CDATA[2014년_FIFA_월드컵_결승전에서는 독일이 연장 후반 8분에 나온 마리오 괴체의 결승골을 앞세워 아르헨티나_축구_국가대표팀를 1-0으로 꺾고 통산 4번째 우승을 차지했다.]]></sent>
+		<sbj label="NP_AJT" josa="는">
+			<sbj_text><![CDATA[2014년_FIFA_월드컵_결승전]]></sbj_text>
+			<arg_type weight="0.47">Event</arg_type>
+			<arg_type weight="0.47">SocietalEvent</arg_type>
+			<arg_type weight="1.70">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="를">
+			<obj_text><![CDATA[아르헨티나_축구_국가대표팀]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="1.000">team</mln_predict>
+		<cnn_predict conf="0.940">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--up--VP--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[앞세워--꺾고]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D822">
+		<sent><![CDATA[UEFA_유로파리그_2012-13에서, 바젤은 UEFA 유로파리그 토너먼트전#준결승전까지 진출하여 UEFA 챔피언스리그 우승팀 첼시_FC를 상대하였으나, 두 경기에서 모두 지며, 합계 2-5로 탈락하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[UEFA_유로파리그_2012-13]]></sbj_text>
+			<arg_type weight="0.47">Event</arg_type>
+			<arg_type weight="0.47">SocietalEvent</arg_type>
+			<arg_type weight="1.70">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="를">
+			<obj_text><![CDATA[첼시_FC]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.986">team</mln_predict>
+		<cnn_predict conf="0.914">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--up--VP--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[진출하여--상대하였으나,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3204">
+		<sent><![CDATA[디 마테오 감독 하의 첼시는 FA컵에서 우승을 거두었으며, UEFA 챔피언스리그 2012_UEFA_챔피언스리그_결승전에 진출하여 승부차기에서 FC_바이에른_뮌헨을 4-3으로 꺾고 구단 역사상 최초의 챔피언스리그 타이틀을 획득하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[2012_UEFA_챔피언스리그_결승전]]></sbj_text>
+			<arg_type weight="0.47">Event</arg_type>
+			<arg_type weight="0.47">SocietalEvent</arg_type>
+			<arg_type weight="1.70">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="을">
+			<obj_text><![CDATA[FC_바이에른_뮌헨]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="1.000">team</mln_predict>
+		<cnn_predict conf="0.877">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--up--VP--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[진출하여--꺾고]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

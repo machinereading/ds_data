@@ -1,0 +1,58 @@
+<sentence_list>
+	<dependency>(VNP)--down--VP_MOD--down--VP--down--(NP_AJT)</dependency>
+	<total>3</total>
+	<sent_item id="M_D3955">
+		<sent><![CDATA[현재 소속팀은 풋볼_리그_1에 소속되어 있는 플리트우드_타운_FC이다.]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[플리트우드_타운_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[풋볼_리그_1]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.978">position</mln_predict>
+		<cnn_predict conf="0.402">league</cnn_predict>
+		<gsdp>(VNP)--down--VP_MOD--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[있는--소속되어]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2055">
+		<sent><![CDATA[현재 소속팀은 프리미어리그에 소속되어 있는 사우샘프턴_FC이다.]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[사우샘프턴_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[프리미어리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.917">position</mln_predict>
+		<cnn_predict conf="0.522">league</cnn_predict>
+		<gsdp>(VNP)--down--VP_MOD--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[있는--소속되어]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D991">
+		<sent><![CDATA[현재 소속팀은 프리미어리그에 소속되어 있는 리버풀_FC이다.]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[리버풀_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[프리미어리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.732">position</mln_predict>
+		<cnn_predict conf="0.420">league</cnn_predict>
+		<gsdp>(VNP)--down--VP_MOD--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[있는--소속되어]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

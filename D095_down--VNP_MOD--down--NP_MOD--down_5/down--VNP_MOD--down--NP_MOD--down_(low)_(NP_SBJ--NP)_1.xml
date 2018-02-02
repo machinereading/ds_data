@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--VNP_MOD--down--NP_MOD--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2911">
+		<sent><![CDATA[독립운동가 겸 계몽사상가, 정치인 윤치호의 아버지이며 조선 말기의 무신인 윤웅렬이 조선 말기 창의문 밖 경승지의 땅을 매입하고 1906년 초, 지은 별장이다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[윤웅렬]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[조선]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.602">birthPlace</mln_predict>
+		<cnn_predict conf="0.827">deathPlace</cnn_predict>
+		<gsdp>(NP_SBJ)--down--VNP_MOD--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[무신인--말기의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

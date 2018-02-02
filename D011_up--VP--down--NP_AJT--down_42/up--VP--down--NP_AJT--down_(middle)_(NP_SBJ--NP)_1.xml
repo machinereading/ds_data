@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--down--NP_AJT--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D133">
+		<sent><![CDATA[경제 3년, 오초칠국의_난이 일어나면서 형제들과 마찬가지로 반란군 중 가장 세력이 큰 이웃 오나라 왕 유비_(오왕)의 사신을 받자, 이에 응하지 않고 여강나라와 국경을 접한 월나라와 사신을 왕래했다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[오초칠국의_난]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[유비_(오왕)]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.864">commander</mln_predict>
+		<cnn_predict conf="0.479">commander</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[일어나면서--3년,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

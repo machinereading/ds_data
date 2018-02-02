@@ -1,0 +1,20 @@
+<sentence_list>
+	<dependency>(NP)--up--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3995">
+		<sent><![CDATA[그 예로 보리스 파스테르나크, 장폴 사르트르, 레득토 (베트남)가 있다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[레득토]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[베트남]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.128">location</mln_predict>
+		<cnn_predict conf="0.328">country</cnn_predict>
+		<gsdp>(NP)--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

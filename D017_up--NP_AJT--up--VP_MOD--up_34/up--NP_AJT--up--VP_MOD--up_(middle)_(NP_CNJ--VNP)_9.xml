@@ -1,0 +1,175 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP_AJT--up--VP_MOD--up--(VNP)</dependency>
+	<total>9</total>
+	<sent_item id="M_D3107">
+		<sent><![CDATA[유마윗수염박쥐는 애기박쥐과 윗수염박쥐속에 속하는 박쥐이다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[애기박쥐과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="VNP" josa="">
+			<obj_text><![CDATA[박쥐]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="0.895">order</mln_predict>
+		<cnn_predict conf="0.669">order</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--up--VP_MOD--up--(VNP)</gsdp>
+		<gsdp_lemma><![CDATA[윗수염박쥐속에--속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1385">
+		<sent><![CDATA[아브라바야쥐속은 비단털쥐과 목화쥐아과에 속하는 남아메리카 설치류이다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[비단털쥐과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="VNP" josa="">
+			<obj_text><![CDATA[설치류]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.793">order</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--up--VP_MOD--up--(VNP)</gsdp>
+		<gsdp_lemma><![CDATA[목화쥐아과에--속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1631">
+		<sent><![CDATA[안남윗수염박쥐는 애기박쥐과 윗수염박쥐속에 속하는 박쥐이다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[애기박쥐과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="VNP" josa="">
+			<obj_text><![CDATA[박쥐]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.689">order</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--up--VP_MOD--up--(VNP)</gsdp>
+		<gsdp_lemma><![CDATA[윗수염박쥐속에--속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3859">
+		<sent><![CDATA[아타카마윗수염박쥐는 애기박쥐과 윗수염박쥐속에 속하는 박쥐이다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[애기박쥐과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="VNP" josa="">
+			<obj_text><![CDATA[박쥐]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.677">order</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--up--VP_MOD--up--(VNP)</gsdp>
+		<gsdp_lemma><![CDATA[윗수염박쥐속에--속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2917">
+		<sent><![CDATA[남아메리카물쥐는 비단털쥐과 남아메리카물쥐속에 속하는 반수생의 식충성 설치류이다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[비단털쥐과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="VNP" josa="">
+			<obj_text><![CDATA[설치류]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.683">order</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--up--VP_MOD--up--(VNP)</gsdp>
+		<gsdp_lemma><![CDATA[남아메리카물쥐속에--속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1755">
+		<sent><![CDATA[조프루아박쥐는 애기박쥐과 윗수염박쥐속에 속하는 박쥐이다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[애기박쥐과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="VNP" josa="">
+			<obj_text><![CDATA[박쥐]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.675">order</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--up--VP_MOD--up--(VNP)</gsdp>
+		<gsdp_lemma><![CDATA[윗수염박쥐속에--속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3181">
+		<sent><![CDATA[호스필드박쥐는 애기박쥐과 윗수염박쥐속에 속하는 박쥐이다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[애기박쥐과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="VNP" josa="">
+			<obj_text><![CDATA[박쥐]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.701">order</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--up--VP_MOD--up--(VNP)</gsdp>
+		<gsdp_lemma><![CDATA[윗수염박쥐속에--속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3408">
+		<sent><![CDATA[흰배윗수염박쥐는 애기박쥐과 윗수염박쥐속에 속하는 박쥐이다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[애기박쥐과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="VNP" josa="">
+			<obj_text><![CDATA[박쥐]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.699">order</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--up--VP_MOD--up--(VNP)</gsdp>
+		<gsdp_lemma><![CDATA[윗수염박쥐속에--속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2429">
+		<sent><![CDATA[부하라윗수염박쥐는 애기박쥐과 윗수염박쥐속에 속하는 박쥐이다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[애기박쥐과]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="VNP" josa="">
+			<obj_text><![CDATA[박쥐]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="0.958">order</mln_predict>
+		<cnn_predict conf="0.675">order</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--up--VP_MOD--up--(VNP)</gsdp>
+		<gsdp_lemma><![CDATA[윗수염박쥐속에--속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--VP_MOD--down--VP--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1895">
+		<sent><![CDATA[2005년에 문을 연 이 시설에서 메이저_리그_사커에 참여하고 있는 축구 클럽 FC_댈러스가 스타디움을 홈 구장으로 사용하고 있다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[FC_댈러스]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[메이저_리그_사커]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.952">league</mln_predict>
+		<cnn_predict conf="0.608">location</cnn_predict>
+		<gsdp>(NP_SBJ)--down--VP_MOD--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[있는--참여하고]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

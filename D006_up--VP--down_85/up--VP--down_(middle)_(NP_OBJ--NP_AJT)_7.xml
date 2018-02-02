@@ -1,0 +1,140 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP--down--(NP_AJT)</dependency>
+	<total>7</total>
+	<sent_item id="M_D1760">
+		<sent><![CDATA[시즌 종료 후, 브레멘은 팀의 공격수 미로슬라프_클로제를 FC_바이에른_뮌헨에 빼앗겼다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[미로슬라프_클로제]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[FC_바이에른_뮌헨]]></obj_text>
+			<arg_type weight="0.14">Agent</arg_type>
+			<arg_type weight="0.35">Organisation</arg_type>
+			<arg_type weight="0.72">SportsTeam</arg_type>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.896">team</mln_predict>
+		<cnn_predict conf="0.634">team</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[빼앗겼다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1620">
+		<sent><![CDATA[그는 미국에서 처음으로 증기기관차를 설계, 제조하였고, 뉴욕의 맨해튼에 과학 기술 발전을 위한 쿠퍼_유니언을 설립했다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[쿠퍼_유니언]]></sbj_text>
+			<arg_type weight="-0.23">Agent</arg_type>
+			<arg_type weight="0.35">Organisation</arg_type>
+			<arg_type weight="2.11">EducationalInstitution</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[맨해튼]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.412">city</mln_predict>
+		<cnn_predict conf="0.616">location</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[설립했다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D397">
+		<sent><![CDATA[그리고 인상적인 모습을 보이지 못 한 디에고 포를란과 잠파올로_파치니를 각각 SC 인테르나시오나우와 AC_밀란으로 보냈다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[잠파올로_파치니]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="으로">
+			<obj_text><![CDATA[AC_밀란]]></obj_text>
+			<arg_type weight="0.14">Agent</arg_type>
+			<arg_type weight="0.35">Organisation</arg_type>
+			<arg_type weight="0.72">SportsTeam</arg_type>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.982">team</mln_predict>
+		<cnn_predict conf="0.572">team</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[보냈다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D4038">
+		<sent><![CDATA[뉴캐슬 유나이티드가 선수를 영입하는데 지불한 최다 이적료 액수는 1,600만 파운드로 2005년 8월 레알_마드리드_CF로 부터 마이클_오언을 데려오는데 사용된 것이다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[마이클_오언]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="로">
+			<obj_text><![CDATA[레알_마드리드_CF]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.468">club</mln_predict>
+		<cnn_predict conf="0.393">team</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[데려오는데]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3389">
+		<sent><![CDATA[그러나 인천광역시에서 서울외곽순환고속도로를 타면 서창 분기점에서 계양 나들목까지 무료로 통행할 수 있었던 길이 유료화가 된다며 서창장수고속도로 유료화에 반대했다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[서울외곽순환고속도로]]></sbj_text>
+			<arg_type weight="0.34">Place</arg_type>
+			<arg_type weight="0.55">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.75">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[인천광역시]]></obj_text>
+			<arg_type weight="0.29">Place</arg_type>
+			<arg_type weight="0.42">PopulatedPlace</arg_type>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.478">location</mln_predict>
+		<cnn_predict conf="0.468">city</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[타면]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1853">
+		<sent><![CDATA[이것은 대한민국에서 한라산을 제외하고는 가장 많은 종류의 식물이 자라는 것이다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[한라산]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="2.09">NaturalPlace</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.235">city</mln_predict>
+		<cnn_predict conf="0.650">country</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[제외하고는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3065">
+		<sent><![CDATA[2010년 KBS_1TV에서 김만덕의 일대기를 그린 《거상_김만덕》드라마를 제작하여 방영하였으며, 이미연, 고두심 등이 출연하였고 이 작품 외에도 MBC에서 정화란 드라마가 방송했는데 고두심이 주인공 김만덕 역을 맡았다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[거상_김만덕]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[KBS_1TV]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.319">channel</mln_predict>
+		<cnn_predict conf="0.533">channel</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[제작하여]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

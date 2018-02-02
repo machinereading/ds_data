@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP_AJT--up--VP--down--NP_AJT--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2657">
+		<sent><![CDATA[그 후, 주유의 지휘하에서 적벽_대전, 남군 전투에서 공을 세웠으며, 유비와 손부인이 형주로 떠나려 하자, 반장과 함께 손부인과 유비를 추격하여 데리러 오려 하였으나, 손부인의 거부로 물러났다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[적벽_대전]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[주유]]></obj_text>
+			<arg_type weight="0.34">Agent</arg_type>
+			<arg_type weight="0.86">Person</arg_type>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.974">commander</mln_predict>
+		<cnn_predict conf="0.881">commander</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[전투에서--세웠으며,--지휘하에서]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP_AJT--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D414">
+		<sent><![CDATA[석항역은 태백선의 보통역으로, 강원도_(남) 영월군 중동면 석항리에 위치하고 있다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[태백선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="은">
+			<obj_text><![CDATA[강원도_(남)]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.950">location</mln_predict>
+		<cnn_predict conf="0.454">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_AJT--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[보통역으로,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

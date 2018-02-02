@@ -1,0 +1,40 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--VP_MOD--down--(NP_OBJ)</dependency>
+	<total>2</total>
+	<sent_item id="M_D2080">
+		<sent><![CDATA[그의 후임으로는 이탈리아_축구_국가대표팀을 이끌었던 안토니오_콘테가 선임되었다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[안토니오_콘테]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="을">
+			<obj_text><![CDATA[이탈리아_축구_국가대표팀]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.511">team</mln_predict>
+		<cnn_predict conf="0.794">team</cnn_predict>
+		<gsdp>(NP_SBJ)--down--VP_MOD--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[이끌었던]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3905">
+		<sent><![CDATA[2014년 10월 1일부터 서울역과 여수엑스포역을 오가는 남도해양열차가 이 역에 정차하고 있다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[남도해양열차]]></sbj_text>
+		</sbj>
+		<obj label="NP_OBJ" josa="을">
+			<obj_text><![CDATA[여수엑스포역]]></obj_text>
+			<arg_type weight="0.38">Place</arg_type>
+			<arg_type weight="1.15">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.18">Infrastructure</arg_type>
+		</obj>
+		<gold>routeStart</gold>
+		<mln_predict conf="0.756">routeEnd</mln_predict>
+		<cnn_predict conf="0.343">routeStart</cnn_predict>
+		<gsdp>(NP_SBJ)--down--VP_MOD--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[오가는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

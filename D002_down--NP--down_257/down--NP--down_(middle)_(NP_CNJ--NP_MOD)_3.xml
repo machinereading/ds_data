@@ -1,0 +1,61 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--down--NP--down--(NP_MOD)</dependency>
+	<total>3</total>
+	<sent_item id="M_D2361">
+		<sent><![CDATA[2012년 1월 17일, 클럽에서의 성공적인 트라이얼 후, 오스트리아_분데스리가의 거함 FK_아우스트리아_빈과 1년 반 계약이 체결된 것이 발표되었다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[FK_아우스트리아_빈]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[오스트리아_분데스리가]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.280">league</mln_predict>
+		<cnn_predict conf="0.297">team</cnn_predict>
+		<gsdp>(NP_CNJ)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[거함]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3651">
+		<sent><![CDATA[그는 AS_로마의 미드필더 다니엘레_데_로시와 피를로를 파트너삼아 국가대표팀에서도 유사한 역할을 할 수있다.]]></sent>
+		<sbj label="NP_CNJ" josa="와">
+			<sbj_text><![CDATA[다니엘레_데_로시]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[AS_로마]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.651">team</mln_predict>
+		<cnn_predict conf="0.638">team</cnn_predict>
+		<gsdp>(NP_CNJ)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[미드필더]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D279">
+		<sent><![CDATA[페데리코 펠루소는 세리에_A의 클럽 US_사수올로_칼초와 이탈리아 축구 국가대표팀에서 뛰는 이탈리아의 축구 선수이다.]]></sent>
+		<sbj label="NP_CNJ" josa="와">
+			<sbj_text><![CDATA[US_사수올로_칼초]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[세리에_A]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.971">position</mln_predict>
+		<cnn_predict conf="0.690">league</cnn_predict>
+		<gsdp>(NP_CNJ)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[클럽]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

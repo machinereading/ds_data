@@ -1,0 +1,116 @@
+<sentence_list>
+	<dependency>(NP)--up--(NP_CNJ)</dependency>
+	<total>6</total>
+	<sent_item id="M_D1897">
+		<sent><![CDATA[가드: 양동근_(농구_선수) (울산_모비스_피버스), 조성민]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[양동근_(농구_선수)]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[울산_모비스_피버스]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.313">team</mln_predict>
+		<cnn_predict conf="0.659">team</cnn_predict>
+		<gsdp>(NP)--up--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3363">
+		<sent><![CDATA[수비수: 김현수, 김태영, 최진철 (전북_현대_모터스), 산토스]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[최진철]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[전북_현대_모터스]]></obj_text>
+			<arg_type weight="0.14">Agent</arg_type>
+			<arg_type weight="0.35">Organisation</arg_type>
+			<arg_type weight="0.72">SportsTeam</arg_type>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.932">team</mln_predict>
+		<cnn_predict conf="0.610">team</cnn_predict>
+		<gsdp>(NP)--up--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2272">
+		<sent><![CDATA[바이에른_왕국 국왕 막시밀리안_1세_요제프와 바덴의 카롤리네 사이에서 태어난 딸로 바이에른의 아말리에 아우구스테의 쌍둥이 언니이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[바이에른_왕국]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="와">
+			<obj_text><![CDATA[막시밀리안_1세_요제프]]></obj_text>
+			<arg_type weight="0.04">Agent</arg_type>
+			<arg_type weight="0.54">Person</arg_type>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.280">leaderName</mln_predict>
+		<cnn_predict conf="0.559">deathPlace</cnn_predict>
+		<gsdp>(NP)--up--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D440">
+		<sent><![CDATA[공격수: 이기근 (포항_스틸러스), 함현기, 신동철]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[이기근]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[포항_스틸러스]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.609">team</mln_predict>
+		<cnn_predict conf="0.616">team</cnn_predict>
+		<gsdp>(NP)--up--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3425">
+		<sent><![CDATA[미드필더 : 조민국, 이흥실 (포항_스틸러스), 윤성효]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[이흥실]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[포항_스틸러스]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.405">team</mln_predict>
+		<cnn_predict conf="0.586">team</cnn_predict>
+		<gsdp>(NP)--up--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2994">
+		<sent><![CDATA[2015년 강민호 (롯데_자이언츠, 드림) - 타자]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[강민호]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[롯데_자이언츠]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.098">team</mln_predict>
+		<cnn_predict conf="0.774">team</cnn_predict>
+		<gsdp>(NP)--up--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

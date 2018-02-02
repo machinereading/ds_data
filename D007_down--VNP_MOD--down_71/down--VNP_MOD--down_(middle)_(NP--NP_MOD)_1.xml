@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP)--down--VNP_MOD--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1523">
+		<sent><![CDATA[현재 잉글랜드 프리미어리그의 프로 축구팀인 맨체스터_유나이티드_FC 일원으로 뛰고 있으며, 아르메니아 축구 국가대표팀의 주장으로 활동하고 있다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[맨체스터_유나이티드_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[프리미어리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.491">position</mln_predict>
+		<cnn_predict conf="0.542">league</cnn_predict>
+		<gsdp>(NP)--down--VNP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[축구팀인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

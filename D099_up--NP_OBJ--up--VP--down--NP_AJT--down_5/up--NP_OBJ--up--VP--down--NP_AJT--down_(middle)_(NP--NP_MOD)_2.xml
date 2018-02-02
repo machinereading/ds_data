@@ -1,0 +1,40 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_OBJ--up--VP--down--NP_AJT--down--(NP_MOD)</dependency>
+	<total>2</total>
+	<sent_item id="M_D307">
+		<sent><![CDATA[포틀랜드 팀버스는 과거 북미 축구 리그에 소속된 미국의 프로축구단으로 오리건_주 포틀랜드를 연고지로 하였다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[오리건_주]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+			<arg_type weight="0.97">Region</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[미국]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.544">country</mln_predict>
+		<cnn_predict conf="0.527">location</cnn_predict>
+		<gsdp>(NP)--up--NP_OBJ--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[포틀랜드를--하였다.--프로축구단으로]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D438">
+		<sent><![CDATA[하노버셔 슈포트페어라인 폰 1896 은 흔히 하노버 96 나 줄여서 하노버 나 96으로 알려진 독일의 축구 클럽으로 니더작센_주 하노버를 연고로 한다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[니더작센_주]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+			<arg_type weight="0.97">Region</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[독일]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.377">country</cnn_predict>
+		<gsdp>(NP)--up--NP_OBJ--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[하노버를--한다.--클럽으로]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

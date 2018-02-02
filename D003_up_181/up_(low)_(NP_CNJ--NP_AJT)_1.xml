@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1720">
+		<sent><![CDATA[따라서 영국을 4개의 영국의 구성국로 구분하며, 영국인도 잉글랜드인, 웨일스인, 스코틀랜드인, 아일랜드인으로 구분할 수 있다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[웨일스인]]></sbj_text>
+		</sbj>
+		<obj label="NP_AJT" josa="으로">
+			<obj_text><![CDATA[아일랜드인]]></obj_text>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.086">order</mln_predict>
+		<cnn_predict conf="0.271">related</cnn_predict>
+		<gsdp>(NP_CNJ)--up--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

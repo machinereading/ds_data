@@ -1,0 +1,104 @@
+<sentence_list>
+	<dependency>(NP)--up--(NP_PRN)</dependency>
+	<total>6</total>
+	<sent_item id="M_D3019">
+		<sent><![CDATA[《하얀 기억》 기자회견 진행 - 나카노_미나코 (후지 TV 아나운서)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[나카노_미나코]]></sbj_text>
+			<arg_type weight="0.49">Agent</arg_type>
+		</sbj>
+		<obj label="NP_PRN" josa="">
+			<obj_text><![CDATA[아나운서]]></obj_text>
+		</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.151">genre</mln_predict>
+		<cnn_predict conf="0.235">location</cnn_predict>
+		<gsdp>(NP)--up--(NP_PRN)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2631">
+		<sent><![CDATA[《야망의_전설》 (KBS 드라마)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[야망의_전설]]></sbj_text>
+			<arg_type weight="0.93">Work</arg_type>
+		</sbj>
+		<obj label="NP_PRN" josa="">
+			<obj_text><![CDATA[드라마]]></obj_text>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.109">country</mln_predict>
+		<cnn_predict conf="0.694">starring</cnn_predict>
+		<gsdp>(NP)--up--(NP_PRN)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D280">
+		<sent><![CDATA[《장녹수_(드라마)》(KBS, 1995년, 배우: 박영귀)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[장녹수_(드라마)]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP_PRN" josa="">
+			<obj_text><![CDATA[박영귀]]></obj_text>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.450">channel</mln_predict>
+		<cnn_predict conf="0.992">starring</cnn_predict>
+		<gsdp>(NP)--up--(NP_PRN)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1577">
+		<sent><![CDATA[《도쿄_에어포트~도쿄_공항_관제_보안부~》 : (10월 14일 ~ 12월, 주연 : 후카다_교코)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[도쿄_에어포트~도쿄_공항_관제_보안부~]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP_PRN" josa="">
+			<obj_text><![CDATA[후카다_교코]]></obj_text>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.482">channel</mln_predict>
+		<cnn_predict conf="0.973">starring</cnn_predict>
+		<gsdp>(NP)--up--(NP_PRN)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1749">
+		<sent><![CDATA[수비수: 강철, 이임생, 김현수, 마시에우_루이스_프랑쿠 (전남_드래곤즈),]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[마시에우_루이스_프랑쿠]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_PRN" josa="">
+			<obj_text><![CDATA[전남_드래곤즈]]></obj_text>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.302">team</mln_predict>
+		<cnn_predict conf="0.528">team</cnn_predict>
+		<gsdp>(NP)--up--(NP_PRN)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2317">
+		<sent><![CDATA[미드필더: 이관우, 데니스 락티오노프, 신태용, 김남일 (전남_드래곤즈)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[김남일]]></sbj_text>
+			<arg_type weight="-0.04">Agent</arg_type>
+			<arg_type weight="0.12">Person</arg_type>
+			<arg_type weight="0.50">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_PRN" josa="">
+			<obj_text><![CDATA[전남_드래곤즈]]></obj_text>
+		</obj>
+		<gold>club</gold>
+		<mln_predict conf="0.521">team</mln_predict>
+		<cnn_predict conf="0.498">team</cnn_predict>
+		<gsdp>(NP)--up--(NP_PRN)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

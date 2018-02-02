@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(VP)--up--X--up--(NP_PRN)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1762">
+		<sent><![CDATA[《좋아하는_사람이_있다는_것》 : (7월 ~ 9월, 주연: 키리타니_미레이)]]></sent>
+		<sbj label="VP" josa="">
+			<sbj_text><![CDATA[좋아하는_사람이_있다는_것]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP_PRN" josa="">
+			<obj_text><![CDATA[키리타니_미레이]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.899">starring</mln_predict>
+		<cnn_predict conf="0.969">starring</cnn_predict>
+		<gsdp>(VP)--up--X--up--(NP_PRN)</gsdp>
+		<gsdp_lemma><![CDATA[:]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

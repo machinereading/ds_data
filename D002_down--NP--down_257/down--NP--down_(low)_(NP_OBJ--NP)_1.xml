@@ -1,0 +1,20 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D50">
+		<sent><![CDATA[봉산사는 진주 강씨의 시조인 고구려 장군 강이식을 배향한 사당으로 경남 진주시 상봉동 885번지 대봉산 자락에 위치하고 있다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[강이식]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[고구려]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.305">country</mln_predict>
+		<cnn_predict conf="0.329">deathPlace</cnn_predict>
+		<gsdp>(NP_OBJ)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[장군]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

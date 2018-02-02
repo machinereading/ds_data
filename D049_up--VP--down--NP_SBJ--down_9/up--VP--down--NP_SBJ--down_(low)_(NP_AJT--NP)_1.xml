@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--NP_SBJ--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3638">
+		<sent><![CDATA[1970년 7월 23일에는 살랄라에서 카부스_빈_사이드_알사이드 국왕이 즉위하고 오만은 근대 국가로 거듭나기 시작했다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[살랄라]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[카부스_빈_사이드_알사이드]]></obj_text>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.669">birthPlace</mln_predict>
+		<cnn_predict conf="0.645">deathPlace</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_SBJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[즉위하고--국왕이]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

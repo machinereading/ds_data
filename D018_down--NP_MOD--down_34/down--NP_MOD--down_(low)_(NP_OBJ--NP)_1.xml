@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--down--NP_MOD--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2467">
+		<sent><![CDATA[이 비행기는코트디부아르 아비장의 포르부에 국제공항을 이륙, 나이지리아 라고스의 무르탈라_모하메드_국제공항을 경유해서 케냐 나이로비 조모 케냐타 국제공항으로 가던 비행기였다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[무르탈라_모하메드_국제공항]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[나이지리아]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.371">location</mln_predict>
+		<cnn_predict conf="0.304">location</cnn_predict>
+		<gsdp>(NP_OBJ)--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[라고스의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP_SBJ--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3536">
+		<sent><![CDATA[기함 ‘마쓰시마’에 승선하고 있던 일본_제국_해군의 이토_스케유키 제독은 베르탕에 다음과 같은 내용을 보냈다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[일본_제국_해군]]></sbj_text>
+			<arg_type weight="-0.68">Agent</arg_type>
+			<arg_type weight="-0.50">Organisation</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[이토_스케유키]]></obj_text>
+			<arg_type weight="0.34">Agent</arg_type>
+			<arg_type weight="0.86">Person</arg_type>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.276">relative</mln_predict>
+		<cnn_predict conf="0.269">deathPlace</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP_SBJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[제독은]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

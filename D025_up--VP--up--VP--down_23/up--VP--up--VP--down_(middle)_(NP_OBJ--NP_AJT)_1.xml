@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP--up--VP--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2012">
+		<sent><![CDATA[아르헨티나 프리메라 디비시온 2006-07에서 CD_고도이크루스를 종합 5-2로 꺾고 아르헨티나_프리메라_디비시온으로 승격했다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[CD_고도이크루스]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="으로">
+			<obj_text><![CDATA[아르헨티나_프리메라_디비시온]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.246">position</mln_predict>
+		<cnn_predict conf="0.399">team</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[꺾고--승격했다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

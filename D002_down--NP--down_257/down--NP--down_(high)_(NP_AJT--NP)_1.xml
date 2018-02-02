@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--NP--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3733">
+		<sent><![CDATA[2014년 TV조선 금토드라마 《불꽃_속으로》 ... 앨런 키신저 역]]></sent>
+		<sbj label="NP_AJT" josa="으로">
+			<sbj_text><![CDATA[불꽃_속으로]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[TV조선]]></obj_text>
+			<arg_type weight="0.32">Agent</arg_type>
+			<arg_type weight="1.24">Organisation</arg_type>
+			<arg_type weight="6.41">Company</arg_type>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.947">channel</mln_predict>
+		<cnn_predict conf="0.738">channel</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[금토드라마]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

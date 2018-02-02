@@ -1,0 +1,74 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP--down--VP--down--(NP_AJT)</dependency>
+	<total>4</total>
+	<sent_item id="M_D1023">
+		<sent><![CDATA[일본에 유학하여 니혼_대학을 졸업하고 만주에서 교사로 근무했다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[니혼_대학]]></sbj_text>
+			<arg_type weight="-0.05">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.16">EducationalInstitution</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[일본]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.878">country</mln_predict>
+		<cnn_predict conf="0.454">deathPlace</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[졸업하고--유학하여]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3011">
+		<sent><![CDATA[1997-98 시즌에 승격팀으로서 프리미어리그에 참가했으며, 2007-08 시즌 리버풀 FC, 첼시_FC를 꺾고 풋볼 리그 컵 4강에 오른 적이 있다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[첼시_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[프리미어리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.796">league</mln_predict>
+		<cnn_predict conf="0.610">team</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[꺾고--참가했으며,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1567">
+		<sent><![CDATA[압살롬은 자신의 아버지인 다윗에 대항하여 반란(압살롬의_난)을 일으켰지만 실패로 끝나고 만다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[압살롬의_난]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[다윗]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="1.000">commander</mln_predict>
+		<cnn_predict conf="0.527">commander</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[일으켰지만--대항하여]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2679">
+		<sent><![CDATA[아버지 다윗에 대항하여 압살롬의_난을 일으켰으나 패배해 살해당했다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[압살롬의_난]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[다윗]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="1.000">commander</mln_predict>
+		<cnn_predict conf="0.647">commander</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[일으켰으나--대항하여]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

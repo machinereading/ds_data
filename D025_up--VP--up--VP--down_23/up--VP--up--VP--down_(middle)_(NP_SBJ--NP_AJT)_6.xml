@@ -1,0 +1,120 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--up--VP--down--(NP_AJT)</dependency>
+	<total>6</total>
+	<sent_item id="M_D3320">
+		<sent><![CDATA[류제국은 2010년에 미국 생활을 정리하고 영구 귀국한 후, 공익근무요원 복무를 마치고 2013년 1월 31일 LG_트윈스와 계약했다.]]></sent>
+		<sbj label="NP_SBJ" josa="은">
+			<sbj_text><![CDATA[류제국]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="와">
+			<obj_text><![CDATA[LG_트윈스]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.351">team</mln_predict>
+		<cnn_predict conf="0.414">team</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[마치고--계약했다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2130">
+		<sent><![CDATA[반대로 아들 유원상은 한화 이글스에 입단했다가 LG_트윈스에 트레이드되어 아버지와는 거꾸로 팀 커리어를 잇게 되었다.]]></sent>
+		<sbj label="NP_SBJ" josa="은">
+			<sbj_text><![CDATA[유원상]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[LG_트윈스]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.531">position</mln_predict>
+		<cnn_predict conf="0.591">team</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[입단했다가--트레이드되어]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2867">
+		<sent><![CDATA[2008년에는 전주_온고을_FC가 전주덕진체련구장을 홈구장으로 하여 챌린저스리그에 참가하였으나 2009년부터 불참하였다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[전주_온고을_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[챌린저스리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.662">location</mln_predict>
+		<cnn_predict conf="0.289">location</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[하여--참가하였으나]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3472">
+		<sent><![CDATA[과천선은 호계동의 범계역을 지나 군포시 금정역으로 진입한다.]]></sent>
+		<sbj label="NP_SBJ" josa="은">
+			<sbj_text><![CDATA[과천선]]></sbj_text>
+			<arg_type weight="0.23">Place</arg_type>
+			<arg_type weight="0.41">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.48">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="으로">
+			<obj_text><![CDATA[금정역]]></obj_text>
+			<arg_type weight="0.38">Place</arg_type>
+			<arg_type weight="1.15">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.18">Infrastructure</arg_type>
+		</obj>
+		<gold>routeStart</gold>
+		<mln_predict conf="0.559">routeEnd</mln_predict>
+		<cnn_predict conf="0.555">routeStart</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[지나--진입한다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3165">
+		<sent><![CDATA[동해시에서 삼척선이 영동선에서 분기되어 삼척역으로 향하지만 무궁화호열차의 정기 운행은 없으며 바다열차가 강릉역에서 삼척역까지 운행한다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[삼척선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.23">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.28">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="으로">
+			<obj_text><![CDATA[삼척역]]></obj_text>
+			<arg_type weight="0.36">Place</arg_type>
+			<arg_type weight="1.39">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.42">Infrastructure</arg_type>
+		</obj>
+		<gold>routeEnd</gold>
+		<mln_predict conf="1.000">routeEnd</mln_predict>
+		<cnn_predict conf="0.387">routeStart</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[분기되어--향하지만]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3">
+		<sent><![CDATA[빌라_노바_FC가 통산 2번째 우승을 차지하고 캄페오나투_브라질레이루_세리이_B로 승격되었다.]]></sent>
+		<sbj label="NP_SBJ" josa="가">
+			<sbj_text><![CDATA[빌라_노바_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="로">
+			<obj_text><![CDATA[캄페오나투_브라질레이루_세리이_B]]></obj_text>
+			<arg_type weight="-0.32">Agent</arg_type>
+			<arg_type weight="-0.11">Organisation</arg_type>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.801">league</mln_predict>
+		<cnn_predict conf="0.674">team</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[차지하고--승격되었다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

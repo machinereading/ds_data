@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(VNP)--down--VNP_MOD--down--VP_MOD--down--VP--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D4069">
+		<sent><![CDATA[현재 감독하고 있는 팀은 풋볼_리그_챔피언십에 소속되어 있는 팀인 노팅엄_포리스트_FC이다.]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[노팅엄_포리스트_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[풋볼_리그_챔피언십]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.656">position</mln_predict>
+		<cnn_predict conf="0.409">league</cnn_predict>
+		<gsdp>(VNP)--down--VNP_MOD--down--VP_MOD--down--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[팀인--있는--소속되어]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

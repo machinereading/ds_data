@@ -1,0 +1,40 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--down--NP_OBJ--down--(NP_MOD)</dependency>
+	<total>2</total>
+	<sent_item id="M_D3013">
+		<sent><![CDATA[그리스-페르시아 전쟁이 일어나자 양 군은 아르테미시온 전투에서 쌍방이 큰 피해를 입었으나 살라미스_해전에서 그리스 해군이 크세르크세스_1세의 함대를 격퇴하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[살라미스_해전]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[크세르크세스_1세]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.845">commander</mln_predict>
+		<cnn_predict conf="0.831">commander</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_OBJ--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[격퇴하였다.--함대를]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2355">
+		<sent><![CDATA[그런 다음 핑크니는 브랜디와인 전투, 저먼타운_전투에서 조지_워싱턴의 부관을 맡으며, 참전하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[저먼타운_전투]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[조지_워싱턴]]></obj_text>
+			<arg_type weight="0.34">Agent</arg_type>
+			<arg_type weight="0.86">Person</arg_type>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="1.000">commander</mln_predict>
+		<cnn_predict conf="0.622">commander</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--down--NP_OBJ--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[맡으며,--부관을]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

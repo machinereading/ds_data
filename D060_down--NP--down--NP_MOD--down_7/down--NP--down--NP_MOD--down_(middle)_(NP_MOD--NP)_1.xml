@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--NP--down--NP_MOD--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1702">
+		<sent><![CDATA[FNC_엔터테인먼트 소속의 남성 4인조 음악 그룹 씨엔블루의 리더이며 메인보컬, 메인래퍼 및 메인기타, 건반을 맡고 있다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[씨엔블루]]></sbj_text>
+			<arg_type weight="-0.12">Agent</arg_type>
+			<arg_type weight="0.10">Organisation</arg_type>
+			<arg_type weight="1.11">Group</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[FNC_엔터테인먼트]]></obj_text>
+			<arg_type weight="0.25">Agent</arg_type>
+			<arg_type weight="0.55">Organisation</arg_type>
+		</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.988">owningOrganisation</mln_predict>
+		<cnn_predict conf="0.675">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--down--NP--down--NP_MOD--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[그룹--소속의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,105 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--(NP_MOD)</dependency>
+	<total>6</total>
+	<sent_item id="M_D490">
+		<sent><![CDATA[분당선은 서울특별시 성동구의 왕십리역과 경기도 수원시 팔달구의 수원역을 잇는 한국철도공사의 철도 노선 및 수도권_전철의 운행 계통을 가리키는 말이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[수도권_전철]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[한국철도공사]]></obj_text>
+			<arg_type weight="-1.09">Agent</arg_type>
+			<arg_type weight="-0.90">Organisation</arg_type>
+		</obj>
+		<gold>operator</gold>
+		<mln_predict conf="0.213">channel</mln_predict>
+		<cnn_predict conf="0.435">routeStart</cnn_predict>
+		<gsdp>(NP_MOD)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D900">
+		<sent><![CDATA[포토시는 볼리비아의 포토시_주의 주도이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[포토시_주]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[볼리비아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.570">country</mln_predict>
+		<cnn_predict conf="0.861">country</cnn_predict>
+		<gsdp>(NP_MOD)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D129">
+		<sent><![CDATA[《합법 드러그》는 일본의 만화작가 집단 클램프의 작품으로 네코이 미쿠가 작화를 담당한 4번째 작품이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[클램프]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[일본]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.683">birthPlace</mln_predict>
+		<cnn_predict conf="0.429">birthPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2778">
+		<sent><![CDATA[로렌스 역은 캐나다 온타리오 주 토론토의 지하철 1호선 영-유니버시티_선의 역이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[영-유니버시티_선]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[토론토]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.903">location</mln_predict>
+		<cnn_predict conf="0.481">location</cnn_predict>
+		<gsdp>(NP_MOD)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3876">
+		<sent><![CDATA[한큐 전차는, 일본의 소설가·아리카와_히로의 연작 단편 소설집이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[아리카와_히로]]></sbj_text>
+			<arg_type weight="0.19">Agent</arg_type>
+			<arg_type weight="0.19">Person</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[일본]]></obj_text>
+		</obj>
+		<gold>nationality</gold>
+		<mln_predict conf="0.116">occupation</mln_predict>
+		<cnn_predict conf="0.344">birthPlace</cnn_predict>
+		<gsdp>(NP_MOD)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1098">
+		<sent><![CDATA[허즈밴드 언덕은 화성의 구세프_분화구의 컬럼비아 힐스에있는 지형이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[구세프_분화구]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[화성]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.143">location</mln_predict>
+		<cnn_predict conf="0.237">location</cnn_predict>
+		<gsdp>(NP_MOD)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

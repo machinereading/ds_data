@@ -1,0 +1,36 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP_AJT--down--NP_CNJ--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_D916">
+		<sent><![CDATA["V. s. cumingi" - 필리핀(술루 제도, 사마르 섬, 보홀 섬, 민다나오_섬, 레이테 섬)에 서식한다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[민다나오_섬]]></sbj_text>
+			<arg_type weight="0.15">Place</arg_type>
+			<arg_type weight="0.66">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[필리핀]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.436">country</mln_predict>
+		<cnn_predict conf="0.612">country</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--down--NP_CNJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[섬)에--제도,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D858">
+		<sent><![CDATA[카바르디어 혹은 아디게어는 러시아 남부, 북캅카스에 위치하는 카바르디노발카르_공화국과 카라차예보체르케스카야 공화국에서 카바르딘인이 사용하는 언어이다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[카바르디노발카르_공화국]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[러시아]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.868">country</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_AJT--down--NP_CNJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[공화국에서--남부,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

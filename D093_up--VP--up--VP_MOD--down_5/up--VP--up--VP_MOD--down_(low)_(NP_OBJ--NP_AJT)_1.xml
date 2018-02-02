@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP--up--VP_MOD--down--(NP_AJT)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2176">
+		<sent><![CDATA[또한 그 과정에서 레프_트로츠키를 외국으로 추방하였고, 이후 멕시코에서 트로츠키를 살해하는 등 반대파를 숙청하였다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[레프_트로츠키]]></sbj_text>
+			<arg_type weight="0.37">Agent</arg_type>
+			<arg_type weight="0.50">Person</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[멕시코]]></obj_text>
+		</obj>
+		<gold>deathPlace</gold>
+		<mln_predict conf="0.578">deathPlace</mln_predict>
+		<cnn_predict conf="0.637">deathPlace</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--up--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[추방하였고,--살해하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

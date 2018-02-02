@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP--up--VP--down--(NP_OBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3551">
+		<sent><![CDATA[진원장군이었던 잠위는 234년에 제갈량이 제갈량의_북벌을 감행하자 사마의를 따라 참전하였다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[제갈량의_북벌]]></sbj_text>
+			<arg_type weight="1.65">Event</arg_type>
+			<arg_type weight="1.65">SocietalEvent</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="를">
+			<obj_text><![CDATA[사마의]]></obj_text>
+		</obj>
+		<gold>commander</gold>
+		<mln_predict conf="0.772">commander</mln_predict>
+		<cnn_predict conf="0.872">commander</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--up--VP--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[감행하자--따라]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

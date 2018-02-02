@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--down--X--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1146">
+		<sent><![CDATA[《29세의_크리스마스》 (주연: 야마구치_토모코) - 제작: 교도 TV]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[29세의_크리스마스]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[야마구치_토모코]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.860">starring</mln_predict>
+		<cnn_predict conf="0.986">starring</cnn_predict>
+		<gsdp>(NP)--up--NP--down--X--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[TV---]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

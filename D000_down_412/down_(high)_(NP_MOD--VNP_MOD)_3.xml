@@ -1,0 +1,64 @@
+<sentence_list>
+	<dependency>(NP_MOD)--down--(VNP_MOD)</dependency>
+	<total>3</total>
+	<sent_item id="M_D3628">
+		<sent><![CDATA[필 셀웨이은 영국 출신의 음악가이며 작곡가이고, 영국출신의 얼터너티브_록밴드인 라디오헤드의 드러머와 백킹 보컬리스트로 가장 잘 알려져있다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[라디오헤드]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.13">Organisation</arg_type>
+			<arg_type weight="0.76">Group</arg_type>
+		</sbj>
+		<obj label="VNP_MOD" josa="">
+			<obj_text><![CDATA[얼터너티브_록]]></obj_text>
+			<arg_type weight="2.32">TopicalConcept</arg_type>
+			<arg_type weight="2.32">Genre</arg_type>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="1.000">genre</mln_predict>
+		<cnn_predict conf="0.424">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--down--(VNP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2174">
+		<sent><![CDATA[브라이언 엘윈 헤너 주니어, 시니스터 게이츠로 잘 알려진 미국 음악가는 미국의 헤비_메탈밴드인 어벤지드_세븐폴드의 리드 기타리스트이자 배킹 보컬이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[어벤지드_세븐폴드]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.13">Organisation</arg_type>
+			<arg_type weight="0.76">Group</arg_type>
+		</sbj>
+		<obj label="VNP_MOD" josa="">
+			<obj_text><![CDATA[헤비_메탈]]></obj_text>
+			<arg_type weight="2.32">TopicalConcept</arg_type>
+			<arg_type weight="2.32">Genre</arg_type>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="1.000">genre</mln_predict>
+		<cnn_predict conf="0.425">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--down--(VNP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1140">
+		<sent><![CDATA[미국의 프로그레시브_메탈밴드인 드림_시어터의 마이크 맨지니는 The Siamese Monster라고 하는 드럼을 사용하는데, 이 드럼킷은 베이스 드럼이 무려 3개나 된다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[드림_시어터]]></sbj_text>
+			<arg_type weight="0.02">Agent</arg_type>
+			<arg_type weight="0.13">Organisation</arg_type>
+			<arg_type weight="0.76">Group</arg_type>
+		</sbj>
+		<obj label="VNP_MOD" josa="">
+			<obj_text><![CDATA[프로그레시브_메탈]]></obj_text>
+			<arg_type weight="2.32">TopicalConcept</arg_type>
+			<arg_type weight="2.32">Genre</arg_type>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.996">genre</mln_predict>
+		<cnn_predict conf="0.362">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--down--(VNP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

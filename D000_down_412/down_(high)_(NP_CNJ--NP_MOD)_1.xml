@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1670">
+		<sent><![CDATA[짐 자머시의 〈천국보다 낯선〉, 올리버 스톤의 〈플래툰〉, 스티븐 소더버그의 〈섹스·거짓말·비디오테이프〉, 쿠엔틴_타란티노의 〈저수지의_개들〉과 〈펄프 픽션〉 등이 잘 알려져 있다.]]></sent>
+		<sbj label="NP_CNJ" josa="과">
+			<sbj_text><![CDATA[저수지의_개들]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[쿠엔틴_타란티노]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.927">starring</mln_predict>
+		<cnn_predict conf="0.293">genre</cnn_predict>
+		<gsdp>(NP_CNJ)--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VP_MOD--up--(VNP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1274">
+		<sent><![CDATA[거닝황금두더지는 남아프리카공화국에서 발견되는 황금두더지의 작은 포유류이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[황금두더지]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="VNP" josa="">
+			<obj_text><![CDATA[포유류]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.655">class</cnn_predict>
+		<gsdp>(NP_MOD)--up--VP_MOD--up--(VNP)</gsdp>
+		<gsdp_lemma><![CDATA[작은]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

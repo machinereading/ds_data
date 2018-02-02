@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--down--NP--down--NP--down--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2886">
+		<sent><![CDATA[형: 주요섭(朱耀燮, 1902년 11월 24일 ~ 1972년 11월 14일, 소설, 시인, 영문학. 前 한국문학번역협회 회장.)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[주요섭]]></sbj_text>
+			<arg_type weight="0.49">Agent</arg_type>
+			<arg_type weight="0.51">Person</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[소설]]></obj_text>
+		</obj>
+		<gold>occupation</gold>
+		<mln_predict conf="0.341">occupation</mln_predict>
+		<cnn_predict conf="0.427">occupation</cnn_predict>
+		<gsdp>(NP)--up--NP--down--NP--down--NP--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[회장.)--前--영문학.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

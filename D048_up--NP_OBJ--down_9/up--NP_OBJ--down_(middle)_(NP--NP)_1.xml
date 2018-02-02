@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_OBJ--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3774">
+		<sent><![CDATA[주형광 현 롯데_자이언츠 코치를 동경하였던 그는 연고 팀이었던 롯데 자이언츠로 가기를 원했으나, 롯데 자이언츠는 좌투수 장원준을 지명하였다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[주형광]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[롯데_자이언츠]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.600">team</mln_predict>
+		<cnn_predict conf="0.631">position</cnn_predict>
+		<gsdp>(NP)--up--NP_OBJ--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[코치를]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

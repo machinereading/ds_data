@@ -1,0 +1,37 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--(NP_MOD)</dependency>
+	<total>2</total>
+	<sent_item id="M_D2667">
+		<sent><![CDATA[종6대조 성석용은 성삼문과 성담수, 성담년의 증조부이며 이기의 외고조부였다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[성담수]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[성담년]]></obj_text>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.119">order</mln_predict>
+		<cnn_predict conf="0.832">relative</cnn_predict>
+		<gsdp>(NP_CNJ)--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3417">
+		<sent><![CDATA[형제 정승인 의정부영의정 해평부원군 윤두수, 보국숭록대부 해원부원군 윤근수형제의 후손으로, 윤두수의 넷째 아들 윤휘의 4대손이다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[윤두수]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[윤근수]]></obj_text>
+			<arg_type weight="0.94">Agent</arg_type>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.783">relative</mln_predict>
+		<cnn_predict conf="0.924">relative</cnn_predict>
+		<gsdp>(NP_CNJ)--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

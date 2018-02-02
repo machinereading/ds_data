@@ -1,0 +1,97 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP--up--VP--down--(NP_AJT)</dependency>
+	<total>5</total>
+	<sent_item id="M_D3675">
+		<sent><![CDATA[바이어 04 레버쿠젠 이후, 그는 AS_로마와 계약하고, 2001년 이탈리아 슈퍼컵과 세리에_A 우승을 거머쥐었다.]]></sent>
+		<sbj label="NP_AJT" josa="와">
+			<sbj_text><![CDATA[AS_로마]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="">
+			<obj_text><![CDATA[세리에_A]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.761">league</mln_predict>
+		<cnn_predict conf="0.481">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[계약하고,--거머쥐었다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2889">
+		<sent><![CDATA[이 팀의 최다 득점자는 루카스_포돌스키로 12골을 득점하였고, 시즌 종료 후 FC_바이에른_뮌헨으로 이적하였다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[루카스_포돌스키]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="으로">
+			<obj_text><![CDATA[FC_바이에른_뮌헨]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.959">team</mln_predict>
+		<cnn_predict conf="0.728">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[득점하였고,--이적하였다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D274">
+		<sent><![CDATA[시즌 종료 후인 11월 14일에는 니오카_도모히로, 하야시 마사노리와의 맞트레이드에 의해 마이클 나카무라와 함께 요미우리_자이언츠에 이적했고 등번호는 35번이 되었다.]]></sent>
+		<sbj label="NP_AJT" josa="로">
+			<sbj_text><![CDATA[니오카_도모히로]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[요미우리_자이언츠]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.539">team</mln_predict>
+		<cnn_predict conf="0.600">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[의해--이적했고]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1901">
+		<sent><![CDATA[개장 이래 총 수용 가능인원은 2012년 이전까지 20,000명으로, 이는 현존하는 야구장 가운데에서 잠실야구장, 문학야구장, 사직야구장에 이어 대한민국에서 4번째의 규모를 보유하였다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[사직야구장]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[대한민국]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.522">location</mln_predict>
+		<cnn_predict conf="0.489">location</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[이어--보유하였다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D850">
+		<sent><![CDATA[페예노르트 시절, 현재 첼시 FC에서 뛰고 있는 살로몽_칼루와 강력한 투톱을 형성해 팀의 주력 공격수로 성장하였다.]]></sent>
+		<sbj label="NP_AJT" josa="와">
+			<sbj_text><![CDATA[살로몽_칼루]]></sbj_text>
+			<arg_type weight="0.28">Agent</arg_type>
+			<arg_type weight="0.36">Person</arg_type>
+			<arg_type weight="1.04">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="로">
+			<obj_text><![CDATA[공격수]]></obj_text>
+		</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.721">position</mln_predict>
+		<cnn_predict conf="0.696">position</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP--up--VP--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[형성해--성장하였다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

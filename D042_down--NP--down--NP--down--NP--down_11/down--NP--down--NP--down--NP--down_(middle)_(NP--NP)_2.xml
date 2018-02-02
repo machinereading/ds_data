@@ -1,0 +1,38 @@
+<sentence_list>
+	<dependency>(NP)--down--NP--down--NP--down--NP--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_D1156">
+		<sent><![CDATA[귀신사는 전라북도 김제시 금산면 청도리 모악산 북쪽 자락에 있는 사찰이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[모악산]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="2.09">NaturalPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[전라북도]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.348">locatedInArea</mln_predict>
+		<cnn_predict conf="0.583">locatedInArea</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[청도리--금산면--김제시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D774">
+		<sent><![CDATA[갑사는 충청남도 공주시 계룡면 중장리 계룡산 서쪽 기슭에 있는 절이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[계룡산]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="2.09">NaturalPlace</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[충청남도]]></obj_text>
+		</obj>
+		<gold>locatedInArea</gold>
+		<mln_predict conf="0.879">locatedInArea</mln_predict>
+		<cnn_predict conf="0.405">locatedInArea</cnn_predict>
+		<gsdp>(NP)--down--NP--down--NP--down--NP--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[중장리--계룡면--공주시]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

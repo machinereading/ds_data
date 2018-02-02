@@ -1,0 +1,61 @@
+<sentence_list>
+	<dependency>(VP_AJT)--up--VP_MOD--up--(NP_MOD)</dependency>
+	<total>3</total>
+	<sent_item id="M_D938">
+		<sent><![CDATA[론도갈라고는 갈라고에 속하는 영장류의 하나이다.]]></sent>
+		<sbj label="VP_AJT" josa="에">
+			<sbj_text><![CDATA[갈라고]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[영장류]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.551">class</cnn_predict>
+		<gsdp>(VP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3302">
+		<sent><![CDATA[말라위갈라고는 갈라고에 속하는 영장류의 일종이다.]]></sent>
+		<sbj label="VP_AJT" josa="에">
+			<sbj_text><![CDATA[갈라고]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[영장류]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.558">class</cnn_predict>
+		<gsdp>(VP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D208">
+		<sent><![CDATA[마칸데갈라고는 갈라고에 속하는 영장류의 하나이다.]]></sent>
+		<sbj label="VP_AJT" josa="에">
+			<sbj_text><![CDATA[갈라고]]></sbj_text>
+			<arg_type weight="0.98">Species</arg_type>
+			<arg_type weight="0.98">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[영장류]]></obj_text>
+			<arg_type weight="1.04">Species</arg_type>
+			<arg_type weight="1.04">Eukaryote</arg_type>
+		</obj>
+		<gold>order</gold>
+		<mln_predict conf="1.000">order</mln_predict>
+		<cnn_predict conf="0.578">class</cnn_predict>
+		<gsdp>(VP_AJT)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[속하는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

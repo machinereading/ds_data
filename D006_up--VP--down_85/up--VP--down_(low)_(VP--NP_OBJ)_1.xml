@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(VP)--up--VP--down--(NP_OBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2283">
+		<sent><![CDATA[주오 라이너 · 오메 라이너는 동일본_여객철도 주오 본선의 도쿄 역/신주쿠 역 - 하치오지 역/다카오_역_(도쿄_도)/ 오메 선의 오메 역 구간을 운행하는 홈 라이너 열차이다.]]></sent>
+		<sbj label="VP" josa="">
+			<sbj_text><![CDATA[다카오_역_(도쿄_도)]]></sbj_text>
+			<arg_type weight="0.09">Place</arg_type>
+			<arg_type weight="0.31">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.42">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="도">
+			<obj_text><![CDATA[동일본_여객철도]]></obj_text>
+		</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.249">city</mln_predict>
+		<cnn_predict conf="0.400">operator</cnn_predict>
+		<gsdp>(VP)--up--VP--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[주오]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

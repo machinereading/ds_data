@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--(VNP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3070">
+		<sent><![CDATA[2009년 최종 성적은 12승 5패 3.15로, 해태와 KIA_타이거즈 역사상 1993년의 김정수_(1962년) 이후 최초로 나온 좌완 10승 투수가 되며 우승에 공헌했다.]]></sent>
+		<sbj label="NP_AJT" josa="">
+			<sbj_text><![CDATA[김정수_(1962년)]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="VNP" josa="">
+			<obj_text><![CDATA[KIA_타이거즈]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.375">team</mln_predict>
+		<cnn_predict conf="0.776">team</cnn_predict>
+		<gsdp>(NP_AJT)--up--(VNP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

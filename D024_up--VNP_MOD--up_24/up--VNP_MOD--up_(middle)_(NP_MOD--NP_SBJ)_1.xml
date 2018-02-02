@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--VNP_MOD--up--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D230">
+		<sent><![CDATA[인기그룹 SMAP의 맴버인 구사나기_쓰요시가 진행하며, 방송명은 그의 한자표기의 한국어식 발음이다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[SMAP]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.91">Organisation</arg_type>
+			<arg_type weight="2.43">Group</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="가">
+			<obj_text><![CDATA[구사나기_쓰요시]]></obj_text>
+		</obj>
+		<gold>currentMember</gold>
+		<mln_predict conf="0.814">currentMember</mln_predict>
+		<cnn_predict conf="0.570">currentMember</cnn_predict>
+		<gsdp>(NP_MOD)--up--VNP_MOD--up--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[맴버인]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

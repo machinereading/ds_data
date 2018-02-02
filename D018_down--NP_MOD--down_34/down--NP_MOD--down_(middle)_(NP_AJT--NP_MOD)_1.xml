@@ -1,0 +1,24 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--NP_MOD--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1860">
+		<sent><![CDATA[본사는 캘리포니아_주의 유니버설 시티의 유니버설_스튜디오내에 위치해 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[유니버설_스튜디오]]></sbj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="1.12">Organisation</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[캘리포니아_주]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+			<arg_type weight="0.61">Region</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.937">location</mln_predict>
+		<cnn_predict conf="0.688">location</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP_MOD--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[시티의]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

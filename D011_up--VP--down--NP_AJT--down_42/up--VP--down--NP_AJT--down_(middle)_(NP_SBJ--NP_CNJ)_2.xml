@@ -1,0 +1,42 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--down--NP_AJT--down--(NP_CNJ)</dependency>
+	<total>2</total>
+	<sent_item id="M_D1440">
+		<sent><![CDATA[남인은 초기에는 우성전, 이덕형, 류성룡, 김성일, 후기에는 윤휴, 허목·허적등이 영도하였다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[허목]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[허적]]></obj_text>
+			<arg_type weight="0.94">Agent</arg_type>
+			<arg_type weight="0.92">Person</arg_type>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="0.369">relative</mln_predict>
+		<cnn_predict conf="0.979">relative</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--NP_AJT--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[영도하였다.--후기에는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2833">
+		<sent><![CDATA[애플렉은 1972년 8월 15일 캘리포니아_주, 버클리_(캘리포니아_주)에서 태어났다.]]></sent>
+		<sbj label="NP_SBJ" josa="은">
+			<sbj_text><![CDATA[버클리_(캘리포니아_주)]]></sbj_text>
+			<arg_type weight="0.68">Place</arg_type>
+			<arg_type weight="1.40">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[캘리포니아_주]]></obj_text>
+			<arg_type weight="0.18">Place</arg_type>
+			<arg_type weight="0.24">PopulatedPlace</arg_type>
+			<arg_type weight="2.12">Region</arg_type>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.847">region</mln_predict>
+		<cnn_predict conf="0.542">location</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--down--NP_AJT--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[태어났다.--버클리_(캘리포니아_주)에서]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

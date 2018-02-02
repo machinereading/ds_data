@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP_MOD--up--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D647">
+		<sent><![CDATA[후쿠오카 시 교통국 지하철 공항선은 일본 후쿠오카 현 후쿠오카 시 니시 구에 있는 메이노하마 역과 하카타 구에 있는 후쿠오카_공항역을 잇는 후쿠오카_시_교통국의 지하철 노선이다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[후쿠오카_공항역]]></sbj_text>
+			<arg_type weight="0.09">Place</arg_type>
+			<arg_type weight="0.31">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.42">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[후쿠오카_시_교통국]]></obj_text>
+		</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.780">owner</mln_predict>
+		<cnn_predict conf="0.480">owningOrganisation</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP_MOD--up--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[잇는]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

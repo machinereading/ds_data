@@ -1,0 +1,38 @@
+<sentence_list>
+	<dependency>(VNP)--down--NP_AJT--down--VP_MOD--down--(NP_AJT)</dependency>
+	<total>2</total>
+	<sent_item id="M_D3901">
+		<sent><![CDATA[밀라노 광역시는 이탈리아 롬바르디아_주에 위치한 이탈리아의 광역시로 중심 도시는 밀라노이며 면적은 1,575㎢, 인구는 3,206,465명, 인구 밀도는 2,000명/㎢이다.]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[밀라노]]></sbj_text>
+			<arg_type weight="0.68">Place</arg_type>
+			<arg_type weight="1.40">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[롬바르디아_주]]></obj_text>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.943">largestCity</mln_predict>
+		<cnn_predict conf="0.441">country</cnn_predict>
+		<gsdp>(VNP)--down--NP_AJT--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[광역시로--위치한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3263">
+		<sent><![CDATA[제노바 광역시는 이탈리아 리구리아_주에 위치한 이탈리아의 광역시로 중심 도시는 제노바이며 면적은 1,839.20㎢, 인구는 862,175명, 인구 밀도는 470명/㎢이다.]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[제노바]]></sbj_text>
+			<arg_type weight="0.68">Place</arg_type>
+			<arg_type weight="1.40">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[리구리아_주]]></obj_text>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.813">largestCity</mln_predict>
+		<cnn_predict conf="0.437">country</cnn_predict>
+		<gsdp>(VNP)--down--NP_AJT--down--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[광역시로--위치한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

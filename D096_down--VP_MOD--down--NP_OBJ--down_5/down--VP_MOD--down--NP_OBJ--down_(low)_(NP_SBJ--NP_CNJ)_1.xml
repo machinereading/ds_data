@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--down--VP_MOD--down--NP_OBJ--down--(NP_CNJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3621">
+		<sent><![CDATA[신안군과 부산광역시을 잇는 국도_제2호선이 동서로 관통하고 있으며, 남해군와 철원군을 잇는 국도 제3호선이 시의 남쪽에서 서북쪽으로 관통하고 있다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[국도_제2호선]]></sbj_text>
+			<arg_type weight="0.23">Place</arg_type>
+			<arg_type weight="0.41">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.48">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_CNJ" josa="과">
+			<obj_text><![CDATA[신안군]]></obj_text>
+		</obj>
+		<gold>routeStart</gold>
+		<mln_predict conf="0.933">city</mln_predict>
+		<cnn_predict conf="0.430">city</cnn_predict>
+		<gsdp>(NP_SBJ)--down--VP_MOD--down--NP_OBJ--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[잇는--부산광역시을]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

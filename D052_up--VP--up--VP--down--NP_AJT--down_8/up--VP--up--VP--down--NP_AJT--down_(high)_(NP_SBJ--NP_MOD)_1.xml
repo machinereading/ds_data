@@ -1,0 +1,25 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VP--up--VP--down--NP_AJT--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3080">
+		<sent><![CDATA[그리고 3분 뒤 이민성이 중거리슛으로 역전골 득점에 성공하며 대한민국_축구_국가대표팀의 2-1 승리로 경기는 마무리되었다.]]></sent>
+		<sbj label="NP_SBJ" josa="이">
+			<sbj_text><![CDATA[이민성]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[대한민국_축구_국가대표팀]]></obj_text>
+			<arg_type weight="0.98">Event</arg_type>
+			<arg_type weight="0.98">SocietalEvent</arg_type>
+			<arg_type weight="1.30">SportsEvent</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="1.000">team</mln_predict>
+		<cnn_predict conf="0.854">team</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VP--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[성공하며--마무리되었다.--승리로]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

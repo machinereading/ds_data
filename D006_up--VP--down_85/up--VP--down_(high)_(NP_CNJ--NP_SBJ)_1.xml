@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--VP--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2567">
+		<sent><![CDATA[킬러들의 수다, 아는_여자, 웰컴 투 동막골로 호흡을 맞췄던 감독 장진과 배우 정재영이 함께해 화제가 되었다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[아는_여자]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[정재영]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.970">starring</mln_predict>
+		<cnn_predict conf="0.832">starring</cnn_predict>
+		<gsdp>(NP_CNJ)--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[함께해]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

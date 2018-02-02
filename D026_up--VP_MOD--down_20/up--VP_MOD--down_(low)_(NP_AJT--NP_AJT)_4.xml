@@ -1,0 +1,73 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP_MOD--down--(NP_AJT)</dependency>
+	<total>4</total>
+	<sent_item id="M_D1554">
+		<sent><![CDATA[이후 문화방송, 한국방송공사, 한국교육방송공사, 서울방송 텔레비전_드라마에 단역급으로 출연하던 가운데 1997년 결혼 이후 연기자 활동을 중단하였다가 2004년 MBC 문화방송 드라마 《열정_(2004년_드라마)》으로 연기자 분야에 복귀하였다.]]></sent>
+		<sbj label="NP_AJT" josa="">
+			<sbj_text><![CDATA[열정_(2004년_드라마)]]></sbj_text>
+			<arg_type weight="0.93">Work</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에">
+			<obj_text><![CDATA[텔레비전_드라마]]></obj_text>
+		</obj>
+		<gold>genre</gold>
+		<mln_predict conf="0.533">channel</mln_predict>
+		<cnn_predict conf="0.644">starring</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[출연하던]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1185">
+		<sent><![CDATA[또한 독일에서 독일_연방의회에 입성한 극우파 정당은 하나도 없었다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[독일_연방의회]]></sbj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="1.12">Organisation</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[독일]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.277">location</mln_predict>
+		<cnn_predict conf="0.333">deathPlace</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[입성한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D681">
+		<sent><![CDATA[1900년 하계 올림픽 오스트리아 선수단은 프랑스 파리_(도시)에서 개최된 1900년_하계_올림픽에 참가한 올림픽 오스트리아 선수단이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[1900년_하계_올림픽]]></sbj_text>
+			<arg_type weight="-0.19">Event</arg_type>
+			<arg_type weight="-0.19">SocietalEvent</arg_type>
+			<arg_type weight="0.54">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="">
+			<obj_text><![CDATA[파리_(도시)]]></obj_text>
+		</obj>
+		<gold>city</gold>
+		<mln_predict conf="0.993">city</mln_predict>
+		<cnn_predict conf="0.388">location</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[참가한]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2899">
+		<sent><![CDATA[초기에는 이스탄불에서 탁심_게지_공원에서 1940년 철거된 역사적인 탁심 병영 재건과 쇼핑몰 건설을 위한 공원 재개발에 반대해 생태주의들이 시위를 일으켰다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[탁심_게지_공원]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+		</sbj>
+		<obj label="NP_AJT" josa="에서">
+			<obj_text><![CDATA[이스탄불]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.251">largestCity</mln_predict>
+		<cnn_predict conf="0.308">largestCity</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--down--(NP_AJT)</gsdp>
+		<gsdp_lemma><![CDATA[철거된]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

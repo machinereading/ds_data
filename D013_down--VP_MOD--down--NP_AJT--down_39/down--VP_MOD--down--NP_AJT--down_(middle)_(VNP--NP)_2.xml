@@ -1,0 +1,43 @@
+<sentence_list>
+	<dependency>(VNP)--down--VP_MOD--down--NP_AJT--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_D622">
+		<sent><![CDATA[홈구장은 캘리포니아_주 새너제이에 있는 어바이어_스타디움이다.]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[어바이어_스타디움]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="1.55">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[캘리포니아_주]]></obj_text>
+			<arg_type weight="0.63">Place</arg_type>
+			<arg_type weight="0.69">PopulatedPlace</arg_type>
+			<arg_type weight="0.61">Region</arg_type>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.849">location</mln_predict>
+		<cnn_predict conf="0.923">location</cnn_predict>
+		<gsdp>(VNP)--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[있는--새너제이에]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1158">
+		<sent><![CDATA[사부아 주는 프랑스 론알프 지방에 위치한 프랑스의 주로, 주도는 샹베리이며 인구는 405,535명, 면적은 6,028㎢, 인구밀도는 67.3명/㎢이다.]]></sent>
+		<sbj label="VNP" josa="">
+			<sbj_text><![CDATA[샹베리]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[론알프]]></obj_text>
+			<arg_type weight="0.18">Place</arg_type>
+			<arg_type weight="0.24">PopulatedPlace</arg_type>
+			<arg_type weight="2.12">Region</arg_type>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.536">region</mln_predict>
+		<cnn_predict conf="0.540">country</cnn_predict>
+		<gsdp>(VNP)--down--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[위치한--지방에]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

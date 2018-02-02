@@ -1,0 +1,49 @@
+<sentence_list>
+	<dependency>(NP_CNJ)--up--NP_SBJ--down--(NP_CNJ)</dependency>
+	<total>3</total>
+	<sent_item id="M_D3170">
+		<sent><![CDATA[대부분이 한족이나 일부 만주족, 후이족, 먀오족, 좡족들도 거주한다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[먀오족]]></sbj_text>
+		</sbj>
+		<obj label="NP_CNJ" josa="이나">
+			<obj_text><![CDATA[한족]]></obj_text>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.975">related</mln_predict>
+		<cnn_predict conf="0.537">related</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_SBJ--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[좡족들도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D4024">
+		<sent><![CDATA[벨라루스인, 우크라이나인, 핀란드인, 라프인, 벱스인, 기타도 거주한다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[우크라이나인]]></sbj_text>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[벨라루스인]]></obj_text>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.906">related</mln_predict>
+		<cnn_predict conf="0.960">related</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_SBJ--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[기타도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D4086">
+		<sent><![CDATA[아바시리에 살고 있는 소수민족으로는 아이누족, 윌타족, 니브흐족, 오로치족이 있다.]]></sent>
+		<sbj label="NP_CNJ" josa="">
+			<sbj_text><![CDATA[윌타족]]></sbj_text>
+		</sbj>
+		<obj label="NP_CNJ" josa="">
+			<obj_text><![CDATA[아이누족]]></obj_text>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.126">locatedInArea</mln_predict>
+		<cnn_predict conf="0.271">related</cnn_predict>
+		<gsdp>(NP_CNJ)--up--NP_SBJ--down--(NP_CNJ)</gsdp>
+		<gsdp_lemma><![CDATA[오로치족이]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

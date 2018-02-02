@@ -1,0 +1,244 @@
+<sentence_list>
+	<dependency>(NP_AJT)--down--NP--down--(NP_MOD)</dependency>
+	<total>13</total>
+	<sent_item id="M_D3203">
+		<sent><![CDATA[마르셀루는 웨일스 축구 국가대표팀를 상대로 브라질 축구 국가대표팀 첫 경기를 치렀는데, 그는 토트넘_홋스퍼_FC의 홈구장 화이트_하트_레인에서 벌어진 이 경기에서 골을 넣어 2-0 승리에 공헌했다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[화이트_하트_레인]]></sbj_text>
+			<arg_type weight="0.08">Place</arg_type>
+			<arg_type weight="0.17">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.10">SportFacility</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[토트넘_홋스퍼_FC]]></obj_text>
+			<arg_type weight="0.81">Agent</arg_type>
+			<arg_type weight="1.05">Organisation</arg_type>
+			<arg_type weight="-0.18">SportsTeam</arg_type>
+		</obj>
+		<gold>owner</gold>
+		<mln_predict conf="0.682">owner</mln_predict>
+		<cnn_predict conf="0.648">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[홈구장]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3921">
+		<sent><![CDATA[다닐루 아파레시두 다 시우바는 브라질의 축구 선수로, 우크라이나_프리미어리그의 클럽 FC_디나모_키예프에서 수비수로 뛰고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[FC_디나모_키예프]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[우크라이나_프리미어리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.758">position</mln_predict>
+		<cnn_predict conf="0.547">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[클럽]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3192">
+		<sent><![CDATA[타블로와 꿈꾸는 라디오는 대한민국의 방송국 문화방송의 FM 라디오 채널 MBC_FM4U에서 방송된 라디오 프로그램이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[MBC_FM4U]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[문화방송]]></obj_text>
+			<arg_type weight="0.81">Agent</arg_type>
+			<arg_type weight="1.05">Organisation</arg_type>
+		</obj>
+		<gold>owner</gold>
+		<mln_predict conf="0.899">owner</mln_predict>
+		<cnn_predict conf="0.679">channel</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[채널]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2682">
+		<sent><![CDATA[FA시장이 본격적으로 열리기 전에 이미 롯데 자이언츠의 포수 강민호, 한화_이글스의 2루수 정근우와 중견수인 그 등 국가대표 출신 야구선수들이고 3개 구단의 프랜차이즈 스타에 공, 수도 뛰어난 선수들이라 BIG3로 거론되었다.]]></sent>
+		<sbj label="NP_AJT" josa="와">
+			<sbj_text><![CDATA[정근우]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[한화_이글스]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.395">team</mln_predict>
+		<cnn_predict conf="0.497">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[2루수]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D660">
+		<sent><![CDATA[라도사브 "라차" 페트로비치는 세르비아의 축구 선수로, 프리메이라리가의 클럽 스포르팅_CP에서 미드필더#수비형 미드필더로 뛰고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[스포르팅_CP]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[프리메이라리가]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">position</mln_predict>
+		<cnn_predict conf="0.417">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[클럽]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2318">
+		<sent><![CDATA[최근에는 세리에_A의 클럽 아탈란타_BC에서 뛰며 주장 직을 맡고있다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[아탈란타_BC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[세리에_A]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">position</mln_predict>
+		<cnn_predict conf="0.490">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[클럽]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2204">
+		<sent><![CDATA[브레누는 전 FC_바이에른_뮌헨의 브라질인 선수 지오바니_에우베르로부터 추천을 받았고, 그는 나중에 그의 조국, 브라질에서 스카우트로 일하였다.]]></sent>
+		<sbj label="NP_AJT" josa="로부터">
+			<sbj_text><![CDATA[지오바니_에우베르]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[FC_바이에른_뮌헨]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.427">birthPlace</mln_predict>
+		<cnn_predict conf="0.601">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[선수]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D75">
+		<sent><![CDATA[보름뒤 잠실에서 한화_이글스와의 경기때 정근우에게 공식으로 사과했고, 정근우도 쿨하게 용서해주었다.]]></sent>
+		<sbj label="NP_AJT" josa="에게">
+			<sbj_text><![CDATA[정근우]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[한화_이글스]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.388">team</mln_predict>
+		<cnn_predict conf="0.785">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[경기때]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3919">
+		<sent><![CDATA[현재 잉글랜드 프리미어리그의 클럽 번리_FC에서 미드필더로 뛰고 있다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[번리_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[프리미어리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="1.000">position</mln_predict>
+		<cnn_predict conf="0.709">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[클럽]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1530">
+		<sent><![CDATA[교통 : 오키나와_도시_모노레일의 종점 슈리_역에서 도보로 약 15분이며, 노선 버스로는 약 3분 거리이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[슈리_역]]></sbj_text>
+			<arg_type weight="0.09">Place</arg_type>
+			<arg_type weight="0.31">ArchitecturalStructure</arg_type>
+			<arg_type weight="0.42">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[오키나와_도시_모노레일]]></obj_text>
+			<arg_type weight="0.25">Agent</arg_type>
+			<arg_type weight="0.55">Organisation</arg_type>
+		</obj>
+		<gold>owningOrganisation</gold>
+		<mln_predict conf="0.462">owner</mln_predict>
+		<cnn_predict conf="0.253">routeStart</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[종점]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3173">
+		<sent><![CDATA[산타카타리나 대학교는 브라질 남부 산타카타리나_주의 주도 플로리아노폴리스에 위치한 공립 대학교로, 브라질과 라틴 아메리카의 최대의 대학 중의 하나이다.]]></sent>
+		<sbj label="NP_AJT" josa="에">
+			<sbj_text><![CDATA[플로리아노폴리스]]></sbj_text>
+			<arg_type weight="0.68">Place</arg_type>
+			<arg_type weight="1.40">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[산타카타리나_주]]></obj_text>
+		</obj>
+		<gold>region</gold>
+		<mln_predict conf="0.986">region</mln_predict>
+		<cnn_predict conf="0.282">country</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[주도]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2878">
+		<sent><![CDATA[시리즈 MVP는 플레이오프 1차전에서 선발로 나서 3피안타 2볼넷 6탈삼진 완봉승, 4차전에서도 선발로 나서 7이닝 무실점을 기록,2승을 챙긴 두산_베어스의 에이스 더스틴_니퍼트에게 돌아갔다.]]></sent>
+		<sbj label="NP_AJT" josa="에게">
+			<sbj_text><![CDATA[더스틴_니퍼트]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[두산_베어스]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.858">birthPlace</mln_predict>
+		<cnn_predict conf="0.711">team</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[에이스]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D482">
+		<sent><![CDATA[마르코 달레산드로는 세리에_A의 클럽 아탈란타_BC에서 뛰는 미드필더로 뛰는 이탈리아의 축구 선수이다.]]></sent>
+		<sbj label="NP_AJT" josa="에서">
+			<sbj_text><![CDATA[아탈란타_BC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[세리에_A]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.937">position</mln_predict>
+		<cnn_predict conf="0.646">league</cnn_predict>
+		<gsdp>(NP_AJT)--down--NP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[클럽]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

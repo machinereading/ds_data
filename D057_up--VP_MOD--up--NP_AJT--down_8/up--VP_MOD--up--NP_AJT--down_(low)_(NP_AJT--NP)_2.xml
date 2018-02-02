@@ -1,0 +1,34 @@
+<sentence_list>
+	<dependency>(NP_AJT)--up--VP_MOD--up--NP_AJT--down--(NP)</dependency>
+	<total>2</total>
+	<sent_item id="M_D869">
+		<sent><![CDATA[엔 주는 프랑스 북부에 위치한 프랑스의 주로, 주도는 랑_(도시)이며 면적은 7,369㎢, 인구는 535,489명, 인구밀도는 72.7명/㎢이다.]]></sent>
+		<sbj label="NP_AJT" josa="ㄴ">
+			<sbj_text><![CDATA[랑_(도시)]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[프랑스]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.486">country</mln_predict>
+		<cnn_predict conf="0.919">country</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주는--북부에]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D391">
+		<sent><![CDATA[로트에가론 주는 프랑스 남서부에 위치한 프랑스의 주로, 주도는 아쟁_(프랑스)이며 인구는 324,170명, 면적은 5,361㎢, 인구밀도는 60.5명/㎢이다.]]></sent>
+		<sbj label="NP_AJT" josa="ㄴ">
+			<sbj_text><![CDATA[아쟁_(프랑스)]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[프랑스]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="1.000">country</mln_predict>
+		<cnn_predict conf="0.877">country</cnn_predict>
+		<gsdp>(NP_AJT)--up--VP_MOD--up--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[주는--남서부에]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,44 @@
+<sentence_list>
+	<dependency>(NP)--up--NP_AJT--up--VP--down--(NP_OBJ)</dependency>
+	<total>2</total>
+	<sent_item id="M_D351">
+		<sent><![CDATA[밤늦게 활동을시작하여 나방이나 왕풍뎅이, 말똥구리, 풍뎅이 등 주로 곤충을 잡아 먹는다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[풍뎅이]]></sbj_text>
+			<arg_type weight="1.13">Species</arg_type>
+			<arg_type weight="1.13">Eukaryote</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="을">
+			<obj_text><![CDATA[곤충]]></obj_text>
+			<arg_type weight="1.08">Species</arg_type>
+			<arg_type weight="1.08">Eukaryote</arg_type>
+		</obj>
+		<gold>class</gold>
+		<mln_predict conf="0.512">class</mln_predict>
+		<cnn_predict conf="0.722">class</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[등--잡아]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2420">
+		<sent><![CDATA[유럽대항전에서, 아약스는 1991-92 시즌에 UEFA 유로파리그 우승을 거두었고, UEFA_챔피언스리그_1994-95 결승에서 AC_밀란을 이기고 우승하였다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[UEFA_챔피언스리그_1994-95]]></sbj_text>
+			<arg_type weight="0.47">Event</arg_type>
+			<arg_type weight="0.47">SocietalEvent</arg_type>
+			<arg_type weight="1.70">SportsEvent</arg_type>
+		</sbj>
+		<obj label="NP_OBJ" josa="을">
+			<obj_text><![CDATA[AC_밀란]]></obj_text>
+			<arg_type weight="0.23">Agent</arg_type>
+			<arg_type weight="0.49">Organisation</arg_type>
+			<arg_type weight="1.07">SportsTeam</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.967">team</mln_predict>
+		<cnn_predict conf="0.788">team</cnn_predict>
+		<gsdp>(NP)--up--NP_AJT--up--VP--down--(NP_OBJ)</gsdp>
+		<gsdp_lemma><![CDATA[결승에서--이기고]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

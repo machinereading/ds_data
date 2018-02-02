@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP_MOD--down--NP_AJT--down--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D2803">
+		<sent><![CDATA[또한 당시 대한민국 교통부는 이 사고를 계기로 전라남도 무안군에 무안국제공항을 건설할 계획을 밝혔고, 2007년에 무안국제공항이 개항하면서 목포공항은 군용으로만 이용하고 있다.]]></sent>
+		<sbj label="NP_OBJ" josa="을">
+			<sbj_text><![CDATA[무안국제공항]]></sbj_text>
+			<arg_type weight="0.10">Place</arg_type>
+			<arg_type weight="0.20">ArchitecturalStructure</arg_type>
+			<arg_type weight="-0.17">Infrastructure</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[전라남도]]></obj_text>
+		</obj>
+		<gold>location</gold>
+		<mln_predict conf="0.273">city</mln_predict>
+		<cnn_predict conf="0.538">location</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP_MOD--down--NP_AJT--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[건설할--무안군에]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

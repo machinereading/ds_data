@@ -1,0 +1,19 @@
+<sentence_list>
+	<dependency>(NP_OBJ)--up--VP--down--NP_AJT--down--(NP_MOD)</dependency>
+	<total>1</total>
+	<sent_item id="M_D1019">
+		<sent><![CDATA[우베를란지아 이스포르치 클루비는 우베를란지아로 잘 알려진 브라질의 축구단으로 미나스제라이스 주의 우베를란지아를 연고로 한다.]]></sent>
+		<sbj label="NP_OBJ" josa="를">
+			<sbj_text><![CDATA[우베를란지아]]></sbj_text>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[브라질]]></obj_text>
+		</obj>
+		<gold>country</gold>
+		<mln_predict conf="0.735">country</mln_predict>
+		<cnn_predict conf="0.642">country</cnn_predict>
+		<gsdp>(NP_OBJ)--up--VP--down--NP_AJT--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[한다.--축구단으로]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

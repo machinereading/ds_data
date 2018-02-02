@@ -1,0 +1,63 @@
+<sentence_list>
+	<dependency>(NP)--up--(NP_PRN)</dependency>
+	<total>3</total>
+	<sent_item id="M_D503">
+		<sent><![CDATA[《공주의_남자》 (KBS, 2011년 배우: 홍수현)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[공주의_남자]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+			<arg_type weight="-1.29">MusicalWork</arg_type>
+			<arg_type weight="0.96">Album</arg_type>
+		</sbj>
+		<obj label="NP_PRN" josa="">
+			<obj_text><![CDATA[홍수현]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.879">starring</mln_predict>
+		<cnn_predict conf="0.993">starring</cnn_predict>
+		<gsdp>(NP)--up--(NP_PRN)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D442">
+		<sent><![CDATA[《마녀보감》 (JTBC) - 최현서 역]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[마녀보감]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP_PRN" josa="">
+			<obj_text><![CDATA[JTBC]]></obj_text>
+			<arg_type weight="0.32">Agent</arg_type>
+			<arg_type weight="1.24">Organisation</arg_type>
+			<arg_type weight="6.41">Company</arg_type>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.722">channel</mln_predict>
+		<cnn_predict conf="0.922">channel</cnn_predict>
+		<gsdp>(NP)--up--(NP_PRN)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2868">
+		<sent><![CDATA[《왕과_나_(드라마)》 (SBS, 2007년 ~ 2008년, 배우 : 박보영 → 구혜선)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[왕과_나_(드라마)]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP_PRN" josa="">
+			<obj_text><![CDATA[구혜선]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+			<arg_type weight="1.93">Person</arg_type>
+			<arg_type weight="2.82">Artist</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.899">starring</mln_predict>
+		<cnn_predict conf="0.985">starring</cnn_predict>
+		<gsdp>(NP)--up--(NP_PRN)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

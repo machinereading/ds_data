@@ -1,0 +1,94 @@
+<sentence_list>
+	<dependency>(NP)--up--VNP--down--(NP_MOD)</dependency>
+	<total>5</total>
+	<sent_item id="M_D3665">
+		<sent><![CDATA[존 테리는 잉글랜드의 축구 선수로, 잉글랜드 프리미어리그의 첼시_FC 소속이자 포지션은 수비수#센터백이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[첼시_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[프리미어리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.953">league</mln_predict>
+		<cnn_predict conf="0.567">league</cnn_predict>
+		<gsdp>(NP)--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[소속이자]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1114">
+		<sent><![CDATA[마리오 파살리치 는 크로아티아의 축구 선수로, 현재 잉글랜드 프리미어리그의 첼시_FC 소속이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[첼시_FC]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[프리미어리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.957">league</mln_predict>
+		<cnn_predict conf="0.614">league</cnn_predict>
+		<gsdp>(NP)--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[소속이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3296">
+		<sent><![CDATA[현재 러시아_프리미어리그의 FC_크릴리야_소베토프_사마라 소속이며, 포지션은 수비수이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[FC_크릴리야_소베토프_사마라]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[러시아_프리미어리그]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.976">league</mln_predict>
+		<cnn_predict conf="0.571">league</cnn_predict>
+		<gsdp>(NP)--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[소속이며,]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3358">
+		<sent><![CDATA[에네스 위날은 터키의 축구 선수이며, 현재 스페인 라리가의 비야레알_CF 소속이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[비야레알_CF]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[라리가]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.619">league</mln_predict>
+		<cnn_predict conf="0.616">league</cnn_predict>
+		<gsdp>(NP)--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[소속이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3732">
+		<sent><![CDATA[포지션은 미드필더이며, 스웨덴 알스벤스칸의 IF_엘프스보리 소속이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[IF_엘프스보리]]></sbj_text>
+			<arg_type weight="0.28">Agent</arg_type>
+			<arg_type weight="0.34">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP_MOD" josa="의">
+			<obj_text><![CDATA[알스벤스칸]]></obj_text>
+		</obj>
+		<gold>position</gold>
+		<mln_predict conf="0.688">position</mln_predict>
+		<cnn_predict conf="0.487">league</cnn_predict>
+		<gsdp>(NP)--up--VNP--down--(NP_MOD)</gsdp>
+		<gsdp_lemma><![CDATA[소속이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

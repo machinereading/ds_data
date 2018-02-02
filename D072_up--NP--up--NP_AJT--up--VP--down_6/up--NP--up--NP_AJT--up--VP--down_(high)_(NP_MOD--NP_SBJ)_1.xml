@@ -1,0 +1,25 @@
+<sentence_list>
+	<dependency>(NP_MOD)--up--NP--up--NP_AJT--up--VP--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D293">
+		<sent><![CDATA['발트슈타디온'에서 대한민국_축구_국가대표팀은 이천수의 프리킥과 안정환의 중거리 슛 등에 힘입어 토고 축구 국가대표팀을 2:1로 격파하여, 프랑크푸르트는 대한민국 축구 국가대표팀이 FIFA 월드컵 도전 역사상 최초로 해외에서 첫 승리를 이룩한 도시로 남게 되었다.]]></sent>
+		<sbj label="NP_MOD" josa="의">
+			<sbj_text><![CDATA[안정환]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="은">
+			<obj_text><![CDATA[대한민국_축구_국가대표팀]]></obj_text>
+			<arg_type weight="0.98">Event</arg_type>
+			<arg_type weight="0.98">SocietalEvent</arg_type>
+			<arg_type weight="1.30">SportsEvent</arg_type>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="1.000">team</mln_predict>
+		<cnn_predict conf="0.595">team</cnn_predict>
+		<gsdp>(NP_MOD)--up--NP--up--NP_AJT--up--VP--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[슛--등에--힘입어]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

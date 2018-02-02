@@ -1,0 +1,21 @@
+<sentence_list>
+	<dependency>(NP)--up--NP--up--(NP_PRN)</dependency>
+	<total>1</total>
+	<sent_item id="M_D614">
+		<sent><![CDATA[《스트로베리_온_더_쇼트케이크》 (주연: 타키자와 히데아키, 후카다_쿄코)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[스트로베리_온_더_쇼트케이크]]></sbj_text>
+			<arg_type weight="1.17">Work</arg_type>
+		</sbj>
+		<obj label="NP_PRN" josa="">
+			<obj_text><![CDATA[후카다_쿄코]]></obj_text>
+			<arg_type weight="0.97">Agent</arg_type>
+		</obj>
+		<gold>starring</gold>
+		<mln_predict conf="0.931">starring</mln_predict>
+		<cnn_predict conf="0.992">starring</cnn_predict>
+		<gsdp>(NP)--up--NP--up--(NP_PRN)</gsdp>
+		<gsdp_lemma><![CDATA[(주연:]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

@@ -1,0 +1,22 @@
+<sentence_list>
+	<dependency>(VNP_MOD)--up--(NP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D838">
+		<sent><![CDATA[(현재윤, 김효남 (야구 선수), 손주인 (삼성 라이온즈→LG_트윈스) ↔ 김태완 (1981년), 정병곤, 노진용 (LG→삼성 라이온즈)다.]]></sent>
+		<sbj label="VNP_MOD" josa="">
+			<sbj_text><![CDATA[손주인]]></sbj_text>
+			<arg_type weight="0.40">Agent</arg_type>
+			<arg_type weight="0.57">Person</arg_type>
+			<arg_type weight="1.18">Athlete</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[LG_트윈스]]></obj_text>
+		</obj>
+		<gold>team</gold>
+		<mln_predict conf="0.597">team</mln_predict>
+		<cnn_predict conf="0.684">team</cnn_predict>
+		<gsdp>(VNP_MOD)--up--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

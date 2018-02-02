@@ -1,0 +1,301 @@
+<sentence_list>
+	<dependency>(NP)--down--(NP)</dependency>
+	<total>18</total>
+	<sent_item id="M_D2519">
+		<sent><![CDATA[목관악기: 피콜로, 플루트2, 오보에2, 잉글리시 호른, 클라리넷2, E플랫 클라리넷, 베이스 클라리넷, 테너 색소폰, 바순2, 콘트라바순]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[콘트라바순]]></sbj_text>
+			<arg_type weight="3.03">Device</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[바순]]></obj_text>
+			<arg_type weight="1.14">Device</arg_type>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.621">related</mln_predict>
+		<cnn_predict conf="0.351">related</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3217">
+		<sent><![CDATA[2002년 SBS 대하드라마 《야인시대》 ... 작두 이전 서대문 오야붕 역]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[야인시대]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[SBS]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.980">channel</mln_predict>
+		<cnn_predict conf="0.884">channel</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1453">
+		<sent><![CDATA[2016년 SBS_(대한민국의_방송사) SBS 드라마 스페셜 《푸른_바다의_전설》]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[푸른_바다의_전설]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[SBS_(대한민국의_방송사)]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.303">channel</mln_predict>
+		<cnn_predict conf="0.974">channel</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3315">
+		<sent><![CDATA[로버트 K. 크래프트는 미국의 기업인이자 스포츠 재벌로, 뉴잉글랜드 패트리어츠와 메이저_리그_사커의 뉴잉글랜드_레벌루션의 구단주이다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[뉴잉글랜드_레벌루션]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[메이저_리그_사커]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.291">league</mln_predict>
+		<cnn_predict conf="0.233">location</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D107">
+		<sent><![CDATA[2013. 9. 1 《해피선데이 - 1박_2일》 주원과 전화통화 목소리 출연]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[1박_2일]]></sbj_text>
+			<arg_type weight="0.09">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[해피선데이]]></obj_text>
+			<arg_type weight="2.62">Work</arg_type>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.173">channel</mln_predict>
+		<cnn_predict conf="0.804">starring</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2309">
+		<sent><![CDATA[1996년 서울방송 《8월의_신부》 ... 민 여사, 진경의 어머니 역]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[8월의_신부]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[서울방송]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.578">channel</mln_predict>
+		<cnn_predict conf="0.745">channel</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D88">
+		<sent><![CDATA[2010년 7월 11일 ~ 2016년 11월 13일- SBS TV 《일요일이_좋다 - 런닝맨》]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[런닝맨]]></sbj_text>
+			<arg_type weight="0.09">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[일요일이_좋다]]></obj_text>
+			<arg_type weight="2.62">Work</arg_type>
+		</obj>
+		<gold>related</gold>
+		<mln_predict conf="0.164">related</mln_predict>
+		<cnn_predict conf="0.761">channel</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1316">
+		<sent><![CDATA[2015년 Mnet 《더_러버》 ... 오도시 역]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[더_러버]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[Mnet]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.498">channel</mln_predict>
+		<cnn_predict conf="0.739">channel</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1551">
+		<sent><![CDATA[2002년 SBS 대하드라마 《야인시대》- 이기붕 역]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[야인시대]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[SBS]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.931">channel</mln_predict>
+		<cnn_predict conf="0.915">channel</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2106">
+		<sent><![CDATA[준우승 세리에_A: 2006,2007,2008 (AS_로마)]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[AS_로마]]></sbj_text>
+			<arg_type weight="0.05">Agent</arg_type>
+			<arg_type weight="0.60">Organisation</arg_type>
+			<arg_type weight="1.72">SportsTeam</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[세리에_A]]></obj_text>
+		</obj>
+		<gold>league</gold>
+		<mln_predict conf="0.727">league</mln_predict>
+		<cnn_predict conf="0.479">team</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1705">
+		<sent><![CDATA[타이틀곡인 "Fly"로 활동하면서 SBSTV 인기가요와 MBC_TV 《쇼!_음악중심》 컴백 무대에서 곧바로 1위를 기록하였으며 인터넷 차트에서도 몇 주 동안 상위권을 기록하였다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[쇼!_음악중심]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[MBC_TV]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.215">channel</mln_predict>
+		<cnn_predict conf="0.433">channel</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2595">
+		<sent><![CDATA[2017년 4월 22일 ~ 현재 MBC_TV 《쇼!_음악중심》 MC]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[쇼!_음악중심]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[MBC_TV]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.178">channel</mln_predict>
+		<cnn_predict conf="0.934">channel</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D1187">
+		<sent><![CDATA[2004년 The_WB 《잭_&_바비》의 파일럿 에피소드에 리즈 역으로 출연했고, 같은 해 《더 마운틴》에 라일리 역으로 출연했다.]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[잭_&_바비]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[The_WB]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.195">channel</mln_predict>
+		<cnn_predict conf="0.794">starring</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D320">
+		<sent><![CDATA[2016년 9월 20일 SBS_MTV 《더_쇼》- 웬디]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[더_쇼]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[SBS_MTV]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.218">channel</mln_predict>
+		<cnn_predict conf="0.544">channel</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3927">
+		<sent><![CDATA[2015년 6월 19일~ 9월 4일 - MBC_every1 《비밀병기_그녀》]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[비밀병기_그녀]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[MBC_every1]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.286">channel</mln_predict>
+		<cnn_predict conf="0.700">channel</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D3988">
+		<sent><![CDATA[2014. 04. 06./04.13./05.04. SBS 《일요일이 좋다 - 런닝맨》 - 192, 193, 194회]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[런닝맨]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[SBS]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.210">channel</mln_predict>
+		<cnn_predict conf="0.798">channel</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2900">
+		<sent><![CDATA[~ 2010년 SBS 《접속!_무비월드》 - 〈영화는 수다다〉 공동 MC]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[접속!_무비월드]]></sbj_text>
+			<arg_type weight="1.58">Work</arg_type>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[SBS]]></obj_text>
+		</obj>
+		<gold>channel</gold>
+		<mln_predict conf="0.252">channel</mln_predict>
+		<cnn_predict conf="0.833">channel</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+	<sent_item id="M_D2069">
+		<sent><![CDATA[12월 13일 - 오렌지_렌지 《MusiQ》]]></sent>
+		<sbj label="NP" josa="">
+			<sbj_text><![CDATA[MusiQ]]></sbj_text>
+		</sbj>
+		<obj label="NP" josa="">
+			<obj_text><![CDATA[오렌지_렌지]]></obj_text>
+			<arg_type weight="0.48">Agent</arg_type>
+			<arg_type weight="0.43">Organisation</arg_type>
+			<arg_type weight="2.38">Group</arg_type>
+		</obj>
+		<gold>artist</gold>
+		<mln_predict conf="0.296">artist</mln_predict>
+		<cnn_predict conf="0.829">artist</cnn_predict>
+		<gsdp>(NP)--down--(NP)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

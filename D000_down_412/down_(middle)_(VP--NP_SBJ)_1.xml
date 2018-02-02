@@ -1,0 +1,23 @@
+<sentence_list>
+	<dependency>(VP)--down--(NP_SBJ)</dependency>
+	<total>1</total>
+	<sent_item id="M_D243">
+		<sent><![CDATA[1333년 고다이고_천황이 호조 씨의 가마쿠라 막부 지배에 반발, 친위 쿠데타를 일으켰다(겐무_신정). 가마쿠라 막부는 이에 대한 역쿠데타로 아시카가 다케우지에게 쿠데타를 진압하라 했으나, 아시카가는 오히려 가마쿠라 막부를 멸망시켰다.]]></sent>
+		<sbj label="VP" josa="">
+			<sbj_text><![CDATA[겐무_신정]]></sbj_text>
+			<arg_type weight="0.37">Place</arg_type>
+			<arg_type weight="0.96">PopulatedPlace</arg_type>
+		</sbj>
+		<obj label="NP_SBJ" josa="이">
+			<obj_text><![CDATA[고다이고_천황]]></obj_text>
+			<arg_type weight="0.04">Agent</arg_type>
+			<arg_type weight="0.54">Person</arg_type>
+		</obj>
+		<gold>leaderName</gold>
+		<mln_predict conf="0.238">starring</mln_predict>
+		<cnn_predict conf="0.779">commander</cnn_predict>
+		<gsdp>(VP)--down--(NP_SBJ)</gsdp>
+		<gsdp_lemma><![CDATA[]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>

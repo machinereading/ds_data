@@ -1,0 +1,20 @@
+<sentence_list>
+	<dependency>(NP_SBJ)--up--VNP--down--(VNP)</dependency>
+	<total>1</total>
+	<sent_item id="M_D3725">
+		<sent><![CDATA[허비의 차남 허훈의 손자가 허자이고, 허목은 5대손이다.]]></sent>
+		<sbj label="NP_SBJ" josa="은">
+			<sbj_text><![CDATA[허목]]></sbj_text>
+			<arg_type weight="0.52">Agent</arg_type>
+		</sbj>
+		<obj label="VNP" josa="">
+			<obj_text><![CDATA[허자]]></obj_text>
+		</obj>
+		<gold>relative</gold>
+		<mln_predict conf="1.000">owner</mln_predict>
+		<cnn_predict conf="0.914">relative</cnn_predict>
+		<gsdp>(NP_SBJ)--up--VNP--down--(VNP)</gsdp>
+		<gsdp_lemma><![CDATA[5대손이다.]]></gsdp_lemma>
+		<comment></comment>
+	</sent_item>
+</sentence_list>
