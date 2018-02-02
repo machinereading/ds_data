@@ -35,7 +35,7 @@
 		<cnn_predict conf="0.317">location</cnn_predict>
 		<gsdp>(NP_MOD)--up--VNP--down--NP_SBJ--down--VP_MOD--down--NP_AJT--down--NP--down--NP--down--(NP)</gsdp>
 		<gsdp_lemma><![CDATA[철도역이다.--여객철도--있는--구에--시--삿포로]]></gsdp_lemma>
-		<comment></comment>
+		<comment>이 문장 자체는 routeStart보다는 loation이 적합하다. DS Data로 인해 잘못 학습된 케이스로 볼 수 있을 것 같다.</comment>
 	</sent_item>
 	<sent_item id="M_D2319">
 		<sent><![CDATA[혼이시쿠라 역은 일본 홋카이도 가야베 군 모리 정에 있는 홋카이도 여객철도 하코다테_본선의 철도역이다.]]></sent>
